@@ -9,7 +9,6 @@ builder).
 
 import frappe
 from frappe.utils import get_url
-from frappe.utils.caching import redis_cache
 
 
 @frappe.whitelist(allow_guest=True)
@@ -20,7 +19,7 @@ def get_catalog() -> list[dict]:
 	return _get_catalog(get_url())
 
 
-@redis_cache(ttl=3600)
+# @redis_cache(ttl=3600)
 def _get_catalog(base_url: str) -> list[dict]:
 	from builder.template_sync import get_all_group_manifests
 
@@ -73,7 +72,7 @@ def get_template_bundle(page: str) -> dict:
 	return _get_template_bundle(page, get_url())
 
 
-@redis_cache(ttl=3600)
+# @redis_cache(ttl=3600)
 def _get_template_bundle(page: str, base_url: str) -> dict:
 	from builder.export_import_standard_page import extract_fonts_from_blocks
 	from builder.utils import extract_components_from_blocks

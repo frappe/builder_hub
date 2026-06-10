@@ -1,0 +1,13 @@
+{
+ "creation": "2026-06-09 21:00:25.733461",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-06-09 21:00:25.733461",
+ "modified_by": "Administrator",
+ "name": "builder_theme_toggle_css",
+ "owner": "Administrator",
+ "public_url": "/files/page_styles/builder_theme_toggle_css-e47f106fd0.css?v=6353331e73",
+ "script": "\n[data-theme-toggle]{cursor:pointer;transition:background-color .15s ease-out;}\n[data-theme-toggle] .ti-sun{display:none;}\n[data-theme-toggle] .ti-moon{display:inline-flex;}\n:root[data-theme=\"dark\"] [data-theme-toggle] .ti-sun{display:inline-flex;}\n:root[data-theme=\"dark\"] [data-theme-toggle] .ti-moon{display:none;}\n",
+ "script_type": "CSS"
+}

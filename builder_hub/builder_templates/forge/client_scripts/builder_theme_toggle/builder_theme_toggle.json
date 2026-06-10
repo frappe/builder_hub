@@ -1,0 +1,13 @@
+{
+ "creation": "2026-06-09 21:18:45.682876",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-06-09 21:18:45.682876",
+ "modified_by": "Administrator",
+ "name": "builder_theme_toggle",
+ "owner": "Administrator",
+ "public_url": "/files/page_scripts/builder_theme_toggle-7cf2efc44c.js?v=3f617ae448",
+ "script": "\n(() => {\n    const root = document.documentElement, KEY = \"builder-theme\";\n    const system = () => window.matchMedia(\"(prefers-color-scheme: dark)\").matches ? \"dark\" : \"light\";\n    root.setAttribute(\"data-theme\", localStorage.getItem(KEY) || system());\n    document.addEventListener(\"click\", (e) => {\n        const t = e.target.closest(\"[data-theme-toggle]\");\n        if (!t) return;\n        const next = root.getAttribute(\"data-theme\") === \"dark\" ? \"light\" : \"dark\";\n        root.setAttribute(\"data-theme\", next);\n        localStorage.setItem(KEY, next);\n    });\n})();\n",
+ "script_type": "JavaScript"
+}
