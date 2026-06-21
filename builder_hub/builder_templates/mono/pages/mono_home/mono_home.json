@@ -27,21 +27,25 @@
        "attributes": {},
        "baseStyles": {},
        "blockId": "f2a6ec9148",
+       "blockName": "Header Container",
        "children": [
         {
          "attributes": {},
          "baseStyles": {},
          "blockId": "b8702bf080",
+         "blockName": "Header Row",
          "children": [
           {
            "attributes": {},
            "baseStyles": {},
            "blockId": "c0fe91ea51",
+           "blockName": "Brand",
            "children": [
             {
              "attributes": {},
              "baseStyles": {},
              "blockId": "5ecf86dc3e",
+             "blockName": "Wordmark",
              "children": [],
              "classes": [],
              "customAttributes": {},
@@ -55,6 +59,7 @@
              "attributes": {},
              "baseStyles": {},
              "blockId": "5b9bb9dd0e",
+             "blockName": "Brand Dot",
              "children": [],
              "classes": [],
              "customAttributes": {},
@@ -77,11 +82,13 @@
            "attributes": {},
            "baseStyles": {},
            "blockId": "af6af295ca",
+           "blockName": "Primary Nav",
            "children": [
             {
              "attributes": {},
              "baseStyles": {},
              "blockId": "ce9a41ed87",
+             "blockName": "Nav · Work",
              "children": [],
              "classes": [],
              "customAttributes": {},
@@ -95,6 +102,7 @@
              "attributes": {},
              "baseStyles": {},
              "blockId": "ca6b2e6762",
+             "blockName": "Nav · About",
              "children": [],
              "classes": [],
              "customAttributes": {},
@@ -108,6 +116,7 @@
              "attributes": {},
              "baseStyles": {},
              "blockId": "f08b0d5891",
+             "blockName": "Nav · Contact",
              "children": [],
              "classes": [],
              "customAttributes": {},
@@ -130,21 +139,25 @@
            "attributes": {},
            "baseStyles": {},
            "blockId": "79702ece80",
+           "blockName": "Nav Actions",
            "children": [
             {
              "attributes": {},
              "baseStyles": {},
              "blockId": "0657644aa9",
+             "blockName": "Theme Toggle",
              "children": [
               {
                "attributes": {},
                "baseStyles": {},
                "blockId": "ec2c1cebf4",
+               "blockName": "Theme · Sun",
                "children": [],
                "classes": [],
                "customAttributes": {},
                "isChildOfComponent": "mono_navbar",
                "mobileStyles": {},
+               "originalElement": "__raw_html__",
                "rawStyles": {},
                "referenceBlockId": "80e96ccf2c",
                "tabletStyles": {}
@@ -153,11 +166,13 @@
                "attributes": {},
                "baseStyles": {},
                "blockId": "4574d65e90",
+               "blockName": "Theme · Moon",
                "children": [],
                "classes": [],
                "customAttributes": {},
                "isChildOfComponent": "mono_navbar",
                "mobileStyles": {},
+               "originalElement": "__raw_html__",
                "rawStyles": {},
                "referenceBlockId": "7dc38b395c",
                "tabletStyles": {}
@@ -175,6 +190,7 @@
              "attributes": {},
              "baseStyles": {},
              "blockId": "8f4dc8aa91",
+             "blockName": "Nav CTA",
              "children": [],
              "classes": [],
              "customAttributes": {},
@@ -395,7 +411,7 @@
              "classes": [],
              "customAttributes": {},
              "element": "p",
-             "innerHTML": "Mono is an independent design studio. We turn fuzzy ideas into sharp identities, interfaces, and films — in weeks, not quarters.",
+             "innerHTML": "Mono is an independent design studio. We turn fuzzy ideas into sharp identities, interfaces, and films - in weeks, not quarters.",
              "mobileStyles": {},
              "rawStyles": {},
              "tabletStyles": {}
@@ -642,7 +658,7 @@
              "classes": [],
              "customAttributes": {},
              "element": "span",
-             "innerHTML": "2023 — 2026",
+             "innerHTML": "2023 - 2026",
              "mobileStyles": {},
              "rawStyles": {},
              "tabletStyles": {}
@@ -688,7 +704,7 @@
              "children": [
               {
                "attributes": {
-                "alt": "Nova — personal banking, unboxed",
+                "alt": "Nova - personal banking, unboxed",
                 "src": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=1200"
                },
                "baseStyles": {
@@ -756,7 +772,7 @@
                    "classes": [],
                    "customAttributes": {},
                    "element": "h3",
-                   "innerHTML": "Nova — personal banking, unboxed",
+                   "innerHTML": "Nova - personal banking, unboxed",
                    "mobileStyles": {},
                    "rawStyles": {},
                    "tabletStyles": {}
@@ -851,7 +867,7 @@
              "children": [
               {
                "attributes": {
-                "alt": "Halide — a calmer camera",
+                "alt": "Halide - a calmer camera",
                 "src": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?auto=format&fit=crop&q=80&w=1200"
                },
                "baseStyles": {
@@ -919,7 +935,7 @@
                    "classes": [],
                    "customAttributes": {},
                    "element": "h3",
-                   "innerHTML": "Halide — a calmer camera",
+                   "innerHTML": "Halide - a calmer camera",
                    "mobileStyles": {},
                    "rawStyles": {},
                    "tabletStyles": {}
@@ -1014,7 +1030,7 @@
              "children": [
               {
                "attributes": {
-                "alt": "Field Notes — print, revived",
+                "alt": "Field Notes - print, revived",
                 "src": "https://images.unsplash.com/photo-1550859492-d5da9d8e45f3?auto=format&fit=crop&q=80&w=1200"
                },
                "baseStyles": {
@@ -1082,7 +1098,7 @@
                    "classes": [],
                    "customAttributes": {},
                    "element": "h3",
-                   "innerHTML": "Field Notes — print, revived",
+                   "innerHTML": "Field Notes - print, revived",
                    "mobileStyles": {},
                    "rawStyles": {},
                    "tabletStyles": {}
@@ -1177,7 +1193,7 @@
              "children": [
               {
                "attributes": {
-                "alt": "Pluto — devtools with taste",
+                "alt": "Pluto - devtools with taste",
                 "src": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?auto=format&fit=crop&q=80&w=1200"
                },
                "baseStyles": {
@@ -1245,7 +1261,7 @@
                    "classes": [],
                    "customAttributes": {},
                    "element": "h3",
-                   "innerHTML": "Pluto — devtools with taste",
+                   "innerHTML": "Pluto - devtools with taste",
                    "mobileStyles": {},
                    "rawStyles": {},
                    "tabletStyles": {}
@@ -2186,7 +2202,7 @@
            "classes": [],
            "customAttributes": {},
            "element": "p",
-           "innerHTML": "Lena Ortiz — CEO, Nova",
+           "innerHTML": "Lena Ortiz - CEO, Nova",
            "mobileStyles": {},
            "rawStyles": {},
            "tabletStyles": {}
@@ -2225,16 +2241,19 @@
        "attributes": {},
        "baseStyles": {},
        "blockId": "40795dc245",
+       "blockName": "Footer Container",
        "children": [
         {
          "attributes": {},
          "baseStyles": {},
          "blockId": "827765462c",
+         "blockName": "Footer CTA",
          "children": [
           {
            "attributes": {},
            "baseStyles": {},
            "blockId": "6d734b4e1a",
+           "blockName": "Footer Label",
            "children": [],
            "classes": [],
            "customAttributes": {},
@@ -2248,6 +2267,7 @@
            "attributes": {},
            "baseStyles": {},
            "blockId": "ed173bb492",
+           "blockName": "Footer Headline",
            "children": [],
            "classes": [],
            "customAttributes": {},
@@ -2261,11 +2281,13 @@
            "attributes": {},
            "baseStyles": {},
            "blockId": "3ed0506049",
+           "blockName": "Footer Actions",
            "children": [
             {
              "attributes": {},
              "baseStyles": {},
              "blockId": "e585ef524d",
+             "blockName": "Footer Email",
              "children": [],
              "classes": [],
              "customAttributes": {},
@@ -2279,6 +2301,7 @@
              "attributes": {},
              "baseStyles": {},
              "blockId": "92755c8ee8",
+             "blockName": "Footer Call",
              "children": [],
              "classes": [],
              "customAttributes": {},
@@ -2310,11 +2333,13 @@
          "attributes": {},
          "baseStyles": {},
          "blockId": "8cd0516dc3",
+         "blockName": "Footer Bottom",
          "children": [
           {
            "attributes": {},
            "baseStyles": {},
            "blockId": "ec613acd65",
+           "blockName": "Copyright",
            "children": [],
            "classes": [],
            "customAttributes": {},
@@ -2328,11 +2353,13 @@
            "attributes": {},
            "baseStyles": {},
            "blockId": "ba95f8b93f",
+           "blockName": "Footer Socials",
            "children": [
             {
              "attributes": {},
              "baseStyles": {},
              "blockId": "033b1abf7e",
+             "blockName": "Social · Dribbble",
              "children": [],
              "classes": [],
              "customAttributes": {},
@@ -2346,6 +2373,7 @@
              "attributes": {},
              "baseStyles": {},
              "blockId": "0d4fd79c02",
+             "blockName": "Social · Instagram",
              "children": [],
              "classes": [],
              "customAttributes": {},
@@ -2359,6 +2387,7 @@
              "attributes": {},
              "baseStyles": {},
              "blockId": "b1c44436ac",
+             "blockName": "Social · LinkedIn",
              "children": [],
              "classes": [],
              "customAttributes": {},
@@ -2372,6 +2401,7 @@
              "attributes": {},
              "baseStyles": {},
              "blockId": "49406d698e",
+             "blockName": "Social · X",
              "children": [],
              "classes": [],
              "customAttributes": {},
@@ -2394,6 +2424,7 @@
            "attributes": {},
            "baseStyles": {},
            "blockId": "365096d95b",
+           "blockName": "Footer Note",
            "children": [],
            "classes": [],
            "customAttributes": {},
@@ -2457,7 +2488,7 @@
  "is_standard": 0,
  "is_template": 1,
  "meta_description": "Mono is an independent design studio for brand, product and motion.",
- "modified": "2026-06-07 23:31:01.698425",
+ "modified": "2026-06-21 09:35:27.499214",
  "modified_by": "Administrator",
  "name": "mono_home",
  "owner": "Administrator",

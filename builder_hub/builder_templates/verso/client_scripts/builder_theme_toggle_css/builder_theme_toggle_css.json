@@ -1,13 +1,13 @@
 {
- "creation": "2026-06-07 23:31:10.862108",
+ "creation": "2026-06-09 21:18:45.659832",
  "docstatus": 0,
  "doctype": "Builder Client Script",
  "idx": 0,
- "modified": "2026-06-07 23:31:10.862108",
+ "modified": "2026-06-09 21:18:45.659832",
  "modified_by": "Administrator",
  "name": "builder_theme_toggle_css",
  "owner": "Administrator",
- "public_url": "/files/page_styles/builder_theme_toggle_css-4eb44feec6.css?v=b08c16ecf5",
+ "public_url": "/files/page_styles/builder_theme_toggle_css-23dce1142b.css?v=d6b0cb72c8",
  "script": "\n[data-theme-toggle]{cursor:pointer;transition:background-color .15s ease-out;}\n[data-theme-toggle] .ti-sun{display:none;}\n[data-theme-toggle] .ti-moon{display:inline-flex;}\n:root[data-theme=\"dark\"] [data-theme-toggle] .ti-sun{display:inline-flex;}\n:root[data-theme=\"dark\"] [data-theme-toggle] .ti-moon{display:none;}\n",
  "script_type": "CSS"
 }

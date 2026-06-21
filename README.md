@@ -2,7 +2,7 @@
 
 A centralized hub of [Frappe Builder](https://github.com/frappe/builder) page templates
 (and, in future, plugins and components). Builder sites fetch the catalog and per-page
-bundles from a Builder Hub site over HTTP, so templates get their own release cycle —
+bundles from a Builder Hub site over HTTP, so templates get their own release cycle -
 users always get the latest without upgrading the builder app.
 
 Each template is a real Builder Page (`is_template = 1`) grouped under a `template_group`,
@@ -18,28 +18,18 @@ across its pages, with a built-in light/dark toggle.
 
 An earthy multi-page starter for boutique brands.
 
-![Fronds — Landing](builder_hub/www/builder_assets/fronds/fronds_landing/preview.webp)
+![Fronds - Landing](builder_hub/www/builder_assets/fronds/fronds_landing/preview.webp)
 
 **Pages:** Landing · About · Contact
 
 ---
 
-### Relay
-
-A crisp SaaS starter — feature grids, plan cards, and FAQs.
-
-![Relay — Landing](builder_hub/www/builder_assets/relay/relay_landing/preview.webp)
-
-**Pages:** Landing · Pricing · About · Contact
-
----
-
 ### Atelier
 
-A bold studio site for agencies and freelancers — oversized type, a geometric inline-SVG
+A bold studio site for agencies and freelancers: oversized type, a geometric inline-SVG
 hero, a services index, a selected-work grid, and a built-in contact form.
 
-![Atelier — Home](builder_hub/www/builder_assets/atelier/atelier_home/preview.webp)
+![Atelier - Home](builder_hub/www/builder_assets/atelier/atelier_home/preview.webp)
 
 **Pages:** Home · Work · Contact
 
@@ -49,7 +39,7 @@ hero, a services index, a selected-work grid, and a built-in contact form.
 
 A dark, bold-type portfolio for studios and freelancers.
 
-![Mono — Home](builder_hub/www/builder_assets/mono/mono_home/preview.webp)
+![Mono - Home](builder_hub/www/builder_assets/mono/mono_home/preview.webp)
 
 **Pages:** Home · Project (case study) · About · Contact
 
@@ -57,10 +47,10 @@ A dark, bold-type portfolio for studios and freelancers.
 
 ### Verso
 
-An ultra-minimal personal site — a fixed left sidebar, typographic lists instead of cards,
+An ultra-minimal personal site: a fixed left sidebar, typographic lists instead of cards,
 and a near-monochrome palette.
 
-![Verso — Home](builder_hub/www/builder_assets/verso/verso_home/preview.webp)
+![Verso - Home](builder_hub/www/builder_assets/verso/verso_home/preview.webp)
 
 **Pages:** Home · Work · Writing · About
 
@@ -68,9 +58,9 @@ and a near-monochrome palette.
 
 ### Husk
 
-An ultra-minimal, warm-toned personal site — a centered single column with a slim nav.
+An ultra-minimal, warm-toned personal site with a centered single column and a slim nav.
 
-![Husk — Home](builder_hub/www/builder_assets/husk/husk_home/preview.webp)
+![Husk - Home](builder_hub/www/builder_assets/husk/husk_home/preview.webp)
 
 **Pages:** Home · Work · About
 
@@ -78,10 +68,10 @@ An ultra-minimal, warm-toned personal site — a centered single column with a s
 
 ### Quill
 
-A clean editorial template for blogs and publications — a featured story, a typographic
+A clean editorial template for blogs and publications: a featured story, a typographic
 article index, and a full reading layout with pull-quotes and an author note.
 
-![Quill — Home](builder_hub/www/builder_assets/quill/quill_home/preview.webp)
+![Quill - Home](builder_hub/www/builder_assets/quill/quill_home/preview.webp)
 
 **Pages:** Home · Article · About
 
@@ -89,25 +79,37 @@ article index, and a full reading layout with pull-quotes and an author note.
 
 ### Commit
 
-A vivid conference starter — animated hero with a live countdown, speaker grid, two-day
-schedule, and ticket tiers. Ships with scroll-reveal and marquee client scripts.
+A vivid conference starter with an animated hero and live countdown, a speaker grid, a
+two-day schedule, and ticket tiers. Ships with scroll-reveal and marquee client scripts.
 
-![Commit — Home](builder_hub/www/builder_assets/commit/commit_home/preview.webp)
+![Commit - Home](builder_hub/www/builder_assets/commit/commit_home/preview.webp)
 
 **Pages:** Home · Speakers · Schedule · Tickets
 
+---
+
+### Forge
+
+An icon-rich SaaS / devtools starter with a teal palette and Space Grotesk type: a stat
+strip, a nine-feature grid, a sixteen-integration wall, spotlights, an eighteen-item
+capability checklist, plans, and FAQ cards.
+
+![Forge - Home](builder_hub/www/builder_assets/forge/forge_home/preview.webp)
+
+**Pages:** Home · Features · Pricing
+
 ## How it works
 
-- **`builder_hub.api.get_catalog()`** (guest) — returns the template groups + their pages
+- **`builder_hub.api.get_catalog()`** (guest) - returns the template groups + their pages
   with absolute preview and `live_url`s, for any builder site's template picker.
-- **`builder_hub.api.get_template_bundle(page)`** (guest) — returns one template page plus
+- **`builder_hub.api.get_template_bundle(page)`** (guest) - returns one template page plus
   its shared components, variables, client scripts and fonts as import-ready dicts.
 - A builder site points at the hub via `template_hub_url` in its site config (or
   `common_site_config.json` bench-wide), fetches the catalog, and materializes a page from
   the bundle on demand. The "Preview" action opens the hub's published page in a new tab.
 
 Template content lives in this app; the import/export machinery lives in `builder`
-(`builder.template_sync`), which this app reuses — `builder_hub` depends on `builder`.
+(`builder.template_sync`), which this app reuses - `builder_hub` depends on `builder`.
 
 ## Installation
 
