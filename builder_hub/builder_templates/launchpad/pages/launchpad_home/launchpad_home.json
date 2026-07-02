@@ -1083,7 +1083,7 @@
           {
            "baseStyles": {
             "backgroundImage": "var(--t-grad,linear-gradient(120deg,#6366F1 0%,#A855F7 100%))",
-            "borderRadius": "18px",
+            "borderRadius": "14px",
             "boxShadow": "var(--t-shadow)",
             "boxSizing": "border-box",
             "display": "flex",
@@ -1134,7 +1134,7 @@
              "blockId": "l00070",
              "blockName": "STs",
              "element": "p",
-             "innerHTML": "Reliable hosting on your own domain, included."
+             "innerHTML": "<p>Reliable hosting on your own domain, included.</p>"
             }
            ],
            "element": "div"
@@ -2775,18 +2775,25 @@
    "element": "body"
   }
  ],
- "client_scripts": [],
+ "client_scripts": [
+  {
+   "builder_script": "launchpad_styles"
+  },
+  {
+   "builder_script": "launchpad_theme"
+  }
+ ],
  "creation": "2026-07-02 16:03:03.359686",
  "disable_indexing": 0,
  "docstatus": 0,
  "doctype": "Builder Page",
  "draft_blocks": null,
  "dynamic_route": 0,
- "head_html": "<style>\n:root{--t-bg:#ffffff;--t-fg:#0B0B12;--t-muted:#5A5B6A;--t-card:#F7F7FB;--t-border:#EAEAF2;--t-accent:#6366F1;--t-accent2:#A855F7;--t-grad:linear-gradient(120deg,#6366F1 0%,#A855F7 100%);--t-glow:radial-gradient(60% 60% at 50% 0%, rgba(99,102,241,.18) 0%, rgba(168,85,247,.10) 40%, rgba(255,255,255,0) 72%);--t-nav:rgba(255,255,255,.72);--t-shadow:0 30px 80px -30px rgba(30,20,80,.28)}\nhtml[data-theme=\"dark\"]{--t-bg:#07070C;--t-fg:#F4F4FA;--t-muted:#9B9CAF;--t-card:#101019;--t-border:#20212E;--t-accent:#818CF8;--t-accent2:#C084FC;--t-grad:linear-gradient(120deg,#818CF8 0%,#C084FC 100%);--t-glow:radial-gradient(60% 60% at 50% 0%, rgba(129,140,248,.22) 0%, rgba(192,132,252,.12) 40%, rgba(7,7,12,0) 72%);--t-nav:rgba(12,12,18,.72);--t-shadow:0 30px 80px -30px rgba(0,0,0,.7)}\n*{-webkit-font-smoothing:antialiased}body{background:var(--t-bg);margin:0}\na{text-decoration:none}\nsummary{list-style:none}summary::-webkit-details-marker{display:none}\n.faq-plus{transition:transform .2s ease}details[open] .faq-plus{transform:rotate(45deg)}\n@media(max-width:768px){.bx-nav-links{display:none!important}}\n</style>\n<script>(function(){var MOON='<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z\"/></svg>';var SUN='<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v2\"/><path d=\"M12 20v2\"/><path d=\"m4.93 4.93 1.41 1.41\"/><path d=\"m17.66 17.66 1.41 1.41\"/><path d=\"M2 12h2\"/><path d=\"M20 12h2\"/><path d=\"m6.34 17.66-1.41 1.41\"/><path d=\"m19.07 4.93-1.41 1.41\"/></svg>';function syncIcon(t){var b=document.querySelector('[data-theme-toggle]');if(b)b.innerHTML=(t==='dark'?SUN:MOON);}function cur(){return document.documentElement.getAttribute('data-theme');}function set(t){document.documentElement.setAttribute('data-theme',t);try{localStorage.setItem('site-theme',t)}catch(e){}syncIcon(t);}var s=null;try{s=localStorage.getItem('site-theme')}catch(e){}set(s||'light');document.addEventListener('DOMContentLoaded',function(){syncIcon(cur());});document.addEventListener('click',function(e){var el=e.target.closest('[data-theme-toggle]');if(el){e.preventDefault();set(cur()==='dark'?'light':'dark')}});})();</script>",
+ "head_html": "",
  "idx": 0,
  "is_standard": 0,
  "is_template": 1,
- "modified": "2026-07-02 16:25:44.361458",
+ "modified": "2026-07-02 17:19:12.969604",
  "modified_by": "Administrator",
  "name": "launchpad_home",
  "owner": "Administrator",

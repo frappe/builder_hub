@@ -1,0 +1,13 @@
+{
+ "creation": "2026-07-02 17:19:12.905553",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-07-02 17:19:12.905553",
+ "modified_by": "Administrator",
+ "name": "launchpad_styles",
+ "owner": "Administrator",
+ "public_url": "/files/page_styles/launchpad_styles-3908a38456.css?v=4805a4cdbe",
+ "script": ":root{--t-bg:#ffffff;--t-fg:#0B0B12;--t-muted:#5A5B6A;--t-card:#F7F7FB;--t-border:#EAEAF2;--t-accent:#6366F1;--t-accent2:#A855F7;--t-grad:linear-gradient(120deg,#6366F1 0%,#A855F7 100%);--t-glow:radial-gradient(60% 60% at 50% 0%, rgba(99,102,241,.18) 0%, rgba(168,85,247,.10) 40%, rgba(255,255,255,0) 72%);--t-nav:rgba(255,255,255,.72);--t-shadow:0 30px 80px -30px rgba(30,20,80,.28)}\nhtml[data-theme=\"dark\"]{--t-bg:#07070C;--t-fg:#F4F4FA;--t-muted:#9B9CAF;--t-card:#101019;--t-border:#20212E;--t-accent:#818CF8;--t-accent2:#C084FC;--t-grad:linear-gradient(120deg,#818CF8 0%,#C084FC 100%);--t-glow:radial-gradient(60% 60% at 50% 0%, rgba(129,140,248,.22) 0%, rgba(192,132,252,.12) 40%, rgba(7,7,12,0) 72%);--t-nav:rgba(12,12,18,.72);--t-shadow:0 30px 80px -30px rgba(0,0,0,.7)}\n*{-webkit-font-smoothing:antialiased}body{background:var(--t-bg);margin:0}\na{text-decoration:none}\nsummary{list-style:none}summary::-webkit-details-marker{display:none}\n.faq-plus{transition:transform .2s ease}details[open] .faq-plus{transform:rotate(45deg)}\n@media(max-width:768px){.bx-nav-links{display:none!important}}",
+ "script_type": "CSS"
+}
