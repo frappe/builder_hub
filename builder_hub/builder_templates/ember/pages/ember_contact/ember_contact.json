@@ -1,0 +1,1960 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a01, #141110)",
+    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Figtree",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "b8baca8e7c",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "961ab0bedc",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "ed48ff4efd",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "6feff8b1ff",
+         "blockName": "Nav Left",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "47d1aaf089",
+           "blockName": "Nav Menu",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "7293946bac",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "d849f1ff16",
+           "blockName": "Nav About",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9a6f4df14a",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "25e4628aeb",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "90af37108e",
+         "blockName": "Brand",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "0a0e74a9cb",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "6bb1115ab0",
+         "blockName": "Nav Right",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "b11e12f091",
+           "blockName": "Nav Contact",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "8c3d1ce666",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a1202ea9d9",
+           "blockName": "Nav Reserve",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "f35940e634",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "a8b8e45708",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "bd963d7906",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "ember_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "120px 0px 128px 0px",
+      "width": "100%"
+     },
+     "blockId": "ed01272f43",
+     "blockName": "Contact Header",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "stretch",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "72px",
+        "maxWidth": "1280px",
+        "padding": "0px 64px",
+        "width": "100%"
+       },
+       "blockId": "02eb964f5f",
+       "blockName": "Contact Split",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "26px",
+          "justifyContent": "center",
+          "minWidth": "0px"
+         },
+         "blockId": "47baab572d",
+         "blockName": "Contact Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "14px",
+            "width": "fit-content"
+           },
+           "blockId": "63c651f52a",
+           "blockName": "Eyebrow",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "flexShrink": 0,
+              "height": "1px",
+              "width": "36px"
+             },
+             "blockId": "674f4363b5",
+             "blockName": "Eyebrow Rule",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "fontFamily": "Figtree",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "b0598d20fb",
+             "blockName": "Eyebrow Text",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Reservations",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+            "fontFamily": "Fraunces",
+            "fontSize": "68px",
+            "fontWeight": "380",
+            "height": "fit-content",
+            "letterSpacing": "-0.025em",
+            "lineHeight": "1.02",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "5725452a22",
+           "blockName": "Contact Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Follow the <i>smoke.</i>",
+           "mobileStyles": {
+            "fontSize": "38px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {
+            "fontSize": "52px"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "fontFamily": "Figtree",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "maxWidth": "460px",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "bed70e4dd9",
+           "blockName": "Contact Sub",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Tables are released four weeks ahead, on the first of the month at nine sharp. Email is quickest. For tonight, call and ask about the counter.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "18px",
+            "marginTop": "6px",
+            "width": "fit-content"
+           },
+           "blockId": "8bbe59809e",
+           "blockName": "Contact CTA Row",
+           "children": [
+            {
+             "attributes": {
+              "href": "mailto:tables@ember.kitchen"
+             },
+             "baseStyles": {
+              "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "borderRadius": "999px",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "color": "#16100C",
+              "flexShrink": 0,
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "padding": "16px 28px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "7ba62ed330",
+             "blockName": "Contact Reserve",
+             "children": [],
+             "classes": [
+              "em-btn"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "Email for a table",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexBasis": "auto"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a02, #201B18)",
+          "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+          "borderRadius": "16px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "6px",
+          "minWidth": "0px",
+          "padding": "38px 40px"
+         },
+         "blockId": "feba866240",
+         "blockName": "Hours Card",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "fontFamily": "Figtree",
+            "fontSize": "11px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "marginBottom": "12px",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "e4f7873ad9",
+           "blockName": "Hours Card Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Service",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+            "borderStyle": "solid",
+            "borderWidth": "0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "16px",
+            "justifyContent": "space-between",
+            "padding": "14px 0px",
+            "width": "100%"
+           },
+           "blockId": "18ddaee593",
+           "blockName": "Hours Row 1",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "b1eeb2c316",
+             "blockName": "Hours Day 1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Wednesday",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontStyle": "normal",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "11f338c450",
+             "blockName": "Hours Time 1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "6 pm to 11 pm",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "16px",
+            "justifyContent": "space-between",
+            "padding": "14px 0px",
+            "width": "100%"
+           },
+           "blockId": "a24707f0eb",
+           "blockName": "Hours Row 2",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "0347859caa",
+             "blockName": "Hours Day 2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Thursday",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontStyle": "normal",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "5f8a16a719",
+             "blockName": "Hours Time 2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "6 pm to 11 pm",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "16px",
+            "justifyContent": "space-between",
+            "padding": "14px 0px",
+            "width": "100%"
+           },
+           "blockId": "abc4a8d6fa",
+           "blockName": "Hours Row 3",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "b57921fd5f",
+             "blockName": "Hours Day 3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Friday",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontStyle": "normal",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "e4dae1f2e0",
+             "blockName": "Hours Time 3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "6 pm to 11 pm",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "16px",
+            "justifyContent": "space-between",
+            "padding": "14px 0px",
+            "width": "100%"
+           },
+           "blockId": "aa04f24655",
+           "blockName": "Hours Row 4",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "5a2e386202",
+             "blockName": "Hours Day 4",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Saturday",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontStyle": "normal",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "225821b7a9",
+             "blockName": "Hours Time 4",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "5 pm to 11 pm",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "16px",
+            "justifyContent": "space-between",
+            "padding": "14px 0px",
+            "width": "100%"
+           },
+           "blockId": "b55d5a6c07",
+           "blockName": "Hours Row 5",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "5a2d5d7318",
+             "blockName": "Hours Day 5",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Sunday",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontStyle": "normal",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "c6836a08ad",
+             "blockName": "Hours Time 5",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "1 pm to 8 pm",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "16px",
+            "justifyContent": "space-between",
+            "padding": "14px 0px",
+            "width": "100%"
+           },
+           "blockId": "cd221afcfa",
+           "blockName": "Hours Row 6",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "32bcb2f0b0",
+             "blockName": "Hours Day 6",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Monday and Tuesday",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "fontFamily": "Fraunces",
+              "fontSize": "14.5px",
+              "fontStyle": "italic",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "62a85702da",
+             "blockName": "Hours Time 6",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "the fire rests",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "fontFamily": "Figtree",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "marginTop": "16px",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "d52fe76bca",
+           "blockName": "Hours Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "We hold tables for ten minutes, then feed the walk-in list. Ring us if the trains are against you.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "6px",
+            "marginTop": "14px"
+           },
+           "blockId": "4810533509",
+           "blockName": "Hours Links",
+           "children": [
+            {
+             "attributes": {
+              "href": "mailto:tables@ember.kitchen"
+             },
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "lineHeight": "1.6",
+              "minWidth": "10px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "3a80114d7a",
+             "blockName": "Hours Email",
+             "children": [],
+             "classes": [
+              "em-ul"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "tables@ember.kitchen",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {
+              "href": "tel:+442079460180"
+             },
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "lineHeight": "1.6",
+              "minWidth": "10px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "72a75bcb81",
+             "blockName": "Hours Phone",
+             "children": [],
+             "classes": [
+              "em-ul"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "020 7946 0180",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-rise",
+          "em-d2"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "padding": "26px 22px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexBasis": "auto"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "gap": "28px",
+        "padding": "0px 22px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "flexDirection": "column",
+        "gap": "40px",
+        "padding": "0px 40px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "72px 0px 72px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+      "borderStyle": "solid",
+      "borderWidth": "1px 0px 0px 0px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "120px 0px",
+      "width": "100%"
+     },
+     "blockId": "d962dcac39",
+     "blockName": "Find Us",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "72px",
+        "maxWidth": "1280px",
+        "padding": "0px 64px",
+        "width": "100%"
+       },
+       "blockId": "cbe28e3564",
+       "blockName": "Find Split",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderRadius": "16px",
+          "display": "flex",
+          "flexBasis": "52%",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "overflow": "hidden"
+         },
+         "blockId": "c414a862fa",
+         "blockName": "Find Photo Pane",
+         "children": [
+          {
+           "attributes": {
+            "alt": "The warm glow of the room from the street",
+            "src": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&q=80&w=1400"
+           },
+           "baseStyles": {
+            "aspectRatio": "16 / 10",
+            "display": "block",
+            "flexShrink": 0,
+            "objectFit": "cover",
+            "width": "100%"
+           },
+           "blockId": "9d93e70992",
+           "blockName": "Find Photo",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "img",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-rise",
+          "em-zoom"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "20px",
+          "justifyContent": "center",
+          "minWidth": "0px"
+         },
+         "blockId": "88a6303901",
+         "blockName": "Find Copy",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "14px",
+            "width": "fit-content"
+           },
+           "blockId": "42193d57ee",
+           "blockName": "Eyebrow",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "flexShrink": 0,
+              "height": "1px",
+              "width": "36px"
+             },
+             "blockId": "fd256af492",
+             "blockName": "Eyebrow Rule",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "fontFamily": "Figtree",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "11be815bcf",
+             "blockName": "Eyebrow Text",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Find us",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+            "fontFamily": "Fraunces",
+            "fontSize": "36px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "-0.015em",
+            "lineHeight": "1.15",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "53973fb7ce",
+           "blockName": "Find Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "The old coal yard, past the arches",
+           "mobileStyles": {
+            "fontSize": "28px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "fontFamily": "Figtree",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "93858a6558",
+           "blockName": "Find Address",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "14 Coal Yard Lane, Shoreditch, London E2 8DY. Two minutes from Hoxton overground, look for the wood store and the chimney that is always working.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "fontFamily": "Figtree",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "d45b13edb1",
+           "blockName": "Find Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "There is no sign. There has never been a sign. If you can smell oak smoke, you are close.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "https://maps.google.com/?q=Shoreditch+London"
+           },
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "fontFamily": "Figtree",
+            "fontSize": "14.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textDecoration": "none",
+            "width": "fit-content"
+           },
+           "blockId": "252731c0b8",
+           "blockName": "Find Link",
+           "children": [],
+           "classes": [
+            "em-ul"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "Open in maps →",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-rise",
+          "em-d2"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexBasis": "auto"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "gap": "28px",
+        "padding": "0px 22px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "flexDirection": "column",
+        "gap": "40px",
+        "padding": "0px 40px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a02, #201B18)",
+      "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+      "borderStyle": "solid",
+      "borderWidth": "1px 0px 0px 0px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "112px 0px",
+      "width": "100%"
+     },
+     "blockId": "b90e319bba",
+     "blockName": "Private Dining",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "24px",
+        "maxWidth": "720px",
+        "padding": "0px 22px"
+       },
+       "blockId": "d656e881c2",
+       "blockName": "Private Stack",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "14px",
+          "justifyContent": "center",
+          "width": "fit-content"
+         },
+         "blockId": "b8a82058e3",
+         "blockName": "Private Eyebrow",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "flexShrink": 0,
+            "height": "1px",
+            "width": "36px"
+           },
+           "blockId": "581c20dacd",
+           "blockName": "Eyebrow Rule",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "fontFamily": "Figtree",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "4af3313684",
+           "blockName": "Eyebrow Text",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Private dining",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+          "fontFamily": "Fraunces",
+          "fontSize": "52px",
+          "fontWeight": "380",
+          "height": "fit-content",
+          "letterSpacing": "-0.02em",
+          "lineHeight": "1.08",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "36f43cbe5b",
+         "blockName": "Private Title",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "The counter is <i>yours.</i>",
+         "mobileStyles": {
+          "fontSize": "32px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "42px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+          "fontFamily": "Figtree",
+          "fontSize": "15.5px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.75",
+          "maxWidth": "560px",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "5d1478a81c",
+         "blockName": "Private Copy",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "On Mondays the room sleeps, but the fire will get up for twelve of your favourite people. One long table, one menu, the kitchen at conversation distance.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {
+          "href": "mailto:tables@ember.kitchen?subject=The%20counter"
+         },
+         "baseStyles": {
+          "backgroundColor": "transparent",
+          "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+          "borderRadius": "999px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+          "flexShrink": 0,
+          "fontFamily": "Figtree",
+          "fontSize": "14.5px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "lineHeight": "1",
+          "minWidth": "10px",
+          "padding": "16px 28px",
+          "textDecoration": "none",
+          "width": "fit-content"
+         },
+         "blockId": "76079801bf",
+         "blockName": "Private CTA",
+         "children": [],
+         "classes": [
+          "em-btn-ghost"
+         ],
+         "customAttributes": {},
+         "element": "a",
+         "innerHTML": "Enquire about Mondays",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "em-rise"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "72px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "41b8ecf67a",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "c6f7c8a4fd",
+       "blockName": "Reserve Banner",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "d957ff276b",
+         "blockName": "Banner Eyebrow",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "4cb62b0e8e",
+           "blockName": "Eyebrow Rule",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "4352d95b5c",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "1c044034ee",
+           "blockName": "Eyebrow Text",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "51941c66a2",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "a477a0e78c",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "db93e2c18a",
+         "blockName": "Banner Line 1",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "709b9d4bc6",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "39cf892030",
+         "blockName": "Banner Sub",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "9371236bd7",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "9e21f43e2b",
+         "blockName": "Banner CTAs",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "af782223fa",
+           "blockName": "Banner Reserve",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "93a229df13",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00cc501153",
+           "blockName": "Banner Phone",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "feecf5d55e",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "85664f4156",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_reserve_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "85534d305f",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "c4f8020ee1",
+       "blockName": "Info Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "1fe858da6c",
+         "blockName": "Info Visit",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "06894c5c04",
+           "blockName": "Visit Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "bb00e720ae",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "1d9f22d9d6",
+           "blockName": "Visit 14 Coal Yard L",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "2a9793d6e5",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "04f4dac437",
+           "blockName": "Visit Shoreditch, Lo",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "b9da0a5358",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "8bc7cae987",
+           "blockName": "Visit Directions",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "2e82020327",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "d3092658a1",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "f683d3ae18",
+         "blockName": "Info Hours",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "58015d64f4",
+           "blockName": "Hours Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "5d24801f7d",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0b42d84154",
+           "blockName": "Hours Wednesday to S",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ac38d9f8ba",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "68cbfb5952",
+           "blockName": "Hours 6 pm until 11 ",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "d8b7a4b7fd",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "4167030373",
+           "blockName": "Hours Closed Monday ",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6eb0b51600",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "78e1294023",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "5252f69a44",
+         "blockName": "Info Contact",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "cc95f19744",
+           "blockName": "Contact Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c3fd50e14d",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "bc7a51d7b1",
+           "blockName": "Contact tables@ember.kitchen",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "e2f4048623",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "1e35e83cba",
+           "blockName": "Contact 020 7946 0180",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "82fcd42168",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "7a23c0e7fa",
+           "blockName": "Contact Instagram",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "25f798a6f2",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "9b1cc31c26",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_reserve_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "39d6ca4c4c",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "4f1a98cfb5",
+       "blockName": "Small Print",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "37358ad792",
+         "blockName": "Copyright",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "cb1cc6961a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "69ad7e1f44",
+         "blockName": "Credit",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "7a43474f09",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_reserve_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "ff636ab216",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "ember_reserve_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "ember_styles"
+  },
+  {
+   "builder_script": "ember_motion"
+  }
+ ],
+ "creation": "2026-07-19 20:03:44.021485",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Reserve a table at Ember: hours, directions to the old coal yard, and private hire of the counter.",
+ "modified": "2026-07-19 20:03:44.021485",
+ "modified_by": "Administrator",
+ "name": "ember_contact",
+ "owner": "Administrator",
+ "page_name": "ember_contact",
+ "page_title": "Reservations · Ember",
+ "preview": "/builder_assets/ember/ember_contact/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/ember/contact",
+ "template_group": "ember"
+}

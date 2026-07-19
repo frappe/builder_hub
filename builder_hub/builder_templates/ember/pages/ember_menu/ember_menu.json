@@ -1,0 +1,3204 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a01, #141110)",
+    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Figtree",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "31e694d817",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "989ba8e9fc",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "59833c04f7",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "d925c2b80d",
+         "blockName": "Nav Left",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "4c52d01325",
+           "blockName": "Nav Menu",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "7293946bac",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "7aee5aa351",
+           "blockName": "Nav About",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9a6f4df14a",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "25e4628aeb",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "cf0e9fcdb4",
+         "blockName": "Brand",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "0a0e74a9cb",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "d08dc829b7",
+         "blockName": "Nav Right",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "f3d535760d",
+           "blockName": "Nav Contact",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "8c3d1ce666",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "272dee4cd4",
+           "blockName": "Nav Reserve",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "f35940e634",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "a8b8e45708",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "bd963d7906",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "ember_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "110px 0px 72px 0px",
+      "width": "100%"
+     },
+     "blockId": "c735bd7631",
+     "blockName": "Menu Header",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "22px",
+        "maxWidth": "640px",
+        "padding": "0px 22px"
+       },
+       "blockId": "c0900fb8f2",
+       "blockName": "Menu Header Stack",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "14px",
+          "width": "fit-content"
+         },
+         "blockId": "bb51ff805d",
+         "blockName": "Menu Eyebrow",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "flexShrink": 0,
+            "height": "1px",
+            "width": "36px"
+           },
+           "blockId": "2c439e6117",
+           "blockName": "Eyebrow Rule",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "fontFamily": "Figtree",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "861b4fa46e",
+           "blockName": "Eyebrow Text",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Menu",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+          "fontFamily": "Fraunces",
+          "fontSize": "64px",
+          "fontWeight": "380",
+          "height": "fit-content",
+          "letterSpacing": "-0.02em",
+          "lineHeight": "1.05",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "f43a8cd94a",
+         "blockName": "Menu Title",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "A menu for <i>high summer.</i>",
+         "mobileStyles": {
+          "fontSize": "40px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+          "fontFamily": "Fraunces",
+          "fontSize": "17px",
+          "fontStyle": "italic",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.5",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "fit-content"
+         },
+         "blockId": "40b27340f4",
+         "blockName": "Menu Dateline",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Week of 14 July · written each morning at the market",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+          "fontFamily": "Figtree",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.75",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "2a7f7e6fc4",
+         "blockName": "Menu Note",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Everything below is cooked on, over or beside the hearth. The list is short because the fire is honest and the seasons are not negotiable.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "em-rise"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "72px 0px 48px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "0px",
+      "width": "100%"
+     },
+     "blockId": "dc28af772f",
+     "blockName": "Menu Body",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "820px",
+        "padding": "0px 22px",
+        "width": "100%"
+       },
+       "blockId": "6e1896c0c2",
+       "blockName": "Tasting Wrap",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "padding": "7px",
+          "width": "100%"
+         },
+         "blockId": "c08074fe2c",
+         "blockName": "Tasting Frame",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "padding": "56px 60px",
+            "width": "100%"
+           },
+           "blockId": "402dd07376",
+           "blockName": "Tasting Inner Frame",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "8px",
+              "marginBottom": "28px"
+             },
+             "blockId": "530b6934e7",
+             "blockName": "Tasting Card Head",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                "fontFamily": "Fraunces",
+                "fontSize": "34px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "1.2",
+                "minWidth": "10px",
+                "textAlign": "center",
+                "width": "fit-content"
+               },
+               "blockId": "66c6a1b8d2",
+               "blockName": "Tasting Card Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "The Tasting",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                "fontFamily": "Fraunces",
+                "fontSize": "15px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textAlign": "center",
+                "width": "fit-content"
+               },
+               "blockId": "2bb94c0edd",
+               "blockName": "Tasting Card Sub",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "as the fire allows, rarely the same twice",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+              "borderStyle": "solid",
+              "borderWidth": "0px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "26px",
+              "padding": "20px 4px",
+              "width": "100%"
+             },
+             "blockId": "5225febe80",
+             "blockName": "Tasting Row 1",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                "flexShrink": 0,
+                "fontFamily": "Fraunces",
+                "fontSize": "20px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "34px",
+                "width": "34px"
+               },
+               "blockId": "d0ed22ff6b",
+               "blockName": "Tasting Numeral 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "I",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "baseline",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexDirection": "row",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "gap": "14px"
+               },
+               "blockId": "d092c1a519",
+               "blockName": "Tasting Text 1",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                  "flexShrink": 0,
+                  "fontFamily": "Fraunces",
+                  "fontSize": "21px",
+                  "fontWeight": "450",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "31b5c4f7a0",
+                 "blockName": "Tasting Dish 1",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Bread",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                  "fontFamily": "Figtree",
+                  "fontSize": "14px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.75",
+                  "minWidth": "10px",
+                  "width": "100%"
+                 },
+                 "blockId": "1a9ffcc8b3",
+                 "blockName": "Tasting Detail 1",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "hearth loaf, warm ash butter",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {
+                "flexDirection": "column",
+                "gap": "3px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "gap": "16px",
+              "padding": "16px 0px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0px 0px 0px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "26px",
+              "padding": "20px 4px",
+              "width": "100%"
+             },
+             "blockId": "c598d8778b",
+             "blockName": "Tasting Row 2",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                "flexShrink": 0,
+                "fontFamily": "Fraunces",
+                "fontSize": "20px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "34px",
+                "width": "34px"
+               },
+               "blockId": "7462ca2b2c",
+               "blockName": "Tasting Numeral 2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "II",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "baseline",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexDirection": "row",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "gap": "14px"
+               },
+               "blockId": "a733622c12",
+               "blockName": "Tasting Text 2",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                  "flexShrink": 0,
+                  "fontFamily": "Fraunces",
+                  "fontSize": "21px",
+                  "fontWeight": "450",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "ac0f30dc03",
+                 "blockName": "Tasting Dish 2",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Garden",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                  "fontFamily": "Figtree",
+                  "fontSize": "14px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.75",
+                  "minWidth": "10px",
+                  "width": "100%"
+                 },
+                 "blockId": "2681ba4f74",
+                 "blockName": "Tasting Detail 2",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "charred leeks, hazelnut, embered cream",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {
+                "flexDirection": "column",
+                "gap": "3px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "gap": "16px",
+              "padding": "16px 0px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0px 0px 0px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "26px",
+              "padding": "20px 4px",
+              "width": "100%"
+             },
+             "blockId": "2ae7bfbcda",
+             "blockName": "Tasting Row 3",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                "flexShrink": 0,
+                "fontFamily": "Fraunces",
+                "fontSize": "20px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "34px",
+                "width": "34px"
+               },
+               "blockId": "f471085b7b",
+               "blockName": "Tasting Numeral 3",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "III",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "baseline",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexDirection": "row",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "gap": "14px"
+               },
+               "blockId": "6cea6af12b",
+               "blockName": "Tasting Text 3",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                  "flexShrink": 0,
+                  "fontFamily": "Fraunces",
+                  "fontSize": "21px",
+                  "fontWeight": "450",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "d24d8a6c80",
+                 "blockName": "Tasting Dish 3",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Broth",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                  "fontFamily": "Figtree",
+                  "fontSize": "14px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.75",
+                  "minWidth": "10px",
+                  "width": "100%"
+                 },
+                 "blockId": "23299742b1",
+                 "blockName": "Tasting Detail 3",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "roast bones, wild garlic, last night's fire",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {
+                "flexDirection": "column",
+                "gap": "3px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "gap": "16px",
+              "padding": "16px 0px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0px 0px 0px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "26px",
+              "padding": "20px 4px",
+              "width": "100%"
+             },
+             "blockId": "df4fe7eae6",
+             "blockName": "Tasting Row 4",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                "flexShrink": 0,
+                "fontFamily": "Fraunces",
+                "fontSize": "20px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "34px",
+                "width": "34px"
+               },
+               "blockId": "24a42712d6",
+               "blockName": "Tasting Numeral 4",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "IV",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "baseline",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexDirection": "row",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "gap": "14px"
+               },
+               "blockId": "353bd4569f",
+               "blockName": "Tasting Text 4",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                  "flexShrink": 0,
+                  "fontFamily": "Fraunces",
+                  "fontSize": "21px",
+                  "fontWeight": "450",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "f34257c662",
+                 "blockName": "Tasting Dish 4",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "River",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                  "fontFamily": "Figtree",
+                  "fontSize": "14px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.75",
+                  "minWidth": "10px",
+                  "width": "100%"
+                 },
+                 "blockId": "c8bb88b196",
+                 "blockName": "Tasting Detail 4",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "fig-leaf trout, brown butter, sorrel",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {
+                "flexDirection": "column",
+                "gap": "3px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "gap": "16px",
+              "padding": "16px 0px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0px 0px 0px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "26px",
+              "padding": "20px 4px",
+              "width": "100%"
+             },
+             "blockId": "63ab4bb053",
+             "blockName": "Tasting Row 5",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                "flexShrink": 0,
+                "fontFamily": "Fraunces",
+                "fontSize": "20px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "34px",
+                "width": "34px"
+               },
+               "blockId": "fa11f38c2d",
+               "blockName": "Tasting Numeral 5",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "V",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "baseline",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexDirection": "row",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "gap": "14px"
+               },
+               "blockId": "ebaaf00222",
+               "blockName": "Tasting Text 5",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                  "flexShrink": 0,
+                  "fontFamily": "Fraunces",
+                  "fontSize": "21px",
+                  "fontWeight": "450",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "35b6356477",
+                 "blockName": "Tasting Dish 5",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Hearth",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                  "fontFamily": "Figtree",
+                  "fontSize": "14px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.75",
+                  "minWidth": "10px",
+                  "width": "100%"
+                 },
+                 "blockId": "6f54ca1778",
+                 "blockName": "Tasting Detail 5",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "the day's beast, oak coals, dripping toast",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {
+                "flexDirection": "column",
+                "gap": "3px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "gap": "16px",
+              "padding": "16px 0px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0px 0px 0px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "26px",
+              "padding": "20px 4px",
+              "width": "100%"
+             },
+             "blockId": "f2b94f0289",
+             "blockName": "Tasting Row 6",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                "flexShrink": 0,
+                "fontFamily": "Fraunces",
+                "fontSize": "20px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "34px",
+                "width": "34px"
+               },
+               "blockId": "eb3f8721c5",
+               "blockName": "Tasting Numeral 6",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "VI",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "baseline",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexDirection": "row",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "gap": "14px"
+               },
+               "blockId": "cc44d2b59b",
+               "blockName": "Tasting Text 6",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                  "flexShrink": 0,
+                  "fontFamily": "Fraunces",
+                  "fontSize": "21px",
+                  "fontWeight": "450",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "5c5c34a255",
+                 "blockName": "Tasting Dish 6",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Smoke",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                  "fontFamily": "Figtree",
+                  "fontSize": "14px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.75",
+                  "minWidth": "10px",
+                  "width": "100%"
+                 },
+                 "blockId": "d7338fa5fa",
+                 "blockName": "Tasting Detail 6",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "ewe's cheese, applewood, rye wafer",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {
+                "flexDirection": "column",
+                "gap": "3px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "gap": "16px",
+              "padding": "16px 0px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0px 0px 0px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "26px",
+              "padding": "20px 4px",
+              "width": "100%"
+             },
+             "blockId": "b8c210a9ed",
+             "blockName": "Tasting Row 7",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                "flexShrink": 0,
+                "fontFamily": "Fraunces",
+                "fontSize": "20px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "34px",
+                "width": "34px"
+               },
+               "blockId": "047bf29166",
+               "blockName": "Tasting Numeral 7",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "VII",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "baseline",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexDirection": "row",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "gap": "14px"
+               },
+               "blockId": "6e08c5d943",
+               "blockName": "Tasting Text 7",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                  "flexShrink": 0,
+                  "fontFamily": "Fraunces",
+                  "fontSize": "21px",
+                  "fontWeight": "450",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "146f635720",
+                 "blockName": "Tasting Dish 7",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Ash",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                  "fontFamily": "Figtree",
+                  "fontSize": "14px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.75",
+                  "minWidth": "10px",
+                  "width": "100%"
+                 },
+                 "blockId": "553eead933",
+                 "blockName": "Tasting Detail 7",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "smoked caramel custard, burnt honey",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {
+                "flexDirection": "column",
+                "gap": "3px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "gap": "16px",
+              "padding": "16px 0px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0px 0px 0px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "16px",
+              "justifyContent": "space-between",
+              "marginTop": "8px",
+              "padding": "26px 4px 4px 4px",
+              "width": "100%"
+             },
+             "blockId": "66fdfc49a5",
+             "blockName": "Tasting Price Row",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                "fontFamily": "Figtree",
+                "fontSize": "13.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "c64a0d9e6b",
+               "blockName": "Tasting Terms",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Seven courses, the whole table eats together",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "baseline",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "gap": "18px",
+                "width": "fit-content"
+               },
+               "blockId": "c944817a64",
+               "blockName": "Tasting Prices",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                  "fontFamily": "Fraunces",
+                  "fontSize": "26px",
+                  "fontWeight": "450",
+                  "height": "fit-content",
+                  "lineHeight": "1.2",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "79bbc77291",
+                 "blockName": "Tasting Price",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "£95",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                  "fontFamily": "Figtree",
+                  "fontSize": "13.5px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.6",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "7a105b34b6",
+                 "blockName": "Pairing Price",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "wine pairing + £60",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "flexDirection": "column",
+              "gap": "8px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "padding": "36px 24px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "em-rise"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "96px"
+       },
+       "blockId": "83a6ac813b",
+       "blockName": "Menu Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "height": "56px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "40px",
+        "maxWidth": "1080px",
+        "padding": "0px 22px",
+        "width": "100%"
+       },
+       "blockId": "b2b04b2645",
+       "blockName": "Carte Wrap",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "14px"
+         },
+         "blockId": "6ddd884191",
+         "blockName": "Carte Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "14px",
+            "justifyContent": "center",
+            "width": "fit-content"
+           },
+           "blockId": "a70c159e67",
+           "blockName": "Carte Eyebrow",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "flexShrink": 0,
+              "height": "1px",
+              "width": "36px"
+             },
+             "blockId": "44dd5023f8",
+             "blockName": "Eyebrow Rule",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "fontFamily": "Figtree",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "e0bd33aa4a",
+             "blockName": "Eyebrow Text",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Beside the fire",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+            "fontFamily": "Fraunces",
+            "fontSize": "40px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "-0.02em",
+            "lineHeight": "1.15",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "a35858fe54",
+           "blockName": "Carte Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "For the counter seats",
+           "mobileStyles": {
+            "fontSize": "30px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "stretch",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "28px",
+          "width": "100%"
+         },
+         "blockId": "cae36904ec",
+         "blockName": "Carte Columns",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "minWidth": "0px"
+           },
+           "blockId": "a63bef1b5e",
+           "blockName": "Carte Hearth",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "padding": "7px",
+              "width": "100%"
+             },
+             "blockId": "804563bec8",
+             "blockName": "Carte Hearth Frame",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+                "borderStyle": "solid",
+                "borderWidth": "1px",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "padding": "36px 40px",
+                "width": "100%"
+               },
+               "blockId": "6f285a6bb2",
+               "blockName": "Carte Hearth Inner Frame",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                  "fontFamily": "Figtree",
+                  "fontSize": "11px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "letterSpacing": "0.24em",
+                  "lineHeight": "1.4",
+                  "marginBottom": "10px",
+                  "minWidth": "10px",
+                  "textTransform": "uppercase",
+                  "width": "fit-content"
+                 },
+                 "blockId": "2965265e46",
+                 "blockName": "Hearth Col Title",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Hearth",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "baseline",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "14px",
+                  "padding": "13px 0px",
+                  "width": "100%"
+                 },
+                 "blockId": "3661feed79",
+                 "blockName": "Hearth Row 1",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                    "flexShrink": 1,
+                    "fontFamily": "Fraunces",
+                    "fontSize": "18px",
+                    "fontWeight": "450",
+                    "height": "fit-content",
+                    "lineHeight": "1.35",
+                    "minWidth": "0px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "30e590b89a",
+                   "blockName": "Hearth Dish 1",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Half chicken, pickled chillies",
+                   "mobileStyles": {
+                    "fontSize": "16.5px"
+                   },
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+                    "borderStyle": "dotted",
+                    "borderWidth": "0px 0px 1px 0px",
+                    "flexBasis": "0px",
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": "1px",
+                    "minWidth": "24px"
+                   },
+                   "blockId": "8379d0f826",
+                   "blockName": "Hearth Leader 1",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "div",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                    "flexShrink": 0,
+                    "fontFamily": "Figtree",
+                    "fontSize": "14.5px",
+                    "fontWeight": "500",
+                    "height": "fit-content",
+                    "lineHeight": "1.4",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "94d5ea189d",
+                   "blockName": "Hearth Price 1",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "£24",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "baseline",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "14px",
+                  "padding": "13px 0px",
+                  "width": "100%"
+                 },
+                 "blockId": "c01bd4b314",
+                 "blockName": "Hearth Row 2",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                    "flexShrink": 1,
+                    "fontFamily": "Fraunces",
+                    "fontSize": "18px",
+                    "fontWeight": "450",
+                    "height": "fit-content",
+                    "lineHeight": "1.35",
+                    "minWidth": "0px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "18f0e6ec37",
+                   "blockName": "Hearth Dish 2",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Monkfish, seaweed butter",
+                   "mobileStyles": {
+                    "fontSize": "16.5px"
+                   },
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+                    "borderStyle": "dotted",
+                    "borderWidth": "0px 0px 1px 0px",
+                    "flexBasis": "0px",
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": "1px",
+                    "minWidth": "24px"
+                   },
+                   "blockId": "b17cb55f7d",
+                   "blockName": "Hearth Leader 2",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "div",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                    "flexShrink": 0,
+                    "fontFamily": "Figtree",
+                    "fontSize": "14.5px",
+                    "fontWeight": "500",
+                    "height": "fit-content",
+                    "lineHeight": "1.4",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "7e0861b623",
+                   "blockName": "Hearth Price 2",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "£28",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "baseline",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "14px",
+                  "padding": "13px 0px",
+                  "width": "100%"
+                 },
+                 "blockId": "83e3b9b8d8",
+                 "blockName": "Hearth Row 3",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                    "flexShrink": 1,
+                    "fontFamily": "Fraunces",
+                    "fontSize": "18px",
+                    "fontWeight": "450",
+                    "height": "fit-content",
+                    "lineHeight": "1.35",
+                    "minWidth": "0px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "eb1265ff3b",
+                   "blockName": "Hearth Dish 3",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Short rib, molasses and ash",
+                   "mobileStyles": {
+                    "fontSize": "16.5px"
+                   },
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+                    "borderStyle": "dotted",
+                    "borderWidth": "0px 0px 1px 0px",
+                    "flexBasis": "0px",
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": "1px",
+                    "minWidth": "24px"
+                   },
+                   "blockId": "565bd04ec7",
+                   "blockName": "Hearth Leader 3",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "div",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                    "flexShrink": 0,
+                    "fontFamily": "Figtree",
+                    "fontSize": "14.5px",
+                    "fontWeight": "500",
+                    "height": "fit-content",
+                    "lineHeight": "1.4",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "f49da862ba",
+                   "blockName": "Hearth Price 3",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "£26",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "baseline",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "14px",
+                  "padding": "13px 0px",
+                  "width": "100%"
+                 },
+                 "blockId": "9d16700113",
+                 "blockName": "Hearth Row 4",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                    "flexShrink": 1,
+                    "fontFamily": "Fraunces",
+                    "fontSize": "18px",
+                    "fontWeight": "450",
+                    "height": "fit-content",
+                    "lineHeight": "1.35",
+                    "minWidth": "0px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "648c99aad9",
+                   "blockName": "Hearth Dish 4",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Flat mushrooms, garlic dripping",
+                   "mobileStyles": {
+                    "fontSize": "16.5px"
+                   },
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+                    "borderStyle": "dotted",
+                    "borderWidth": "0px 0px 1px 0px",
+                    "flexBasis": "0px",
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": "1px",
+                    "minWidth": "24px"
+                   },
+                   "blockId": "d8d721ede6",
+                   "blockName": "Hearth Leader 4",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "div",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                    "flexShrink": 0,
+                    "fontFamily": "Figtree",
+                    "fontSize": "14.5px",
+                    "fontWeight": "500",
+                    "height": "fit-content",
+                    "lineHeight": "1.4",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "a6a1f46978",
+                   "blockName": "Hearth Price 4",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "£16",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {
+                "padding": "26px 22px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "em-rise",
+            "em-d1"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "minWidth": "0px"
+           },
+           "blockId": "6e4fe921cf",
+           "blockName": "Carte Garden",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "padding": "7px",
+              "width": "100%"
+             },
+             "blockId": "86d021c684",
+             "blockName": "Carte Garden Frame",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+                "borderStyle": "solid",
+                "borderWidth": "1px",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "padding": "36px 40px",
+                "width": "100%"
+               },
+               "blockId": "88cc4b1795",
+               "blockName": "Carte Garden Inner Frame",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                  "fontFamily": "Figtree",
+                  "fontSize": "11px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "letterSpacing": "0.24em",
+                  "lineHeight": "1.4",
+                  "marginBottom": "10px",
+                  "minWidth": "10px",
+                  "textTransform": "uppercase",
+                  "width": "fit-content"
+                 },
+                 "blockId": "396d1a35a0",
+                 "blockName": "Garden Col Title",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Garden",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "baseline",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "14px",
+                  "padding": "13px 0px",
+                  "width": "100%"
+                 },
+                 "blockId": "672a59b030",
+                 "blockName": "Garden Row 1",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                    "flexShrink": 1,
+                    "fontFamily": "Fraunces",
+                    "fontSize": "18px",
+                    "fontWeight": "450",
+                    "height": "fit-content",
+                    "lineHeight": "1.35",
+                    "minWidth": "0px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "0f2e7f5670",
+                   "blockName": "Garden Dish 1",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Charred hispi, anchovy cream",
+                   "mobileStyles": {
+                    "fontSize": "16.5px"
+                   },
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+                    "borderStyle": "dotted",
+                    "borderWidth": "0px 0px 1px 0px",
+                    "flexBasis": "0px",
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": "1px",
+                    "minWidth": "24px"
+                   },
+                   "blockId": "1ac4390a80",
+                   "blockName": "Garden Leader 1",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "div",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                    "flexShrink": 0,
+                    "fontFamily": "Figtree",
+                    "fontSize": "14.5px",
+                    "fontWeight": "500",
+                    "height": "fit-content",
+                    "lineHeight": "1.4",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "f88bd5bc70",
+                   "blockName": "Garden Price 1",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "£12",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "baseline",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "14px",
+                  "padding": "13px 0px",
+                  "width": "100%"
+                 },
+                 "blockId": "6308b4ae1d",
+                 "blockName": "Garden Row 2",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                    "flexShrink": 1,
+                    "fontFamily": "Fraunces",
+                    "fontSize": "18px",
+                    "fontWeight": "450",
+                    "height": "fit-content",
+                    "lineHeight": "1.35",
+                    "minWidth": "0px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "56efa0fe5c",
+                   "blockName": "Garden Dish 2",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Beets from the embers, curd",
+                   "mobileStyles": {
+                    "fontSize": "16.5px"
+                   },
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+                    "borderStyle": "dotted",
+                    "borderWidth": "0px 0px 1px 0px",
+                    "flexBasis": "0px",
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": "1px",
+                    "minWidth": "24px"
+                   },
+                   "blockId": "a0b47497f5",
+                   "blockName": "Garden Leader 2",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "div",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                    "flexShrink": 0,
+                    "fontFamily": "Figtree",
+                    "fontSize": "14.5px",
+                    "fontWeight": "500",
+                    "height": "fit-content",
+                    "lineHeight": "1.4",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "93c95da4dd",
+                   "blockName": "Garden Price 2",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "£11",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "baseline",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "14px",
+                  "padding": "13px 0px",
+                  "width": "100%"
+                 },
+                 "blockId": "b2dd7529ed",
+                 "blockName": "Garden Row 3",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                    "flexShrink": 1,
+                    "fontFamily": "Fraunces",
+                    "fontSize": "18px",
+                    "fontWeight": "450",
+                    "height": "fit-content",
+                    "lineHeight": "1.35",
+                    "minWidth": "0px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "d2f865c9e0",
+                   "blockName": "Garden Dish 3",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Potatoes cooked in coals",
+                   "mobileStyles": {
+                    "fontSize": "16.5px"
+                   },
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+                    "borderStyle": "dotted",
+                    "borderWidth": "0px 0px 1px 0px",
+                    "flexBasis": "0px",
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": "1px",
+                    "minWidth": "24px"
+                   },
+                   "blockId": "8f4e24ed72",
+                   "blockName": "Garden Leader 3",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "div",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                    "flexShrink": 0,
+                    "fontFamily": "Figtree",
+                    "fontSize": "14.5px",
+                    "fontWeight": "500",
+                    "height": "fit-content",
+                    "lineHeight": "1.4",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "151c1a1f66",
+                   "blockName": "Garden Price 3",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "£9",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "baseline",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "14px",
+                  "padding": "13px 0px",
+                  "width": "100%"
+                 },
+                 "blockId": "8e62972f01",
+                 "blockName": "Garden Row 4",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                    "flexShrink": 1,
+                    "fontFamily": "Fraunces",
+                    "fontSize": "18px",
+                    "fontWeight": "450",
+                    "height": "fit-content",
+                    "lineHeight": "1.35",
+                    "minWidth": "0px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "6bb05a7ef3",
+                   "blockName": "Garden Dish 4",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Leaves, cider vinegar",
+                   "mobileStyles": {
+                    "fontSize": "16.5px"
+                   },
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+                    "borderStyle": "dotted",
+                    "borderWidth": "0px 0px 1px 0px",
+                    "flexBasis": "0px",
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "height": "1px",
+                    "minWidth": "24px"
+                   },
+                   "blockId": "0a7f70f9e3",
+                   "blockName": "Garden Leader 4",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "div",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                    "flexShrink": 0,
+                    "fontFamily": "Figtree",
+                    "fontSize": "14.5px",
+                    "fontWeight": "500",
+                    "height": "fit-content",
+                    "lineHeight": "1.4",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "9414b7531f",
+                   "blockName": "Garden Price 4",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "£8",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {
+                "padding": "26px 22px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "em-rise",
+            "em-d2"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexDirection": "column"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "96px 0px 128px 0px",
+      "width": "100%"
+     },
+     "blockId": "900fa4f697",
+     "blockName": "Wine Note",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "18px",
+        "maxWidth": "620px",
+        "padding": "0px 22px"
+       },
+       "blockId": "62148d1597",
+       "blockName": "Wine Stack",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+          "fontFamily": "Fraunces",
+          "fontSize": "28px",
+          "fontStyle": "italic",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.3",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "fit-content"
+         },
+         "blockId": "e60dd5a39c",
+         "blockName": "Wine Title",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "On the wine",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+          "fontFamily": "Figtree",
+          "fontSize": "15px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.75",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "e7c68ba899",
+         "blockName": "Wine Copy",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "The list is one page, mostly growers we have eaten with, leaning on wines that can stand next to smoke. There are exactly four bottles over £100 and none of them need to be.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {
+          "href": "mailto:tables@ember.kitchen"
+         },
+         "baseStyles": {
+          "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+          "fontFamily": "Figtree",
+          "fontSize": "14.5px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "lineHeight": "1.5",
+          "minWidth": "10px",
+          "textDecoration": "none",
+          "width": "fit-content"
+         },
+         "blockId": "53964ba33b",
+         "blockName": "Wine Link",
+         "children": [],
+         "classes": [
+          "em-ul"
+         ],
+         "customAttributes": {},
+         "element": "a",
+         "innerHTML": "Ask for the cellar list →",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "em-rise"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 0px 80px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "30ffebc530",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "b4e7c73497",
+       "blockName": "Reserve Banner",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "4d19057b06",
+         "blockName": "Banner Eyebrow",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0dca602f92",
+           "blockName": "Eyebrow Rule",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "4352d95b5c",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "8345b12434",
+           "blockName": "Eyebrow Text",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "51941c66a2",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "a477a0e78c",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "57a9a5584a",
+         "blockName": "Banner Line 1",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "709b9d4bc6",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "8a13070b22",
+         "blockName": "Banner Sub",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "9371236bd7",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "a4ae963785",
+         "blockName": "Banner CTAs",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "8be24f7141",
+           "blockName": "Banner Reserve",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "93a229df13",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "fe68a3909d",
+           "blockName": "Banner Phone",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "feecf5d55e",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "85664f4156",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_reserve_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "85534d305f",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "30ade6790f",
+       "blockName": "Info Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "52a01fc40c",
+         "blockName": "Info Visit",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "018cfa5b46",
+           "blockName": "Visit Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "bb00e720ae",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "e2ae75822a",
+           "blockName": "Visit 14 Coal Yard L",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "2a9793d6e5",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "60b7995d52",
+           "blockName": "Visit Shoreditch, Lo",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "b9da0a5358",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "d64ec738b2",
+           "blockName": "Visit Directions",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "2e82020327",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "d3092658a1",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "bb569fd075",
+         "blockName": "Info Hours",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "33547ca31b",
+           "blockName": "Hours Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "5d24801f7d",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "f3df6e8b1b",
+           "blockName": "Hours Wednesday to S",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ac38d9f8ba",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "24f07fb8ba",
+           "blockName": "Hours 6 pm until 11 ",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "d8b7a4b7fd",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "c27489fe21",
+           "blockName": "Hours Closed Monday ",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6eb0b51600",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "78e1294023",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "4709aef35d",
+         "blockName": "Info Contact",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "1f94af2931",
+           "blockName": "Contact Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c3fd50e14d",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "975affda9e",
+           "blockName": "Contact tables@ember.kitchen",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "e2f4048623",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "3ebe0f32ca",
+           "blockName": "Contact 020 7946 0180",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "82fcd42168",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "df9aa41612",
+           "blockName": "Contact Instagram",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "25f798a6f2",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "9b1cc31c26",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_reserve_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "39d6ca4c4c",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "595e13c41c",
+       "blockName": "Small Print",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "1239280dd1",
+         "blockName": "Copyright",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "cb1cc6961a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "06939122cd",
+         "blockName": "Credit",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "7a43474f09",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_reserve_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "ff636ab216",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "ember_reserve_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "ember_styles"
+  },
+  {
+   "builder_script": "ember_motion"
+  }
+ ],
+ "creation": "2026-07-19 20:03:44.021485",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "The tasting menu at Ember: seven courses cooked over oak, written each morning at the market.",
+ "modified": "2026-07-19 20:03:44.021485",
+ "modified_by": "Administrator",
+ "name": "ember_menu",
+ "owner": "Administrator",
+ "page_name": "ember_menu",
+ "page_title": "Menu · Ember",
+ "preview": "/builder_assets/ember/ember_menu/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/ember/menu",
+ "template_group": "ember"
+}
