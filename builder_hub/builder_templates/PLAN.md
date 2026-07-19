@@ -28,6 +28,12 @@ Rules that apply to every template:
 - Templates need not be themed (light/dark toggle optional): app-UI and product templates may
   ship a single neutral look, but every color still goes through Builder Variables so the whole
   template rethemes by editing the palette.
+- Motion is welcome but must degrade: ember set the pattern with a CSS + JavaScript client
+  script pair (IntersectionObserver reveal-on-scroll with stagger classes, marquee, Ken Burns,
+  view-timeline parallax as progressive enhancement). The JS arms hidden states only when
+  `prefers-reduced-motion` allows, so no-JS and reduced-motion users see a complete static page.
+  Pipeline gotcha: a page's root block must carry `"originalElement": "body"` (Builder's canvas
+  convention) or JavaScript client scripts are never rendered into the published page.
 
 ## Archetype registry (shipped groups)
 
@@ -63,6 +69,7 @@ Rules that apply to every template:
 | recipe | recipe cards: ruled index cards with red margin rules, dog-ears, chef's margin notes, stamps, tear-off coupon |
 | candor | statement screens: full-viewport one-color statement hero, cropped mega wordmark, serif fee table, no photos |
 | fetch  | product bento: super-rounded pastel tiles, blob photo frames, star reviews, size table, guarantee card |
+| ember  | hearth menu-card: split wordmark/photo hero, hours marquee rule, roman-numeral snap strip, double-hairline menu frames, reserve-banner footer, scroll-reveal motion |
 
 New briefs must claim an archetype not on this list, and the list grows as templates ship.
 
@@ -103,7 +110,7 @@ crossovers), encore, aurora (Technology + Marketing).
 ### Food & Beverage (warm ambers, creams, deep reds)
 | Codename | Theme | Concept |
 |----------|-------|---------|
-| ember    | dark | wood-fire fine dining, charcoal and ember orange (first build, brief below) |
+| ember    | dark | wood-fire fine dining, charcoal and ember orange (built: 4 pages, order 34, brief below) |
 | crumb    | light minimal | artisan bakery, flour white, one warm accent |
 | scoop    | bright pastel | gelato café, candy colors, playful shapes |
 | graze    | editorial | farm-to-table restaurant, producer stories |
@@ -205,7 +212,17 @@ pages:         # 3-4 pages; route "/" is the home page
     sections:  # ordered section-by-section outline
 ```
 
-## Brief: ember (Food & Beverage, dark)
+## Brief: ember (Food & Beverage, dark), BUILT Jul 2026
+
+Built Jul 19 2026 to the brief below, with these deviations: 4 pages (home / menu / about /
+contact), order 34; the chef is Elias Voss (male, to match the available dark-kitchen
+photography); the tasting runs seven courses, not six, so the hero reads "One fire, seven
+courses, no shortcuts." First group to ship the motion system: `ember_motion` (JS) arms
+`em-rise` reveal-on-scroll with stagger delays via IntersectionObserver, `ember_styles` (CSS)
+carries a Ken Burns hero, the hours marquee under the hero, hover zoom/lift/underline
+micro-interactions, a scroll-snap course strip with `scroll-padding`, and a `view()`-timeline
+parallax on the sparks band gated behind `@supports`. Everything is inert under
+`prefers-reduced-motion` and without JavaScript.
 
 ```yaml
 codename: ember
@@ -821,9 +838,8 @@ no photos, single theme. 3 pages (home / work / start), order 31.
 
 ## Follow-ups
 
-- Author the `ember` fixture group from the brief: dev-mode authoring, `sync_builder_templates`,
-  preview webp at 2560x1440, mobile audit (scrollWidth scan at 1440/1024/768/390, flexBasis
-  check on stacked panes).
+- ember shipped Jul 19 2026 (order 34), opening the Food & Beverage category. Next briefs in
+  that column: crumb, scoop, graze, zest.
 - Re-tag the original shipped groups' `template.json` categories into the industry taxonomy when
   the first new template ships (fronds/verge -> closest vertical or General, mono/husk/verso
   -> Portfolio stays? decide then). commit was retired Jul 17 2026 instead of re-tagging.
