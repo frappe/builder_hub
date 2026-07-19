@@ -70,6 +70,7 @@ Rules that apply to every template:
 | candor | statement screens: full-viewport one-color statement hero, cropped mega wordmark, serif fee table, no photos |
 | fetch  | product bento: super-rounded pastel tiles, blob photo frames, star reviews, size table, guarantee card |
 | ember  | hearth menu-card: split wordmark/photo hero, hours marquee rule, roman-numeral snap strip, double-hairline menu frames, reserve-banner footer, scroll-reveal motion |
+| fathom | the dive: scroll-pinned descent scene driven by a --p scroll variable (video layer, crossfading water gradients, passing depth ruler, waypoint cards), fixed depth-gauge HUD, dive-line course ledger, light surface footer after dark pages |
 
 New briefs must claim an archetype not on this list, and the list grows as templates ship.
 
@@ -159,6 +160,7 @@ crossovers), encore, aurora (Technology + Marketing).
 ### Travel & Hospitality (sky, sand, saturated and photo-forward)
 | Codename | Theme | Concept |
 |----------|-------|---------|
+| fathom   | depth gradient | freediving school, scroll IS the dive: pinned descent scene, live depth gauge (built: 3 pages, order 35, brief below) |
 | drift    | light | travel agency, sky blue, itinerary cards |
 | dune     | pastel | desert resort, sand and terracotta |
 | fjord    | dark | adventure tour operator, deep teal, expedition log |
@@ -835,6 +837,31 @@ sections with numbered serif service rows, a house-position pine band ("We will 
 are the wrong hire"), a fee table with a thick top rule and fixed prices, roman-numeral working
 principles, and a start page that sets expectations for the first call. Serif everywhere,
 no photos, single theme. 3 pages (home / work / start), order 31.
+
+## Brief: fathom (Travel & Hospitality, depth gradient), BUILT Jul 2026
+
+The scroll-jacking one, built after ember on the user's "extremely creative" direction. Fathom
+is a freediving school over a 42-metre blue hole, and scrolling the home page IS the dive: a
+bright typographic surface hero (aqua gradient, "Take one breath. Make it last."), then a
+560vh runner pinning a 100vh stage while a rAF scroll handler writes a `--p` progress variable
+onto the scene. CSS consumes `--p` to crossfade water gradients from teal to abyss, dim a
+looping underwater-rays video layer, fade out screen-blend sun rays, and slide a depth ruler
+past the viewport; the handler also flips waypoint cards (fa-on / fa-past at −4 / −10 / −16 /
+−26 / −42 m) and feeds a fixed depth-gauge HUD pill (`[data-depth]`, bottom right) that reads
+live metres on every page (the line page maps whole-page scroll to `data-max-depth`; the
+school page correctly reads 0.0 m, because school is the surface). After the descent: stats
+with a hairline rail, course teaser cards, a quote, and a BRIGHT surface-interval footer, so
+every dark page ends by coming up for air. The line page is a dive-line ledger (vertical rail,
+buoy dots at −10/−24/−42, course cards with checklists and honest prices) over a page-length
+depth gradient; the school page is the light surface page: two "portraits taken where we
+actually live" coaches, a video commute band, the bay, four safety rules, a mono logbook.
+Video assets are committed to builder_assets/fathom (rays.mp4 and diver.mp4, Pexels videos
+2632737 and 4749122, compressed to ~1 MB each, muted/looped/playsinline with a JS play()
+safeguard). No JS or reduced motion: the runner collapses to a static stacked depth itinerary,
+layers and HUD stay hidden, nothing is ever invisible. Instrument Serif (ital import) +
+Outfit + IBM Plex Mono; abyss/deep/foam/mist/ink/seam/buoy palette; the school page's nav
+instance overrides the glass bar to light, the first per-page component-instance override in
+the catalog. 3 pages (home / line / school), order 35.
 
 ## Follow-ups
 

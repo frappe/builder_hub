@@ -81,6 +81,12 @@ per-template briefs.
 |---|---|
 | **Ember**<br>A dark wood-fire tasting room: hearth-lit photography, a framed menu card and scroll-reveal motion.<br><sub>Pages: Home · Menu · About · Contact</sub> | <img src="builder_hub/www/builder_assets/ember/ember_home/preview.webp" width="360"> |
 
+### Travel & Hospitality
+
+| Template | Preview |
+|---|---|
+| **Fathom**<br>A freediving school where scrolling is the dive: a pinned descent scene, a live depth gauge and a video seabed.<br><sub>Pages: Home · The line · The school</sub> | <img src="builder_hub/www/builder_assets/fathom/fathom_home/preview.webp" width="360"> |
+
 ### Technology
 
 | Template | Preview |
