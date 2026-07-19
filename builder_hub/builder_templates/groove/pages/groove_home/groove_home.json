@@ -1,0 +1,4232 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+    "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "DM Sans",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "425d968b00",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "0777d4be73",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "2fa3fbcc83",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "bd1ba6e602",
+         "blockName": "Brand Lockup",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "52950cfd62",
+           "blockName": "Brand",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "4b40dc2eef",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "f153a84c12",
+           "blockName": "Brand Sub",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "3d2238847a",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "3264c144f8",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "01eca1ca8e",
+         "blockName": "Nav Links",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "fcac9b8d78",
+           "blockName": "Nav The crate",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "7b10ae9b74",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "328e278bd9",
+           "blockName": "Nav B-side",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "24af0d1963",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a1382ec0bd",
+           "blockName": "Nav CTA",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "dc4cdc9616",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "cd1a1e6cc8",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "groove_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "f0a48e5e60",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "add8d7b9a2",
+       "blockName": "Now Playing Pill",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "5fafe7c124",
+         "blockName": "Pill Dot",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "a1e64a9725",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "ae1e953127",
+         "blockName": "Pill Label",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "f85590d5b6",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "7986a93cd3",
+         "blockName": "Pill Track",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "cbba95d61b",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "groove_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "7c4a1e5d44",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "groove_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "width": "100%"
+     },
+     "blockId": "20f80f181d",
+     "blockName": "Hero",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "24px",
+        "maxWidth": "1360px",
+        "padding": "72px 56px 88px 56px",
+        "width": "100%"
+       },
+       "blockId": "e00e141b35",
+       "blockName": "Hero Split",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "28px",
+          "justifyContent": "center",
+          "minWidth": "0px",
+          "position": "relative",
+          "zIndex": "3"
+         },
+         "blockId": "56a130f876",
+         "blockName": "Hero Copy",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "width": "fit-content"
+           },
+           "blockId": "7cbc5b46a2",
+           "blockName": "Hero Eyebrow Wrap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "width": "fit-content"
+             },
+             "blockId": "a2cd0fa8e8",
+             "blockName": "Eyebrow",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+                "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "borderRadius": "4px",
+                "borderStyle": "solid",
+                "borderWidth": "1.5px",
+                "flexShrink": 0,
+                "height": "12px",
+                "width": "12px"
+               },
+               "blockId": "644126929f",
+               "blockName": "Eyebrow Chip",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "fontFamily": "DM Mono",
+                "fontSize": "12px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.22em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "455f3359c1",
+               "blockName": "Eyebrow Text",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "An independent record label · est. 2019",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-rise"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "position": "relative",
+            "width": "100%"
+           },
+           "blockId": "12fd2b4d8b",
+           "blockName": "Hero Headline Wrap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "fontFamily": "Abril Fatface",
+              "fontSize": "96px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.005em",
+              "lineHeight": "1.06",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "b9d5918840",
+             "blockName": "Hero Headline",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Music worth<br>the needle.",
+             "mobileStyles": {
+              "fontSize": "46px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {
+              "fontSize": "68px"
+             }
+            }
+           ],
+           "classes": [
+            "gr-rise",
+            "gr-d2"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "width": "100%"
+           },
+           "blockId": "d4a33da0a6",
+           "blockName": "Hero Sub Wrap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+              "fontFamily": "DM Sans",
+              "fontSize": "17px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.7",
+              "maxWidth": "440px",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "41ef5adfa3",
+             "blockName": "Hero Sub",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Night Shift is a label that still believes in sides. Twelve songs, one lacquer, five hundred copies, no skip button. Scroll to spin the record.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-rise",
+            "gr-d3"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "20px",
+            "marginTop": "4px",
+            "width": "fit-content"
+           },
+           "blockId": "ded13b117e",
+           "blockName": "Hero CTA Row",
+           "children": [
+            {
+             "attributes": {
+              "href": "roster"
+             },
+             "baseStyles": {
+              "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+              "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "borderRadius": "12px",
+              "borderStyle": "solid",
+              "borderWidth": "2px",
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "flexShrink": 0,
+              "fontFamily": "DM Sans",
+              "fontSize": "15px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "padding": "16px 26px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "2b3da133f7",
+             "blockName": "Hero CTA",
+             "children": [],
+             "classes": [
+              "gr-btn"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "Hear the roster",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {
+              "href": "mailto:demos@nightshift.records"
+             },
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "fontFamily": "DM Sans",
+              "fontSize": "14.5px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "lineHeight": "1.6",
+              "minWidth": "10px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "b6de5c7aea",
+             "blockName": "Hero Secondary",
+             "children": [],
+             "classes": [
+              "gr-ul"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "Send us a demo",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-rise",
+            "gr-d4"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "alignItems": "flex-start",
+            "flexDirection": "column",
+            "gap": "14px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "marginRight": "-90px",
+          "position": "relative",
+          "width": "fit-content"
+         },
+         "blockId": "4f55071d4d",
+         "blockName": "Hero Platter Pane",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "aspectRatio": "1 / 1",
+            "flexShrink": 0,
+            "position": "relative",
+            "width": "min(46vw, 680px)"
+           },
+           "blockId": "eddddda0ea",
+           "blockName": "Platter",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderRadius": "999px",
+              "height": "100%",
+              "left": "0px",
+              "position": "absolute",
+              "top": "0px",
+              "width": "100%"
+             },
+             "blockId": "c1463d9ad1",
+             "blockName": "Platter Disc",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+                "borderRadius": "999px",
+                "display": "flex",
+                "flexDirection": "column",
+                "gap": "5px",
+                "justifyContent": "center",
+                "left": "32%",
+                "position": "absolute",
+                "top": "32%",
+                "width": "36%",
+                "zIndex": "2"
+               },
+               "blockId": "d00539ad74",
+               "blockName": "Platter Label",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                  "fontFamily": "Abril Fatface",
+                  "fontSize": "26px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "52d2a1693a",
+                 "blockName": "Label Brand",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Night Shift",
+                 "mobileStyles": {
+                  "fontSize": "15px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "20px"
+                 }
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                  "fontFamily": "DM Mono",
+                  "fontSize": "10px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "letterSpacing": "0.34em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "textTransform": "uppercase",
+                  "width": "fit-content"
+                 },
+                 "blockId": "cd220c029d",
+                 "blockName": "Label Records",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Records",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "rgba(25, 19, 9, 0.4)",
+                  "flexShrink": 0,
+                  "height": "1px",
+                  "marginBottom": "2px",
+                  "marginTop": "2px",
+                  "width": "42%"
+                 },
+                 "blockId": "48c9e5a1e5",
+                 "blockName": "Label Rule",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                  "flexShrink": 0,
+                  "fontFamily": "DM Mono",
+                  "fontSize": "8.5px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "letterSpacing": "0.18em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "textTransform": "uppercase",
+                  "whiteSpace": "nowrap",
+                  "width": "fit-content"
+                 },
+                 "blockId": "de7dc0083a",
+                 "blockName": "Label Cat",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "NSR-033 · SIDE A",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                  "flexShrink": 0,
+                  "fontFamily": "DM Mono",
+                  "fontSize": "8.5px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "letterSpacing": "0.18em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "textTransform": "uppercase",
+                  "whiteSpace": "nowrap",
+                  "width": "fit-content"
+                 },
+                 "blockId": "af1a626c3a",
+                 "blockName": "Label RPM",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "33⅓ RPM · STEREO",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {
+                "box-shadow": "inset 0 0 0 2px rgba(25, 19, 9, 0.25)"
+               },
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+                "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "borderRadius": "999px",
+                "borderStyle": "solid",
+                "borderWidth": "2px",
+                "height": "3.5%",
+                "left": "48.25%",
+                "position": "absolute",
+                "top": "48.25%",
+                "width": "3.5%",
+                "zIndex": "3"
+               },
+               "blockId": "4bf17d7b5a",
+               "blockName": "Platter Spindle",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "gr-disc"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderRadius": "999px",
+              "height": "100%",
+              "left": "0px",
+              "position": "absolute",
+              "top": "0px",
+              "width": "100%",
+              "zIndex": "4"
+             },
+             "blockId": "4644dc99e8",
+             "blockName": "Platter Sheen",
+             "children": [],
+             "classes": [
+              "gr-sheen"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "height": "58px",
+              "position": "absolute",
+              "right": "13%",
+              "top": "-24px",
+              "width": "58px",
+              "zIndex": "6"
+             },
+             "blockId": "998cf6a5b8",
+             "blockName": "Tonearm",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "#C9C2B0",
+                "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "borderRadius": "999px",
+                "borderStyle": "solid",
+                "borderWidth": "2px",
+                "height": "100%",
+                "width": "100%"
+               },
+               "blockId": "1c450c1a55",
+               "blockName": "Tonearm Pivot",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "borderRadius": "999px",
+                "height": "22px",
+                "left": "18px",
+                "position": "absolute",
+                "top": "-16px",
+                "width": "22px"
+               },
+               "blockId": "c2d8774a2f",
+               "blockName": "Tonearm Counterweight",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "height": "330px",
+                "left": "26px",
+                "position": "absolute",
+                "top": "29px",
+                "width": "6px"
+               },
+               "blockId": "e6f3dbdb4f",
+               "blockName": "Tonearm Arm",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "borderRadius": "3px",
+                  "height": "100%",
+                  "width": "100%"
+                 },
+                 "blockId": "62bbd92c92",
+                 "blockName": "Tonearm Shaft",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {
+                  "background": "linear-gradient(180deg, #C9C2B0, #8F8874)"
+                 },
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                  "borderRadius": "5px",
+                  "bottom": "-24px",
+                  "height": "38px",
+                  "left": "-8px",
+                  "position": "absolute",
+                  "width": "22px"
+                 },
+                 "blockId": "347ba6c841",
+                 "blockName": "Tonearm Headshell",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {
+                  "transform": "rotate(12deg)"
+                 },
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "gr-arm"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {
+                "height": "170px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {
+                "height": "250px"
+               }
+              }
+             ],
+             "classes": [
+              "gr-tonearm"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-platter"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "width": "88vw"
+           },
+           "rawStyles": {},
+           "tabletStyles": {
+            "width": "min(78vw, 560px)"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a05, #E3A92B)",
+            "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+            "borderRadius": "999px",
+            "borderStyle": "solid",
+            "borderWidth": "2px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "3px",
+            "height": "132px",
+            "justifyContent": "center",
+            "left": "0%",
+            "position": "absolute",
+            "top": "6%",
+            "width": "132px",
+            "zIndex": "5"
+           },
+           "blockId": "65a6f72359",
+           "blockName": "Hero Sticker",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "flexShrink": 0,
+              "fontFamily": "DM Mono",
+              "fontSize": "9px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "de776d8907",
+             "blockName": "Hero Sticker L0",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Limited",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "flexShrink": 0,
+              "fontFamily": "DM Mono",
+              "fontSize": "9px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "350fedc589",
+             "blockName": "Hero Sticker L1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Pressing",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "flexShrink": 0,
+              "fontFamily": "DM Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "ae1e058f13",
+             "blockName": "Hero Sticker L2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "500 copies",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "flexShrink": 0,
+              "fontFamily": "DM Mono",
+              "fontSize": "8.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "7864cb31ac",
+             "blockName": "Hero Sticker L3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "NSR-033",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "display": "none"
+           },
+           "rawStyles": {
+            "box-shadow": "3px 3px 0 rgba(25, 19, 9, 0.9)",
+            "transform": "rotate(-11deg)"
+           },
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gr-rise",
+          "gr-d2"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "alignItems": "center",
+          "marginRight": "0px",
+          "width": "100%"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "gap": "40px",
+        "padding": "40px 20px 48px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "flexDirection": "column",
+        "gap": "56px",
+        "padding": "56px 36px 64px 36px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {
+      "data-tune": "A1 · Drop the needle"
+     },
+     "element": "div",
+     "mobileStyles": {},
+     "rawStyles": {
+      "overflow-x": "clip"
+     },
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+      "borderStyle": "solid",
+      "borderWidth": "2px 0px 0px 0px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "96px 0px",
+      "width": "100%"
+     },
+     "blockId": "65a7fca026",
+     "blockName": "Side A Tracklist",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1220px",
+        "padding": "0px 56px",
+        "width": "100%"
+       },
+       "blockId": "5e3ebf339c",
+       "blockName": "Tracklist Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "18px",
+          "justifyContent": "space-between",
+          "marginBottom": "34px",
+          "width": "100%"
+         },
+         "blockId": "378e59406e",
+         "blockName": "Tracklist Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+            "fontFamily": "Abril Fatface",
+            "fontSize": "44px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.005em",
+            "lineHeight": "1.06",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "812a06e523",
+           "blockName": "Tracklist Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Side A · The label",
+           "mobileStyles": {
+            "fontSize": "31px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+            "flexShrink": 0,
+            "fontFamily": "DM Mono",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.14em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "0e517c8ac0",
+           "blockName": "Tracklist Runtime",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Total runtime 17:09",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gr-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "10px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "width": "100%"
+         },
+         "blockId": "d1574cba31",
+         "blockName": "Tracklist Rows",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a07, #D8CBB0)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "26px",
+            "padding": "22px 6px",
+            "width": "100%"
+           },
+           "blockId": "f9a5c3d5ae",
+           "blockName": "TA1 Row",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+              "flexShrink": 0,
+              "fontFamily": "DM Mono",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "2c36d3786e",
+             "blockName": "TA1 Num",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "A1",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexBasis": "0px",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "4px",
+              "minWidth": "0px"
+             },
+             "blockId": "bc5ee8c051",
+             "blockName": "TA1 Title Stack",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "fontFamily": "Abril Fatface",
+                "fontSize": "27px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.15",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "027d737fe8",
+               "blockName": "TA1 Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Artists & repertoire",
+               "mobileStyles": {
+                "fontSize": "21px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+                "fontFamily": "DM Sans",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "21cdfeaa5f",
+               "blockName": "TA1 Note",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Small roster, long contracts, no 360 deals. We sign people, not spreadsheets.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+              "flexShrink": 0,
+              "fontFamily": "DM Mono",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "abaa6ca380",
+             "blockName": "TA1 Duration",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "3:42",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-track"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "gap": "16px",
+            "padding": "18px 2px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a07, #D8CBB0)",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "26px",
+            "padding": "22px 6px",
+            "width": "100%"
+           },
+           "blockId": "0caff5fbb8",
+           "blockName": "TA2 Row",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+              "flexShrink": 0,
+              "fontFamily": "DM Mono",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "7e66486fb9",
+             "blockName": "TA2 Num",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "A2",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexBasis": "0px",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "4px",
+              "minWidth": "0px"
+             },
+             "blockId": "ad6dad7393",
+             "blockName": "TA2 Title Stack",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "fontFamily": "Abril Fatface",
+                "fontSize": "27px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.15",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "566823818d",
+               "blockName": "TA2 Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Records, pressed properly",
+               "mobileStyles": {
+                "fontSize": "21px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+                "fontFamily": "DM Sans",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "cf705eed0c",
+               "blockName": "TA2 Note",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "180-gram runs of five hundred, hand-numbered, mastered for vinyl first.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+              "flexShrink": 0,
+              "fontFamily": "DM Mono",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "71f9ffd85c",
+             "blockName": "TA2 Duration",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "4:07",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-track"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "gap": "16px",
+            "padding": "18px 2px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a07, #D8CBB0)",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "26px",
+            "padding": "22px 6px",
+            "width": "100%"
+           },
+           "blockId": "98a242c9ae",
+           "blockName": "TA3 Row",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+              "flexShrink": 0,
+              "fontFamily": "DM Mono",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "3d31c20b33",
+             "blockName": "TA3 Num",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "A3",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexBasis": "0px",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "4px",
+              "minWidth": "0px"
+             },
+             "blockId": "44e2085a81",
+             "blockName": "TA3 Title Stack",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "fontFamily": "Abril Fatface",
+                "fontSize": "27px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.15",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "f89d7fa4b7",
+               "blockName": "TA3 Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Sync & licensing",
+               "mobileStyles": {
+                "fontSize": "21px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+                "fontFamily": "DM Sans",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "b993dcf56a",
+               "blockName": "TA3 Note",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Our songs end up in films by directors who still buy records. Coincidence? No.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+              "flexShrink": 0,
+              "fontFamily": "DM Mono",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "b1781bbca5",
+             "blockName": "TA3 Duration",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "2:59",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-track"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "gap": "16px",
+            "padding": "18px 2px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a07, #D8CBB0)",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "26px",
+            "padding": "22px 6px",
+            "width": "100%"
+           },
+           "blockId": "bb4235b7ba",
+           "blockName": "TA4 Row",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+              "flexShrink": 0,
+              "fontFamily": "DM Mono",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "ba43453dcf",
+             "blockName": "TA4 Num",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "A4",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexBasis": "0px",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "4px",
+              "minWidth": "0px"
+             },
+             "blockId": "e26be62932",
+             "blockName": "TA4 Title Stack",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "fontFamily": "Abril Fatface",
+                "fontSize": "27px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.15",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "bfac1ecf83",
+               "blockName": "TA4 Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "The listening bar",
+               "mobileStyles": {
+                "fontSize": "21px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+                "fontFamily": "DM Sans",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "c3c46334b3",
+               "blockName": "TA4 Note",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Fridays at eight, the office becomes a bar with one rule: whole sides only.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+              "flexShrink": 0,
+              "fontFamily": "DM Mono",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "5091cf431c",
+             "blockName": "TA4 Duration",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "6:21",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-track"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "gap": "16px",
+            "padding": "18px 2px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gr-rise",
+          "gr-d2"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 36px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {
+      "data-tune": "A2 · Side A, the label"
+     },
+     "element": "div",
+     "mobileStyles": {
+      "padding": "56px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "72px 0px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a03, #ECE2CC)",
+      "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+      "borderStyle": "solid",
+      "borderWidth": "2px 0px 0px 0px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "96px 0px",
+      "width": "100%"
+     },
+     "blockId": "8e5f5b5355",
+     "blockName": "Latest Pressings",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1220px",
+        "padding": "0px 56px",
+        "width": "100%"
+       },
+       "blockId": "fc567c1ec6",
+       "blockName": "Pressings Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "14px",
+          "marginBottom": "48px",
+          "width": "fit-content"
+         },
+         "blockId": "e1054efafa",
+         "blockName": "Pressings Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "12px",
+            "width": "fit-content"
+           },
+           "blockId": "cec490d147",
+           "blockName": "Pressings Eyebrow",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+              "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "borderRadius": "4px",
+              "borderStyle": "solid",
+              "borderWidth": "1.5px",
+              "flexShrink": 0,
+              "height": "12px",
+              "width": "12px"
+             },
+             "blockId": "639d570b87",
+             "blockName": "Pressings Eyebrow Chip",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "fontFamily": "DM Mono",
+              "fontSize": "12px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.22em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "34b064ec91",
+             "blockName": "Pressings Eyebrow Text",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Latest pressings",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+            "fontFamily": "Abril Fatface",
+            "fontSize": "44px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.005em",
+            "lineHeight": "1.06",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "c99fc3725e",
+           "blockName": "Pressings Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Fresh wax, still warm.",
+           "mobileStyles": {
+            "fontSize": "31px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gr-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "marginBottom": "34px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "44px",
+          "width": "100%"
+         },
+         "blockId": "c72eba638e",
+         "blockName": "Pressings Grid",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "14px",
+            "minWidth": "0px"
+           },
+           "blockId": "b1b7266d0e",
+           "blockName": "Sleeve Col Night Bus",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "position": "relative",
+              "width": "100%"
+             },
+             "blockId": "6b6eee31e6",
+             "blockName": "Sleeve Night Bus",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "aspectRatio": "1 / 1",
+                "borderRadius": "999px",
+                "left": "3%",
+                "position": "absolute",
+                "top": "3%",
+                "width": "94%",
+                "zIndex": "1"
+               },
+               "blockId": "f0d9a3a158",
+               "blockName": "Mini Disc Night Bus",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "aspectRatio": "1 / 1",
+                  "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+                  "borderRadius": "999px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "left": "33%",
+                  "position": "absolute",
+                  "top": "33%",
+                  "width": "34%"
+                 },
+                 "blockId": "4cb2495af5",
+                 "blockName": "Mini Disc Night Bus Label",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                    "flexShrink": 0,
+                    "fontFamily": "DM Mono",
+                    "fontSize": "8px",
+                    "fontWeight": "400",
+                    "height": "fit-content",
+                    "letterSpacing": "0.16em",
+                    "lineHeight": "1.5",
+                    "minWidth": "10px",
+                    "textTransform": "uppercase",
+                    "whiteSpace": "nowrap",
+                    "width": "fit-content"
+                   },
+                   "blockId": "ffc81a4322",
+                   "blockName": "Mini Disc Night Bus Label Text",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "NIGHT SHIFT",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+                  "borderRadius": "999px",
+                  "height": "4%",
+                  "left": "48%",
+                  "position": "absolute",
+                  "top": "48%",
+                  "width": "4%"
+                 },
+                 "blockId": "ea6f9253cc",
+                 "blockName": "Mini Disc Night Bus Spindle",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "gr-minidisc"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "borderRadius": "6px",
+                "borderStyle": "solid",
+                "borderWidth": "2px",
+                "overflow": "hidden",
+                "position": "relative",
+                "width": "100%",
+                "zIndex": "2"
+               },
+               "blockId": "784e31891a",
+               "blockName": "Sleeve Cover Night Bus",
+               "children": [
+                {
+                 "attributes": {
+                  "alt": "Night Bus by Velvet Antenna, NSR-031",
+                  "src": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?auto=format&fit=crop&q=80&w=1100"
+                 },
+                 "baseStyles": {
+                  "aspectRatio": "1 / 1",
+                  "display": "block",
+                  "flexShrink": 0,
+                  "objectFit": "cover",
+                  "width": "100%"
+                 },
+                 "blockId": "d58b57ce75",
+                 "blockName": "Cover Photo Night Bus",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "img",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "bottom": "0px",
+                  "height": "60%",
+                  "left": "0px",
+                  "position": "absolute",
+                  "width": "100%"
+                 },
+                 "blockId": "716003dde5",
+                 "blockName": "Cover Scrim Night Bus",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {
+                  "background": "linear-gradient(180deg, transparent, rgba(25, 19, 9, 0.82))"
+                 },
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "#F5EEDF",
+                  "flexShrink": 0,
+                  "fontFamily": "DM Mono",
+                  "fontSize": "10px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "left": "22px",
+                  "letterSpacing": "0.2em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "position": "absolute",
+                  "textTransform": "uppercase",
+                  "top": "18px",
+                  "whiteSpace": "nowrap",
+                  "width": "fit-content",
+                  "zIndex": "2"
+                 },
+                 "blockId": "ab5d56cfdb",
+                 "blockName": "Cover Cat Night Bus",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "NSR-031",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "bottom": "20px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "gap": "2px",
+                  "left": "22px",
+                  "position": "absolute",
+                  "right": "22px",
+                  "zIndex": "2"
+                 },
+                 "blockId": "a87d0196c6",
+                 "blockName": "Cover Text Night Bus",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+                    "fontFamily": "Abril Fatface",
+                    "fontSize": "31px",
+                    "fontWeight": "400",
+                    "height": "fit-content",
+                    "lineHeight": "1.1",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "51840ca0be",
+                   "blockName": "Cover Album Night Bus",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Night Bus",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "#D8CBB0",
+                    "fontFamily": "DM Mono",
+                    "fontSize": "11px",
+                    "fontWeight": "400",
+                    "height": "fit-content",
+                    "letterSpacing": "0.18em",
+                    "lineHeight": "1.5",
+                    "minWidth": "10px",
+                    "textTransform": "uppercase",
+                    "width": "fit-content"
+                   },
+                   "blockId": "81b94e9c97",
+                   "blockName": "Cover Artist Night Bus",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Velvet Antenna",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "gr-sleeve"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "justifyContent": "space-between",
+              "width": "100%"
+             },
+             "blockId": "b5435ab4a4",
+             "blockName": "Sleeve Meta Night Bus",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+                "fontFamily": "DM Mono",
+                "fontSize": "11px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.14em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "d246540dfe",
+               "blockName": "Sleeve Meta L Night Bus",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "180 g · gatefold · €26",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {
+                "href": "mailto:shop@nightshift.records"
+               },
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+                "fontFamily": "DM Sans",
+                "fontSize": "14px",
+                "fontWeight": "700",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "textDecoration": "none",
+                "width": "fit-content"
+               },
+               "blockId": "bd10ac4c01",
+               "blockName": "Sleeve Buy Night Bus",
+               "children": [],
+               "classes": [
+                "gr-ul"
+               ],
+               "customAttributes": {},
+               "element": "a",
+               "innerHTML": "Buy →",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-rise",
+            "gr-d1"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "14px",
+            "minWidth": "0px"
+           },
+           "blockId": "ccb3ce1462",
+           "blockName": "Sleeve Col Teeth First",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "position": "relative",
+              "width": "100%"
+             },
+             "blockId": "c9506ee44b",
+             "blockName": "Sleeve Teeth First",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "aspectRatio": "1 / 1",
+                "borderRadius": "999px",
+                "left": "3%",
+                "position": "absolute",
+                "top": "3%",
+                "width": "94%",
+                "zIndex": "1"
+               },
+               "blockId": "384eec7cf5",
+               "blockName": "Mini Disc Teeth First",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "aspectRatio": "1 / 1",
+                  "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a05, #E3A92B)",
+                  "borderRadius": "999px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "left": "33%",
+                  "position": "absolute",
+                  "top": "33%",
+                  "width": "34%"
+                 },
+                 "blockId": "ccc3bf3910",
+                 "blockName": "Mini Disc Teeth First Label",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                    "flexShrink": 0,
+                    "fontFamily": "DM Mono",
+                    "fontSize": "8px",
+                    "fontWeight": "400",
+                    "height": "fit-content",
+                    "letterSpacing": "0.16em",
+                    "lineHeight": "1.5",
+                    "minWidth": "10px",
+                    "textTransform": "uppercase",
+                    "whiteSpace": "nowrap",
+                    "width": "fit-content"
+                   },
+                   "blockId": "4f03711dc4",
+                   "blockName": "Mini Disc Teeth First Label Text",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "NIGHT SHIFT",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+                  "borderRadius": "999px",
+                  "height": "4%",
+                  "left": "48%",
+                  "position": "absolute",
+                  "top": "48%",
+                  "width": "4%"
+                 },
+                 "blockId": "9aaea6dd76",
+                 "blockName": "Mini Disc Teeth First Spindle",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "gr-minidisc"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "borderRadius": "6px",
+                "borderStyle": "solid",
+                "borderWidth": "2px",
+                "overflow": "hidden",
+                "position": "relative",
+                "width": "100%",
+                "zIndex": "2"
+               },
+               "blockId": "2d32897522",
+               "blockName": "Sleeve Cover Teeth First",
+               "children": [
+                {
+                 "attributes": {
+                  "alt": "Teeth First by Bad Comet, NSR-032",
+                  "src": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?auto=format&fit=crop&q=80&w=1100"
+                 },
+                 "baseStyles": {
+                  "aspectRatio": "1 / 1",
+                  "display": "block",
+                  "flexShrink": 0,
+                  "objectFit": "cover",
+                  "width": "100%"
+                 },
+                 "blockId": "36a1e1a0c6",
+                 "blockName": "Cover Photo Teeth First",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "img",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "bottom": "0px",
+                  "height": "60%",
+                  "left": "0px",
+                  "position": "absolute",
+                  "width": "100%"
+                 },
+                 "blockId": "13beb2f63b",
+                 "blockName": "Cover Scrim Teeth First",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {
+                  "background": "linear-gradient(180deg, transparent, rgba(25, 19, 9, 0.82))"
+                 },
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "#F5EEDF",
+                  "flexShrink": 0,
+                  "fontFamily": "DM Mono",
+                  "fontSize": "10px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "left": "22px",
+                  "letterSpacing": "0.2em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "position": "absolute",
+                  "textTransform": "uppercase",
+                  "top": "18px",
+                  "whiteSpace": "nowrap",
+                  "width": "fit-content",
+                  "zIndex": "2"
+                 },
+                 "blockId": "df3091b5be",
+                 "blockName": "Cover Cat Teeth First",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "NSR-032",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "bottom": "20px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "gap": "2px",
+                  "left": "22px",
+                  "position": "absolute",
+                  "right": "22px",
+                  "zIndex": "2"
+                 },
+                 "blockId": "79ff8e056b",
+                 "blockName": "Cover Text Teeth First",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+                    "fontFamily": "Abril Fatface",
+                    "fontSize": "31px",
+                    "fontWeight": "400",
+                    "height": "fit-content",
+                    "lineHeight": "1.1",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "1d71086c23",
+                   "blockName": "Cover Album Teeth First",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Teeth First",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "#D8CBB0",
+                    "fontFamily": "DM Mono",
+                    "fontSize": "11px",
+                    "fontWeight": "400",
+                    "height": "fit-content",
+                    "letterSpacing": "0.18em",
+                    "lineHeight": "1.5",
+                    "minWidth": "10px",
+                    "textTransform": "uppercase",
+                    "width": "fit-content"
+                   },
+                   "blockId": "0941afe1e7",
+                   "blockName": "Cover Artist Teeth First",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Bad Comet",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "gr-sleeve"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "justifyContent": "space-between",
+              "width": "100%"
+             },
+             "blockId": "1d3c0ad4f5",
+             "blockName": "Sleeve Meta Teeth First",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+                "fontFamily": "DM Mono",
+                "fontSize": "11px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.14em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "1525f36d0e",
+               "blockName": "Sleeve Meta L Teeth First",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "180 g · 45 RPM · €24",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {
+                "href": "mailto:shop@nightshift.records"
+               },
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+                "fontFamily": "DM Sans",
+                "fontSize": "14px",
+                "fontWeight": "700",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "textDecoration": "none",
+                "width": "fit-content"
+               },
+               "blockId": "9b504b11eb",
+               "blockName": "Sleeve Buy Teeth First",
+               "children": [],
+               "classes": [
+                "gr-ul"
+               ],
+               "customAttributes": {},
+               "element": "a",
+               "innerHTML": "Buy →",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-rise",
+            "gr-d2"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "14px",
+            "minWidth": "0px"
+           },
+           "blockId": "06c3c42ef4",
+           "blockName": "Sleeve Col Slow Static",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "position": "relative",
+              "width": "100%"
+             },
+             "blockId": "484e1ace60",
+             "blockName": "Sleeve Slow Static",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "aspectRatio": "1 / 1",
+                "borderRadius": "999px",
+                "left": "3%",
+                "position": "absolute",
+                "top": "3%",
+                "width": "94%",
+                "zIndex": "1"
+               },
+               "blockId": "a458709211",
+               "blockName": "Mini Disc Slow Static",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "aspectRatio": "1 / 1",
+                  "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+                  "borderRadius": "999px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "left": "33%",
+                  "position": "absolute",
+                  "top": "33%",
+                  "width": "34%"
+                 },
+                 "blockId": "5a0ac9bafd",
+                 "blockName": "Mini Disc Slow Static Label",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                    "flexShrink": 0,
+                    "fontFamily": "DM Mono",
+                    "fontSize": "8px",
+                    "fontWeight": "400",
+                    "height": "fit-content",
+                    "letterSpacing": "0.16em",
+                    "lineHeight": "1.5",
+                    "minWidth": "10px",
+                    "textTransform": "uppercase",
+                    "whiteSpace": "nowrap",
+                    "width": "fit-content"
+                   },
+                   "blockId": "1d093d5300",
+                   "blockName": "Mini Disc Slow Static Label Text",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "NIGHT SHIFT",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+                  "borderRadius": "999px",
+                  "height": "4%",
+                  "left": "48%",
+                  "position": "absolute",
+                  "top": "48%",
+                  "width": "4%"
+                 },
+                 "blockId": "0f1bbe9dec",
+                 "blockName": "Mini Disc Slow Static Spindle",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "gr-minidisc"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "borderRadius": "6px",
+                "borderStyle": "solid",
+                "borderWidth": "2px",
+                "overflow": "hidden",
+                "position": "relative",
+                "width": "100%",
+                "zIndex": "2"
+               },
+               "blockId": "bf224ac0c6",
+               "blockName": "Sleeve Cover Slow Static",
+               "children": [
+                {
+                 "attributes": {
+                  "alt": "Slow Static by Nadia Reyes, NSR-033",
+                  "src": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&q=80&w=1100"
+                 },
+                 "baseStyles": {
+                  "aspectRatio": "1 / 1",
+                  "display": "block",
+                  "flexShrink": 0,
+                  "objectFit": "cover",
+                  "width": "100%"
+                 },
+                 "blockId": "aaadad15bd",
+                 "blockName": "Cover Photo Slow Static",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "img",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "bottom": "0px",
+                  "height": "60%",
+                  "left": "0px",
+                  "position": "absolute",
+                  "width": "100%"
+                 },
+                 "blockId": "39757265e1",
+                 "blockName": "Cover Scrim Slow Static",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {
+                  "background": "linear-gradient(180deg, transparent, rgba(25, 19, 9, 0.82))"
+                 },
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "#F5EEDF",
+                  "flexShrink": 0,
+                  "fontFamily": "DM Mono",
+                  "fontSize": "10px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "left": "22px",
+                  "letterSpacing": "0.2em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "position": "absolute",
+                  "textTransform": "uppercase",
+                  "top": "18px",
+                  "whiteSpace": "nowrap",
+                  "width": "fit-content",
+                  "zIndex": "2"
+                 },
+                 "blockId": "18cdd9c068",
+                 "blockName": "Cover Cat Slow Static",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "NSR-033",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "bottom": "20px",
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "gap": "2px",
+                  "left": "22px",
+                  "position": "absolute",
+                  "right": "22px",
+                  "zIndex": "2"
+                 },
+                 "blockId": "5c86864c2a",
+                 "blockName": "Cover Text Slow Static",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+                    "fontFamily": "Abril Fatface",
+                    "fontSize": "31px",
+                    "fontWeight": "400",
+                    "height": "fit-content",
+                    "lineHeight": "1.1",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "c139585542",
+                   "blockName": "Cover Album Slow Static",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Slow Static",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "#D8CBB0",
+                    "fontFamily": "DM Mono",
+                    "fontSize": "11px",
+                    "fontWeight": "400",
+                    "height": "fit-content",
+                    "letterSpacing": "0.18em",
+                    "lineHeight": "1.5",
+                    "minWidth": "10px",
+                    "textTransform": "uppercase",
+                    "width": "fit-content"
+                   },
+                   "blockId": "32849b449f",
+                   "blockName": "Cover Artist Slow Static",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Nadia Reyes",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+                "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "borderRadius": "999px",
+                "borderStyle": "solid",
+                "borderWidth": "2px",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "gap": "3px",
+                "height": "104px",
+                "justifyContent": "center",
+                "position": "absolute",
+                "right": "-18px",
+                "top": "-26px",
+                "width": "104px",
+                "zIndex": "5"
+               },
+               "blockId": "b26c894b13",
+               "blockName": "Sticker Slow Static",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                  "flexShrink": 0,
+                  "fontFamily": "DM Mono",
+                  "fontSize": "9px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "letterSpacing": "0.14em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "textTransform": "uppercase",
+                  "whiteSpace": "nowrap",
+                  "width": "fit-content"
+                 },
+                 "blockId": "a025bde8b6",
+                 "blockName": "Sticker Slow Static L0",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Fresh",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                  "flexShrink": 0,
+                  "fontFamily": "DM Mono",
+                  "fontSize": "9px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "letterSpacing": "0.14em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "textTransform": "uppercase",
+                  "whiteSpace": "nowrap",
+                  "width": "fit-content"
+                 },
+                 "blockId": "27a54ef95e",
+                 "blockName": "Sticker Slow Static L1",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Off the",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                  "flexShrink": 0,
+                  "fontFamily": "DM Mono",
+                  "fontSize": "10px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "letterSpacing": "0.14em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "textTransform": "uppercase",
+                  "whiteSpace": "nowrap",
+                  "width": "fit-content"
+                 },
+                 "blockId": "994c377f5a",
+                 "blockName": "Sticker Slow Static L2",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "press",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {
+                "display": "none"
+               },
+               "rawStyles": {
+                "box-shadow": "3px 3px 0 rgba(25, 19, 9, 0.9)",
+                "transform": "rotate(8deg)"
+               },
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "gr-sleeve"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "justifyContent": "space-between",
+              "width": "100%"
+             },
+             "blockId": "9d74076a9a",
+             "blockName": "Sleeve Meta Slow Static",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+                "fontFamily": "DM Mono",
+                "fontSize": "11px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.14em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "84bb7b4e04",
+               "blockName": "Sleeve Meta L Slow Static",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "180 g · hand-numbered · €28",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {
+                "href": "mailto:shop@nightshift.records"
+               },
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+                "fontFamily": "DM Sans",
+                "fontSize": "14px",
+                "fontWeight": "700",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "textDecoration": "none",
+                "width": "fit-content"
+               },
+               "blockId": "150de9d724",
+               "blockName": "Sleeve Buy Slow Static",
+               "children": [],
+               "classes": [
+                "gr-ul"
+               ],
+               "customAttributes": {},
+               "element": "a",
+               "innerHTML": "Buy →",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-rise",
+            "gr-d3"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexDirection": "column",
+          "gap": "56px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+          "fontFamily": "DM Sans",
+          "fontSize": "13.5px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.7",
+          "marginTop": "36px",
+          "maxWidth": "420px",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "2b03acf7b6",
+         "blockName": "Pressings Hint",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Hover a sleeve. The record comes out. That is the whole trick, and it never gets old.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 36px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {
+      "data-tune": "A3 · Fresh wax, still warm"
+     },
+     "element": "div",
+     "mobileStyles": {
+      "padding": "56px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "72px 0px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a05, #E3A92B)",
+      "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+      "borderStyle": "solid",
+      "borderWidth": "2px 0px 0px 0px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "80px 0px",
+      "width": "100%"
+     },
+     "blockId": "a83abd463a",
+     "blockName": "Stats Band",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1220px",
+        "padding": "0px 56px",
+        "width": "100%"
+       },
+       "blockId": "ffe7fdf072",
+       "blockName": "Stats Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "44px",
+          "width": "100%"
+         },
+         "blockId": "de169b6a2b",
+         "blockName": "Stats Row",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 0px 2px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "8px",
+            "padding": "4px 0px 4px 24px"
+           },
+           "blockId": "5e877c3766",
+           "blockName": "Stat 1",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "fontFamily": "Abril Fatface",
+              "fontSize": "62px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.005em",
+              "lineHeight": "1.06",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "ae0a4b9557",
+             "blockName": "Stat Value 1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "33",
+             "mobileStyles": {
+              "fontSize": "44px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "fontFamily": "DM Sans",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.7",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "75ca98df3b",
+             "blockName": "Stat Label 1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "records pressed, numbered and gone",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-rise",
+            "gr-d1"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 0px 2px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "8px",
+            "padding": "4px 0px 4px 24px"
+           },
+           "blockId": "a035c5844b",
+           "blockName": "Stat 2",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "fontFamily": "Abril Fatface",
+              "fontSize": "62px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.005em",
+              "lineHeight": "1.06",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "0444288172",
+             "blockName": "Stat Value 2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "500",
+             "mobileStyles": {
+              "fontSize": "44px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "fontFamily": "DM Sans",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.7",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "e27fb23451",
+             "blockName": "Stat Label 2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "copies per run. When they're gone, they're gone",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-rise",
+            "gr-d2"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 0px 2px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "8px",
+            "padding": "4px 0px 4px 24px"
+           },
+           "blockId": "1b1dc10e55",
+           "blockName": "Stat 3",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "fontFamily": "Abril Fatface",
+              "fontSize": "62px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.005em",
+              "lineHeight": "1.06",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "5cd3ed28c7",
+             "blockName": "Stat Value 3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "0",
+             "mobileStyles": {
+              "fontSize": "44px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "fontFamily": "DM Sans",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.7",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "8d82299c2b",
+             "blockName": "Stat Label 3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "streaming exclusives, playlist deals or algorithm bait",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-rise",
+            "gr-d3"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexDirection": "column",
+          "gap": "28px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 36px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {
+      "data-tune": "A4 · The numbers"
+     },
+     "element": "div",
+     "mobileStyles": {
+      "padding": "48px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "60px 0px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+      "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+      "borderStyle": "solid",
+      "borderWidth": "2px 0px 0px 0px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "110px 0px",
+      "width": "100%"
+     },
+     "blockId": "5da6fee0b0",
+     "blockName": "Manifesto",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "18px",
+        "maxWidth": "860px",
+        "padding": "0px 22px"
+       },
+       "blockId": "7564468a80",
+       "blockName": "Manifesto Stack",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+          "fontFamily": "Abril Fatface",
+          "fontSize": "58px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "0.005em",
+          "lineHeight": "1.06",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "b7e3cf3a0c",
+         "blockName": "Manifesto Line",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Streaming is fine.<br><span style=\"color: #E4572E;\">This is better.</span>",
+         "mobileStyles": {
+          "fontSize": "32px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "44px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "#B7AC93",
+          "fontFamily": "DM Mono",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "0.2em",
+          "lineHeight": "1.5",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "1aa3cfef03",
+         "blockName": "Manifesto Sub",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "A side is 22 minutes. Sit down. Stay for it.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "gr-rise"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {
+      "data-tune": "A5 · Sit down, stay for it"
+     },
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "84px 0px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "7dcb32a6a1",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "510264419b",
+       "blockName": "Runout Marquee",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "c00bd7c7f4",
+         "blockName": "Runout Track",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "91c30218e7",
+           "blockName": "Runout A",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "e3d08297de",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "32dce7d549",
+           "blockName": "Runout B",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "bf34c4fa50",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_runout_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "fb8b222c2c",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "groove_runout_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "cc7e9dd922",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "6ddd97e426",
+       "blockName": "Footer Main",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "a341da538a",
+         "blockName": "Footer Brand Col",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "ab915b5dc9",
+           "blockName": "Footer Brand",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "4cf4a989da",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0c69b1a121",
+           "blockName": "Footer Addr",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "d2a451e4de",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_runout_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "86a811604c",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "44d1c03f3e",
+         "blockName": "Footer Col Hours",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "308d83109c",
+           "blockName": "Col Hours",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "3d522fa8d6",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "25af3f8c31",
+           "blockName": "Hours L0",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ed4b37237e",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "345201d844",
+           "blockName": "Hours L1",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9a69a751a5",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "dda11e3b2a",
+           "blockName": "Hours L2",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "42fd73af25",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_runout_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "d55e1a180a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "82c3937699",
+         "blockName": "Footer Col Contact",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "7ffa4db7ef",
+           "blockName": "Col Contact",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "2c877133e4",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "ac8e55e641",
+           "blockName": "Contact L0",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "97ee83fb99",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "b7358fd25b",
+           "blockName": "Contact L1",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "348eb221c9",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "88f9b021bb",
+           "blockName": "Contact L2",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "37f705c3c2",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_runout_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "1dcd3a8b7b",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "e8b1b33047",
+         "blockName": "Barcode Block",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "ed1749a366",
+           "blockName": "Barcode",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "e5fe05bb69",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "46f9fe3551",
+           "blockName": "Barcode Number",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9e5c269ec2",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_runout_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "d8978f7314",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "groove_runout_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "4b019a84b3",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "b717c3fa00",
+       "blockName": "Footer Small",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "5c03ecdbaa",
+         "blockName": "Footer Copyright",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_runout_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "7514cb71f4",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "de3d6e8195",
+         "blockName": "Footer Credit",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_runout_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "545051f7a2",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "groove_runout_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "9e24a06d05",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "groove_runout_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "groove_styles"
+  },
+  {
+   "builder_script": "groove_motion"
+  }
+ ],
+ "creation": "2026-07-19 21:30:17.850411",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "An independent vinyl label pressing 500-copy runs. Scroll to spin the record.",
+ "modified": "2026-07-19 21:30:17.850411",
+ "modified_by": "Administrator",
+ "name": "groove_home",
+ "owner": "Administrator",
+ "page_name": "groove_home",
+ "page_title": "Night Shift Records · Music worth the needle",
+ "preview": "/builder_assets/groove/groove_home/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/groove/home",
+ "template_group": "groove"
+}
