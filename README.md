@@ -32,6 +32,7 @@ per-template briefs.
 | **Candor**<br>A statement-first advisory site: one color, giant serif, a fee table, no photos.<br><sub>Pages: Home · Work · Start</sub> | <img src="builder_hub/www/builder_assets/candor/candor_home/preview.webp" width="360"> |
 | **Recipe**<br>An agency as recipe cards: ruled index cards, chef's notes, a tear-off coupon.<br><sub>Pages: Home · Menu · Kitchen</sub> | <img src="builder_hub/www/builder_assets/recipe/recipe_home/preview.webp" width="360"> |
 | **Fetch**<br>A playful one-product site: rounded color blocks, big dog photos, forever guarantee.<br><sub>Pages: Home · Collar · Help</sub> | <img src="builder_hub/www/builder_assets/fetch/fetch_home/preview.webp" width="360"> |
+| **Groove**<br>A vinyl label where the record spins as you scroll: tonearm progress, ejecting sleeves, a runout-groove footer.<br><sub>Pages: Home · The crate · B-side</sub> | <img src="builder_hub/www/builder_assets/groove/groove_home/preview.webp" width="360"> |
 
 ### Portfolio
 
@@ -80,12 +81,6 @@ per-template briefs.
 | Template | Preview |
 |---|---|
 | **Ember**<br>A dark wood-fire tasting room: hearth-lit photography, a framed menu card and scroll-reveal motion.<br><sub>Pages: Home · Menu · About · Contact</sub> | <img src="builder_hub/www/builder_assets/ember/ember_home/preview.webp" width="360"> |
-
-### Travel & Hospitality
-
-| Template | Preview |
-|---|---|
-| **Fathom**<br>A freediving school where scrolling is the dive: a pinned descent scene, a live depth gauge and a video seabed.<br><sub>Pages: Home · The line · The school</sub> | <img src="builder_hub/www/builder_assets/fathom/fathom_home/preview.webp" width="360"> |
 
 ### Technology
 

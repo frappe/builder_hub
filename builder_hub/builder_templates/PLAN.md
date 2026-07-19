@@ -24,7 +24,9 @@ Rules that apply to every template:
   commit (original conference starter, retired Jul 17 2026), arcade (CRT cabinet, strong
   execution but retired on user preference), cobalt and hustle
   (Jul 2026 marketing batch, retired same week: competent genre executions without a strong
-  conceit; the bar is what a top design agency would ship).
+  conceit; the bar is what a top design agency would ship), fathom (scroll-dive freediving
+  school, retired Jul 19 2026: technically slick scrollytelling but atmospheric rather than
+  artifact-like; the lesson is that conceits must be objects with furniture, not moods).
 - Templates need not be themed (light/dark toggle optional): app-UI and product templates may
   ship a single neutral look, but every color still goes through Builder Variables so the whole
   template rethemes by editing the palette.
@@ -33,7 +35,9 @@ Rules that apply to every template:
   view-timeline parallax as progressive enhancement). The JS arms hidden states only when
   `prefers-reduced-motion` allows, so no-JS and reduced-motion users see a complete static page.
   Pipeline gotcha: a page's root block must carry `"originalElement": "body"` (Builder's canvas
-  convention) or JavaScript client scripts are never rendered into the published page.
+  convention) or JavaScript client scripts are never rendered into the published page. Second
+  gotcha: Builder stamps `data-track` on rendered blocks for click analytics, so custom
+  waypoint attributes must use another name (groove uses `data-tune`).
 
 ## Archetype registry (shipped groups)
 
@@ -70,7 +74,7 @@ Rules that apply to every template:
 | candor | statement screens: full-viewport one-color statement hero, cropped mega wordmark, serif fee table, no photos |
 | fetch  | product bento: super-rounded pastel tiles, blob photo frames, star reviews, size table, guarantee card |
 | ember  | hearth menu-card: split wordmark/photo hero, hours marquee rule, roman-numeral snap strip, double-hairline menu frames, reserve-banner footer, scroll-reveal motion |
-| fathom | the dive: scroll-pinned descent scene driven by a --p scroll variable (video layer, crossfading water gradients, passing depth ruler, waypoint cards), fixed depth-gauge HUD, dive-line course ledger, light surface footer after dark pages |
+| groove | the record: scroll-spun CSS vinyl hero with tonearm-as-progress, NOW PLAYING pill retuning per section, tracklist rows with runtimes, sleeves that eject their disc on hover, crate-flip roster, hype stickers, runout-groove marquee footer with CSS barcode |
 
 New briefs must claim an archetype not on this list, and the list grows as templates ship.
 
@@ -160,7 +164,6 @@ crossovers), encore, aurora (Technology + Marketing).
 ### Travel & Hospitality (sky, sand, saturated and photo-forward)
 | Codename | Theme | Concept |
 |----------|-------|---------|
-| fathom   | depth gradient | freediving school, scroll IS the dive: pinned descent scene, live depth gauge (built: 3 pages, order 35, brief below) |
 | drift    | light | travel agency, sky blue, itinerary cards |
 | dune     | pastel | desert resort, sand and terracotta |
 | fjord    | dark | adventure tour operator, deep teal, expedition log |
@@ -838,35 +841,45 @@ are the wrong hire"), a fee table with a thick top rule and fixed prices, roman-
 principles, and a start page that sets expectations for the first call. Serif everywhere,
 no photos, single theme. 3 pages (home / work / start), order 31.
 
-## Brief: fathom (Travel & Hospitality, depth gradient), BUILT Jul 2026
+## Brief: fathom (Travel & Hospitality, depth gradient), RETIRED Jul 19 2026
 
-The scroll-jacking one, built after ember on the user's "extremely creative" direction. Fathom
-is a freediving school over a 42-metre blue hole, and scrolling the home page IS the dive: a
-bright typographic surface hero (aqua gradient, "Take one breath. Make it last."), then a
-560vh runner pinning a 100vh stage while a rAF scroll handler writes a `--p` progress variable
-onto the scene. CSS consumes `--p` to crossfade water gradients from teal to abyss, dim a
-looping underwater-rays video layer, fade out screen-blend sun rays, and slide a depth ruler
-past the viewport; the handler also flips waypoint cards (fa-on / fa-past at −4 / −10 / −16 /
-−26 / −42 m) and feeds a fixed depth-gauge HUD pill (`[data-depth]`, bottom right) that reads
-live metres on every page (the line page maps whole-page scroll to `data-max-depth`; the
-school page correctly reads 0.0 m, because school is the surface). After the descent: stats
-with a hairline rail, course teaser cards, a quote, and a BRIGHT surface-interval footer, so
-every dark page ends by coming up for air. The line page is a dive-line ledger (vertical rail,
-buoy dots at −10/−24/−42, course cards with checklists and honest prices) over a page-length
-depth gradient; the school page is the light surface page: two "portraits taken where we
-actually live" coaches, a video commute band, the bay, four safety rules, a mono logbook.
-Video assets are committed to builder_assets/fathom (rays.mp4 and diver.mp4, Pexels videos
-2632737 and 4749122, compressed to ~1 MB each, muted/looped/playsinline with a JS play()
-safeguard). No JS or reduced motion: the runner collapses to a static stacked depth itinerary,
-layers and HUD stay hidden, nothing is ever invisible. Instrument Serif (ital import) +
-Outfit + IBM Plex Mono; abyss/deep/foam/mist/ink/seam/buoy palette; the school page's nav
-instance overrides the glass bar to light, the first per-page component-instance override in
-the catalog. 3 pages (home / line / school), order 35.
+The scroll-dive freediving school: a 560vh runner pinning a 100vh stage, a rAF-driven `--p`
+variable crossfading water gradients over an underwater video layer, waypoint cards at
+−4/−10/−16/−26/−42 m, a live depth-gauge HUD, a dive-line course ledger, and a bright
+surface footer after dark pages. Retired same day it shipped, on user feedback ("boring"):
+the mechanics were sound but the experience was an atmosphere, not an artifact. Reusable
+learnings kept in the rules above (JS client scripts need `originalElement: body`;
+`backdrop-filter` ancestors trap `position: fixed`; per-page component-instance style
+overrides work by patching the mirrored node's baseStyles). Its committed video assets were
+removed with it.
+
+## Brief: groove (Marketing, warm hi-fi), BUILT Jul 2026
+
+The record label, replacing fathom after the user asked to "read the pattern": the shipped
+catalog keeps artifact conceits with dense furniture (recipe cards, the design file, the
+keynote, the zine), so groove makes the site a record. Night Shift Records, an independent
+vinyl label, 70s hi-fi palette (cream / ink / burnt orange / mustard), Abril Fatface +
+DM Sans + DM Mono. The hero is a pure-CSS vinyl record (repeating-radial grooves, conic
+sheen, orange centre label, spindle) that spins with scroll via a `--spin` variable, under a
+tonearm whose angle is whole-page progress (`--armp`): the page IS Side A. A fixed NOW
+PLAYING pill (ink, pulsing orange dot) retunes per section from `data-tune` attributes
+(NOT `data-track`, which Builder stamps on blocks for click analytics). Sections are
+tracklist rows (A1 to A4 with runtimes, prices set as durations on the B-side), releases are
+square sleeves whose vinyl ejects sideways on hover (`.gr-sleeve:hover z-index` lift so the
+disc rides over neighbours, cream rim for dark covers), the roster is a crate flipped
+sideways (perspective rotateY snap strip), hype stickers with offset shadows sit on the
+record wrap and headlines, the demo-drop card is the conversion ("Send three songs, not your
+best three, your truest three"), and the footer is the runout groove: a marquee of etched
+matrix text plus a CSS barcode. Chunky 2px-ink-border buttons with offset shadows that press
+down on hover. No JS / reduced motion: record and arm sit static, pill hidden, everything
+readable. 3 pages (home / roster / bside), order 35.
 
 ## Follow-ups
 
 - ember shipped Jul 19 2026 (order 34), opening the Food & Beverage category. Next briefs in
   that column: crumb, scoop, graze, zest.
+- groove shipped Jul 19 2026 (order 35), replacing the retired fathom. The taste rule that is
+  now three-for-three: build artifacts with furniture and wit, never atmospheres.
 - Re-tag the original shipped groups' `template.json` categories into the industry taxonomy when
   the first new template ships (fronds/verge -> closest vertical or General, mono/husk/verso
   -> Portfolio stays? decide then). commit was retired Jul 17 2026 instead of re-tagging.

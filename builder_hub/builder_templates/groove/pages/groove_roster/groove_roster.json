@@ -1,0 +1,2163 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+    "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "DM Sans",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "86d1bf0fb7",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "fe78da619d",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "d4eaeb8c97",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "82b8483498",
+         "blockName": "Brand Lockup",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "58844033ad",
+           "blockName": "Brand",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "4b40dc2eef",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "1019ba22cc",
+           "blockName": "Brand Sub",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "3d2238847a",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "3264c144f8",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "075ca59520",
+         "blockName": "Nav Links",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "2614cfe8a0",
+           "blockName": "Nav The crate",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "7b10ae9b74",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "6e6693d22e",
+           "blockName": "Nav B-side",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "24af0d1963",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "f766ff59cf",
+           "blockName": "Nav CTA",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "dc4cdc9616",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "cd1a1e6cc8",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "groove_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "f0a48e5e60",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "07669aee3d",
+       "blockName": "Now Playing Pill",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "62b47083d0",
+         "blockName": "Pill Dot",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "a1e64a9725",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "4c8aeba5ba",
+         "blockName": "Pill Label",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "f85590d5b6",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "ed46a8dcc1",
+         "blockName": "Pill Track",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "cbba95d61b",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "groove_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "7c4a1e5d44",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "groove_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "96px 0px 56px 0px",
+      "width": "100%"
+     },
+     "blockId": "31952a6f3c",
+     "blockName": "Roster Header",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1220px",
+        "padding": "0px 56px",
+        "width": "100%"
+       },
+       "blockId": "41c57066a2",
+       "blockName": "Roster Header Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "20px",
+          "width": "100%"
+         },
+         "blockId": "84f6edc9e9",
+         "blockName": "Roster Head Stack",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "12px",
+            "width": "fit-content"
+           },
+           "blockId": "4f794ed1fd",
+           "blockName": "Eyebrow",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+              "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "borderRadius": "4px",
+              "borderStyle": "solid",
+              "borderWidth": "1.5px",
+              "flexShrink": 0,
+              "height": "12px",
+              "width": "12px"
+             },
+             "blockId": "deb0490c89",
+             "blockName": "Eyebrow Chip",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "fontFamily": "DM Mono",
+              "fontSize": "12px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.22em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "dad9b99041",
+             "blockName": "Eyebrow Text",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The roster",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "maxWidth": "100%",
+            "position": "relative",
+            "width": "fit-content"
+           },
+           "blockId": "e80ce06ecc",
+           "blockName": "Roster Title Wrap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "fontFamily": "Abril Fatface",
+              "fontSize": "84px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.005em",
+              "lineHeight": "1.06",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "72421c357d",
+             "blockName": "Roster Title",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Dig the crate.",
+             "mobileStyles": {
+              "fontSize": "42px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {
+              "fontSize": "60px"
+             }
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a05, #E3A92B)",
+              "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "borderRadius": "999px",
+              "borderStyle": "solid",
+              "borderWidth": "2px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "3px",
+              "height": "108px",
+              "justifyContent": "center",
+              "position": "absolute",
+              "right": "-84px",
+              "top": "-30px",
+              "width": "108px",
+              "zIndex": "5"
+             },
+             "blockId": "4a05049d1b",
+             "blockName": "Roster Sticker",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "flexShrink": 0,
+                "fontFamily": "DM Mono",
+                "fontSize": "9px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.14em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "207fbb8aeb",
+               "blockName": "Roster Sticker L0",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Five",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "flexShrink": 0,
+                "fontFamily": "DM Mono",
+                "fontSize": "9px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.14em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "024dffbe0c",
+               "blockName": "Roster Sticker L1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Artists",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+                "flexShrink": 0,
+                "fontFamily": "DM Mono",
+                "fontSize": "8.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.14em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "301f5fec8a",
+               "blockName": "Roster Sticker L2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "No filler",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "display": "none"
+             },
+             "rawStyles": {
+              "box-shadow": "3px 3px 0 rgba(25, 19, 9, 0.9)",
+              "transform": "rotate(7deg)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+            "fontFamily": "DM Sans",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "maxWidth": "520px",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "6784ab3111",
+           "blockName": "Roster Sub",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Five artists, alphabetical by feel. Flip through the sleeves sideways, the way you would in the shop, before shops closed at reasonable hours.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gr-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 36px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {
+      "data-tune": "B1 · Dig the crate"
+     },
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 0px 40px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "0px 0px 64px 0px",
+      "width": "100%"
+     },
+     "blockId": "e702671a82",
+     "blockName": "Crate Strip Section",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "26px",
+        "overflowX": "auto",
+        "padding": "24px 56px 40px 56px",
+        "scrollPaddingLeft": "56px",
+        "width": "100%"
+       },
+       "blockId": "97595cbdac",
+       "blockName": "Crate Strip",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+          "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+          "borderRadius": "6px",
+          "borderStyle": "solid",
+          "borderWidth": "2px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "overflow": "hidden",
+          "position": "relative",
+          "width": "360px"
+         },
+         "blockId": "db33d82dc1",
+         "blockName": "Crate Velvet Antenna",
+         "children": [
+          {
+           "attributes": {
+            "alt": "Velvet Antenna: Synth-pop for empty motorways",
+            "src": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?auto=format&fit=crop&q=80&w=1000"
+           },
+           "baseStyles": {
+            "aspectRatio": "1 / 1",
+            "display": "block",
+            "flexShrink": 0,
+            "objectFit": "cover",
+            "width": "100%"
+           },
+           "blockId": "2b3cec5707",
+           "blockName": "Crate Photo Velvet Antenna",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "img",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "bottom": "0px",
+            "height": "62%",
+            "left": "0px",
+            "position": "absolute",
+            "width": "100%"
+           },
+           "blockId": "f07b386cdb",
+           "blockName": "Crate Scrim Velvet Antenna",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {
+            "background": "linear-gradient(180deg, transparent, rgba(25, 19, 9, 0.85))"
+           },
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "bottom": "18px",
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "4px",
+            "left": "20px",
+            "position": "absolute",
+            "right": "20px",
+            "zIndex": "2"
+           },
+           "blockId": "21ab103799",
+           "blockName": "Crate Text Velvet Antenna",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+              "fontFamily": "Abril Fatface",
+              "fontSize": "30px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "38af237957",
+             "blockName": "Crate Name Velvet Antenna",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Velvet Antenna",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "#D8CBB0",
+              "fontFamily": "DM Sans",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "b47d74146d",
+             "blockName": "Crate Line Velvet Antenna",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Synth-pop for empty motorways",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "#B7AC93",
+              "fontFamily": "DM Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.16em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "fddd4b0565",
+             "blockName": "Crate Meta Velvet Antenna",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "3 LPs · signed 2021",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gr-crate-sleeve"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "280px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+          "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+          "borderRadius": "6px",
+          "borderStyle": "solid",
+          "borderWidth": "2px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "overflow": "hidden",
+          "position": "relative",
+          "width": "360px"
+         },
+         "blockId": "b979f82725",
+         "blockName": "Crate Bad Comet",
+         "children": [
+          {
+           "attributes": {
+            "alt": "Bad Comet: Garage rock, recorded in one",
+            "src": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?auto=format&fit=crop&q=80&w=1000"
+           },
+           "baseStyles": {
+            "aspectRatio": "1 / 1",
+            "display": "block",
+            "flexShrink": 0,
+            "objectFit": "cover",
+            "width": "100%"
+           },
+           "blockId": "90341e2f76",
+           "blockName": "Crate Photo Bad Comet",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "img",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "bottom": "0px",
+            "height": "62%",
+            "left": "0px",
+            "position": "absolute",
+            "width": "100%"
+           },
+           "blockId": "425d1ca2a2",
+           "blockName": "Crate Scrim Bad Comet",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {
+            "background": "linear-gradient(180deg, transparent, rgba(25, 19, 9, 0.85))"
+           },
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "bottom": "18px",
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "4px",
+            "left": "20px",
+            "position": "absolute",
+            "right": "20px",
+            "zIndex": "2"
+           },
+           "blockId": "d511804bab",
+           "blockName": "Crate Text Bad Comet",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+              "fontFamily": "Abril Fatface",
+              "fontSize": "30px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "77637d6cae",
+             "blockName": "Crate Name Bad Comet",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Bad Comet",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "#D8CBB0",
+              "fontFamily": "DM Sans",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "318c01286c",
+             "blockName": "Crate Line Bad Comet",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Garage rock, recorded in one",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "#B7AC93",
+              "fontFamily": "DM Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.16em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "1d60d098ce",
+             "blockName": "Crate Meta Bad Comet",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "2 LPs · signed 2022",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gr-crate-sleeve"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "280px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+          "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+          "borderRadius": "6px",
+          "borderStyle": "solid",
+          "borderWidth": "2px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "overflow": "hidden",
+          "position": "relative",
+          "width": "360px"
+         },
+         "blockId": "1b92f67322",
+         "blockName": "Crate Marrow & Pine",
+         "children": [
+          {
+           "attributes": {
+            "alt": "Marrow & Pine: Folk songs about rent",
+            "src": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&q=80&w=1000"
+           },
+           "baseStyles": {
+            "aspectRatio": "1 / 1",
+            "display": "block",
+            "flexShrink": 0,
+            "objectFit": "cover",
+            "width": "100%"
+           },
+           "blockId": "0f779b82d0",
+           "blockName": "Crate Photo Marrow & Pine",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "img",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "bottom": "0px",
+            "height": "62%",
+            "left": "0px",
+            "position": "absolute",
+            "width": "100%"
+           },
+           "blockId": "820e826edd",
+           "blockName": "Crate Scrim Marrow & Pine",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {
+            "background": "linear-gradient(180deg, transparent, rgba(25, 19, 9, 0.85))"
+           },
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "bottom": "18px",
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "4px",
+            "left": "20px",
+            "position": "absolute",
+            "right": "20px",
+            "zIndex": "2"
+           },
+           "blockId": "fe319360ac",
+           "blockName": "Crate Text Marrow & Pine",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+              "fontFamily": "Abril Fatface",
+              "fontSize": "30px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "95bfe42ce1",
+             "blockName": "Crate Name Marrow & Pine",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Marrow & Pine",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "#D8CBB0",
+              "fontFamily": "DM Sans",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "dae0fbbec8",
+             "blockName": "Crate Line Marrow & Pine",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Folk songs about rent",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "#B7AC93",
+              "fontFamily": "DM Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.16em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "02d8da8e3a",
+             "blockName": "Crate Meta Marrow & Pine",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "1 LP · signed 2023",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gr-crate-sleeve"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "280px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+          "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+          "borderRadius": "6px",
+          "borderStyle": "solid",
+          "borderWidth": "2px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "overflow": "hidden",
+          "position": "relative",
+          "width": "360px"
+         },
+         "blockId": "ccaabed1f9",
+         "blockName": "Crate Nadia Reyes",
+         "children": [
+          {
+           "attributes": {
+            "alt": "Nadia Reyes: Torch songs, modern heartbreak",
+            "src": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&q=80&w=1000"
+           },
+           "baseStyles": {
+            "aspectRatio": "1 / 1",
+            "display": "block",
+            "flexShrink": 0,
+            "objectFit": "cover",
+            "width": "100%"
+           },
+           "blockId": "2233a2bad0",
+           "blockName": "Crate Photo Nadia Reyes",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "img",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "bottom": "0px",
+            "height": "62%",
+            "left": "0px",
+            "position": "absolute",
+            "width": "100%"
+           },
+           "blockId": "59cf292389",
+           "blockName": "Crate Scrim Nadia Reyes",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {
+            "background": "linear-gradient(180deg, transparent, rgba(25, 19, 9, 0.85))"
+           },
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "bottom": "18px",
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "4px",
+            "left": "20px",
+            "position": "absolute",
+            "right": "20px",
+            "zIndex": "2"
+           },
+           "blockId": "4042583ea6",
+           "blockName": "Crate Text Nadia Reyes",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+              "fontFamily": "Abril Fatface",
+              "fontSize": "30px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "7771b1f1f8",
+             "blockName": "Crate Name Nadia Reyes",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Nadia Reyes",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "#D8CBB0",
+              "fontFamily": "DM Sans",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "960a7c2240",
+             "blockName": "Crate Line Nadia Reyes",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Torch songs, modern heartbreak",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "#B7AC93",
+              "fontFamily": "DM Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.16em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "ac5ee48a8d",
+             "blockName": "Crate Meta Nadia Reyes",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "2 LPs · signed 2022",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gr-crate-sleeve"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "280px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+          "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+          "borderRadius": "6px",
+          "borderStyle": "solid",
+          "borderWidth": "2px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "overflow": "hidden",
+          "position": "relative",
+          "width": "360px"
+         },
+         "blockId": "9e12fae232",
+         "blockName": "Crate Tape Hiss Club",
+         "children": [
+          {
+           "attributes": {
+            "alt": "Tape Hiss Club: Lo-fi collages from found audio",
+            "src": "https://images.unsplash.com/photo-1571330735066-03aaa9429d89?auto=format&fit=crop&q=80&w=1000"
+           },
+           "baseStyles": {
+            "aspectRatio": "1 / 1",
+            "display": "block",
+            "flexShrink": 0,
+            "objectFit": "cover",
+            "width": "100%"
+           },
+           "blockId": "3a1e87d2d2",
+           "blockName": "Crate Photo Tape Hiss Club",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "img",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "bottom": "0px",
+            "height": "62%",
+            "left": "0px",
+            "position": "absolute",
+            "width": "100%"
+           },
+           "blockId": "3c2e77cd98",
+           "blockName": "Crate Scrim Tape Hiss Club",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {
+            "background": "linear-gradient(180deg, transparent, rgba(25, 19, 9, 0.85))"
+           },
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "bottom": "18px",
+            "display": "flex",
+            "flexDirection": "column",
+            "gap": "4px",
+            "left": "20px",
+            "position": "absolute",
+            "right": "20px",
+            "zIndex": "2"
+           },
+           "blockId": "3c9d093b79",
+           "blockName": "Crate Text Tape Hiss Club",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
+              "fontFamily": "Abril Fatface",
+              "fontSize": "30px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "e6e9f523a0",
+             "blockName": "Crate Name Tape Hiss Club",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Tape Hiss Club",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "#D8CBB0",
+              "fontFamily": "DM Sans",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "e43e57eee5",
+             "blockName": "Crate Line Tape Hiss Club",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Lo-fi collages from found audio",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "#B7AC93",
+              "fontFamily": "DM Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.16em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "b6d38f9746",
+             "blockName": "Crate Meta Tape Hiss Club",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "1 LP · signed 2024",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gr-crate-sleeve"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "280px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "gr-snap"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "gap": "16px",
+        "padding": "16px 20px 32px 20px",
+        "scrollPaddingLeft": "20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "24px 36px 40px 36px",
+        "scrollPaddingLeft": "36px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1220px",
+        "padding": "0px 56px",
+        "width": "100%"
+       },
+       "blockId": "9280675a19",
+       "blockName": "Crate Hint Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+          "fontFamily": "DM Mono",
+          "fontSize": "11px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "0.24em",
+          "lineHeight": "1.5",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "776ab8abe1",
+         "blockName": "Crate Hint",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Flip sideways →",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 36px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "0px 0px 110px 0px",
+      "width": "100%"
+     },
+     "blockId": "74192ec131",
+     "blockName": "Liner Notes",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1220px",
+        "padding": "0px 56px",
+        "width": "100%"
+       },
+       "blockId": "30f03c6a7c",
+       "blockName": "Liner Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a03, #ECE2CC)",
+          "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+          "borderRadius": "8px",
+          "borderStyle": "solid",
+          "borderWidth": "2px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "44px",
+          "padding": "44px 48px",
+          "width": "100%"
+         },
+         "blockId": "f383be0b49",
+         "blockName": "Liner Card",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+            "borderRadius": "6px",
+            "borderStyle": "solid",
+            "borderWidth": "2px",
+            "display": "flex",
+            "flexBasis": "38%",
+            "flexDirection": "column",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "overflow": "hidden"
+           },
+           "blockId": "c3a468464c",
+           "blockName": "Liner Photo Pane",
+           "children": [
+            {
+             "attributes": {
+              "alt": "The crate at the listening bar",
+              "src": "https://images.unsplash.com/photo-1483412033650-1015ddeb83d1?auto=format&fit=crop&q=80&w=1200"
+             },
+             "baseStyles": {
+              "aspectRatio": "4 / 3",
+              "display": "block",
+              "flexShrink": 0,
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "f7ad858202",
+             "blockName": "Liner Photo",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gr-zoom"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto",
+            "width": "100%"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "16px",
+            "minWidth": "0px"
+           },
+           "blockId": "e6e6c3149c",
+           "blockName": "Liner Copy",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+              "fontFamily": "DM Mono",
+              "fontSize": "11px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "dc8d8ab3da",
+             "blockName": "Liner Tag",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Liner notes",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
+              "fontFamily": "Abril Fatface",
+              "fontSize": "36px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.005em",
+              "lineHeight": "1.06",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "d51b0b8063",
+             "blockName": "Liner Title",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "How we sign a band",
+             "mobileStyles": {
+              "fontSize": "28px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+              "fontFamily": "DM Sans",
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.7",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "5dedf79bbe",
+             "blockName": "Liner P1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Somebody plays us something in the bar on a Friday. If the room goes quiet by the second chorus, we ask for a demo. If the office is still humming it on Monday, we book the studio. There is no other process. There has never been another process.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a06, #7E7259)",
+              "fontFamily": "DM Sans",
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.7",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "08ef6e26c0",
+             "blockName": "Liner P2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "We sign for two records because the second one is always the honest one.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {
+              "href": "mailto:demos@nightshift.records"
+             },
+             "baseStyles": {
+              "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a04, #E4572E)",
+              "fontFamily": "DM Sans",
+              "fontSize": "14.5px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "lineHeight": "1.6",
+              "minWidth": "10px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "0f18e5dff2",
+             "blockName": "Liner Link",
+             "children": [],
+             "classes": [
+              "gr-ul"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "Send us your second record →",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          }
+         ],
+         "classes": [
+          "gr-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "padding": "24px 18px"
+         },
+         "rawStyles": {
+          "box-shadow": "5px 5px 0 rgba(25, 19, 9, 0.9)"
+         },
+         "tabletStyles": {
+          "flexDirection": "column",
+          "gap": "28px",
+          "padding": "32px 30px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 36px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {
+      "data-tune": "B2 · Liner notes"
+     },
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0px 0px 64px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "be21375697",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "84cbef07bb",
+       "blockName": "Runout Marquee",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "510e6c0564",
+         "blockName": "Runout Track",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a93505b1c9",
+           "blockName": "Runout A",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "e3d08297de",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "c13a9f38e7",
+           "blockName": "Runout B",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "bf34c4fa50",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_runout_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "fb8b222c2c",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "groove_runout_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "cc7e9dd922",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "60c8d7c834",
+       "blockName": "Footer Main",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "1bfd03ead7",
+         "blockName": "Footer Brand Col",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a4c634ec63",
+           "blockName": "Footer Brand",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "4cf4a989da",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "5b84ba4be2",
+           "blockName": "Footer Addr",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "d2a451e4de",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_runout_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "86a811604c",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "f737be15a1",
+         "blockName": "Footer Col Hours",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "d7ad7a6d71",
+           "blockName": "Col Hours",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "3d522fa8d6",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "47cb491cb6",
+           "blockName": "Hours L0",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ed4b37237e",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "7cb4a986f4",
+           "blockName": "Hours L1",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9a69a751a5",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a7eac59989",
+           "blockName": "Hours L2",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "42fd73af25",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_runout_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "d55e1a180a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "0e4efc11dc",
+         "blockName": "Footer Col Contact",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "3055413619",
+           "blockName": "Col Contact",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "2c877133e4",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0f67ccadb8",
+           "blockName": "Contact L0",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "97ee83fb99",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a5cb13d0e5",
+           "blockName": "Contact L1",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "348eb221c9",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "6842bba981",
+           "blockName": "Contact L2",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "37f705c3c2",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_runout_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "1dcd3a8b7b",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "1aaef4d880",
+         "blockName": "Barcode Block",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "b058efdbc8",
+           "blockName": "Barcode",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "e5fe05bb69",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "4b1678fdfd",
+           "blockName": "Barcode Number",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "groove_runout_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9e5c269ec2",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_runout_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "d8978f7314",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "groove_runout_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "4b019a84b3",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "439bc58ef4",
+       "blockName": "Footer Small",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "5220db4a86",
+         "blockName": "Footer Copyright",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_runout_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "7514cb71f4",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "10eb700496",
+         "blockName": "Footer Credit",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "groove_runout_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "545051f7a2",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "groove_runout_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "9e24a06d05",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "groove_runout_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "groove_styles"
+  },
+  {
+   "builder_script": "groove_motion"
+  }
+ ],
+ "creation": "2026-07-19 21:30:17.850411",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Five artists, flipped through like a record crate: Velvet Antenna, Bad Comet, Marrow & Pine, Nadia Reyes, Tape Hiss Club.",
+ "modified": "2026-07-19 21:30:17.850411",
+ "modified_by": "Administrator",
+ "name": "groove_roster",
+ "owner": "Administrator",
+ "page_name": "groove_roster",
+ "page_title": "The crate · Night Shift Records",
+ "preview": "/builder_assets/groove/groove_roster/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/groove/roster",
+ "template_group": "groove"
+}
