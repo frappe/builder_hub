@@ -33,6 +33,7 @@ per-template briefs.
 | **Recipe**<br>An agency as recipe cards: ruled index cards, chef's notes, a tear-off coupon.<br><sub>Pages: Home · Menu · Kitchen</sub> | <img src="builder_hub/www/builder_assets/recipe/recipe_home/preview.webp" width="360"> |
 | **Fetch**<br>A playful one-product site: rounded color blocks, big dog photos, forever guarantee.<br><sub>Pages: Home · Collar · Help</sub> | <img src="builder_hub/www/builder_assets/fetch/fetch_home/preview.webp" width="360"> |
 | **Groove**<br>A vinyl label where the record spins as you scroll: tonearm progress, ejecting sleeves, a runout-groove footer.<br><sub>Pages: Home · The crate · B-side</sub> | <img src="builder_hub/www/builder_assets/groove/groove_home/preview.webp" width="360"> |
+| **Gambit**<br>A strategy advisory as an annotated chess game: score-sheet moves, board diagrams, engine-eval results.<br><sub>Pages: Home · Openings · The club</sub> | <img src="builder_hub/www/builder_assets/gambit/gambit_home/preview.webp" width="360"> |
 
 ### Portfolio
 

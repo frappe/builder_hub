@@ -75,6 +75,7 @@ Rules that apply to every template:
 | fetch  | product bento: super-rounded pastel tiles, blob photo frames, star reviews, size table, guarantee card |
 | ember  | hearth menu-card: split wordmark/photo hero, hours marquee rule, roman-numeral snap strip, double-hairline menu frames, reserve-banner footer, scroll-reveal motion |
 | groove | the record: scroll-spun CSS vinyl hero with tonearm-as-progress, NOW PLAYING pill retuning per section, back-of-sleeve tracklist panels, 45-single stat discs, vinyl video bands, sleeves that eject their disc on hover, crate-flip roster, hype stickers, runout-groove marquee footer with CSS barcode |
+| gambit | the annotated game: score-sheet move rows with notation and italic commentary, CSS chessboard diagrams with unicode pieces, ECO-coded service openings, engine-eval results, time-control pricing, monochrome warm greys |
 
 New briefs must claim an archetype not on this list, and the list grows as templates ship.
 
@@ -880,6 +881,21 @@ record wrap, the demo-drop card is the conversion, and the footer is the runout 
 marquee of etched matrix text plus a CSS barcode. Chunky 2px-ink-border buttons with offset
 shadows that press down on hover. No JS / reduced motion: record and arm sit static, pill
 hidden, everything readable. 3 pages (home / roster / bside), order 35.
+
+## Brief: gambit (Marketing, monochrome), BUILT Jul 2026
+
+First of the minimalist-monochrome trio (user ask: "minimalist, subtle and monochrome").
+Gambit &amp; Partners, a two-partner strategy advisory written as an annotated chess game.
+Warm-grey monochrome (paper/ink/muted/line/sq/panel), Crimson Pro + IBM Plex Mono, with REAL
+italics for the annotation commentary via the new ital-axis font loader (no @import script
+needed anymore). Furniture: a CSS chessboard diagram in the hero holding an accurate
+Queen's Indian position ("After 4...Bb7. Comfortable for everyone, which never lasts"),
+process as score-sheet move rows (1. Nf3!? Listen · 5. h3!? Give yourself luft), results as
+engine evaluations (−1.4 → +2.3, "engine-checked by reality"), services as ECO-coded
+openings (C50 Italian / B20 Sicilian / A10 English) with character tags, pricing as time
+controls (Classical / Rapid / Blitz), partner cards with peak ratings, and a footer that
+scores the page 1–0 ("Resignation is also a move"). Subtle motion only: soft rises, row
+nudges, offset-shadow card hovers. 3 pages (home / openings / club), order 36.
 
 ## Follow-ups
 

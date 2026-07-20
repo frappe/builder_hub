@@ -1,0 +1,4696 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c01, #FAFAF6)",
+    "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Crimson Pro",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "fff0ce7752",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "d836bac6e9",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "ba7a396e6f",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "5a28ecde69",
+         "blockName": "Brand",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "50128ba1d1",
+           "blockName": "Brand Glyph",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6a0154e2ba",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "679ec3eb51",
+           "blockName": "Brand Name",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "30bf1aca5b",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "de19576f4a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "f788588d39",
+         "blockName": "Nav Links",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "4f00597c76",
+           "blockName": "Nav Openings",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ebda22704e",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "3a2909d9be",
+           "blockName": "Nav The club",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "bda010d207",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "11e88b546f",
+           "blockName": "Nav CTA",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "b96cab57cf",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "d07f6a2008",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "gambit_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "6378ce1bc1",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "gambit_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "width": "100%"
+     },
+     "blockId": "5a7fa1a11d",
+     "blockName": "Hero",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "72px",
+        "maxWidth": "1180px",
+        "padding": "88px 40px 96px 40px",
+        "width": "100%"
+       },
+       "blockId": "a4bbeaeb8e",
+       "blockName": "Hero Split",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1.25,
+          "flexShrink": 1,
+          "gap": "24px",
+          "minWidth": "0px"
+         },
+         "blockId": "7514a94f83",
+         "blockName": "Hero Copy",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexShrink": 0,
+            "width": "fit-content"
+           },
+           "blockId": "e54c27fa0e",
+           "blockName": "Hero Eyebrow",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.2em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "3784f65bdb",
+             "blockName": "Hero Eyebrow Text",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Annotated game no. 34 · a strategy practice",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gb-rise"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+            "fontFamily": "Crimson Pro",
+            "fontSize": "72px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "-0.005em",
+            "lineHeight": "1.05",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "13175af2c3",
+           "blockName": "Hero Headline",
+           "children": [],
+           "classes": [
+            "gb-rise",
+            "gb-d2"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "We play the <i>quiet</i> moves.",
+           "mobileStyles": {
+            "fontSize": "38px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {
+            "fontSize": "54px"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+            "fontFamily": "Crimson Pro",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.65",
+            "maxWidth": "460px",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "5469cdda1a",
+           "blockName": "Hero Sub",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Gambit &amp; Partners advises founders in complicated positions. No fireworks, no forced lines: we find the move that improves your worst-placed piece, and then we find the next one.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "22px",
+            "marginTop": "4px",
+            "width": "fit-content"
+           },
+           "blockId": "6ed43d414e",
+           "blockName": "Hero CTAs",
+           "children": [
+            {
+             "attributes": {
+              "href": "mailto:play@gambitandpartners.com"
+             },
+             "baseStyles": {
+              "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c01, #FAFAF6)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "12px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.12em",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "padding": "15px 24px",
+              "textDecoration": "none",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "eae7f3eb6c",
+             "blockName": "Hero CTA",
+             "children": [],
+             "classes": [
+              "gb-btn"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "White to move",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {
+              "href": "openings"
+             },
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "12.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "06c46c7e41",
+             "blockName": "Hero Secondary",
+             "children": [],
+             "classes": [
+              "gb-ul"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "Study the openings →",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gb-rise",
+            "gb-d3"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "alignItems": "flex-start",
+            "flexDirection": "column",
+            "gap": "12px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "maxWidth": "420px",
+          "minWidth": "0px",
+          "width": "100%"
+         },
+         "blockId": "ec67d549ca",
+         "blockName": "Hero Board Pane",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "12px",
+            "width": "100%"
+           },
+           "blockId": "7e5f1c5b23",
+           "blockName": "Hero Board",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "display": "grid",
+              "flexShrink": 0,
+              "width": "100%"
+             },
+             "blockId": "6afd108dea",
+             "blockName": "Hero Board Grid",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "940d179e31",
+               "blockName": "Hero Board Sq 00",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "3a311a3687",
+                 "blockName": "Hero Board Pc 00",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♜",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "a0c83eeca0",
+               "blockName": "Hero Board Sq 01",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "c7a1ef6545",
+                 "blockName": "Hero Board Pc 01",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♞",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "b56f5512f0",
+               "blockName": "Hero Board Sq 02",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "103346ec6b",
+               "blockName": "Hero Board Sq 03",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "9f83d234e7",
+                 "blockName": "Hero Board Pc 03",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♛",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "e9c2982e26",
+               "blockName": "Hero Board Sq 04",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "599611fb01",
+                 "blockName": "Hero Board Pc 04",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♚",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "67427e13af",
+               "blockName": "Hero Board Sq 05",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "44ab11e133",
+                 "blockName": "Hero Board Pc 05",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♝",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "09808c008b",
+               "blockName": "Hero Board Sq 06",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "c2824affc3",
+               "blockName": "Hero Board Sq 07",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "d68f354584",
+                 "blockName": "Hero Board Pc 07",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♜",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "206fc78f03",
+               "blockName": "Hero Board Sq 10",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "8c36f048e0",
+                 "blockName": "Hero Board Pc 10",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♟",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "c49ed4b154",
+               "blockName": "Hero Board Sq 11",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "f2fabfb313",
+                 "blockName": "Hero Board Pc 11",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♝",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "795c69a9d9",
+               "blockName": "Hero Board Sq 12",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "457824e93a",
+                 "blockName": "Hero Board Pc 12",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♟",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "c2a0a26656",
+               "blockName": "Hero Board Sq 13",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "b42db3a888",
+                 "blockName": "Hero Board Pc 13",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♟",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "b207700ee7",
+               "blockName": "Hero Board Sq 14",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "72c7f7727a",
+               "blockName": "Hero Board Sq 15",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "da6782f585",
+                 "blockName": "Hero Board Pc 15",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♟",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "71dbf02858",
+               "blockName": "Hero Board Sq 16",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "5331038fc3",
+                 "blockName": "Hero Board Pc 16",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♟",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "c0d61f45c8",
+               "blockName": "Hero Board Sq 17",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "bf305d89f1",
+                 "blockName": "Hero Board Pc 17",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♟",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "36a7fc9513",
+               "blockName": "Hero Board Sq 20",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "f302b235f3",
+               "blockName": "Hero Board Sq 21",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "707ff4000c",
+                 "blockName": "Hero Board Pc 21",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♟",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "63ad31afe9",
+               "blockName": "Hero Board Sq 22",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "e3abf6cad9",
+               "blockName": "Hero Board Sq 23",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "b182d2ba74",
+               "blockName": "Hero Board Sq 24",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "1273e4787a",
+                 "blockName": "Hero Board Pc 24",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♟",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "16593c2197",
+               "blockName": "Hero Board Sq 25",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "6f50ca9868",
+                 "blockName": "Hero Board Pc 25",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♞",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "d49565ac8a",
+               "blockName": "Hero Board Sq 26",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "2241ef49a7",
+               "blockName": "Hero Board Sq 27",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "5269421ea6",
+               "blockName": "Hero Board Sq 30",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "95db36a4a7",
+               "blockName": "Hero Board Sq 31",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "900534575f",
+               "blockName": "Hero Board Sq 32",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "35ed2d6b29",
+               "blockName": "Hero Board Sq 33",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "a2c06ba3a4",
+               "blockName": "Hero Board Sq 34",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "6aaba7c613",
+               "blockName": "Hero Board Sq 35",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "fd2fb96e96",
+               "blockName": "Hero Board Sq 36",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "438f1df752",
+               "blockName": "Hero Board Sq 37",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "53f617d6fc",
+               "blockName": "Hero Board Sq 40",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "0e40b55b70",
+               "blockName": "Hero Board Sq 41",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "1eee03ee91",
+               "blockName": "Hero Board Sq 42",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "f2e1d75740",
+                 "blockName": "Hero Board Pc 42",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♙",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "76efded6d9",
+               "blockName": "Hero Board Sq 43",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "449f783c15",
+                 "blockName": "Hero Board Pc 43",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♙",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "6278c17826",
+               "blockName": "Hero Board Sq 44",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "bb5c76c722",
+               "blockName": "Hero Board Sq 45",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "93d5e25646",
+               "blockName": "Hero Board Sq 46",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "e4b955b404",
+               "blockName": "Hero Board Sq 47",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "a897bf5fac",
+               "blockName": "Hero Board Sq 50",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "1e2ee8f6a3",
+               "blockName": "Hero Board Sq 51",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "537fc496a1",
+               "blockName": "Hero Board Sq 52",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "f033a2bdf6",
+               "blockName": "Hero Board Sq 53",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "d61bf6429e",
+               "blockName": "Hero Board Sq 54",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "3fb8d5ff8d",
+               "blockName": "Hero Board Sq 55",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "52b75b11e7",
+                 "blockName": "Hero Board Pc 55",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♘",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "0a6e71b050",
+               "blockName": "Hero Board Sq 56",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "a73314198f",
+                 "blockName": "Hero Board Pc 56",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♙",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "c1c6d1629b",
+               "blockName": "Hero Board Sq 57",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "601c48f502",
+               "blockName": "Hero Board Sq 60",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "5124b816c9",
+                 "blockName": "Hero Board Pc 60",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♙",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "cbe3349ea4",
+               "blockName": "Hero Board Sq 61",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "07c01052ae",
+                 "blockName": "Hero Board Pc 61",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♙",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "d957b6b25b",
+               "blockName": "Hero Board Sq 62",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "a80a34832c",
+               "blockName": "Hero Board Sq 63",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "fc3458a256",
+               "blockName": "Hero Board Sq 64",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "71d5d487ab",
+                 "blockName": "Hero Board Pc 64",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♙",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "bd12447105",
+               "blockName": "Hero Board Sq 65",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "2cd9ab475b",
+                 "blockName": "Hero Board Pc 65",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♙",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "2ff3429842",
+               "blockName": "Hero Board Sq 66",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "f5db2b3693",
+               "blockName": "Hero Board Sq 67",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "359a08c91b",
+                 "blockName": "Hero Board Pc 67",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♙",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "2370660d41",
+               "blockName": "Hero Board Sq 70",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "689b334fb0",
+                 "blockName": "Hero Board Pc 70",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♖",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "afec48a7bc",
+               "blockName": "Hero Board Sq 71",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "f47e94d43a",
+                 "blockName": "Hero Board Pc 71",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♘",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "5e4c5c9d93",
+               "blockName": "Hero Board Sq 72",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "5416439970",
+                 "blockName": "Hero Board Pc 72",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♗",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "75d5c195dd",
+               "blockName": "Hero Board Sq 73",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "a792052e54",
+                 "blockName": "Hero Board Pc 73",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♕",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "7454ee382a",
+               "blockName": "Hero Board Sq 74",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "6983733e76",
+                 "blockName": "Hero Board Pc 74",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♔",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "1fe19a2fd9",
+               "blockName": "Hero Board Sq 75",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "2246fb4fc0",
+                 "blockName": "Hero Board Pc 75",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♗",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c05, #CBC8BC)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "3beb3ee566",
+               "blockName": "Hero Board Sq 76",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "aspectRatio": "1 / 1",
+                "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+                "display": "flex",
+                "justifyContent": "center"
+               },
+               "blockId": "cfe96b8cfd",
+               "blockName": "Hero Board Sq 77",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                  "fontSize": "26px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "97ed710380",
+                 "blockName": "Hero Board Pc 77",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "♖",
+                 "mobileStyles": {
+                  "fontSize": "18px"
+                 },
+                 "rawStyles": {},
+                 "tabletStyles": {
+                  "fontSize": "22px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {
+              "grid-template-columns": "repeat(8, 1fr)"
+             },
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "justifyContent": "space-between",
+              "width": "100%"
+             },
+             "blockId": "2588389643",
+             "blockName": "Hero Board Caption Row",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "fontFamily": "IBM Plex Mono",
+                "fontSize": "11px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.14em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "843e0b039d",
+               "blockName": "Hero Board Caption",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "After 4...Bb7. Comfortable for everyone, which never lasts.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "flexShrink": 0,
+                "fontFamily": "IBM Plex Mono",
+                "fontSize": "10px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.14em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "7315cd4702",
+               "blockName": "Hero Board Files",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "a — h",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gb-rise",
+          "gb-d2"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexBasis": "auto",
+          "maxWidth": "440px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "gap": "36px",
+        "padding": "44px 18px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "flexDirection": "column",
+        "gap": "48px",
+        "padding": "64px 28px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "24px 0px 96px 0px",
+      "width": "100%"
+     },
+     "blockId": "8269cc6eb3",
+     "blockName": "The Moves",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1040px",
+        "padding": "0px 48px",
+        "width": "100%"
+       },
+       "blockId": "a089252872",
+       "blockName": "Moves Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "16px",
+          "justifyContent": "space-between",
+          "marginBottom": "26px",
+          "width": "100%"
+         },
+         "blockId": "9a8d6688e3",
+         "blockName": "Moves Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+            "fontFamily": "Crimson Pro",
+            "fontSize": "40px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "-0.005em",
+            "lineHeight": "1.2",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "2ce3d8e245",
+           "blockName": "Moves Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "How the game goes",
+           "mobileStyles": {
+            "fontSize": "30px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+            "flexShrink": 0,
+            "fontFamily": "IBM Plex Mono",
+            "fontSize": "11px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.14em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "d78c5b7aa0",
+           "blockName": "Moves Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "White: you · Black: the market",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gb-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "6px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+          "borderStyle": "solid",
+          "borderWidth": "1px 0px 0px 0px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "width": "100%"
+         },
+         "blockId": "97c71a8753",
+         "blockName": "Moves List",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c04, #E0DED5)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "26px",
+            "padding": "24px 4px",
+            "width": "100%"
+           },
+           "blockId": "c54e3303ab",
+           "blockName": "Move 1",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.04em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "ba2f20d15d",
+             "blockName": "Move Num 1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "1.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "15px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.02em",
+              "lineHeight": "1.4",
+              "minWidth": "72px",
+              "whiteSpace": "nowrap",
+              "width": "72px"
+             },
+             "blockId": "775a30f5d7",
+             "blockName": "Move Notation 1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Nf3<span style=\"font-weight: 400;\">!?</span>",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexBasis": "0px",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "4px",
+              "minWidth": "220px"
+             },
+             "blockId": "780799b688",
+             "blockName": "Move Body 1",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "23px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "-0.005em",
+                "lineHeight": "1.2",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "8217de593f",
+               "blockName": "Move Title 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Listen",
+               "mobileStyles": {
+                "fontSize": "20px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "16px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.65",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "5ae24c24ac",
+               "blockName": "Move Comment 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "The quiet move. We take the whole position in before touching a single piece.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gb-rise",
+            "gb-row"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexWrap": "wrap",
+            "gap": "12px",
+            "padding": "18px 0px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c04, #E0DED5)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "26px",
+            "padding": "24px 4px",
+            "width": "100%"
+           },
+           "blockId": "e98062bf7e",
+           "blockName": "Move 2",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.04em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "f910104b84",
+             "blockName": "Move Num 2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "2.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "15px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.02em",
+              "lineHeight": "1.4",
+              "minWidth": "72px",
+              "whiteSpace": "nowrap",
+              "width": "72px"
+             },
+             "blockId": "13cf26de35",
+             "blockName": "Move Notation 2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "d4<span style=\"font-weight: 400;\"></span>",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexBasis": "0px",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "4px",
+              "minWidth": "220px"
+             },
+             "blockId": "fd50a571c7",
+             "blockName": "Move Body 2",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "23px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "-0.005em",
+                "lineHeight": "1.2",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "683b180569",
+               "blockName": "Move Title 2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Diagnose",
+               "mobileStyles": {
+                "fontSize": "20px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "16px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.65",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "9abe3d07f6",
+               "blockName": "Move Comment 2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Claim the centre: what actually makes you money, and what merely makes you busy.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gb-rise",
+            "gb-row"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexWrap": "wrap",
+            "gap": "12px",
+            "padding": "18px 0px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c04, #E0DED5)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "26px",
+            "padding": "24px 4px",
+            "width": "100%"
+           },
+           "blockId": "720db74d51",
+           "blockName": "Move 3",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.04em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "d501fa9f2a",
+             "blockName": "Move Num 3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "3.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "15px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.02em",
+              "lineHeight": "1.4",
+              "minWidth": "72px",
+              "whiteSpace": "nowrap",
+              "width": "72px"
+             },
+             "blockId": "ad47b54787",
+             "blockName": "Move Notation 3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "O-O<span style=\"font-weight: 400;\">!</span>",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexBasis": "0px",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "4px",
+              "minWidth": "220px"
+             },
+             "blockId": "cfc6720d52",
+             "blockName": "Move Body 3",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "23px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "-0.005em",
+                "lineHeight": "1.2",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "8b3c895b54",
+               "blockName": "Move Title 3",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Stabilise",
+               "mobileStyles": {
+                "fontSize": "20px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "16px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.65",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "dc5b78fc3e",
+               "blockName": "Move Comment 3",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "King safety first. Cash, contracts and the two hires that stop the bleeding.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gb-rise",
+            "gb-row"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexWrap": "wrap",
+            "gap": "12px",
+            "padding": "18px 0px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c04, #E0DED5)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "26px",
+            "padding": "24px 4px",
+            "width": "100%"
+           },
+           "blockId": "7aa1f56a7e",
+           "blockName": "Move 4",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.04em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "af5d0b8e33",
+             "blockName": "Move Num 4",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "4.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "15px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.02em",
+              "lineHeight": "1.4",
+              "minWidth": "72px",
+              "whiteSpace": "nowrap",
+              "width": "72px"
+             },
+             "blockId": "6e5a8c5c80",
+             "blockName": "Move Notation 4",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Rd1<span style=\"font-weight: 400;\"></span>",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexBasis": "0px",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "4px",
+              "minWidth": "220px"
+             },
+             "blockId": "beb53c5d7e",
+             "blockName": "Move Body 4",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "23px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "-0.005em",
+                "lineHeight": "1.2",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "38ce159e31",
+               "blockName": "Move Title 4",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Build pressure",
+               "mobileStyles": {
+                "fontSize": "20px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "16px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.65",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "dc13efc169",
+               "blockName": "Move Comment 4",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Rooks belong on open files. Quiet accumulating advantages, quarter after quarter.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gb-rise",
+            "gb-row"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexWrap": "wrap",
+            "gap": "12px",
+            "padding": "18px 0px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c04, #E0DED5)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "26px",
+            "padding": "24px 4px",
+            "width": "100%"
+           },
+           "blockId": "35f8ab3316",
+           "blockName": "Move 5",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.04em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "0ae383caf7",
+             "blockName": "Move Num 5",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "5.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "15px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.02em",
+              "lineHeight": "1.4",
+              "minWidth": "72px",
+              "whiteSpace": "nowrap",
+              "width": "72px"
+             },
+             "blockId": "b26d2a2cff",
+             "blockName": "Move Notation 5",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "h3<span style=\"font-weight: 400;\">!?</span>",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexBasis": "0px",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "4px",
+              "minWidth": "220px"
+             },
+             "blockId": "44a9ee83e4",
+             "blockName": "Move Body 5",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "23px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "-0.005em",
+                "lineHeight": "1.2",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "661ea01039",
+               "blockName": "Move Title 5",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Give yourself luft",
+               "mobileStyles": {
+                "fontSize": "20px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "16px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.65",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "ce457b729d",
+               "blockName": "Move Comment 5",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "The prophylactic move everyone skips. Room to breathe before the storm, not during it.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gb-rise",
+            "gb-row"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexWrap": "wrap",
+            "gap": "12px",
+            "padding": "18px 0px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 32px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "8px 0px 64px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+      "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c04, #E0DED5)",
+      "borderStyle": "solid",
+      "borderWidth": "1px 0px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "72px 0px",
+      "width": "100%"
+     },
+     "blockId": "b8706afcc9",
+     "blockName": "Quote Band",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "16px",
+        "maxWidth": "760px",
+        "padding": "0px 20px"
+       },
+       "blockId": "aa3bc5511d",
+       "blockName": "Quote Stack",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+          "fontFamily": "Crimson Pro",
+          "fontSize": "36px",
+          "fontStyle": "italic",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "-0.005em",
+          "lineHeight": "1.2",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "2be01e5b4c",
+         "blockName": "Quote Text",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "“The threat is stronger than the execution.”",
+         "mobileStyles": {
+          "fontSize": "26px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+          "fontFamily": "IBM Plex Mono",
+          "fontSize": "10.5px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "0.14em",
+          "lineHeight": "1.5",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "d5dd6c8b13",
+         "blockName": "Quote Attr",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Nimzowitsch · quoted correctly, for once, by consultants",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "gb-rise"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "52px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "88px 0px 96px 0px",
+      "width": "100%"
+     },
+     "blockId": "d209e76bc2",
+     "blockName": "Adjudications",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1040px",
+        "padding": "0px 48px",
+        "width": "100%"
+       },
+       "blockId": "62f8109d74",
+       "blockName": "Adj Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "8px",
+          "marginBottom": "26px",
+          "width": "fit-content"
+         },
+         "blockId": "ed140c3e08",
+         "blockName": "Adj Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+            "fontFamily": "Crimson Pro",
+            "fontSize": "40px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "-0.005em",
+            "lineHeight": "1.2",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "31ead368d7",
+           "blockName": "Adj Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Adjudicated positions",
+           "mobileStyles": {
+            "fontSize": "30px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+            "fontFamily": "IBM Plex Mono",
+            "fontSize": "11px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.14em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "89749b0e5f",
+           "blockName": "Adj Sub",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Evaluations after our involvement, engine-checked by reality",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gb-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+          "borderStyle": "solid",
+          "borderWidth": "1px 0px 0px 0px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "width": "100%"
+         },
+         "blockId": "6e45d33834",
+         "blockName": "Adj Rows",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c04, #E0DED5)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "22px",
+            "padding": "20px 4px",
+            "width": "100%"
+           },
+           "blockId": "92feb8a336",
+           "blockName": "Adj Row 0",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexBasis": "0px",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "3px",
+              "minWidth": "230px"
+             },
+             "blockId": "6b22ad8dde",
+             "blockName": "Adj Client 0",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "22px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "-0.005em",
+                "lineHeight": "1.2",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "02cac8604f",
+               "blockName": "Adj Name 0",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "The fintech",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "15px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.65",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "0ddd567dbb",
+               "blockName": "Adj Line 0",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Cramped kingside, burn rate with initiative",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "13px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "edc3262f50",
+             "blockName": "Adj Before 0",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "−1.4",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "13px",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "42462c92fb",
+             "blockName": "Adj Arrow 0",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "→",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "15px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "1730b1c54b",
+             "blockName": "Adj After 0",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "+2.3",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gb-rise",
+            "gb-row"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexWrap": "wrap",
+            "gap": "10px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c04, #E0DED5)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "22px",
+            "padding": "20px 4px",
+            "width": "100%"
+           },
+           "blockId": "4b47bda2be",
+           "blockName": "Adj Row 1",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexBasis": "0px",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "3px",
+              "minWidth": "230px"
+             },
+             "blockId": "8ef62a8318",
+             "blockName": "Adj Client 1",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "22px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "-0.005em",
+                "lineHeight": "1.2",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "c3da1c84ec",
+               "blockName": "Adj Name 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "The grocer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "15px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.65",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "bdaec1f1d9",
+               "blockName": "Adj Line 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Two rooks (co-founders) on the same file",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "13px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "337a351fbc",
+             "blockName": "Adj Before 1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "−0.6",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "13px",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "0791a3ca92",
+             "blockName": "Adj Arrow 1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "→",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "15px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "0a9b8cbcac",
+             "blockName": "Adj After 1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "+1.1",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gb-rise",
+            "gb-row"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexWrap": "wrap",
+            "gap": "10px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c04, #E0DED5)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "22px",
+            "padding": "20px 4px",
+            "width": "100%"
+           },
+           "blockId": "4f3b1fd10a",
+           "blockName": "Adj Row 2",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexBasis": "0px",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "3px",
+              "minWidth": "230px"
+             },
+             "blockId": "fb06a845de",
+             "blockName": "Adj Client 2",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "22px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "-0.005em",
+                "lineHeight": "1.2",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "4317b4c713",
+               "blockName": "Adj Name 2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "The clinic chain",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "15px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.65",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "3c530bfb3c",
+               "blockName": "Adj Line 2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Winning position, ten minutes on the clock",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "13px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "d1215ebddf",
+             "blockName": "Adj Before 2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "+0.8",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "13px",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "c7a2e7abff",
+             "blockName": "Adj Arrow 2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "→",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "15px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "737d008c81",
+             "blockName": "Adj After 2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "+3.0",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gb-rise",
+            "gb-row"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexWrap": "wrap",
+            "gap": "10px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+          "fontFamily": "Crimson Pro",
+          "fontSize": "13.5px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.65",
+          "marginTop": "22px",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "f602c52d7d",
+         "blockName": "Adj Fine",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Evaluations in expected multiples of invested capital. Past positions are no guarantee of future ones, which is precisely why preparation matters.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 32px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "56px 0px 64px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "de04b06f72",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "2eb6a09f97",
+       "blockName": "Footer Banner",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "cf0a3094ef",
+         "blockName": "Footer Line",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "d7ac511c25",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "52e6c52fb5",
+         "blockName": "Footer Sub",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "77c9f2de7e",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "f7beba0674",
+         "blockName": "Footer CTA",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "fa5c881ade",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "gambit_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "ae02b75677",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "6fdce59b9b",
+       "blockName": "Footer Sub Center",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "gambit_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "42a873a69c",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "337bb081c3",
+       "blockName": "Footer Info",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "83194692a0",
+         "blockName": "Footer Col The board",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "b882af643b",
+           "blockName": "F The board",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "19614dc1e4",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "56fdb7318d",
+           "blockName": "F The board 4 Batterymarch",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9833f0c95e",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "e6a284d3d5",
+           "blockName": "F The board London EC3",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "a2142d697c",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "21c7a6da0e",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "058bf7ffcb",
+         "blockName": "Footer Col Hours",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "f72553e890",
+           "blockName": "F Hours",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9d0bf49ae6",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "dd251929a8",
+           "blockName": "F Hours Weekdays, 9 to",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "f87f6819c3",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a2d6f75643",
+           "blockName": "F Hours Adjournments b",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c2ec3f5cbe",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "79c6e43359",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "6f15d81bea",
+         "blockName": "Footer Col Write",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "6ffdd21da9",
+           "blockName": "F Write",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "1ab255e407",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "350eac51c2",
+           "blockName": "F Write play@gambitand",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "08ab4781ff",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "5723fa3366",
+           "blockName": "F Write +44 20 7946 07",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "4e49166ba5",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "17b3042a6e",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "gambit_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "b9fb1f46a9",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "2100b1f0fe",
+       "blockName": "Footer Small",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "9f8b555350",
+         "blockName": "Footer C",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "5919eddae2",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "e0bd28608b",
+         "blockName": "Footer Score",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "a6297a74d1",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "gambit_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "6fed74766a",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "gambit_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "gambit_styles"
+  },
+  {
+   "builder_script": "gambit_motion"
+  }
+ ],
+ "creation": "2026-07-20 18:16:49.913709",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "A strategy practice for founders in complicated positions, annotated one move at a time.",
+ "modified": "2026-07-20 18:16:49.913709",
+ "modified_by": "Administrator",
+ "name": "gambit_home",
+ "owner": "Administrator",
+ "page_name": "gambit_home",
+ "page_title": "Gambit & Partners · We play the quiet moves",
+ "preview": "/builder_assets/gambit/gambit_home/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/gambit/home",
+ "template_group": "gambit"
+}

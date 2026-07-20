@@ -1,0 +1,12 @@
+{
+ "creation": "2026-07-20 18:16:49.913709",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-07-20 18:16:49.913709",
+ "modified_by": "Administrator",
+ "name": "gambit_styles",
+ "owner": "Administrator",
+ "script": "\n@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap');\n\nhtml { scroll-behavior: smooth; }\n::selection { background: #161512; color: #FAFAF6; }\n\nhtml.gb-js .gb-rise { opacity: 0; transform: translateY(18px); }\nhtml.gb-js .gb-rise.gb-in {\n  opacity: 1; transform: none;\n  transition: opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1),\n    transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);\n}\nhtml.gb-js .gb-d2.gb-in { transition-delay: 0.08s; }\nhtml.gb-js .gb-d3.gb-in { transition-delay: 0.16s; }\n\n.gb-ul {\n  background-image: linear-gradient(currentColor, currentColor);\n  background-position: left bottom; background-repeat: no-repeat;\n  background-size: 0% 1px;\n  transition: background-size 0.4s cubic-bezier(0.22, 1, 0.36, 1);\n}\n.gb-ul:hover { background-size: 100% 1px; }\n.gb-btn { transition: opacity 0.2s ease; }\n.gb-btn:hover { opacity: 0.82; }\n.gb-row { transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1); }\n.gb-row:hover { transform: translateX(6px); }\n.gb-card { transition: box-shadow 0.35s ease, transform 0.35s ease; }\n.gb-card:hover { box-shadow: 5px 5px 0 #E0DED5; transform: translate(-2px, -2px); }\n\n@media (prefers-reduced-motion: reduce) {\n  html { scroll-behavior: auto; }\n  .gb-row, .gb-card, .gb-btn { transition: none; }\n}\n",
+ "script_type": "CSS"
+}
