@@ -15,31 +15,31 @@
     "overflowX": "hidden",
     "width": "100%"
    },
-   "blockId": "86d1bf0fb7",
+   "blockId": "87dd7f8527",
    "blockName": "Root",
    "children": [
     {
      "attributes": {},
      "baseStyles": {},
-     "blockId": "fe78da619d",
+     "blockId": "6842bba981",
      "blockName": "Navbar",
      "children": [
       {
        "attributes": {},
        "baseStyles": {},
-       "blockId": "d4eaeb8c97",
+       "blockId": "1aaef4d880",
        "blockName": "Nav Row",
        "children": [
         {
          "attributes": {},
          "baseStyles": {},
-         "blockId": "82b8483498",
+         "blockId": "b058efdbc8",
          "blockName": "Brand Lockup",
          "children": [
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "58844033ad",
+           "blockId": "4b1678fdfd",
            "blockName": "Brand",
            "children": [],
            "classes": [],
@@ -53,7 +53,7 @@
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "1019ba22cc",
+           "blockId": "439bc58ef4",
            "blockName": "Brand Sub",
            "children": [],
            "classes": [],
@@ -76,13 +76,13 @@
         {
          "attributes": {},
          "baseStyles": {},
-         "blockId": "075ca59520",
+         "blockId": "5220db4a86",
          "blockName": "Nav Links",
          "children": [
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "2614cfe8a0",
+           "blockId": "10eb700496",
            "blockName": "Nav The crate",
            "children": [],
            "classes": [],
@@ -96,7 +96,7 @@
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "6e6693d22e",
+           "blockId": "86d1bf0fb7",
            "blockName": "Nav B-side",
            "children": [],
            "classes": [],
@@ -110,7 +110,7 @@
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "f766ff59cf",
+           "blockId": "a5e1b7b768",
            "blockName": "Nav CTA",
            "children": [],
            "classes": [],
@@ -142,13 +142,13 @@
       {
        "attributes": {},
        "baseStyles": {},
-       "blockId": "07669aee3d",
+       "blockId": "450ea6e54c",
        "blockName": "Now Playing Pill",
        "children": [
         {
          "attributes": {},
          "baseStyles": {},
-         "blockId": "62b47083d0",
+         "blockId": "a031498840",
          "blockName": "Pill Dot",
          "children": [],
          "classes": [],
@@ -162,7 +162,7 @@
         {
          "attributes": {},
          "baseStyles": {},
-         "blockId": "4c8aeba5ba",
+         "blockId": "59012deb3e",
          "blockName": "Pill Label",
          "children": [],
          "classes": [],
@@ -176,7 +176,7 @@
         {
          "attributes": {},
          "baseStyles": {},
-         "blockId": "ed46a8dcc1",
+         "blockId": "3b8d5fc2d3",
          "blockName": "Pill Track",
          "children": [],
          "classes": [],
@@ -215,7 +215,7 @@
       "padding": "96px 0px 56px 0px",
       "width": "100%"
      },
-     "blockId": "31952a6f3c",
+     "blockId": "e6e9f523a0",
      "blockName": "Roster Header",
      "children": [
       {
@@ -228,7 +228,7 @@
         "padding": "0px 56px",
         "width": "100%"
        },
-       "blockId": "41c57066a2",
+       "blockId": "3c2e77cd98",
        "blockName": "Roster Header Container",
        "children": [
         {
@@ -240,7 +240,7 @@
           "gap": "20px",
           "width": "100%"
          },
-         "blockId": "84f6edc9e9",
+         "blockId": "3a1e87d2d2",
          "blockName": "Roster Head Stack",
          "children": [
           {
@@ -253,7 +253,7 @@
             "gap": "12px",
             "width": "fit-content"
            },
-           "blockId": "4f794ed1fd",
+           "blockId": "1b92f67322",
            "blockName": "Eyebrow",
            "children": [
             {
@@ -268,7 +268,7 @@
               "height": "12px",
               "width": "12px"
              },
-             "blockId": "deb0490c89",
+             "blockId": "02d8da8e3a",
              "blockName": "Eyebrow Chip",
              "children": [],
              "classes": [],
@@ -292,7 +292,7 @@
               "textTransform": "uppercase",
               "width": "fit-content"
              },
-             "blockId": "dad9b99041",
+             "blockId": "fe319360ac",
              "blockName": "Eyebrow Text",
              "children": [],
              "classes": [],
@@ -321,23 +321,23 @@
             "position": "relative",
             "width": "fit-content"
            },
-           "blockId": "e80ce06ecc",
+           "blockId": "4042583ea6",
            "blockName": "Roster Title Wrap",
            "children": [
             {
              "attributes": {},
              "baseStyles": {
               "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
-              "fontFamily": "Abril Fatface",
-              "fontSize": "84px",
-              "fontWeight": "400",
+              "fontFamily": "Unbounded",
+              "fontSize": "58px",
+              "fontWeight": "500",
               "height": "fit-content",
-              "letterSpacing": "0.005em",
-              "lineHeight": "1.06",
+              "letterSpacing": "-0.01em",
+              "lineHeight": "1.18",
               "minWidth": "10px",
               "width": "fit-content"
              },
-             "blockId": "72421c357d",
+             "blockId": "2233a2bad0",
              "blockName": "Roster Title",
              "children": [],
              "classes": [],
@@ -345,11 +345,11 @@
              "element": "p",
              "innerHTML": "Dig the crate.",
              "mobileStyles": {
-              "fontSize": "42px"
+              "fontSize": "30px"
              },
              "rawStyles": {},
              "tabletStyles": {
-              "fontSize": "60px"
+              "fontSize": "42px"
              }
             },
             {
@@ -373,7 +373,7 @@
               "width": "108px",
               "zIndex": "5"
              },
-             "blockId": "4a05049d1b",
+             "blockId": "ac5ee48a8d",
              "blockName": "Roster Sticker",
              "children": [
               {
@@ -392,7 +392,7 @@
                 "whiteSpace": "nowrap",
                 "width": "fit-content"
                },
-               "blockId": "207fbb8aeb",
+               "blockId": "59cf292389",
                "blockName": "Roster Sticker L0",
                "children": [],
                "classes": [],
@@ -419,7 +419,7 @@
                 "whiteSpace": "nowrap",
                 "width": "fit-content"
                },
-               "blockId": "024dffbe0c",
+               "blockId": "7771b1f1f8",
                "blockName": "Roster Sticker L1",
                "children": [],
                "classes": [],
@@ -446,7 +446,7 @@
                 "whiteSpace": "nowrap",
                 "width": "fit-content"
                },
-               "blockId": "301f5fec8a",
+               "blockId": "960a7c2240",
                "blockName": "Roster Sticker L2",
                "children": [],
                "classes": [],
@@ -491,7 +491,7 @@
             "minWidth": "10px",
             "width": "100%"
            },
-           "blockId": "6784ab3111",
+           "blockId": "ccaabed1f9",
            "blockName": "Roster Sub",
            "children": [],
            "classes": [],
@@ -546,7 +546,7 @@
       "padding": "0px 0px 64px 0px",
       "width": "100%"
      },
-     "blockId": "e702671a82",
+     "blockId": "1bfd03ead7",
      "blockName": "Crate Strip Section",
      "children": [
       {
@@ -561,7 +561,7 @@
         "scrollPaddingLeft": "56px",
         "width": "100%"
        },
-       "blockId": "97595cbdac",
+       "blockId": "a93505b1c9",
        "blockName": "Crate Strip",
        "children": [
         {
@@ -579,7 +579,7 @@
           "position": "relative",
           "width": "360px"
          },
-         "blockId": "db33d82dc1",
+         "blockId": "9280675a19",
          "blockName": "Crate Velvet Antenna",
          "children": [
           {
@@ -594,7 +594,7 @@
             "objectFit": "cover",
             "width": "100%"
            },
-           "blockId": "2b3cec5707",
+           "blockId": "e43e57eee5",
            "blockName": "Crate Photo Velvet Antenna",
            "children": [],
            "classes": [],
@@ -613,7 +613,7 @@
             "position": "absolute",
             "width": "100%"
            },
-           "blockId": "f07b386cdb",
+           "blockId": "b6d38f9746",
            "blockName": "Crate Scrim Velvet Antenna",
            "children": [],
            "classes": [],
@@ -637,22 +637,22 @@
             "right": "20px",
             "zIndex": "2"
            },
-           "blockId": "21ab103799",
+           "blockId": "776ab8abe1",
            "blockName": "Crate Text Velvet Antenna",
            "children": [
             {
              "attributes": {},
              "baseStyles": {
               "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
-              "fontFamily": "Abril Fatface",
-              "fontSize": "30px",
-              "fontWeight": "400",
+              "fontFamily": "Unbounded",
+              "fontSize": "20px",
+              "fontWeight": "500",
               "height": "fit-content",
               "lineHeight": "1.1",
               "minWidth": "10px",
               "width": "fit-content"
              },
-             "blockId": "38af237957",
+             "blockId": "3c9d093b79",
              "blockName": "Crate Name Velvet Antenna",
              "children": [],
              "classes": [],
@@ -675,7 +675,7 @@
               "minWidth": "10px",
               "width": "100%"
              },
-             "blockId": "b47d74146d",
+             "blockId": "9e12fae232",
              "blockName": "Crate Line Velvet Antenna",
              "children": [],
              "classes": [],
@@ -700,7 +700,7 @@
               "textTransform": "uppercase",
               "width": "fit-content"
              },
-             "blockId": "fddd4b0565",
+             "blockId": "97595cbdac",
              "blockName": "Crate Meta Velvet Antenna",
              "children": [],
              "classes": [],
@@ -746,7 +746,7 @@
           "position": "relative",
           "width": "360px"
          },
-         "blockId": "b979f82725",
+         "blockId": "08ef6e26c0",
          "blockName": "Crate Bad Comet",
          "children": [
           {
@@ -761,7 +761,7 @@
             "objectFit": "cover",
             "width": "100%"
            },
-           "blockId": "90341e2f76",
+           "blockId": "e702671a82",
            "blockName": "Crate Photo Bad Comet",
            "children": [],
            "classes": [],
@@ -780,7 +780,7 @@
             "position": "absolute",
             "width": "100%"
            },
-           "blockId": "425d1ca2a2",
+           "blockId": "f7ad858202",
            "blockName": "Crate Scrim Bad Comet",
            "children": [],
            "classes": [],
@@ -804,22 +804,22 @@
             "right": "20px",
             "zIndex": "2"
            },
-           "blockId": "d511804bab",
+           "blockId": "5dedf79bbe",
            "blockName": "Crate Text Bad Comet",
            "children": [
             {
              "attributes": {},
              "baseStyles": {
               "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
-              "fontFamily": "Abril Fatface",
-              "fontSize": "30px",
-              "fontWeight": "400",
+              "fontFamily": "Unbounded",
+              "fontSize": "20px",
+              "fontWeight": "500",
               "height": "fit-content",
               "lineHeight": "1.1",
               "minWidth": "10px",
               "width": "fit-content"
              },
-             "blockId": "77637d6cae",
+             "blockId": "c3a468464c",
              "blockName": "Crate Name Bad Comet",
              "children": [],
              "classes": [],
@@ -842,7 +842,7 @@
               "minWidth": "10px",
               "width": "100%"
              },
-             "blockId": "318c01286c",
+             "blockId": "dc8d8ab3da",
              "blockName": "Crate Line Bad Comet",
              "children": [],
              "classes": [],
@@ -867,7 +867,7 @@
               "textTransform": "uppercase",
               "width": "fit-content"
              },
-             "blockId": "1d60d098ce",
+             "blockId": "d51b0b8063",
              "blockName": "Crate Meta Bad Comet",
              "children": [],
              "classes": [],
@@ -913,7 +913,7 @@
           "position": "relative",
           "width": "360px"
          },
-         "blockId": "1b92f67322",
+         "blockId": "d4eaeb8c97",
          "blockName": "Crate Marrow & Pine",
          "children": [
           {
@@ -928,7 +928,7 @@
             "objectFit": "cover",
             "width": "100%"
            },
-           "blockId": "0f779b82d0",
+           "blockId": "0f18e5dff2",
            "blockName": "Crate Photo Marrow & Pine",
            "children": [],
            "classes": [],
@@ -947,7 +947,7 @@
             "position": "absolute",
             "width": "100%"
            },
-           "blockId": "820e826edd",
+           "blockId": "e6e6c3149c",
            "blockName": "Crate Scrim Marrow & Pine",
            "children": [],
            "classes": [],
@@ -971,22 +971,22 @@
             "right": "20px",
             "zIndex": "2"
            },
-           "blockId": "fe319360ac",
+           "blockId": "fe78da619d",
            "blockName": "Crate Text Marrow & Pine",
            "children": [
             {
              "attributes": {},
              "baseStyles": {
               "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
-              "fontFamily": "Abril Fatface",
-              "fontSize": "30px",
-              "fontWeight": "400",
+              "fontFamily": "Unbounded",
+              "fontSize": "20px",
+              "fontWeight": "500",
               "height": "fit-content",
               "lineHeight": "1.1",
               "minWidth": "10px",
               "width": "fit-content"
              },
-             "blockId": "95bfe42ce1",
+             "blockId": "f383be0b49",
              "blockName": "Crate Name Marrow & Pine",
              "children": [],
              "classes": [],
@@ -1009,7 +1009,7 @@
               "minWidth": "10px",
               "width": "100%"
              },
-             "blockId": "dae0fbbec8",
+             "blockId": "30f03c6a7c",
              "blockName": "Crate Line Marrow & Pine",
              "children": [],
              "classes": [],
@@ -1034,7 +1034,7 @@
               "textTransform": "uppercase",
               "width": "fit-content"
              },
-             "blockId": "02d8da8e3a",
+             "blockId": "74192ec131",
              "blockName": "Crate Meta Marrow & Pine",
              "children": [],
              "classes": [],
@@ -1080,7 +1080,7 @@
           "position": "relative",
           "width": "360px"
          },
-         "blockId": "ccaabed1f9",
+         "blockId": "f766ff59cf",
          "blockName": "Crate Nadia Reyes",
          "children": [
           {
@@ -1095,7 +1095,7 @@
             "objectFit": "cover",
             "width": "100%"
            },
-           "blockId": "2233a2bad0",
+           "blockId": "82b8483498",
            "blockName": "Crate Photo Nadia Reyes",
            "children": [],
            "classes": [],
@@ -1114,7 +1114,7 @@
             "position": "absolute",
             "width": "100%"
            },
-           "blockId": "59cf292389",
+           "blockId": "58844033ad",
            "blockName": "Crate Scrim Nadia Reyes",
            "children": [],
            "classes": [],
@@ -1138,22 +1138,22 @@
             "right": "20px",
             "zIndex": "2"
            },
-           "blockId": "4042583ea6",
+           "blockId": "6e6693d22e",
            "blockName": "Crate Text Nadia Reyes",
            "children": [
             {
              "attributes": {},
              "baseStyles": {
               "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
-              "fontFamily": "Abril Fatface",
-              "fontSize": "30px",
-              "fontWeight": "400",
+              "fontFamily": "Unbounded",
+              "fontSize": "20px",
+              "fontWeight": "500",
               "height": "fit-content",
               "lineHeight": "1.1",
               "minWidth": "10px",
               "width": "fit-content"
              },
-             "blockId": "7771b1f1f8",
+             "blockId": "1019ba22cc",
              "blockName": "Crate Name Nadia Reyes",
              "children": [],
              "classes": [],
@@ -1176,7 +1176,7 @@
               "minWidth": "10px",
               "width": "100%"
              },
-             "blockId": "960a7c2240",
+             "blockId": "075ca59520",
              "blockName": "Crate Line Nadia Reyes",
              "children": [],
              "classes": [],
@@ -1201,7 +1201,7 @@
               "textTransform": "uppercase",
               "width": "fit-content"
              },
-             "blockId": "ac5ee48a8d",
+             "blockId": "2614cfe8a0",
              "blockName": "Crate Meta Nadia Reyes",
              "children": [],
              "classes": [],
@@ -1247,7 +1247,7 @@
           "position": "relative",
           "width": "360px"
          },
-         "blockId": "9e12fae232",
+         "blockId": "510e6c0564",
          "blockName": "Crate Tape Hiss Club",
          "children": [
           {
@@ -1262,7 +1262,7 @@
             "objectFit": "cover",
             "width": "100%"
            },
-           "blockId": "3a1e87d2d2",
+           "blockId": "07669aee3d",
            "blockName": "Crate Photo Tape Hiss Club",
            "children": [],
            "classes": [],
@@ -1281,7 +1281,7 @@
             "position": "absolute",
             "width": "100%"
            },
-           "blockId": "3c2e77cd98",
+           "blockId": "62b47083d0",
            "blockName": "Crate Scrim Tape Hiss Club",
            "children": [],
            "classes": [],
@@ -1305,22 +1305,22 @@
             "right": "20px",
             "zIndex": "2"
            },
-           "blockId": "3c9d093b79",
+           "blockId": "84cbef07bb",
            "blockName": "Crate Text Tape Hiss Club",
            "children": [
             {
              "attributes": {},
              "baseStyles": {
               "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a01, #F5EEDF)",
-              "fontFamily": "Abril Fatface",
-              "fontSize": "30px",
-              "fontWeight": "400",
+              "fontFamily": "Unbounded",
+              "fontSize": "20px",
+              "fontWeight": "500",
               "height": "fit-content",
               "lineHeight": "1.1",
               "minWidth": "10px",
               "width": "fit-content"
              },
-             "blockId": "e6e9f523a0",
+             "blockId": "4c8aeba5ba",
              "blockName": "Crate Name Tape Hiss Club",
              "children": [],
              "classes": [],
@@ -1343,7 +1343,7 @@
               "minWidth": "10px",
               "width": "100%"
              },
-             "blockId": "e43e57eee5",
+             "blockId": "ed46a8dcc1",
              "blockName": "Crate Line Tape Hiss Club",
              "children": [],
              "classes": [],
@@ -1368,7 +1368,7 @@
               "textTransform": "uppercase",
               "width": "fit-content"
              },
-             "blockId": "b6d38f9746",
+             "blockId": "be21375697",
              "blockName": "Crate Meta Tape Hiss Club",
              "children": [],
              "classes": [],
@@ -1426,7 +1426,7 @@
         "padding": "0px 56px",
         "width": "100%"
        },
-       "blockId": "9280675a19",
+       "blockId": "60c8d7c834",
        "blockName": "Crate Hint Container",
        "children": [
         {
@@ -1443,7 +1443,7 @@
           "textTransform": "uppercase",
           "width": "fit-content"
          },
-         "blockId": "776ab8abe1",
+         "blockId": "c13a9f38e7",
          "blockName": "Crate Hint",
          "children": [],
          "classes": [],
@@ -1484,7 +1484,7 @@
       "padding": "0px 0px 110px 0px",
       "width": "100%"
      },
-     "blockId": "74192ec131",
+     "blockId": "a5cb13d0e5",
      "blockName": "Liner Notes",
      "children": [
       {
@@ -1497,7 +1497,7 @@
         "padding": "0px 56px",
         "width": "100%"
        },
-       "blockId": "30f03c6a7c",
+       "blockId": "0f67ccadb8",
        "blockName": "Liner Container",
        "children": [
         {
@@ -1515,7 +1515,7 @@
           "padding": "44px 48px",
           "width": "100%"
          },
-         "blockId": "f383be0b49",
+         "blockId": "3055413619",
          "blockName": "Liner Card",
          "children": [
           {
@@ -1532,7 +1532,7 @@
             "flexShrink": 0,
             "overflow": "hidden"
            },
-           "blockId": "c3a468464c",
+           "blockId": "5b84ba4be2",
            "blockName": "Liner Photo Pane",
            "children": [
             {
@@ -1547,7 +1547,7 @@
               "objectFit": "cover",
               "width": "100%"
              },
-             "blockId": "f7ad858202",
+             "blockId": "a4c634ec63",
              "blockName": "Liner Photo",
              "children": [],
              "classes": [],
@@ -1581,7 +1581,7 @@
             "gap": "16px",
             "minWidth": "0px"
            },
-           "blockId": "e6e6c3149c",
+           "blockId": "0e4efc11dc",
            "blockName": "Liner Copy",
            "children": [
             {
@@ -1598,7 +1598,7 @@
               "textTransform": "uppercase",
               "width": "fit-content"
              },
-             "blockId": "dc8d8ab3da",
+             "blockId": "f737be15a1",
              "blockName": "Liner Tag",
              "children": [],
              "classes": [],
@@ -1613,16 +1613,16 @@
              "attributes": {},
              "baseStyles": {
               "color": "var(--e9b3f6a2-7d1c-4b8e-9a4f-5c2d8e1f7a02, #191309)",
-              "fontFamily": "Abril Fatface",
-              "fontSize": "36px",
-              "fontWeight": "400",
+              "fontFamily": "Unbounded",
+              "fontSize": "26px",
+              "fontWeight": "500",
               "height": "fit-content",
-              "letterSpacing": "0.005em",
-              "lineHeight": "1.06",
+              "letterSpacing": "-0.01em",
+              "lineHeight": "1.18",
               "minWidth": "10px",
               "width": "fit-content"
              },
-             "blockId": "d51b0b8063",
+             "blockId": "d7ad7a6d71",
              "blockName": "Liner Title",
              "children": [],
              "classes": [],
@@ -1630,7 +1630,7 @@
              "element": "p",
              "innerHTML": "How we sign a band",
              "mobileStyles": {
-              "fontSize": "28px"
+              "fontSize": "21px"
              },
              "rawStyles": {},
              "tabletStyles": {}
@@ -1647,7 +1647,7 @@
               "minWidth": "10px",
               "width": "100%"
              },
-             "blockId": "5dedf79bbe",
+             "blockId": "47cb491cb6",
              "blockName": "Liner P1",
              "children": [],
              "classes": [],
@@ -1670,7 +1670,7 @@
               "minWidth": "10px",
               "width": "100%"
              },
-             "blockId": "08ef6e26c0",
+             "blockId": "7cb4a986f4",
              "blockName": "Liner P2",
              "children": [],
              "classes": [],
@@ -1696,7 +1696,7 @@
               "textDecoration": "none",
               "width": "fit-content"
              },
-             "blockId": "0f18e5dff2",
+             "blockId": "a7eac59989",
              "blockName": "Liner Link",
              "children": [],
              "classes": [
@@ -1764,25 +1764,25 @@
     {
      "attributes": {},
      "baseStyles": {},
-     "blockId": "be21375697",
+     "blockId": "793d97e355",
      "blockName": "Footer",
      "children": [
       {
        "attributes": {},
        "baseStyles": {},
-       "blockId": "84cbef07bb",
+       "blockId": "cf1e094e63",
        "blockName": "Runout Marquee",
        "children": [
         {
          "attributes": {},
          "baseStyles": {},
-         "blockId": "510e6c0564",
+         "blockId": "d43db0a291",
          "blockName": "Runout Track",
          "children": [
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "a93505b1c9",
+           "blockId": "aa1fc6fa83",
            "blockName": "Runout A",
            "children": [],
            "classes": [],
@@ -1796,7 +1796,7 @@
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "c13a9f38e7",
+           "blockId": "6927e68f2e",
            "blockName": "Runout B",
            "children": [],
            "classes": [],
@@ -1828,19 +1828,19 @@
       {
        "attributes": {},
        "baseStyles": {},
-       "blockId": "60c8d7c834",
+       "blockId": "132432d910",
        "blockName": "Footer Main",
        "children": [
         {
          "attributes": {},
          "baseStyles": {},
-         "blockId": "1bfd03ead7",
+         "blockId": "68e9abc10f",
          "blockName": "Footer Brand Col",
          "children": [
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "a4c634ec63",
+           "blockId": "806a67dac6",
            "blockName": "Footer Brand",
            "children": [],
            "classes": [],
@@ -1854,7 +1854,7 @@
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "5b84ba4be2",
+           "blockId": "f5c3ccc64f",
            "blockName": "Footer Addr",
            "children": [],
            "classes": [],
@@ -1877,13 +1877,13 @@
         {
          "attributes": {},
          "baseStyles": {},
-         "blockId": "f737be15a1",
+         "blockId": "5390c59098",
          "blockName": "Footer Col Hours",
          "children": [
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "d7ad7a6d71",
+           "blockId": "c59170b2ab",
            "blockName": "Col Hours",
            "children": [],
            "classes": [],
@@ -1897,7 +1897,7 @@
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "47cb491cb6",
+           "blockId": "d350104fea",
            "blockName": "Hours L0",
            "children": [],
            "classes": [],
@@ -1911,7 +1911,7 @@
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "7cb4a986f4",
+           "blockId": "80e4973500",
            "blockName": "Hours L1",
            "children": [],
            "classes": [],
@@ -1925,7 +1925,7 @@
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "a7eac59989",
+           "blockId": "c7268b706b",
            "blockName": "Hours L2",
            "children": [],
            "classes": [],
@@ -1948,13 +1948,13 @@
         {
          "attributes": {},
          "baseStyles": {},
-         "blockId": "0e4efc11dc",
+         "blockId": "ca3e5c7e53",
          "blockName": "Footer Col Contact",
          "children": [
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "3055413619",
+           "blockId": "802a3c00a1",
            "blockName": "Col Contact",
            "children": [],
            "classes": [],
@@ -1968,7 +1968,7 @@
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "0f67ccadb8",
+           "blockId": "2a9ad2d772",
            "blockName": "Contact L0",
            "children": [],
            "classes": [],
@@ -1982,7 +1982,7 @@
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "a5cb13d0e5",
+           "blockId": "abf1150b82",
            "blockName": "Contact L1",
            "children": [],
            "classes": [],
@@ -1996,7 +1996,7 @@
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "6842bba981",
+           "blockId": "cb6561e6cc",
            "blockName": "Contact L2",
            "children": [],
            "classes": [],
@@ -2019,13 +2019,13 @@
         {
          "attributes": {},
          "baseStyles": {},
-         "blockId": "1aaef4d880",
+         "blockId": "af699cf9e4",
          "blockName": "Barcode Block",
          "children": [
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "b058efdbc8",
+           "blockId": "563d6eee62",
            "blockName": "Barcode",
            "children": [],
            "classes": [],
@@ -2039,7 +2039,7 @@
           {
            "attributes": {},
            "baseStyles": {},
-           "blockId": "4b1678fdfd",
+           "blockId": "aef775a9d5",
            "blockName": "Barcode Number",
            "children": [],
            "classes": [],
@@ -2071,13 +2071,13 @@
       {
        "attributes": {},
        "baseStyles": {},
-       "blockId": "439bc58ef4",
+       "blockId": "4b5d5da560",
        "blockName": "Footer Small",
        "children": [
         {
          "attributes": {},
          "baseStyles": {},
-         "blockId": "5220db4a86",
+         "blockId": "ffcc4e33e2",
          "blockName": "Footer Copyright",
          "children": [],
          "classes": [],
@@ -2091,7 +2091,7 @@
         {
          "attributes": {},
          "baseStyles": {},
-         "blockId": "10eb700496",
+         "blockId": "077648256c",
          "blockName": "Footer Credit",
          "children": [],
          "classes": [],
@@ -2138,7 +2138,7 @@
    "builder_script": "groove_motion"
   }
  ],
- "creation": "2026-07-19 21:30:17.850411",
+ "creation": "2026-07-20 13:30:46.907676",
  "disable_indexing": 0,
  "docstatus": 0,
  "doctype": "Builder Page",
@@ -2148,7 +2148,7 @@
  "is_standard": 0,
  "is_template": 1,
  "meta_description": "Five artists, flipped through like a record crate: Velvet Antenna, Bad Comet, Marrow & Pine, Nadia Reyes, Tape Hiss Club.",
- "modified": "2026-07-19 21:30:17.850411",
+ "modified": "2026-07-20 13:30:46.907676",
  "modified_by": "Administrator",
  "name": "groove_roster",
  "owner": "Administrator",
