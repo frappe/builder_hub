@@ -11,7 +11,7 @@ sharing a set of Builder Components and Variables. Groups are bundled as fixture
 
 ## Templates
 
-Thirty multi-page template groups. Each group owns a distinct structural
+Thirty-three multi-page template groups. Each group owns a distinct structural
 archetype and shares a navbar/footer, palette (as Builder Variables) and client
 scripts across its pages. Themed groups ship a light/dark toggle; single-theme
 groups (dark posters, paper zines) are one look by design.
