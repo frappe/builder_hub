@@ -1,0 +1,1630 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e01, #FFFFFF)",
+    "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Schibsted Grotesk",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "1152d405a9",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "7c0bfddf02",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "d8d0b4e612",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "d36b2241c8",
+         "blockName": "Brand",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "7ca0cad509",
+           "blockName": "Brand Mark",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "070ca0c5e4",
+             "blockName": "Brand Pupil",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "optic_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "43f2c98b9b",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "5db4d4339e",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0fffe25772",
+           "blockName": "Brand Name",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ef1e7e2942",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "optic_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "41bb5dd93a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "8d3da64c86",
+         "blockName": "Nav Links",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "c537c5296b",
+           "blockName": "Nav Eye exams",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "cc6f07bd58",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "131b93cccd",
+           "blockName": "Nav Visit",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "fa6c024386",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "dc3ed4faa3",
+           "blockName": "Nav CTA",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "dada60dff9",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "optic_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "fb71a57204",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "optic_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "860bcacca5",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "optic_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "72px 0px 88px 0px",
+      "width": "100%"
+     },
+     "blockId": "7e0a5dfa4c",
+     "blockName": "Exam",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1000px",
+        "padding": "0px 48px",
+        "width": "100%"
+       },
+       "blockId": "9dc806d9a3",
+       "blockName": "Exam Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "12px",
+          "marginBottom": "36px",
+          "width": "100%"
+         },
+         "blockId": "8ccc3990ce",
+         "blockName": "Exam Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+            "fontFamily": "IBM Plex Mono",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.2em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "7f28cb70c4",
+           "blockName": "Exam Eyebrow",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "The exam · unhurried by design",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+            "fontFamily": "Schibsted Grotesk",
+            "fontSize": "44px",
+            "fontWeight": "700",
+            "height": "fit-content",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "1.2",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "3e4a3731dc",
+           "blockName": "Exam Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Forty minutes, both eyes, no rush.",
+           "mobileStyles": {
+            "fontSize": "27px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {
+            "fontSize": "34px"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+            "fontFamily": "Schibsted Grotesk",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "maxWidth": "540px",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "6ebf1e5291",
+           "blockName": "Exam Sub",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Most eye exams are eight minutes and a sales funnel. Ours is forty, because refraction is easy and understanding how you use your eyes is not.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "op-focus"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+          "borderStyle": "solid",
+          "borderWidth": "1px 0px 0px 0px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "marginBottom": "48px",
+          "width": "100%"
+         },
+         "blockId": "5c6efcd4c6",
+         "blockName": "Exam Rows",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "22px",
+            "padding": "20px 4px",
+            "width": "100%"
+           },
+           "blockId": "00aeef10fc",
+           "blockName": "Exam Full eye exam",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "flexShrink": 0,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "20px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "letterSpacing": "-0.01em",
+              "lineHeight": "1.2",
+              "minWidth": "220px",
+              "width": "220px"
+             },
+             "blockId": "6cc52a2043",
+             "blockName": "EX N Full eye exam",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Full eye exam",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.7",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "9155c16e67",
+             "blockName": "EX D Full eye exam",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Refraction, pressure, retinal photos, and honest answers. Fee refunded against any glasses.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "29f3581704",
+             "blockName": "EX M Full eye exam",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "40 min · 650 kr",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexWrap": "wrap",
+            "gap": "10px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "22px",
+            "padding": "20px 4px",
+            "width": "100%"
+           },
+           "blockId": "cf0caae2ce",
+           "blockName": "Exam Screen-strain consult",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "flexShrink": 0,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "20px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "letterSpacing": "-0.01em",
+              "lineHeight": "1.2",
+              "minWidth": "220px",
+              "width": "220px"
+             },
+             "blockId": "351fdc941f",
+             "blockName": "EX N Screen-strain consult",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Screen-strain consult",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.7",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "ab279a1f19",
+             "blockName": "EX D Screen-strain consult",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "For the eyes that live at arm's length. Includes a workspace distance check.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "a5ef661ee8",
+             "blockName": "EX M Screen-strain consult",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "25 min · 400 kr",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexWrap": "wrap",
+            "gap": "10px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "22px",
+            "padding": "20px 4px",
+            "width": "100%"
+           },
+           "blockId": "ff367f943d",
+           "blockName": "Exam Children",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "flexShrink": 0,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "20px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "letterSpacing": "-0.01em",
+              "lineHeight": "1.2",
+              "minWidth": "220px",
+              "width": "220px"
+             },
+             "blockId": "f3f2ae77e0",
+             "blockName": "EX N Children",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Children",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.7",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "1967178bdd",
+             "blockName": "EX D Children",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Patient, playful, no drops unless truly needed. Bribery stickers included.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "b2dee9d169",
+             "blockName": "EX M Children",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "30 min · free",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexWrap": "wrap",
+            "gap": "10px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "22px",
+            "padding": "20px 4px",
+            "width": "100%"
+           },
+           "blockId": "7949060ae8",
+           "blockName": "Exam Adjustments & repairs",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "flexShrink": 0,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "20px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "letterSpacing": "-0.01em",
+              "lineHeight": "1.2",
+              "minWidth": "220px",
+              "width": "220px"
+             },
+             "blockId": "099bc36e79",
+             "blockName": "EX N Adjustments & repairs",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Adjustments & repairs",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.7",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "36f071dfda",
+             "blockName": "EX D Adjustments & repairs",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Forever. Even on frames you bought elsewhere. This is the whole marketing strategy.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "542c6abc22",
+             "blockName": "EX M Adjustments & repairs",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "walk in · free",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexWrap": "wrap",
+            "gap": "10px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e01, #FFFFFF)",
+          "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "16px",
+          "padding": "30px 34px",
+          "width": "100%"
+         },
+         "blockId": "4099bf01ec",
+         "blockName": "Rx Pad",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "12px",
+            "justifyContent": "space-between",
+            "width": "100%"
+           },
+           "blockId": "45dbd8891a",
+           "blockName": "Rx Head",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "20px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "letterSpacing": "-0.01em",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "241ba4bc0c",
+             "blockName": "Rx Title",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "A sample prescription",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "094aac45c8",
+             "blockName": "Rx No",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Rx № 4402",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0px 0px 1px",
+            "display": "grid",
+            "flexShrink": 0,
+            "width": "100%"
+           },
+           "blockId": "4db88605da",
+           "blockName": "Rx Grid",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "c83ba98fb5",
+             "blockName": "RX  h",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "e297aed2f8",
+             "blockName": "RX SPH h",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "SPH",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "90d5d4b914",
+             "blockName": "RX CYL h",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "CYL",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "ab58b09d71",
+             "blockName": "RX AXIS h",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "AXIS",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "3c8357b0fe",
+             "blockName": "RX NOTES h",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "NOTES",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "4488b51238",
+             "blockName": "RX OD (right) h",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "OD (right)",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "47b2f90341",
+             "blockName": "RX −1.75 c",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "−1.75",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "cb77e1cf32",
+             "blockName": "RX −0.50 c",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "−0.50",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "406ff2d1f3",
+             "blockName": "RX 180 c",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "180",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "0da93a5a75",
+             "blockName": "RX squints at m c",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "squints at menus",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "37de5c01d3",
+             "blockName": "RX OS (left) h",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "OS (left)",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "864c7b925f",
+             "blockName": "RX −2.00 c",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "−2.00",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "91d0e89b25",
+             "blockName": "RX −0.25 c",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "−0.25",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "5898080fcf",
+             "blockName": "RX 165 c",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "165",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 1px 1px 0px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.08em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "padding": "10px 12px",
+              "textTransform": "uppercase",
+              "width": "100%"
+             },
+             "blockId": "32ad6e82f0",
+             "blockName": "RX blames the l c",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "blames the lighting",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {
+            "grid-template-columns": "1.2fr 1fr 1fr 1fr 1.6fr"
+           },
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+            "fontFamily": "Schibsted Grotesk",
+            "fontSize": "13.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "5579430280",
+           "blockName": "Rx Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "You leave with your prescription, printed and explained, whether you buy from us or not. It is yours. It was always yours.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "op-focus"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "padding": "20px 16px"
+         },
+         "rawStyles": {
+          "box-shadow": "6px 6px 0 #F4F4F4"
+         },
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 32px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "44px 0px 56px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "7b9380d404",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "e5c24018a5",
+       "blockName": "Footer Info",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "02b5fada09",
+         "blockName": "Footer Col The shop",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "9ad7262649",
+           "blockName": "F The shop",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "2bc2d0056f",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "5bc4aa5f69",
+           "blockName": "F The shop Storgatan 11, ",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "7c1e446c86",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "5becb6d927",
+           "blockName": "F The shop Tue–Sat, 10 to",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "03afa29839",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "optic_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "0f4ae0954a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "e9f983a033",
+         "blockName": "Footer Col Book",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "2d693f7214",
+           "blockName": "F Book",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6ab6aec453",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "1b0a8ced9a",
+           "blockName": "F Book see@lindqvisto",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c769727016",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "d820350274",
+           "blockName": "F Book +46 40 12 34 5",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "7a8e7d1b14",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "optic_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "059bb307e9",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "5035e14ba2",
+         "blockName": "Footer Col Promise",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "779cc25ba9",
+           "blockName": "F Promise",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6cbaedb5dc",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "2a5d5807f2",
+           "blockName": "F Promise Free adjustmen",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ea909bc185",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "fc3e2f62c7",
+           "blockName": "F Promise Even on frames",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "4a89b42cb2",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "optic_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "90059fa1d3",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "optic_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "9d2a13b2bd",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "8d2f779a7c",
+       "blockName": "Footer Small",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "d33c4fc105",
+         "blockName": "Footer C",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "optic_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "06e774b8ee",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "d1503a233d",
+         "blockName": "Footer Joke",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "optic_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "abcafd7a6f",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "optic_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "2c3a10a96c",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "optic_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "optic_styles"
+  },
+  {
+   "builder_script": "optic_motion"
+  }
+ ],
+ "creation": "2026-07-20 18:13:00.607975",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Forty-minute eye exams, screen-strain consults, free children's exams and the sample prescription pad.",
+ "modified": "2026-07-20 18:13:00.607975",
+ "modified_by": "Administrator",
+ "name": "optic_exam",
+ "owner": "Administrator",
+ "page_name": "optic_exam",
+ "page_title": "The exam · Lindqvist Optik",
+ "preview": "/builder_assets/optic/optic_exam/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/optic/exam",
+ "template_group": "optic"
+}
