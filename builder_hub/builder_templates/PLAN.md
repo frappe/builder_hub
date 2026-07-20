@@ -74,7 +74,7 @@ Rules that apply to every template:
 | candor | statement screens: full-viewport one-color statement hero, cropped mega wordmark, serif fee table, no photos |
 | fetch  | product bento: super-rounded pastel tiles, blob photo frames, star reviews, size table, guarantee card |
 | ember  | hearth menu-card: split wordmark/photo hero, hours marquee rule, roman-numeral snap strip, double-hairline menu frames, reserve-banner footer, scroll-reveal motion |
-| groove | the record: scroll-spun CSS vinyl hero with tonearm-as-progress, NOW PLAYING pill retuning per section, tracklist rows with runtimes, sleeves that eject their disc on hover, crate-flip roster, hype stickers, runout-groove marquee footer with CSS barcode |
+| groove | the record: scroll-spun CSS vinyl hero with tonearm-as-progress, NOW PLAYING pill retuning per section, back-of-sleeve tracklist panels, 45-single stat discs, vinyl video bands, sleeves that eject their disc on hover, crate-flip roster, hype stickers, runout-groove marquee footer with CSS barcode |
 
 New briefs must claim an archetype not on this list, and the list grows as templates ship.
 
@@ -858,21 +858,28 @@ removed with it.
 The record label, replacing fathom after the user asked to "read the pattern": the shipped
 catalog keeps artifact conceits with dense furniture (recipe cards, the design file, the
 keynote, the zine), so groove makes the site a record. Night Shift Records, an independent
-vinyl label, 70s hi-fi palette (cream / ink / burnt orange / mustard), Abril Fatface +
-DM Sans + DM Mono. The hero is a pure-CSS vinyl record (repeating-radial grooves, conic
-sheen, orange centre label, spindle) that spins with scroll via a `--spin` variable, under a
-tonearm whose angle is whole-page progress (`--armp`): the page IS Side A. A fixed NOW
-PLAYING pill (ink, pulsing orange dot) retunes per section from `data-tune` attributes
-(NOT `data-track`, which Builder stamps on blocks for click analytics). Sections are
-tracklist rows (A1 to A4 with runtimes, prices set as durations on the B-side), releases are
-square sleeves whose vinyl ejects sideways on hover (`.gr-sleeve:hover z-index` lift so the
-disc rides over neighbours, cream rim for dark covers), the roster is a crate flipped
+vinyl label, 70s hi-fi palette (cream / ink / burnt orange / mustard), Unbounded (display,
+swapped from Abril Fatface in the Jul 20 revision round) + DM Sans + DM Mono. The hero is a
+pure-CSS vinyl record (repeating-radial grooves, conic sheen, orange centre label with the
+type set AROUND the spindle hole, brand above, pressing details below) that spins with
+scroll via a `--spin` variable, under a tonearm whose angle is whole-page progress
+(`--armp`) with the stylus resting on the grooves: the page IS Side A. A fixed NOW PLAYING
+pill (ink, pulsing orange dot) retunes per section from `data-tune` attributes (NOT
+`data-track`, which Builder stamps on blocks for click analytics). The label's services are
+the BACK OF THE SLEEVE: an ink panel with a mustard offset shadow, SIDE A header between
+hairlines, dotted-leader track lines with runtimes and mono credit lines, an uppercase
+credits paragraph and a © ℗ row with a small barcode (the B-side page repeats the panel as
+SIDE B with an orange shadow and prices as runtimes). Stats are three 45-singles: CSS discs
+with coloured centre labels holding the numbers, hover-rotate. Two committed video bands
+(Pexels 19281032, a red-label record spinning in the dark, on home; Pexels 5118420, a hand
+cueing the needle, as the B-side Thursday ritual; ~330-460 KB each, muted/looped with a JS
+play() safeguard). Releases are square sleeves whose vinyl ejects sideways on hover
+(`.gr-sleeve:hover z-index` lift, cream rim for dark covers), the roster is a crate flipped
 sideways (perspective rotateY snap strip), hype stickers with offset shadows sit on the
-record wrap and headlines, the demo-drop card is the conversion ("Send three songs, not your
-best three, your truest three"), and the footer is the runout groove: a marquee of etched
-matrix text plus a CSS barcode. Chunky 2px-ink-border buttons with offset shadows that press
-down on hover. No JS / reduced motion: record and arm sit static, pill hidden, everything
-readable. 3 pages (home / roster / bside), order 35.
+record wrap, the demo-drop card is the conversion, and the footer is the runout groove: a
+marquee of etched matrix text plus a CSS barcode. Chunky 2px-ink-border buttons with offset
+shadows that press down on hover. No JS / reduced motion: record and arm sit static, pill
+hidden, everything readable. 3 pages (home / roster / bside), order 35.
 
 ## Follow-ups
 
