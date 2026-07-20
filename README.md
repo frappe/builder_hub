@@ -66,6 +66,7 @@ per-template briefs.
 | **Lull**<br>A soft wellness studio with an arch photo hero and a weekly schedule.<br><sub>Pages: Home · Classes · Visit</sub> | <img src="builder_hub/www/builder_assets/lull/lull_home/preview.webp" width="360"> |
 | **Nook**<br>A photo first boutique stay with full screen room chapters.<br><sub>Pages: Home · Rooms · Visit</sub> | <img src="builder_hub/www/builder_assets/nook/nook_home/preview.webp" width="360"> |
 | **Keys**<br>A property agency in an app shell, with listings as rows.<br><sub>Pages: Listings · Property · Viewings</sub> | <img src="builder_hub/www/builder_assets/keys/keys_listings/preview.webp" width="360"> |
+| **Optic**<br>An optician built as an eye chart: shrinking Snellen hero, blur-to-focus reveals, CSS-drawn frames, a prescription pad.<br><sub>Pages: Home · Exam · Visit</sub> | <img src="builder_hub/www/builder_assets/optic/optic_home/preview.webp" width="360"> |
 
 ### Fashion
 

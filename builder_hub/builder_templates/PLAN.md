@@ -77,6 +77,7 @@ Rules that apply to every template:
 | groove | the record: scroll-spun CSS vinyl hero with tonearm-as-progress, NOW PLAYING pill retuning per section, back-of-sleeve tracklist panels, 45-single stat discs, vinyl video bands, sleeves that eject their disc on hover, crate-flip roster, hype stickers, runout-groove marquee footer with CSS barcode |
 | gambit | the annotated game: score-sheet move rows with notation and italic commentary, CSS chessboard diagrams with unicode pieces, ECO-coded service openings, engine-eval results, time-control pricing, monochrome warm greys |
 | chit   | the till receipt: every page a thermal receipt (zigzag torn edges, dashed rules, dotted price leaders), print-feed hero from a printer slot, punch-card loyalty, 86'd strikethrough items, barcode stubs, Courier Prime only |
+| optic  | the eye chart: shrinking Snellen hero rows with 20/x acuity margins and a lean-in joke line, blur-to-focus reveals, pure-CSS line-drawn frames, prescription-pad Rx grid, black on white |
 
 New briefs must claim an archetype not on this list, and the list grows as templates ship.
 
@@ -912,6 +913,22 @@ loyalty is a punched card (six of ten filled, record holder Margit, 214 cards), 
 page is the STORE COPY with a customer-signature line, and the footer is the customer-copy
 stub with hours as price rows and "NO REFUNDS ON SUNSHINE" legal. 3 pages
 (home / menu / visit), order 37.
+
+## Brief: optic (Local business, monochrome), BUILT Jul 2026
+
+Third of the monochrome trio. Lindqvist Optik, a one-room opticians in Malmö whose home page
+IS an eye chart: nine Snellen rows shrinking from a 170px "L" to a 7.5px row 9, spelling the
+pitch cumulatively ("L / OO / K CLO / SELY NOW / WE MAKE GLASSES / FOR PEOPLE WHO LOOK
+CLOSELY..."), with row numbers left and 20/200→20/10 acuity fractions right; the last row
+rewards leaning in ("YOU ARE LEANING IN. THAT IS EXACTLY THE KIND OF PERSON WE MAKE GLASSES
+FOR."). Pure black on white with two greys, Schibsted Grotesk + IBM Plex Mono. Reveals
+sharpen from blur(9px) into focus, the one motion idea and it IS the conceit. The three
+frames are drawn entirely in CSS (round Arvid, rectangular Berit, browline Cleo: two lens
+shapes, a bridge and temples from borders), the exam page carries a prescription-pad Rx grid
+(SPH/CYL/AXIS with deadpan notes: "squints at menus") in a sheet with an offset shadow, and
+the footer's smallest type is an 8.5px joke ("If you can read this, thank your optician").
+The forever-adjustment promise is the whole marketing strategy, stated as such. 3 pages
+(home / exam / visit), order 38.
 
 ## Follow-ups
 
