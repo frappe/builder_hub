@@ -76,6 +76,7 @@ Rules that apply to every template:
 | ember  | hearth menu-card: split wordmark/photo hero, hours marquee rule, roman-numeral snap strip, double-hairline menu frames, reserve-banner footer, scroll-reveal motion |
 | groove | the record: scroll-spun CSS vinyl hero with tonearm-as-progress, NOW PLAYING pill retuning per section, back-of-sleeve tracklist panels, 45-single stat discs, vinyl video bands, sleeves that eject their disc on hover, crate-flip roster, hype stickers, runout-groove marquee footer with CSS barcode |
 | gambit | the annotated game: score-sheet move rows with notation and italic commentary, CSS chessboard diagrams with unicode pieces, ECO-coded service openings, engine-eval results, time-control pricing, monochrome warm greys |
+| chit   | the till receipt: every page a thermal receipt (zigzag torn edges, dashed rules, dotted price leaders), print-feed hero from a printer slot, punch-card loyalty, 86'd strikethrough items, barcode stubs, Courier Prime only |
 
 New briefs must claim an archetype not on this list, and the list grows as templates ship.
 
@@ -896,6 +897,21 @@ openings (C50 Italian / B20 Sicilian / A10 English) with character tags, pricing
 controls (Classical / Rapid / Blitz), partner cards with peak ratings, and a footer that
 scores the page 1–0 ("Resignation is also a move"). Subtle motion only: soft rises, row
 nudges, offset-shadow card hovers. 3 pages (home / openings / club), order 36.
+
+## Brief: chit (Food & Beverage, monochrome), BUILT Jul 2026
+
+Second of the monochrome trio. Small Change, a nine-seat espresso bar whose every page is a
+thermal till receipt on a counter-grey ground: zigzag torn bottom edges (clip-path), dashed
+rules, dotted price leaders, star headers, ORDER #047 lines and barcode stubs, all in Courier
+Prime and thermal grey-blacks (counter/paper/ink/faded/line). The hero receipt physically
+feeds out of a printer-slot bar on load (masked translateY, 2.1s ease-out). The whole pitch
+is ON the receipt ("A NINE-SEAT ESPRESSO BAR THAT TAKES COFFEE SERIOUSLY AND ITSELF NOT AT
+ALL"), items carry deadpan notes (tap water 0.00, "always. asking is allowed"), the menu is
+one long register roll with an 86'd cold brew struck through ("IT KNOWS WHAT IT DID"),
+loyalty is a punched card (six of ten filled, record holder Margit, 214 cards), the visit
+page is the STORE COPY with a customer-signature line, and the footer is the customer-copy
+stub with hours as price rows and "NO REFUNDS ON SUNSHINE" legal. 3 pages
+(home / menu / visit), order 37.
 
 ## Follow-ups
 

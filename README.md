@@ -82,6 +82,7 @@ per-template briefs.
 | Template | Preview |
 |---|---|
 | **Ember**<br>A dark wood-fire tasting room: hearth-lit photography, a framed menu card and scroll-reveal motion.<br><sub>Pages: Home · Menu · About · Contact</sub> | <img src="builder_hub/www/builder_assets/ember/ember_home/preview.webp" width="360"> |
+| **Chit**<br>A coffee bar where every page is a till receipt: print-feed hero, dotted prices, a punch card, barcode stubs.<br><sub>Pages: Home · Menu · Visit</sub> | <img src="builder_hub/www/builder_assets/chit/chit_home/preview.webp" width="360"> |
 
 ### Technology
 
