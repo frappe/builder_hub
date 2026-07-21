@@ -1,0 +1,3838 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c01, #F5F2EA)",
+    "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Inter",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "4a39e79a32",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "dbdefa2dec",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "e798e6280b",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "dd73afe4d2",
+         "blockName": "Brand",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "575992d27c",
+           "blockName": "Brand T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c2de0c749c",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "3585362c69",
+           "blockName": "Brand Sub",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9619c60cf3",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "counsel_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "1cafce664a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "f35a45b486",
+         "blockName": "Nav Links",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "3c62f6c9a0",
+           "blockName": "Nav Practice",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "a336c3b248",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "66ab3814ac",
+           "blockName": "Nav People",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "695b3b8daa",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "9deaae98bb",
+           "blockName": "Nav Enquire",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6833bca18a",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "counsel_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "9832df8242",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "counsel_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "d60715f94e",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "counsel_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "88px 40px 110px 40px",
+      "width": "100%"
+     },
+     "blockId": "4d6c9e2e44",
+     "blockName": "Hero",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "30px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "83a3ec6a36",
+       "blockName": "Hero Stack",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+          "fontFamily": "Inter",
+          "fontSize": "11.5px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "letterSpacing": "0.24em",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "37f3af026a",
+         "blockName": "Hero Eye",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Counsel for considered people",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+          "fontFamily": "Source Serif 4",
+          "fontSize": "min(5.2vw, 72px)",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "lineHeight": "1.12",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "28fcee090c",
+         "blockName": "Hero H",
+         "children": [],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "h1",
+         "innerHTML": "Most legal problems are loud.<br>Good advice is quiet.",
+         "mobileStyles": {
+          "fontSize": "38px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "54px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "48px",
+          "justifyContent": "space-between",
+          "width": "100%"
+         },
+         "blockId": "88aa2e4913",
+         "blockName": "Hero Sub Row",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "16.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "460px"
+           },
+           "blockId": "98b63e9c07",
+           "blockName": "Hero Sub",
+           "children": [],
+           "classes": [
+            "cn-rise",
+            "cn-d1"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Harrow &amp; Vale advises founders, families and quiet companies on the matters they'd rather never became stories. Most of our best work is invisible, which suits everyone.",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "12px",
+            "width": "fit-content"
+           },
+           "blockId": "da9587778f",
+           "blockName": "Hero CTA Wrap",
+           "children": [
+            {
+             "attributes": {
+              "href": "enquire"
+             },
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c01, #F5F2EA)",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "fontFamily": "Inter",
+              "fontSize": "12.5px",
+              "fontWeight": "600",
+              "justifyContent": "center",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1",
+              "padding": "18px 34px",
+              "textDecoration": "none",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "0993e95f09",
+             "blockName": "Hero B1",
+             "children": [],
+             "classes": [
+              "cn-btn"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "Start an enquiry",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "12.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "2ebc5e61b3",
+             "blockName": "Hero Note",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "First conversations are free and assumed confidential.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "cn-rise",
+            "cn-d1"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "24px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "64px",
+        "width": "10px"
+       },
+       "blockId": "6dd4f788fb",
+       "blockName": "Hero Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "height": "40px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "20px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "ae3e51bcb3",
+       "blockName": "Hero Media Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "flexBasis": "0px",
+          "flexGrow": 2.2,
+          "flexShrink": 1,
+          "minWidth": "0px",
+          "overflow": "hidden"
+         },
+         "blockId": "eb4d495c16",
+         "blockName": "HM Photo Wrap",
+         "children": [
+          {
+           "attributes": {
+            "alt": "Signatures, considered first",
+            "loading": "eager",
+            "src": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1800&q=70&fm=webp&fit=crop"
+           },
+           "baseStyles": {
+            "display": "block",
+            "height": "auto",
+            "objectFit": "cover",
+            "width": "100%"
+           },
+           "blockId": "c9c48a977a",
+           "blockName": "HM Img",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "img",
+           "mobileStyles": {},
+           "rawStyles": {
+            "aspect-ratio": "21 / 9",
+            "filter": "grayscale(0.35) contrast(1.02)"
+           },
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise",
+          "cn-d1"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c06, #FCFAF4)",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "0px",
+          "justifyContent": "center",
+          "minWidth": "0px",
+          "padding": "10px 34px"
+         },
+         "blockId": "1c9741b080",
+         "blockName": "HM Facts",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "2px",
+            "padding": "18px 0px",
+            "width": "100%"
+           },
+           "blockId": "b9332da34f",
+           "blockName": "HF 1",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "30px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "fd75c8d779",
+             "blockName": "HF1 N",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "1987",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "10px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "4eba6dd09f",
+             "blockName": "HF1 L",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Founded, still small on purpose",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "2px",
+            "padding": "18px 0px",
+            "width": "100%"
+           },
+           "blockId": "c76ba744ed",
+           "blockName": "HF 2",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "30px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "db9b8da990",
+             "blockName": "HF2 N",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "11",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "10px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "545f12ac04",
+             "blockName": "HF2 L",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Lawyers. You get partners",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "2px",
+            "padding": "18px 0px",
+            "width": "100%"
+           },
+           "blockId": "f9ad3f07dc",
+           "blockName": "HF 3",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "30px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "c359176e80",
+             "blockName": "HF3 N",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "0",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "10px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "32fb058531",
+             "blockName": "HF3 L",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Press releases about clients, ever",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise",
+          "cn-d2"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "padding": "6px 22px",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "88px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "110px 40px",
+      "width": "100%"
+     },
+     "blockId": "02d20f7cd7",
+     "blockName": "Practice",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "18px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "405d0b7706",
+       "blockName": "Pr Head",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+          "fontFamily": "Inter",
+          "fontSize": "11.5px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "letterSpacing": "0.24em",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "3337516b9a",
+         "blockName": "Pr Eye",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Practice",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+          "fontFamily": "Source Serif 4",
+          "fontSize": "44px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "lineHeight": "1.15",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "846dfb49f1",
+         "blockName": "Pr H",
+         "children": [],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "Four things, done properly",
+         "mobileStyles": {
+          "fontSize": "30px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "38px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "34px",
+        "width": "10px"
+       },
+       "blockId": "65b063830f",
+       "blockName": "Pr Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "d63b28de05",
+       "blockName": "Pr Rows",
+       "children": [
+        {
+         "attributes": {
+          "href": "practice"
+         },
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "36px",
+          "padding": "30px 12px",
+          "textDecoration": "none",
+          "width": "100%"
+         },
+         "blockId": "f630e687c2",
+         "blockName": "Area 01",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "flexShrink": 0,
+            "fontFamily": "Inter",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "3c680ad095",
+           "blockName": "Area 01 No",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "01",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "27px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.2",
+            "minWidth": "10px",
+            "width": "300px"
+           },
+           "blockId": "ee5377a7b0",
+           "blockName": "Area 01 T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h3",
+           "innerHTML": "Corporate & ventures",
+           "mobileStyles": {
+            "fontSize": "22px",
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "auto"
+           },
+           "blockId": "2cdbb16f48",
+           "blockName": "Area 01 B",
+           "children": [],
+           "classes": [
+            "cn-grow"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Formation to exit: cap tables, financings, the deals that should close quietly and do.",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Inter",
+            "fontSize": "18px",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "width": "fit-content"
+           },
+           "blockId": "72640a0f7f",
+           "blockName": "Area 01 Arr",
+           "children": [],
+           "classes": [
+            "cn-arrow"
+           ],
+           "customAttributes": {},
+           "element": "span",
+           "innerHTML": "→",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-area",
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "a",
+         "mobileStyles": {
+          "flexWrap": "wrap",
+          "gap": "10px 20px",
+          "padding": "22px 4px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {
+          "href": "practice"
+         },
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "36px",
+          "padding": "30px 12px",
+          "textDecoration": "none",
+          "width": "100%"
+         },
+         "blockId": "903a22c6b2",
+         "blockName": "Area 02",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "flexShrink": 0,
+            "fontFamily": "Inter",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "1ed72b031b",
+           "blockName": "Area 02 No",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "02",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "27px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.2",
+            "minWidth": "10px",
+            "width": "300px"
+           },
+           "blockId": "f1dc3e0037",
+           "blockName": "Area 02 T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h3",
+           "innerHTML": "Disputes",
+           "mobileStyles": {
+            "fontSize": "22px",
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "auto"
+           },
+           "blockId": "83918365ec",
+           "blockName": "Area 02 B",
+           "children": [],
+           "classes": [
+            "cn-grow"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Litigation when unavoidable, settlement architecture when wiser. We bill for outcomes, not theatre.",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Inter",
+            "fontSize": "18px",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "width": "fit-content"
+           },
+           "blockId": "873c02fb2c",
+           "blockName": "Area 02 Arr",
+           "children": [],
+           "classes": [
+            "cn-arrow"
+           ],
+           "customAttributes": {},
+           "element": "span",
+           "innerHTML": "→",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-area",
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "a",
+         "mobileStyles": {
+          "flexWrap": "wrap",
+          "gap": "10px 20px",
+          "padding": "22px 4px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {
+          "href": "practice"
+         },
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "36px",
+          "padding": "30px 12px",
+          "textDecoration": "none",
+          "width": "100%"
+         },
+         "blockId": "5519fcdbea",
+         "blockName": "Area 03",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "flexShrink": 0,
+            "fontFamily": "Inter",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "689b4a8549",
+           "blockName": "Area 03 No",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "03",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "27px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.2",
+            "minWidth": "10px",
+            "width": "300px"
+           },
+           "blockId": "6b266a2528",
+           "blockName": "Area 03 T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h3",
+           "innerHTML": "Employment",
+           "mobileStyles": {
+            "fontSize": "22px",
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "auto"
+           },
+           "blockId": "ea3343f38a",
+           "blockName": "Area 03 B",
+           "children": [],
+           "classes": [
+            "cn-grow"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Hiring, exits and the documents that keep both sides dignified. For companies and the occasional executive.",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Inter",
+            "fontSize": "18px",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "width": "fit-content"
+           },
+           "blockId": "0c49615e1d",
+           "blockName": "Area 03 Arr",
+           "children": [],
+           "classes": [
+            "cn-arrow"
+           ],
+           "customAttributes": {},
+           "element": "span",
+           "innerHTML": "→",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-area",
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "a",
+         "mobileStyles": {
+          "flexWrap": "wrap",
+          "gap": "10px 20px",
+          "padding": "22px 4px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {
+          "href": "practice"
+         },
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "36px",
+          "padding": "30px 12px",
+          "textDecoration": "none",
+          "width": "100%"
+         },
+         "blockId": "c44f56f300",
+         "blockName": "Area 04",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "flexShrink": 0,
+            "fontFamily": "Inter",
+            "fontSize": "12px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "c1e71a3c58",
+           "blockName": "Area 04 No",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "04",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "27px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.2",
+            "minWidth": "10px",
+            "width": "300px"
+           },
+           "blockId": "c38773ac7a",
+           "blockName": "Area 04 T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h3",
+           "innerHTML": "Private client",
+           "mobileStyles": {
+            "fontSize": "22px",
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "auto"
+           },
+           "blockId": "ce963694fe",
+           "blockName": "Area 04 B",
+           "children": [],
+           "classes": [
+            "cn-grow"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Estates, trusts and family matters, handled with the discretion your dinner table deserves.",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Inter",
+            "fontSize": "18px",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "width": "fit-content"
+           },
+           "blockId": "ba965561af",
+           "blockName": "Area 04 Arr",
+           "children": [],
+           "classes": [
+            "cn-arrow"
+           ],
+           "customAttributes": {},
+           "element": "span",
+           "innerHTML": "→",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-area",
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "a",
+         "mobileStyles": {
+          "flexWrap": "wrap",
+          "gap": "10px 20px",
+          "padding": "22px 4px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "40px",
+        "width": "10px"
+       },
+       "blockId": "a344aca1ab",
+       "blockName": "Pr Gap 2",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "flex-start",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "9cd54c1b09",
+       "blockName": "Pr Link",
+       "children": [
+        {
+         "attributes": {
+          "href": "practice"
+         },
+         "baseStyles": {
+          "alignItems": "center",
+          "backgroundColor": "transparent",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "fontFamily": "Inter",
+          "fontSize": "12.5px",
+          "fontWeight": "600",
+          "justifyContent": "center",
+          "letterSpacing": "0.18em",
+          "lineHeight": "1",
+          "padding": "18px 34px",
+          "textDecoration": "none",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "f97d8eb4d2",
+         "blockName": "Pr Btn",
+         "children": [],
+         "classes": [
+          "cn-btn-o"
+         ],
+         "customAttributes": {},
+         "element": "a",
+         "innerHTML": "The full practice",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "88px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "110px 40px",
+      "width": "100%"
+     },
+     "blockId": "df8c60e0fb",
+     "blockName": "Outcomes",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "18px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "33624a7b77",
+       "blockName": "Out Head",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "#B08A85",
+          "fontFamily": "Inter",
+          "fontSize": "11.5px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "letterSpacing": "0.24em",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "f43d75386d",
+         "blockName": "Out Eye",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "The record",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c01, #F5F2EA)",
+          "fontFamily": "Source Serif 4",
+          "fontSize": "40px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "lineHeight": "1.2",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "dd3866b400",
+         "blockName": "Out H",
+         "children": [],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "Outcomes we're allowed to mention",
+         "mobileStyles": {
+          "fontSize": "29px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "35px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "48px",
+        "width": "10px"
+       },
+       "blockId": "a3e6390c97",
+       "blockName": "Out Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "36px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "d1f95ceb20",
+       "blockName": "Out Grid",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "#3A362D",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 0px 1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "10px",
+          "minWidth": "0px",
+          "padding": "6px 0px 6px 26px"
+         },
+         "blockId": "c1ed639705",
+         "blockName": "Out 0",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c01, #F5F2EA)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "52px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "709894d3ff",
+           "blockName": "Out 0 N",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "$1.4B",
+           "mobileStyles": {
+            "fontSize": "40px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "#8D867A",
+            "fontFamily": "Inter",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "1866f01af0",
+           "blockName": "Out 0 L",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "in transactions closed the boring way: on time, unreported",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "paddingLeft": "18px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "#3A362D",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 0px 1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "10px",
+          "minWidth": "0px",
+          "padding": "6px 0px 6px 26px"
+         },
+         "blockId": "474fc82215",
+         "blockName": "Out 1",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c01, #F5F2EA)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "52px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "92014f4330",
+           "blockName": "Out 1 N",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "94%",
+           "mobileStyles": {
+            "fontSize": "40px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "#8D867A",
+            "fontFamily": "Inter",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "82acd64038",
+           "blockName": "Out 1 L",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "of disputes resolved before a courtroom needed dusting",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "paddingLeft": "18px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "#3A362D",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 0px 1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "10px",
+          "minWidth": "0px",
+          "padding": "6px 0px 6px 26px"
+         },
+         "blockId": "c297ed1d7b",
+         "blockName": "Out 2",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c01, #F5F2EA)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "52px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "cd1108d6c2",
+           "blockName": "Out 2 N",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "36 yrs",
+           "mobileStyles": {
+            "fontSize": "40px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "#8D867A",
+            "fontFamily": "Inter",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "c34b834a7d",
+           "blockName": "Out 2 L",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "average tenure of our three founding families of clients",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "paddingLeft": "18px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "#3A362D",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 0px 1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "10px",
+          "minWidth": "0px",
+          "padding": "6px 0px 6px 26px"
+         },
+         "blockId": "4730322245",
+         "blockName": "Out 3",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c01, #F5F2EA)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "52px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "756a7d039c",
+           "blockName": "Out 3 N",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "9:1",
+           "mobileStyles": {
+            "fontSize": "40px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "#8D867A",
+            "fontFamily": "Inter",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "6ce17f40cb",
+           "blockName": "Out 3 L",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "matters declined to matters taken. Focus is the product",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "paddingLeft": "18px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column",
+        "gap": "26px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "flexWrap": "wrap"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "88px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "96px 40px",
+      "width": "100%"
+     },
+     "blockId": "9e0d4f535f",
+     "blockName": "Quote",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "26px",
+        "maxWidth": "880px",
+        "width": "100%"
+       },
+       "blockId": "373aa241c7",
+       "blockName": "Q Stack",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+          "fontFamily": "Source Serif 4",
+          "fontSize": "110px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "lineHeight": "0.6",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "93dc717755",
+         "blockName": "Q Mark",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "“",
+         "mobileStyles": {
+          "fontSize": "80px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+          "fontFamily": "Source Serif 4",
+          "fontSize": "32px",
+          "fontStyle": "italic",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.45",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "25ff8a8888",
+         "blockName": "Q Text",
+         "children": [],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "They are the only lawyers I've met who regard a crisis averted as more billable than a crisis won.",
+         "mobileStyles": {
+          "fontSize": "23px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+          "fontFamily": "Inter",
+          "fontSize": "11.5px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "letterSpacing": "0.24em",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "textTransform": "uppercase",
+          "width": "100%"
+         },
+         "blockId": "1569f3c1c0",
+         "blockName": "Q Who",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "General counsel, a company you know",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "88px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "110px 40px",
+      "width": "100%"
+     },
+     "blockId": "683c8fe95b",
+     "blockName": "Approach",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "18px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "051a82d7a8",
+       "blockName": "Ap Head",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+          "fontFamily": "Inter",
+          "fontSize": "11.5px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "letterSpacing": "0.24em",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "a111035978",
+         "blockName": "Ap Eye",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "How we practise",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+          "fontFamily": "Source Serif 4",
+          "fontSize": "40px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "lineHeight": "1.2",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "c11bd6a710",
+         "blockName": "Ap H",
+         "children": [],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "House rules, thirty-nine years old",
+         "mobileStyles": {
+          "fontSize": "29px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "35px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "40px",
+        "width": "10px"
+       },
+       "blockId": "af95f16b88",
+       "blockName": "Ap Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "18px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "59bd04c826",
+       "blockName": "Ap Grid",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c06, #FCFAF4)",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "16px",
+          "minWidth": "0px",
+          "padding": "34px"
+         },
+         "blockId": "4e4d780c3b",
+         "blockName": "Pcp I",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "fontFamily": "Inter",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "d5423e08c0",
+           "blockName": "Pcp I No",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "I",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "23px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.25",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "6639e11278",
+           "blockName": "Pcp I T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h3",
+           "innerHTML": "Partners answer the phone",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "2a9b4971ba",
+           "blockName": "Pcp I B",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "The person who pitched you is the person who advises you. Delegation happens behind our door, not yours.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise",
+          "cn-panel"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "padding": "26px",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c06, #FCFAF4)",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "16px",
+          "minWidth": "0px",
+          "padding": "34px"
+         },
+         "blockId": "afe58d5770",
+         "blockName": "Pcp II",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "fontFamily": "Inter",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "b34686b7b6",
+           "blockName": "Pcp II No",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "II",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "23px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.25",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "ae1401edcf",
+           "blockName": "Pcp II T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h3",
+           "innerHTML": "Advice in one page",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "1c58596b90",
+           "blockName": "Pcp II B",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Every opinion ends with a single page saying what we'd do. The forty pages of reasoning are attached, not required.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise",
+          "cn-panel"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "padding": "26px",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c06, #FCFAF4)",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "16px",
+          "minWidth": "0px",
+          "padding": "34px"
+         },
+         "blockId": "86daf24ff3",
+         "blockName": "Pcp III",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "fontFamily": "Inter",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "782ffc518a",
+           "blockName": "Pcp III No",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "III",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "23px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.25",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "dd09b29af6",
+           "blockName": "Pcp III T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h3",
+           "innerHTML": "Bad news travels fastest",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "abba3e0bf2",
+           "blockName": "Pcp III B",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "If the answer is unwelcome, you hear it first and from us. Surprise is the one thing we never bill for.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise",
+          "cn-panel"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "padding": "26px",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "88px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "#EEEAE0",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "110px 40px",
+      "width": "100%"
+     },
+     "blockId": "69949c86ae",
+     "blockName": "People",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "41c1cf43df",
+       "blockName": "Pe Head Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "18px",
+          "width": "fit-content"
+         },
+         "blockId": "1180237012",
+         "blockName": "Pe Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "fontFamily": "Inter",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "6576b31368",
+           "blockName": "Pe Eye",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "The partners",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "40px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.2",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "3bca15edcc",
+           "blockName": "Pe H",
+           "children": [],
+           "classes": [
+            "cn-rise"
+           ],
+           "customAttributes": {},
+           "element": "h2",
+           "innerHTML": "Eleven lawyers, no juniors on your matter",
+           "mobileStyles": {
+            "fontSize": "29px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {
+            "fontSize": "35px"
+           }
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "44px",
+        "width": "10px"
+       },
+       "blockId": "43ba443c94",
+       "blockName": "Pe Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "20px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "907d9d927d",
+       "blockName": "Pe Grid",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "16px",
+          "minWidth": "0px",
+          "width": "auto"
+         },
+         "blockId": "68599565e0",
+         "blockName": "Pe P1",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "#E8E4DA",
+            "flexShrink": 0,
+            "overflow": "hidden",
+            "width": "100%"
+           },
+           "blockId": "42afec3163",
+           "blockName": "Pe P1 Frame",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Edmund Harrow",
+              "loading": "lazy",
+              "src": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=900&q=70&fm=webp&fit=crop"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "e88abd85de",
+             "blockName": "Pe P1 Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "4 / 5",
+              "filter": "grayscale(1) contrast(1.02)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "cn-frame"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "3px",
+            "width": "100%"
+           },
+           "blockId": "ba8a59cbac",
+           "blockName": "Pe P1 Cap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "18px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "e1ea691aa3",
+             "blockName": "Pe P1 Who",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Edmund Harrow",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "10.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "1fcb75ce1e",
+             "blockName": "Pe P1 Role",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Senior partner · Corporate",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "16px",
+          "minWidth": "0px",
+          "width": "auto"
+         },
+         "blockId": "fd0d85d9a1",
+         "blockName": "Pe P2",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "#E8E4DA",
+            "flexShrink": 0,
+            "overflow": "hidden",
+            "width": "100%"
+           },
+           "blockId": "5572e67f35",
+           "blockName": "Pe P2 Frame",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Naomi Vale",
+              "loading": "lazy",
+              "src": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=900&q=70&fm=webp&fit=crop"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "2a0298b6bf",
+             "blockName": "Pe P2 Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "4 / 5",
+              "filter": "grayscale(1) contrast(1.02)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "cn-frame"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "3px",
+            "width": "100%"
+           },
+           "blockId": "69931abda6",
+           "blockName": "Pe P2 Cap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "18px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "8ffa97d533",
+             "blockName": "Pe P2 Who",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Naomi Vale",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "10.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "d7529b6b8c",
+             "blockName": "Pe P2 Role",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Managing partner · Disputes",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "16px",
+          "minWidth": "0px",
+          "width": "auto"
+         },
+         "blockId": "b36533e4d6",
+         "blockName": "Pe P3",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "#E8E4DA",
+            "flexShrink": 0,
+            "overflow": "hidden",
+            "width": "100%"
+           },
+           "blockId": "a59246bcec",
+           "blockName": "Pe P3 Frame",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Marcus Ihejirika",
+              "loading": "lazy",
+              "src": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=900&q=70&fm=webp&fit=crop"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "233756373c",
+             "blockName": "Pe P3 Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "4 / 5",
+              "filter": "grayscale(1) contrast(1.02)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "cn-frame"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "3px",
+            "width": "100%"
+           },
+           "blockId": "6b23e406a9",
+           "blockName": "Pe P3 Cap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "18px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "ea8619d122",
+             "blockName": "Pe P3 Who",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Marcus Ihejirika",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "10.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "8ad38c5446",
+             "blockName": "Pe P3 Role",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Partner · Employment",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "16px",
+          "minWidth": "0px",
+          "width": "auto"
+         },
+         "blockId": "546ab9f550",
+         "blockName": "Pe P4",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "#E8E4DA",
+            "flexShrink": 0,
+            "overflow": "hidden",
+            "width": "100%"
+           },
+           "blockId": "d1b0a4b07a",
+           "blockName": "Pe P4 Frame",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Cecilia Ordóñez",
+              "loading": "lazy",
+              "src": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=900&q=70&fm=webp&fit=crop"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "a73b19aeca",
+             "blockName": "Pe P4 Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "4 / 5",
+              "filter": "grayscale(1) contrast(1.02)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "cn-frame"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "3px",
+            "width": "100%"
+           },
+           "blockId": "90408e7491",
+           "blockName": "Pe P4 Cap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "18px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "20c4d1a337",
+             "blockName": "Pe P4 Who",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Cecilia Ordóñez",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "10.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "369f4c4da9",
+             "blockName": "Pe P4 Role",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Partner · Private client",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column",
+        "gap": "32px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "flexWrap": "wrap"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "88px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "110px 40px 120px 40px",
+      "width": "100%"
+     },
+     "blockId": "9117a3645c",
+     "blockName": "CTA",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "24px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "d793a3f5b0",
+       "blockName": "CTA Stack",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+          "fontFamily": "Source Serif 4",
+          "fontSize": "46px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "lineHeight": "1.15",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "3ed47e8c9f",
+         "blockName": "CTA H",
+         "children": [],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "Tell us before it's interesting",
+         "mobileStyles": {
+          "fontSize": "31px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "39px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+          "fontFamily": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.75",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "520px"
+         },
+         "blockId": "948ab2f820",
+         "blockName": "CTA Sub",
+         "children": [],
+         "classes": [
+          "cn-rise",
+          "cn-d1"
+         ],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "The cheapest legal advice is the kind sought early. The first conversation costs nothing but candour.",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "14px",
+          "justifyContent": "center",
+          "width": "100%"
+         },
+         "blockId": "10556bd82b",
+         "blockName": "CTA Btn Row",
+         "children": [
+          {
+           "attributes": {
+            "href": "enquire"
+           },
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c01, #F5F2EA)",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "fontFamily": "Inter",
+            "fontSize": "12.5px",
+            "fontWeight": "600",
+            "justifyContent": "center",
+            "letterSpacing": "0.18em",
+            "lineHeight": "1",
+            "padding": "18px 34px",
+            "textDecoration": "none",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "e5efad1792",
+           "blockName": "CTA B1",
+           "children": [],
+           "classes": [
+            "cn-btn"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "Start an enquiry",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "tel:+15550147700"
+           },
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "fontFamily": "Inter",
+            "fontSize": "12.5px",
+            "fontWeight": "600",
+            "justifyContent": "center",
+            "letterSpacing": "0.18em",
+            "lineHeight": "1",
+            "padding": "18px 34px",
+            "textDecoration": "none",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "ced05e8345",
+           "blockName": "CTA B2",
+           "children": [],
+           "classes": [
+            "cn-btn-o"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "(555) 014-7700",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise",
+          "cn-d1"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "88px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "89adbea605",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "4c80f0a152",
+       "blockName": "Footer Inner",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "4f99c336cb",
+         "blockName": "F Top",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "8d75e8b124",
+           "blockName": "F Brand Col",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "0c7f91921a",
+             "blockName": "F Brand",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "2725eff074",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "a5a1598d38",
+             "blockName": "F Pitch",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "9e13e3b59a",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "646f0a93b8",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "b3dcaacc32",
+           "blockName": "F Col Visit",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "53a516d481",
+             "blockName": "FC Visit T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "e52545ddba",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "bbbfaf419d",
+             "blockName": "FC Visit 4 Chancery Row, Suite 300",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "22a7b96275",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "4389afc32a",
+             "blockName": "FC Visit Weekdays 8:30–18:00",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "a1f22b8389",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "60df088f00",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "b6554eea75",
+           "blockName": "F Col Contact",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "a90e301ba3",
+             "blockName": "FC Contact T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "6fd5749523",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "0c083ce10c",
+             "blockName": "FC Contact (555) 014-7700",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "c537742df6",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "bf09f3c5bf",
+             "blockName": "FC Contact clerks@harrowvale.law",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "045a7af442",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "dd27835d20",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "c56ec33a61",
+           "blockName": "F Col Firm",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "04326f836f",
+             "blockName": "FC Firm T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "ce1ddaa3eb",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "2a8e34ea33",
+             "blockName": "FC Firm Practice areas",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "7732567c37",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "137281d196",
+             "blockName": "FC Firm Our people",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "a4cdabd88e",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "e1a3c37e1f",
+             "blockName": "FC Firm Start an enquiry",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "8f76b1dbb4",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "be0b71ae76",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "counsel_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "9662e2198f",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "9789c38b34",
+         "blockName": "F Bottom",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "4875a207d7",
+           "blockName": "F Legal",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "f769e9133d",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "edac9014a4",
+           "blockName": "F Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "d3121a9a0e",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "counsel_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "2cecb367fe",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "counsel_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "b44c9364b5",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "counsel_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "counsel_styles"
+  },
+  {
+   "builder_script": "counsel_motion"
+  }
+ ],
+ "creation": "2026-07-21 13:01:39.273120",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "A quiet law firm: refined serif, a numbered practice index, outcomes worth mentioning and partners who answer the phone.",
+ "modified": "2026-07-21 13:01:39.273120",
+ "modified_by": "Administrator",
+ "name": "counsel_home",
+ "owner": "Administrator",
+ "page_name": "counsel_home",
+ "page_title": "Harrow & Vale · Counsel for considered people",
+ "preview": "/builder_assets/counsel/counsel_home/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/counsel/home",
+ "template_group": "counsel"
+}
