@@ -1,0 +1,12 @@
+{
+ "creation": "2026-07-21 13:19:10.776592",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-07-21 13:19:10.776592",
+ "modified_by": "Administrator",
+ "name": "spruce_motion",
+ "owner": "Administrator",
+ "script": "\n(() => {\n    if (window.matchMedia(\"(prefers-reduced-motion: reduce)\").matches) return;\n    const arm = () => {\n        document.documentElement.classList.add(\"sp-js\");\n        const io = new IntersectionObserver((entries) => {\n            for (const entry of entries) {\n                if (!entry.isIntersecting) continue;\n                entry.target.classList.add(\"sp-in\");\n                io.unobserve(entry.target);\n            }\n        }, { threshold: 0.08, rootMargin: \"0px 0px -6% 0px\" });\n        document.querySelectorAll(\".sp-rise\").forEach((el) => io.observe(el));\n\n        let i = 0;\n        const cio = new IntersectionObserver((entries) => {\n            for (const entry of entries) {\n                if (!entry.isIntersecting) continue;\n                const el = entry.target;\n                el.style.transitionDelay = ((i++ % 9) * 70) + \"ms\";\n                el.classList.add(\"sp-in\");\n                cio.unobserve(el);\n            }\n        }, { threshold: 0.4 });\n        document.querySelectorAll(\".sp-check\").forEach((el) =>\n            cio.observe(el));\n    };\n    if (document.readyState === \"loading\") {\n        document.addEventListener(\"DOMContentLoaded\", arm);\n    } else {\n        arm();\n    }\n})();\n",
+ "script_type": "JavaScript"
+}
