@@ -1,0 +1,2329 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c01, #F5F2EA)",
+    "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Inter",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "ba22028e1a",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "5b1894c8f3",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "3f3a94855e",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "5a74849cfb",
+         "blockName": "Brand",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0b4d09ef06",
+           "blockName": "Brand T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c2de0c749c",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "e66d63ba4a",
+           "blockName": "Brand Sub",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9619c60cf3",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "counsel_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "1cafce664a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "20dbdda00e",
+         "blockName": "Nav Links",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "858e85e9d2",
+           "blockName": "Nav Practice",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "a336c3b248",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "f6c488c6a2",
+           "blockName": "Nav People",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "695b3b8daa",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "ccb8512817",
+           "blockName": "Nav Enquire",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6833bca18a",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "counsel_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "9832df8242",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "counsel_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "d60715f94e",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "counsel_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "88px 40px",
+      "width": "100%"
+     },
+     "blockId": "50ef7d6766",
+     "blockName": "Ways",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "20px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "6b18a6793f",
+       "blockName": "W Head",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+          "fontFamily": "Inter",
+          "fontSize": "11.5px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "letterSpacing": "0.24em",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "24cfd79fcc",
+         "blockName": "W Eye",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Enquiries",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+          "fontFamily": "Source Serif 4",
+          "fontSize": "52px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "lineHeight": "1.12",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "5a9e856c4c",
+         "blockName": "W H",
+         "children": [],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "h1",
+         "innerHTML": "Begin with a conversation",
+         "mobileStyles": {
+          "fontSize": "33px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "42px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+          "fontFamily": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.75",
+          "minWidth": "10px",
+          "width": "520px"
+         },
+         "blockId": "40b6c01d33",
+         "blockName": "W Sub",
+         "children": [],
+         "classes": [
+          "cn-rise",
+          "cn-d1"
+         ],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Write two paragraphs: what happened, and what you'd like to be true in a year. That's all a first meeting needs.",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "44px",
+        "width": "10px"
+       },
+       "blockId": "a7efe33681",
+       "blockName": "W Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "18px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "c228c4cbf7",
+       "blockName": "W Grid",
+       "children": [
+        {
+         "attributes": {
+          "href": "mailto:clerks@harrowvale.law"
+         },
+         "baseStyles": {
+          "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c06, #FCFAF4)",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "20px",
+          "minWidth": "0px",
+          "padding": "32px",
+          "textDecoration": "none"
+         },
+         "blockId": "a530e769c6",
+         "blockName": "Way Write",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "fontFamily": "Inter",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "3df9af1203",
+           "blockName": "Way Write T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Write",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "22px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.25",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "9123f0683a",
+           "blockName": "Way Write B",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "clerks@harrowvale.law",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "fc498185cf",
+           "blockName": "Way Write S",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Read by a partner the same working day. Attachments welcome, panic optional.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-panel",
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "a",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "padding": "24px",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {
+          "href": "tel:+15550147700"
+         },
+         "baseStyles": {
+          "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c06, #FCFAF4)",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "20px",
+          "minWidth": "0px",
+          "padding": "32px",
+          "textDecoration": "none"
+         },
+         "blockId": "10c5d9ff6b",
+         "blockName": "Way Call",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "fontFamily": "Inter",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "59cd7bfdec",
+           "blockName": "Way Call T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Call",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "22px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.25",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "a66995fd7d",
+           "blockName": "Way Call B",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "(555) 014-7700",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "a3ca3b5621",
+           "blockName": "Way Call S",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "The clerks' desk, weekdays 8:30–18:00. After hours, leave the number a partner should call.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-panel",
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "a",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "padding": "24px",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {
+          "href": "enquire"
+         },
+         "baseStyles": {
+          "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c06, #FCFAF4)",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "20px",
+          "minWidth": "0px",
+          "padding": "32px",
+          "textDecoration": "none"
+         },
+         "blockId": "7ea80b231b",
+         "blockName": "Way Visit",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "fontFamily": "Inter",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "0585aef3b4",
+           "blockName": "Way Visit T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Visit",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "22px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.25",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "f0fd6dbc1d",
+           "blockName": "Way Visit B",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "4 Chancery Row, Suite 300",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "0fe824ddbe",
+           "blockName": "Way Visit S",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Twenty minutes by appointment. The good coffee is for visitors.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-panel",
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "a",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "padding": "24px",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "88px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "#EEEAE0",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "110px 40px",
+      "width": "100%"
+     },
+     "blockId": "218721ce13",
+     "blockName": "Process",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "72px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "ee708b78af",
+       "blockName": "Ps Grid",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "18px",
+          "minWidth": "0px"
+         },
+         "blockId": "43b8a75cb9",
+         "blockName": "Ps Left",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "fontFamily": "Inter",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "406ea899f7",
+           "blockName": "Ps Eye",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "What happens next",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "38px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.2",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "2fe850a23a",
+           "blockName": "Ps H",
+           "children": [],
+           "classes": [
+            "cn-rise"
+           ],
+           "customAttributes": {},
+           "element": "h2",
+           "innerHTML": "Four steps, no maze",
+           "mobileStyles": {
+            "fontSize": "28px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "flexShrink": 0,
+            "marginTop": "12px",
+            "overflow": "hidden",
+            "width": "100%"
+           },
+           "blockId": "e608115f07",
+           "blockName": "Ps Photo Wrap",
+           "children": [
+            {
+             "attributes": {
+              "alt": "The firm library",
+              "loading": "lazy",
+              "src": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1100&q=70&fm=webp&fit=crop"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "523257f071",
+             "blockName": "Ps Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "4 / 3",
+              "filter": "grayscale(0.35)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "cn-rise",
+            "cn-d1"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1.25,
+          "flexShrink": 1,
+          "gap": "26px",
+          "minWidth": "0px",
+          "paddingTop": "8px"
+         },
+         "blockId": "b7d3cd583a",
+         "blockName": "Ps Right",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "26px",
+            "width": "100%"
+           },
+           "blockId": "b37d8aa822",
+           "blockName": "St 1.",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "24px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "40px"
+             },
+             "blockId": "4dac8c55fc",
+             "blockName": "St 1. N",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "1.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 0px 1px 0px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "8px",
+              "minWidth": "0px",
+              "paddingBottom": "26px",
+              "width": "100%"
+             },
+             "blockId": "e5ea2380ae",
+             "blockName": "St 1. Body",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Source Serif 4",
+                "fontSize": "21px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "af8cf2b46c",
+               "blockName": "St 1. T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "h3",
+               "innerHTML": "Conflicts, quietly",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "2ccb027408",
+               "blockName": "St 1. B",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Before we read a word of substance, we check we're free to act. Usually same day.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "cn-rise"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "26px",
+            "width": "100%"
+           },
+           "blockId": "5d73fcf3ba",
+           "blockName": "St 2.",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "24px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "40px"
+             },
+             "blockId": "5609497178",
+             "blockName": "St 2. N",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "2.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 0px 1px 0px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "8px",
+              "minWidth": "0px",
+              "paddingBottom": "26px",
+              "width": "100%"
+             },
+             "blockId": "4aeccbf554",
+             "blockName": "St 2. Body",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Source Serif 4",
+                "fontSize": "21px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "c1de81147c",
+               "blockName": "St 2. T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "h3",
+               "innerHTML": "The first meeting",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "20112b8839",
+               "blockName": "St 2. B",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "An hour with the right partner. You talk, we ask, nobody performs. Free, and privileged either way.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "cn-rise"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "26px",
+            "width": "100%"
+           },
+           "blockId": "457c08fbf9",
+           "blockName": "St 3.",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "24px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "40px"
+             },
+             "blockId": "2efd77a7df",
+             "blockName": "St 3. N",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "3.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 0px 1px 0px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "8px",
+              "minWidth": "0px",
+              "paddingBottom": "26px",
+              "width": "100%"
+             },
+             "blockId": "4c0ef6be02",
+             "blockName": "St 3. Body",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Source Serif 4",
+                "fontSize": "21px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "8a41b70a14",
+               "blockName": "St 3. T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "h3",
+               "innerHTML": "A letter you can read",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "f170c137a7",
+               "blockName": "St 3. B",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Scope, strategy and a fee arrangement in plain language. Signed only when you're comfortable.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "cn-rise"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "26px",
+            "width": "100%"
+           },
+           "blockId": "944bf51ac1",
+           "blockName": "St 4.",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "24px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "40px"
+             },
+             "blockId": "f0b73124d8",
+             "blockName": "St 4. N",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "4.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+              "borderStyle": "solid",
+              "borderWidth": "0px 0px 1px 0px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "gap": "8px",
+              "minWidth": "0px",
+              "paddingBottom": "26px",
+              "width": "100%"
+             },
+             "blockId": "edb63db0a4",
+             "blockName": "St 4. Body",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Source Serif 4",
+                "fontSize": "21px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "c2ee8c2dde",
+               "blockName": "St 4. T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "h3",
+               "innerHTML": "Work begins",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "18e4c923e6",
+               "blockName": "St 4. B",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "You get one partner's mobile number and a promise: no invoice will ever be the first you've heard of the work.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "cn-rise"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column",
+        "gap": "36px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "gap": "40px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "88px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "96px 40px 120px 40px",
+      "width": "100%"
+     },
+     "blockId": "2b5226d654",
+     "blockName": "Fees",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "18px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "78b5f16485",
+       "blockName": "Fe Head",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+          "fontFamily": "Inter",
+          "fontSize": "11.5px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "letterSpacing": "0.24em",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "8e5dab6cc5",
+         "blockName": "Fe Eye",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Money, discussed like adults",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+          "fontFamily": "Source Serif 4",
+          "fontSize": "38px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "lineHeight": "1.2",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "ba1039cf56",
+         "blockName": "Fe H",
+         "children": [],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "Fees, before you ask",
+         "mobileStyles": {
+          "fontSize": "28px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "26px",
+        "width": "10px"
+       },
+       "blockId": "0515c384b2",
+       "blockName": "Fe Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "ad3332fd1c",
+       "blockName": "Fe Rows",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "24px",
+          "padding": "22px 0px",
+          "width": "100%"
+         },
+         "blockId": "66d398a17a",
+         "blockName": "Fee Partner hours",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "19px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.35",
+            "minWidth": "10px",
+            "width": "250px"
+           },
+           "blockId": "d9bf28ddd0",
+           "blockName": "Fee Partner hours T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Partner hours",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "auto"
+           },
+           "blockId": "1472591c69",
+           "blockName": "Fee Partner hours D",
+           "children": [],
+           "classes": [
+            "cn-grow"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "For advisory work billed by time, in six-minute units we round in your favour",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "19px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.35",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "617239d1a8",
+           "blockName": "Fee Partner hours P",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "$450–600 / hr",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexWrap": "wrap",
+          "gap": "6px 18px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "24px",
+          "padding": "22px 0px",
+          "width": "100%"
+         },
+         "blockId": "f2fec7bf44",
+         "blockName": "Fee Fixed fees",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "19px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.35",
+            "minWidth": "10px",
+            "width": "250px"
+           },
+           "blockId": "643fd53d0d",
+           "blockName": "Fee Fixed fees T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Fixed fees",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "auto"
+           },
+           "blockId": "52751e3e62",
+           "blockName": "Fee Fixed fees D",
+           "children": [],
+           "classes": [
+            "cn-grow"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Formations, financings, estate plans and most documents: one number, quoted first",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "19px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.35",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "022251d676",
+           "blockName": "Fee Fixed fees P",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "quoted up front",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexWrap": "wrap",
+          "gap": "6px 18px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "24px",
+          "padding": "22px 0px",
+          "width": "100%"
+         },
+         "blockId": "2fb6d21fc7",
+         "blockName": "Fee Disputes",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "19px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.35",
+            "minWidth": "10px",
+            "width": "250px"
+           },
+           "blockId": "eb4154357b",
+           "blockName": "Fee Disputes T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Disputes",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "auto"
+           },
+           "blockId": "4287b88f0b",
+           "blockName": "Fee Disputes D",
+           "children": [],
+           "classes": [
+            "cn-grow"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Budgeted in phases with a decision point at each gate. No meter left running",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "19px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.35",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "d0cabb918b",
+           "blockName": "Fee Disputes P",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "phase budgets",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexWrap": "wrap",
+          "gap": "6px 18px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "24px",
+          "padding": "22px 0px",
+          "width": "100%"
+         },
+         "blockId": "086582c17a",
+         "blockName": "Fee The first hour",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "19px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.35",
+            "minWidth": "10px",
+            "width": "250px"
+           },
+           "blockId": "23cc27af2e",
+           "blockName": "Fee The first hour T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "The first hour",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "auto"
+           },
+           "blockId": "50b1a0329d",
+           "blockName": "Fee The first hour D",
+           "children": [],
+           "classes": [
+            "cn-grow"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Every new matter starts with a conversation that costs precisely nothing",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "19px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.35",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "d9dd432331",
+           "blockName": "Fee The first hour P",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "$0",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexWrap": "wrap",
+          "gap": "6px 18px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "30px",
+        "width": "10px"
+       },
+       "blockId": "1e5a5c7720",
+       "blockName": "Fe Gap 2",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "b27ea8540b",
+       "blockName": "Fe Note",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c06, #FCFAF4)",
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "8px",
+          "padding": "24px 26px",
+          "width": "100%"
+         },
+         "blockId": "8f1e89eae6",
+         "blockName": "Fe Note Box",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+            "fontFamily": "Inter",
+            "fontSize": "10px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "6cd03b0568",
+           "blockName": "Fe Note T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "A note on discretion",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+            "fontFamily": "Source Serif 4",
+            "fontSize": "16.5px",
+            "fontStyle": "italic",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.6",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "033776a769",
+           "blockName": "Fe Note B",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Everything you tell us, from the first email onward, is privileged. We have kept secrets for thirty-nine years; yours will not be the exception.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "88px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "0826a0c2dd",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "23cb6f3c89",
+       "blockName": "Footer Inner",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "ed32922d04",
+         "blockName": "F Top",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0a533d7ef0",
+           "blockName": "F Brand Col",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "ca919ae877",
+             "blockName": "F Brand",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "2725eff074",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "011a38202a",
+             "blockName": "F Pitch",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "9e13e3b59a",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "646f0a93b8",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "c9dd0fa4dc",
+           "blockName": "F Col Visit",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "440fa27204",
+             "blockName": "FC Visit T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "e52545ddba",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "4b90d9b4c3",
+             "blockName": "FC Visit 4 Chancery Row, Suite 300",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "22a7b96275",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "45dbda4b8e",
+             "blockName": "FC Visit Weekdays 8:30–18:00",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "a1f22b8389",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "60df088f00",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "4201641a60",
+           "blockName": "F Col Contact",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "3e094fd873",
+             "blockName": "FC Contact T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "6fd5749523",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "6e56a4dd27",
+             "blockName": "FC Contact (555) 014-7700",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "c537742df6",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "30cacd7465",
+             "blockName": "FC Contact clerks@harrowvale.law",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "045a7af442",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "dd27835d20",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "978f2edc78",
+           "blockName": "F Col Firm",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "262fb1f10c",
+             "blockName": "FC Firm T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "ce1ddaa3eb",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "10902ee981",
+             "blockName": "FC Firm Practice areas",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "7732567c37",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "599d1c5875",
+             "blockName": "FC Firm Our people",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "a4cdabd88e",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "0db5f1587c",
+             "blockName": "FC Firm Start an enquiry",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "8f76b1dbb4",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "be0b71ae76",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "counsel_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "9662e2198f",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "4b9c4b38e1",
+         "blockName": "F Bottom",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "82708ba17b",
+           "blockName": "F Legal",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "f769e9133d",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "37ffc76e55",
+           "blockName": "F Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "d3121a9a0e",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "counsel_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "2cecb367fe",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "counsel_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "b44c9364b5",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "counsel_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "counsel_styles"
+  },
+  {
+   "builder_script": "counsel_motion"
+  }
+ ],
+ "creation": "2026-07-21 13:01:39.273120",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "How to begin, what happens next, and fees discussed like adults, including the free first hour.",
+ "modified": "2026-07-21 13:01:39.273120",
+ "modified_by": "Administrator",
+ "name": "counsel_enquire",
+ "owner": "Administrator",
+ "page_name": "counsel_enquire",
+ "page_title": "Enquiries · Harrow & Vale",
+ "preview": "/builder_assets/counsel/counsel_enquire/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/counsel/enquire",
+ "template_group": "counsel"
+}
