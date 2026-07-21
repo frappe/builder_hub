@@ -1,0 +1,12 @@
+{
+ "creation": "2026-07-21 13:14:15.256343",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-07-21 13:14:15.256343",
+ "modified_by": "Administrator",
+ "name": "tempo_styles",
+ "owner": "Administrator",
+ "script": "\nhtml { scroll-behavior: smooth; }\n::selection { background: #D8FF3D; color: #131308; }\n\nhtml.tm-js .tm-rise { opacity: 0; transform: translateY(24px); }\nhtml.tm-js .tm-rise.tm-in {\n  opacity: 1; transform: none;\n  transition: opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1),\n    transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);\n}\nhtml.tm-js .tm-d1.tm-in { transition-delay: 0.12s; }\nhtml.tm-js .tm-d2.tm-in { transition-delay: 0.24s; }\n\n.tm-grow { flex-grow: 1; flex-shrink: 1; min-width: 0; }\n\n.tm-ul {\n  background-image: linear-gradient(#D8FF3D, #D8FF3D);\n  background-position: left bottom; background-repeat: no-repeat;\n  background-size: 0% 2px;\n  transition: background-size 0.35s cubic-bezier(0.22, 1, 0.36, 1);\n}\n.tm-ul:hover { background-size: 100% 2px; }\n\n.tm-btn { transition: transform 0.22s ease, box-shadow 0.22s ease; }\n.tm-btn:hover { transform: translate(-2px, -2px);\n  box-shadow: 4px 4px 0 #F4F4F0; }\n.tm-btn-o { transition: background-color 0.25s ease, color 0.25s ease,\n  border-color 0.25s ease; }\n.tm-btn-o:hover { background-color: #F4F4F0; border-color: #F4F4F0;\n  color: #131308; }\n.tm-btn-d { transition: transform 0.22s ease, box-shadow 0.22s ease; }\n.tm-btn-d:hover { transform: translate(-2px, -2px);\n  box-shadow: 4px 4px 0 #131308; }\n\n.tm-card { transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1); }\n.tm-card:hover { transform: translateY(-5px); }\n.tm-card img { transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1); }\n.tm-card:hover img { transform: scale(1.03); }\n\n.tm-pillar { transition: border-color 0.35s ease; }\n.tm-pillar:hover { border-color: #D8FF3D; }\n\n.tm-cell { transition: background-color 0.25s ease; }\n.tm-cell:hover { background-color: #1B1B18; }\n\n@keyframes tm-scroll {\n  from { transform: translateX(0); }\n  to { transform: translateX(-33.333%); }\n}\nhtml.tm-js .tm-ticker { animation: tm-scroll 22s linear infinite; }\n\n@media (prefers-reduced-motion: reduce) {\n  html { scroll-behavior: auto; }\n  html.tm-js .tm-ticker { animation: none; }\n}\n",
+ "script_type": "CSS"
+}
