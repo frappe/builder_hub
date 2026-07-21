@@ -1,0 +1,12 @@
+{
+ "creation": "2026-07-21 13:24:19.031499",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-07-21 13:24:19.031499",
+ "modified_by": "Administrator",
+ "name": "align_styles",
+ "owner": "Administrator",
+ "script": "\n/* italic-free serif; Fraunces + Karla pairing */\nhtml { scroll-behavior: smooth; }\n::selection { background: #B9673F; color: #FFFFFF; }\n\nhtml.al-js .al-rise { opacity: 0; transform: translateY(18px); }\nhtml.al-js .al-rise.al-in {\n  opacity: 1; transform: none;\n  transition: opacity 0.9s cubic-bezier(0.22, 1, 0.36, 1),\n    transform 0.9s cubic-bezier(0.22, 1, 0.36, 1);\n}\nhtml.al-js .al-d1.al-in { transition-delay: 0.13s; }\nhtml.al-js .al-d2.al-in { transition-delay: 0.26s; }\n\n.al-grow { flex-grow: 1; flex-shrink: 1; min-width: 0; }\n\n.al-ul {\n  background-image: linear-gradient(currentColor, currentColor);\n  background-position: left bottom; background-repeat: no-repeat;\n  background-size: 0% 1.5px;\n  transition: background-size 0.35s cubic-bezier(0.22, 1, 0.36, 1);\n}\n.al-ul:hover { background-size: 100% 1.5px; }\n\n.al-btn { transition: transform 0.25s ease, box-shadow 0.25s ease,\n  filter 0.25s ease; }\n.al-btn:hover { transform: translateY(-2px); filter: brightness(1.05);\n  box-shadow: 0 12px 26px rgba(185, 103, 63, 0.3); }\n.al-btn-o { transition: background-color 0.25s ease, color 0.25s ease,\n  transform 0.25s ease; }\n.al-btn-o:hover { background-color: #2D2823; color: #F6F2EC;\n  transform: translateY(-2px); }\n.al-btn-d { transition: background-color 0.25s ease, transform 0.25s\n  ease; }\n.al-btn-d:hover { background-color: rgba(246, 242, 236, 0.1);\n  transform: translateY(-2px); }\n\n.al-card { transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),\n  box-shadow 0.35s ease, border-color 0.35s ease; }\n.al-card:hover { transform: translateY(-4px);\n  box-shadow: 0 18px 40px rgba(45, 40, 35, 0.08); }\n.al-cond:hover { border-color: #B9673F; }\n.al-cond .al-arrow { transition: letter-spacing 0.3s ease; }\n.al-cond:hover .al-arrow { letter-spacing: 0.03em; }\n\n@media (prefers-reduced-motion: reduce) {\n  html { scroll-behavior: auto; }\n}\n",
+ "script_type": "CSS"
+}

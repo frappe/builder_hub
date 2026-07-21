@@ -1,0 +1,2754 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a01, #F6F2EC)",
+    "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Karla",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "d3e009bd6f",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "e108dedf3d",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "9f76702f4c",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "ce732b67d3",
+         "blockName": "Brand",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "6c3549ca91",
+           "blockName": "Brand Mark",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "1d64b70f39",
+             "blockName": "Brand Dot",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "align_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "6fe466370a",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "align_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "f6198760a3",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "e33441ec6d",
+           "blockName": "Brand T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "align_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "f8059f3caf",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "align_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "53493c6a1f",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "7a1cfb1af9",
+         "blockName": "Nav Links",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "e173e3b606",
+           "blockName": "Nav What we treat",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "align_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "fef473b314",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0bff4f3a1c",
+           "blockName": "Nav Visit & fees",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "align_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6cc94215d3",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "602904decf",
+           "blockName": "Nav CTA",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "align_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6e3b1b9573",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "align_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "df51d17f4a",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "align_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "d6c72270f3",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "align_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "80px 40px",
+      "width": "100%"
+     },
+     "blockId": "1077a7a035",
+     "blockName": "Fees",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "18px",
+        "maxWidth": "1140px",
+        "width": "100%"
+       },
+       "blockId": "4baee8debb",
+       "blockName": "Fe Head",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a03, #B9673F)",
+          "fontFamily": "Karla",
+          "fontSize": "12.5px",
+          "fontWeight": "700",
+          "height": "fit-content",
+          "letterSpacing": "0.2em",
+          "lineHeight": "1.3",
+          "minWidth": "10px",
+          "width": "fit-content"
+         },
+         "blockId": "bf640405ee",
+         "blockName": "Fe Eye",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Visit & fees",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+          "fontFamily": "Fraunces",
+          "fontSize": "52px",
+          "fontWeight": "500",
+          "height": "fit-content",
+          "letterSpacing": "-0.01em",
+          "lineHeight": "1.12",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "96b9cd6663",
+         "blockName": "Fe H",
+         "children": [],
+         "classes": [
+          "al-rise"
+         ],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "Priced like we plan<br>to discharge you",
+         "mobileStyles": {
+          "fontSize": "33px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "44px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+          "fontFamily": "Karla",
+          "fontSize": "15.5px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.65",
+          "minWidth": "10px",
+          "width": "540px"
+         },
+         "blockId": "67dc2116f2",
+         "blockName": "Fe Sub",
+         "children": [],
+         "classes": [
+          "al-rise",
+          "al-d1"
+         ],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Most insurers billed directly; self-payers get the same prices you see here, because they're the only prices that exist.",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "40px",
+        "width": "10px"
+       },
+       "blockId": "7e81a955de",
+       "blockName": "Fe Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "16px",
+        "maxWidth": "1140px",
+        "width": "100%"
+       },
+       "blockId": "c6806b384f",
+       "blockName": "Fe Grid",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "#FDFBF7",
+          "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a03, #B9673F)",
+          "borderRadius": "22px",
+          "borderStyle": "solid",
+          "borderWidth": "2px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "14px",
+          "minWidth": "0px",
+          "padding": "30px",
+          "width": "auto"
+         },
+         "blockId": "9565ab2c3c",
+         "blockName": "Fee First assessment",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+            "fontFamily": "Fraunces",
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.25",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "6cbcd90f94",
+           "blockName": "Fee First assessment T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h3",
+           "innerHTML": "First assessment",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "6px",
+            "width": "fit-content"
+           },
+           "blockId": "367efeaf66",
+           "blockName": "Fee First assessment PRow",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+              "fontFamily": "Fraunces",
+              "fontSize": "38px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "fa185f3256",
+             "blockName": "Fee First assessment P",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "$85",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "13px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "0fed250642",
+             "blockName": "Fee First assessment U",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "60 minutes",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "8px",
+            "paddingTop": "16px",
+            "width": "100%"
+           },
+           "blockId": "c70d88ea27",
+           "blockName": "Fee First assessment List",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "4cca0ddaf8",
+             "blockName": "Fee First assessment L0",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "· Full history & movement exam",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "0b032d42fa",
+             "blockName": "Fee First assessment L1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "· Working diagnosis, explained",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "7328de6c4f",
+             "blockName": "Fee First assessment L2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "· Plan with a session estimate",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "ff1705b502",
+             "blockName": "Fee First assessment L3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "· First homework, demonstrated",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "al-rise",
+          "al-card"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "#FDFBF7",
+          "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+          "borderRadius": "22px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "14px",
+          "minWidth": "0px",
+          "padding": "30px",
+          "width": "auto"
+         },
+         "blockId": "6637437fc0",
+         "blockName": "Fee Follow-up",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+            "fontFamily": "Fraunces",
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.25",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "2320f801c4",
+           "blockName": "Fee Follow-up T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h3",
+           "innerHTML": "Follow-up",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "6px",
+            "width": "fit-content"
+           },
+           "blockId": "dddc3d3e9b",
+           "blockName": "Fee Follow-up PRow",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+              "fontFamily": "Fraunces",
+              "fontSize": "38px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "a911698a89",
+             "blockName": "Fee Follow-up P",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "$65",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "13px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "b71ab2981d",
+             "blockName": "Fee Follow-up U",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "40 minutes",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "8px",
+            "paddingTop": "16px",
+            "width": "100%"
+           },
+           "blockId": "ad01feeb52",
+           "blockName": "Fee Follow-up List",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "7250f5cb23",
+             "blockName": "Fee Follow-up L0",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "· Progress check against the plan",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "cdfb2069b0",
+             "blockName": "Fee Follow-up L1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "· Hands-on where it earns its keep",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "b7e53c593d",
+             "blockName": "Fee Follow-up L2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "· Programme progressed in the gym",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "al-rise",
+          "al-card"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "#FDFBF7",
+          "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+          "borderRadius": "22px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "14px",
+          "minWidth": "0px",
+          "padding": "30px",
+          "width": "auto"
+         },
+         "blockId": "b5b1275288",
+         "blockName": "Fee Rebuild block",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+            "fontFamily": "Fraunces",
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.25",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "e4a6abd53f",
+           "blockName": "Fee Rebuild block T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h3",
+           "innerHTML": "Rebuild block",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "6px",
+            "width": "fit-content"
+           },
+           "blockId": "564ce3b1dd",
+           "blockName": "Fee Rebuild block PRow",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+              "fontFamily": "Fraunces",
+              "fontSize": "38px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "d1903e0954",
+             "blockName": "Fee Rebuild block P",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "$290",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "13px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "af31a567af",
+             "blockName": "Fee Rebuild block U",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "5 sessions",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "8px",
+            "paddingTop": "16px",
+            "width": "100%"
+           },
+           "blockId": "5ce269a087",
+           "blockName": "Fee Rebuild block List",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "d20ae9ac5d",
+             "blockName": "Fee Rebuild block L0",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "· The strength phase, committed to",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "62842f917d",
+             "blockName": "Fee Rebuild block L1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "· Priority scheduling",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "497155c188",
+             "blockName": "Fee Rebuild block L2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "· Valid four months, shareable with no one, sorry",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "al-rise",
+          "al-card"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "flexDirection": "column"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "60px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "80px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "#FBF8F2",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "100px 40px",
+      "width": "100%"
+     },
+     "blockId": "0e259ce4be",
+     "blockName": "First",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "64px",
+        "maxWidth": "1140px",
+        "width": "100%"
+       },
+       "blockId": "c1a640cab9",
+       "blockName": "Fi Grid",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "16px",
+          "justifyContent": "center",
+          "minWidth": "0px"
+         },
+         "blockId": "a98aec35c0",
+         "blockName": "Fi Copy",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a03, #B9673F)",
+            "fontFamily": "Karla",
+            "fontSize": "12.5px",
+            "fontWeight": "700",
+            "height": "fit-content",
+            "letterSpacing": "0.2em",
+            "lineHeight": "1.3",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "d6581906d6",
+           "blockName": "Fi Eye",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Your first hour",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+            "fontFamily": "Fraunces",
+            "fontSize": "42px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "1.12",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "dda65e8bad",
+           "blockName": "Fi H",
+           "children": [],
+           "classes": [
+            "al-rise"
+           ],
+           "customAttributes": {},
+           "element": "h2",
+           "innerHTML": "Bring shorts,<br>leave with a plan",
+           "mobileStyles": {
+            "fontSize": "30px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {
+            "fontSize": "36px"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+            "fontFamily": "Karla",
+            "fontSize": "15.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.65",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "57a0dd38d5",
+           "blockName": "Fi Sub",
+           "children": [],
+           "classes": [
+            "al-rise"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "No referral needed. Wear something you can move in, bring any scans you have (we'll read them, then mostly reassure you about them), and budget a full hour.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderRadius": "22px",
+            "flexShrink": 0,
+            "overflow": "hidden",
+            "position": "relative",
+            "width": "100%"
+           },
+           "blockId": "97a743ca2c",
+           "blockName": "Fi P",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Fi P",
+              "loading": "lazy",
+              "src": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?w=1600&q=70&fm=webp&fit=crop"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "4d7247f89d",
+             "blockName": "Fi P Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "16 / 10",
+              "filter": "sepia(0.14) saturate(0.92) contrast(0.98)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "al-rise",
+            "al-d1"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "#FDFBF7",
+          "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+          "borderRadius": "22px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "8px",
+          "minWidth": "0px",
+          "padding": "30px",
+          "width": "auto"
+         },
+         "blockId": "cc9744e280",
+         "blockName": "Fi Card",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+            "fontFamily": "Karla",
+            "fontSize": "12.5px",
+            "fontWeight": "700",
+            "height": "fit-content",
+            "letterSpacing": "0.14em",
+            "lineHeight": "1.65",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "46c083de8c",
+           "blockName": "FiC T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Minute by minute",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "18px",
+            "padding": "15px 0px",
+            "width": "100%"
+           },
+           "blockId": "f45f406366",
+           "blockName": "Sess :00",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a03, #B9673F)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "52px"
+             },
+             "blockId": "e200a8ee80",
+             "blockName": "Sess :00 W",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": ":00",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "auto"
+             },
+             "blockId": "1bce32eeec",
+             "blockName": "Sess :00 T",
+             "children": [],
+             "classes": [
+              "al-grow"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Tea, forms already done online, and the only question that matters: what can't you do right now that you want back?",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "18px",
+            "padding": "15px 0px",
+            "width": "100%"
+           },
+           "blockId": "db272ef895",
+           "blockName": "Sess :10",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a03, #B9673F)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "52px"
+             },
+             "blockId": "4689b92554",
+             "blockName": "Sess :10 W",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": ":10",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "auto"
+             },
+             "blockId": "54805b7fab",
+             "blockName": "Sess :10 T",
+             "children": [],
+             "classes": [
+              "al-grow"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Movement exam. Bend, squat, reach, hop. We watch like coaches, not examiners.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "18px",
+            "padding": "15px 0px",
+            "width": "100%"
+           },
+           "blockId": "bbf1d05d42",
+           "blockName": "Sess :30",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a03, #B9673F)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "52px"
+             },
+             "blockId": "8703d96f64",
+             "blockName": "Sess :30 W",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": ":30",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "auto"
+             },
+             "blockId": "75157e2ae1",
+             "blockName": "Sess :30 T",
+             "children": [],
+             "classes": [
+              "al-grow"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The explanation, in plain words, with the spine model only if you ask nicely.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 1px 0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "18px",
+            "padding": "15px 0px",
+            "width": "100%"
+           },
+           "blockId": "cdfa0c1c49",
+           "blockName": "Sess :45",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a03, #B9673F)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "52px"
+             },
+             "blockId": "78e351c074",
+             "blockName": "Sess :45 W",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": ":45",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "auto"
+             },
+             "blockId": "0d93c87a72",
+             "blockName": "Sess :45 T",
+             "children": [],
+             "classes": [
+              "al-grow"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "First exercises, filmed on your phone so future-you can't claim amnesia.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+            "borderStyle": "solid",
+            "borderWidth": "0px",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "18px",
+            "padding": "15px 0px",
+            "width": "100%"
+           },
+           "blockId": "2c5644e8e4",
+           "blockName": "Sess :55",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a03, #B9673F)",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "52px"
+             },
+             "blockId": "189d326f17",
+             "blockName": "Sess :55 W",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": ":55",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "auto"
+             },
+             "blockId": "c8bc0ce860",
+             "blockName": "Sess :55 T",
+             "children": [],
+             "classes": [
+              "al-grow"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The plan: how many sessions, how spaced, what done looks like.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "al-rise",
+          "al-d1",
+          "al-card"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "padding": "22px",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column",
+        "gap": "32px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "gap": "36px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "60px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "80px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "100px 40px",
+      "width": "100%"
+     },
+     "blockId": "24a92b956f",
+     "blockName": "FAQ",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "16px",
+        "maxWidth": "1140px",
+        "width": "100%"
+       },
+       "blockId": "b213530d5d",
+       "blockName": "Fq Head",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a03, #B9673F)",
+          "fontFamily": "Karla",
+          "fontSize": "12.5px",
+          "fontWeight": "700",
+          "height": "fit-content",
+          "letterSpacing": "0.2em",
+          "lineHeight": "1.3",
+          "minWidth": "10px",
+          "width": "fit-content"
+         },
+         "blockId": "dbe7c4c9b6",
+         "blockName": "Fq Eye",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Asked weekly",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+          "fontFamily": "Fraunces",
+          "fontSize": "42px",
+          "fontWeight": "500",
+          "height": "fit-content",
+          "letterSpacing": "-0.01em",
+          "lineHeight": "1.12",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "ffe2148cfa",
+         "blockName": "Fq H",
+         "children": [],
+         "classes": [
+          "al-rise"
+         ],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "Reasonable questions",
+         "mobileStyles": {
+          "fontSize": "30px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "36px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "36px",
+        "width": "10px"
+       },
+       "blockId": "110e17ee5a",
+       "blockName": "Fq Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "16px",
+        "maxWidth": "1140px",
+        "width": "100%"
+       },
+       "blockId": "ae5dd18ca6",
+       "blockName": "Fq Grid",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "16px",
+          "minWidth": "0px"
+         },
+         "blockId": "ab7b700227",
+         "blockName": "Fq Col L",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "#FDFBF7",
+            "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+            "borderRadius": "22px",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "8px",
+            "padding": "26px",
+            "width": "100%"
+           },
+           "blockId": "7d95ce3682",
+           "blockName": "Fq 0",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+              "fontFamily": "Fraunces",
+              "fontSize": "17px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "e2ba178dc8",
+             "blockName": "Fq 0 Q",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Do I need a referral?",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "20e9cccbbe",
+             "blockName": "Fq 0 A",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "No. Come straight in. If anything needs a doctor's eyes, we write the letter and tell you exactly why.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "al-rise",
+            "al-card"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "#FDFBF7",
+            "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+            "borderRadius": "22px",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "8px",
+            "padding": "26px",
+            "width": "100%"
+           },
+           "blockId": "ff2b50d78c",
+           "blockName": "Fq 1",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+              "fontFamily": "Fraunces",
+              "fontSize": "17px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "0b824408e7",
+             "blockName": "Fq 1 Q",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Will it hurt?",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "f91c3a8790",
+             "blockName": "Fq 1 A",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Rehab flirts with the edge of discomfort; it shouldn't live past it. You set the ceiling, we set the dose.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "al-rise",
+            "al-card"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "16px",
+          "minWidth": "0px"
+         },
+         "blockId": "d8b1554ed6",
+         "blockName": "Fq Col R",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "#FDFBF7",
+            "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+            "borderRadius": "22px",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "8px",
+            "padding": "26px",
+            "width": "100%"
+           },
+           "blockId": "0254b3ba52",
+           "blockName": "Fq 2",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+              "fontFamily": "Fraunces",
+              "fontSize": "17px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "f5d058f1c8",
+             "blockName": "Fq 2 Q",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Do you just give massages?",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "833a21dd75",
+             "blockName": "Fq 2 A",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Hands-on work happens when it helps you move better, not as the main event. If you want only massage, we know a great one next door.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "al-rise",
+            "al-card"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "#FDFBF7",
+            "borderColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a06, #E5DCCF)",
+            "borderRadius": "22px",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "8px",
+            "padding": "26px",
+            "width": "100%"
+           },
+           "blockId": "0e5bd2ee6a",
+           "blockName": "Fq 3",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+              "fontFamily": "Fraunces",
+              "fontSize": "17px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "2a70cd67df",
+             "blockName": "Fq 3 Q",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "How fast can I be seen?",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a05, #8C8377)",
+              "fontFamily": "Karla",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "d0cd299658",
+             "blockName": "Fq 3 A",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Next working day for most weekdays; same day for the genuinely stuck. Say 'I cannot turn my head' and watch the diary open.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "al-rise",
+            "al-card"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "60px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "80px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "0px 40px 100px 40px",
+      "width": "100%"
+     },
+     "blockId": "d93e38344a",
+     "blockName": "Find",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "maxWidth": "1220px",
+        "width": "100%"
+       },
+       "blockId": "15e1515ee8",
+       "blockName": "Fd Wrap",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a02, #2D2823)",
+          "borderRadius": "26px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "flexWrap": "wrap",
+          "gap": "32px",
+          "justifyContent": "space-between",
+          "padding": "48px",
+          "width": "100%"
+         },
+         "blockId": "c2ec18e67d",
+         "blockName": "Fd Box",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 1,
+            "gap": "8px",
+            "maxWidth": "480px",
+            "width": "100%"
+           },
+           "blockId": "74821abd88",
+           "blockName": "Fd Copy",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "#F6F2EC",
+              "fontFamily": "Fraunces",
+              "fontSize": "30px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "-0.01em",
+              "lineHeight": "1.12",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "99a1922eb1",
+             "blockName": "Fd H",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h2",
+             "innerHTML": "31 Meadow Court, first floor",
+             "mobileStyles": {
+              "fontSize": "24px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {
+              "fontSize": "27px"
+             }
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "#B8AFA2",
+              "fontFamily": "Karla",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "b8f30454cb",
+             "blockName": "Fd B",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Above the bakery, which is either a cruel test or the perfect reward system. Lift access, bike racks, showers.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "#F6F2EC",
+              "fontFamily": "Karla",
+              "fontSize": "14px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "affe30ef49",
+             "blockName": "Fd Hours",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Mon–Fri 07:00–19:30 · Sat 08:00–13:00",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "12px",
+            "justifyContent": "center",
+            "width": "fit-content"
+           },
+           "blockId": "8455dd48f4",
+           "blockName": "Fd Actions",
+           "children": [
+            {
+             "attributes": {
+              "href": "mailto:desk@align.clinic?subject=Assessment"
+             },
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "var(--c0e3f8a5-1d74-4f62-3a21-4e8d1c5f7a03, #B9673F)",
+              "borderRadius": "999px",
+              "color": "#FFFFFF",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "fontFamily": "Karla",
+              "fontSize": "15px",
+              "fontWeight": "700",
+              "justifyContent": "center",
+              "lineHeight": "1",
+              "padding": "17px 30px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "db7aebe15b",
+             "blockName": "Fd B1",
+             "children": [],
+             "classes": [
+              "al-btn"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "Book an assessment",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {
+              "href": "tel:+15550176644"
+             },
+             "baseStyles": {
+              "alignItems": "center",
+              "borderColor": "#5A5347",
+              "borderRadius": "999px",
+              "borderStyle": "solid",
+              "borderWidth": "1.5px",
+              "color": "#F6F2EC",
+              "display": "flex",
+              "fontFamily": "Karla",
+              "fontSize": "15px",
+              "fontWeight": "700",
+              "justifyContent": "center",
+              "lineHeight": "1",
+              "padding": "17px 30px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "e7f3197abf",
+             "blockName": "Fd B2",
+             "children": [],
+             "classes": [
+              "al-btn-d"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "(555) 017-6644",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "al-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "padding": "28px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0px 12px 60px 12px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "80px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "4048438822",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "d4101a3d59",
+       "blockName": "Footer Inner",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "bc2fa20e63",
+         "blockName": "F Top",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "ea1eaef37e",
+           "blockName": "F Brand Col",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "2ceb2c186d",
+             "blockName": "F Brand",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "align_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "49ba2b9955",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "19b70e4609",
+             "blockName": "F Pitch",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "align_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "6163424a06",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "align_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "3e5663769a",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "7579c3d01e",
+           "blockName": "F Col Clinic",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "13a04c1f45",
+             "blockName": "FC Clinic T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "align_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "b97daaeed8",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "c738c04ba5",
+             "blockName": "FC Clinic What we treat",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "align_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "9d15d41ed8",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "9e117c5f28",
+             "blockName": "FC Clinic Visit & fees",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "align_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "10bc983246",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "acb9ce297f",
+             "blockName": "FC Clinic Book an assessment",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "align_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "eea20037eb",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "align_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ad0eec3e1b",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "8565f984ca",
+           "blockName": "F Col Find us",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "60e754fe76",
+             "blockName": "FC Find us T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "align_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "af05803106",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "be9f07ada0",
+             "blockName": "FC Find us 31 Meadow Court, first floor",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "align_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "e86284cec9",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "b6028ef09f",
+             "blockName": "FC Find us Mon–Sat, first slot 07:00",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "align_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "167942bd18",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "align_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "3de8e4265d",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "abd8041669",
+           "blockName": "F Col Talk",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "279528259f",
+             "blockName": "FC Talk T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "align_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "15bf78154c",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "76f80edd8b",
+             "blockName": "FC Talk desk@align.clinic",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "align_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "92d3d18c3c",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "95eb3895aa",
+             "blockName": "FC Talk (555) 017-6644",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "align_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "47317da306",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "align_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "fa9153e621",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "align_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "b6f921eb55",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "131b2d5c5d",
+         "blockName": "F Bottom",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "76b2d9e80e",
+           "blockName": "F Legal",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "align_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "86ddc5d0ad",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "b6495eb591",
+           "blockName": "F Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "align_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c644d5940d",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "align_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "ac595cf0d0",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "align_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "bb77ea09d3",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "align_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "align_styles"
+  },
+  {
+   "builder_script": "align_motion"
+  }
+ ],
+ "creation": "2026-07-21 13:24:19.031499",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Session prices published, your first hour minute by minute, reasonable questions answered, and where to find us.",
+ "modified": "2026-07-21 13:24:19.031499",
+ "modified_by": "Administrator",
+ "name": "align_visit",
+ "owner": "Administrator",
+ "page_name": "align_visit",
+ "page_title": "Visit & fees · Align",
+ "preview": "/builder_assets/align/align_visit/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/align/visit",
+ "template_group": "align"
+}
