@@ -78,6 +78,13 @@ Rules that apply to every template:
 | gambit | the annotated game: score-sheet move rows with notation and italic commentary, CSS chessboard diagrams with unicode pieces, ECO-coded service openings, engine-eval results, time-control pricing, monochrome warm greys |
 | chit   | the till receipt: every page a thermal receipt (zigzag torn edges, dashed rules, dotted price leaders), print-feed hero from a printer slot, punch-card loyalty, 86'd strikethrough items, barcode stubs, Courier Prime only |
 | optic  | the eye chart: shrinking Snellen hero rows with 20/x acuity margins and a lean-in joke line, blur-to-focus reveals, pure-CSS line-drawn frames, prescription-pad Rx grid, black on white |
+| rivet  | industrial trades: concrete paper + safety orange, Archivo caps, grayscale duotone job photos, numbered service cards, honest fixed-price rows, dark pricing manifesto, fixed 24/7 emergency strip, ticker, count-up stats |
+| enamel | soft clinical: warm cream + one clinical blue, Plus Jakarta Sans, pill buttons, morphing-blob hero portrait with bobbing chips, rounded fee tables, minute-by-minute first-visit timeline, blue CTA card |
+| counsel| quiet ivory law: Source Serif 4 + Inter small caps, hairline rules, numbered practice-index rows with hover indent, dark outcomes band with serif numerals, grayscale-to-color portraits, italic "in practice" asides |
+| uptime | status page as brand: deep slate + status green, Space Grotesk, pulsing operational pill, staggered uptime tick bar, counting SLA stats, glass sticky nav, partner wall panels, case-study stat grids, per-seat tiers |
+| tempo  | gym poster: near-black + volt, Anton caps, duotone photos, volt ticker, real weekly class grid (h-scroll on mobile), hard-shadow button hovers, volt quote panel, house-rules ledger |
+| spruce | the checklist: airy white + leaf green, Figtree, literal checkbox rows with staggered tick-in, floating today-card over hero photo, public rates table, written scopes, 53-point-clean card |
+| align  | warm clinic: bone + clay, Fraunces over Karla, condition-first card nav ("where does it catch?"), four-stage recovery arc with dot rail, initial-avatar clinician cards, minute-by-minute assessment card |
 
 New briefs must claim an archetype not on this list, and the list grows as templates ship.
 
@@ -930,12 +937,96 @@ the footer's smallest type is an 8.5px joke ("If you can read this, thank your o
 The forever-adjustment promise is the whole marketing strategy, stated as such. 3 pages
 (home / exam / visit), order 38.
 
+## Brief: rivet (Local business / trades, industrial), BUILT Jul 21 2026
+
+First of the service-industry batch (user pivot: "we are generating very niche templates
+which can be less useful... create templates for the service industry, modern and
+aesthetic"). The bar shifts from artifact conceits to broadly-usable verticals carried by a
+strong modern design system; wit stays. Rivet is a plumbing/electrical/heating contractor:
+concrete-paper ground, charcoal ink, safety orange, Archivo 800 caps. Blunt honest voice
+("FIXED. PROPERLY.", "We turn up. We fix it. We sweep up."), grayscale job photography,
+numbered service cards, fixed prices published in ledger rows, a dark "the price is the
+price" manifesto, live-ish availability board, service-area chips, and a fixed bottom 24/7
+emergency strip with a pulsing dot ("Burst pipe? No power?"). Count-up stats, dark ink
+ticker. 3 pages (home / services / book), order 39, categories Local business + Marketing.
+
+## Brief: enamel (Local business / dental, soft clinical), BUILT Jul 21 2026
+
+A calm dental practice: warm cream, one clinical blue, Plus Jakarta Sans, pill buttons,
+24px radii. Voice is kind and honest ("Dentistry for people who'd rather be anywhere
+else"). Morphing-blob hero portrait with two bobbing floating chips, a four-step
+nothing-happens-without-a-conversation strip, emoji-icon treatment cards, fees published in
+rounded tables ("Fees, published like normal shops do"), a nervous-patients section with
+hand-signal promises, an $18/mo membership without dark patterns, and a minute-by-minute
+first-visit timeline. 3 pages (home / treatments / visit), order 40, Local business.
+
+## Brief: counsel (Marketing / law, quiet ivory), BUILT Jul 21 2026
+
+Harrow & Vale, a quiet law firm: ivory ground, Source Serif 4 display, Inter small caps,
+oxblood accent used sparingly. Confidence through restraint: no gavels, no columns
+clip-art. Numbered practice-index rows that indent on hover, a dark outcomes band ("$1.4B
+closed the boring way", "0 press releases about clients, ever"), an italic pull quote (via
+the @import ital fallback), grayscale partner portraits that colorize on hover, house rules
+as roman-numeral panels, fees "discussed like adults" with a free first hour. 3 pages
+(home / practice / enquire), order 41, Marketing + Local business.
+
+## Brief: uptime (Technology / IT services, status green), BUILT Jul 21 2026
+
+The user-requested "IT services / partners / digital presence" concept. A managed-services
+firm whose brand is a status page: deep slate, status green, Space Grotesk + Inter,
+blinking-cursor wordmark ("uptime_"). Pulsing "All client systems operational" pill, a
+60-day uptime tick bar that staggers in (two amber wobbles for honesty), counting SLA
+stats (99.98% / 11 min median), four service panels, per-seat pricing tiers with the exit
+plan in the contract, a fictional partner wall, and three case studies with real numbers
+("40→5 min lost per person weekly", "1 hero, still employed, sleeping"). 3 pages
+(home / services / partners), order 42, Technology + Marketing.
+
+## Brief: tempo (Local business / fitness, volt poster), BUILT Jul 21 2026
+
+A strength & conditioning studio: near-black, off-white, volt #D8FF3D, Anton caps over
+Inter. Anti-globo-gym positioning ("SHOW UP. THAT'S THE PROGRAM.", "zero mirror culture",
+"0 treadmills. sorry. not sorry"). Duotone photography, a volt ticker, four class-format
+cards, a REAL weekly schedule grid (flex table, h-scrolls on mobile), house rules
+enforceable by frowning (PR bell rung exactly once per PR), hard-shadow button hovers,
+memberships where the cancel button "is not hidden in a hedge maze". 3 pages
+(home / schedule / join), order 43, Local business.
+
+## Brief: spruce (Local business / cleaning, checklist), BUILT Jul 21 2026
+
+A home cleaning service whose design motif is the literal checklist: airy white, leaf
+green, Figtree, checkbox rows everywhere whose ticks scale-in staggered on scroll.
+Floating "Today · Flat 4B" checklist card bobbing over the hero photo, a public
+bedrooms+bathrooms rates table ("Find your home. That's your price."), written scopes per
+clean, the 53-point clean sample card ("That one sticky drawer handle. Fixed."), flat-price
+add-ons (fridge archaeology $35, post-party rescue with glitter surcharge), a 48-hour
+re-clean guarantee, and a quote flow that is just three things in an email. 3 pages
+(home / services / quote), order 44, Local business.
+
+## Brief: align (Local business / physio, warm clinic), BUILT Jul 21 2026
+
+A physiotherapy & movement clinic: bone neutrals, clay accent, Fraunces display over Karla.
+Condition-first navigation ("Where does it catch?" cards: backs, knees, shoulders, sports,
+post-op, "Not sure? Fine."), a four-stage recovery arc (Understand / Calm it down /
+Rebuild / Return & stay) on a dot rail, anti-churn positioning ("Fewer visits, on
+purpose", "0 mystery ultrasounds sold", "discharge is the goal"), initial-avatar clinician
+cards, published session fees, a minute-by-minute first hour ("bring shorts, leave with a
+plan") and house beliefs said out loud ("we treat you, not your MRI"). 3 pages
+(home / care / visit), order 45, Local business.
+
 ## Follow-ups
 
 - ember shipped Jul 19 2026 (order 34), opening the Food & Beverage category. Next briefs in
   that column: crumb, scoop, graze, zest.
 - groove shipped Jul 19 2026 (order 35), replacing the retired fathom. The taste rule that is
   now three-for-three: build artifacts with furniture and wit, never atmospheres.
+- Jul 21 2026 direction update: the user flagged the artifact conceits as "very niche...
+  less useful" and asked for service-industry templates, modern and aesthetic. The
+  seven-template service batch (rivet, enamel, counsel, uptime, tempo, spruce, align,
+  orders 39-45) is the new model: broadly-usable verticals carried by a strong, distinct
+  modern design system and witty honest copy; a skeuomorphic conceit is optional, the
+  quality bar is unchanged. Remaining obvious verticals if the batch lands: fade
+  (barber/salon, proposed and skipped this round), accounting, vet clinic, landscaping,
+  auto shop, moving company.
 - Re-tag the original shipped groups' `template.json` categories into the industry taxonomy when
   the first new template ships (fronds/verge -> closest vertical or General, mono/husk/verso
   -> Portfolio stays? decide then). commit was retired Jul 17 2026 instead of re-tagging.
