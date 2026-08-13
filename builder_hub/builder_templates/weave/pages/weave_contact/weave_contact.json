@@ -1,0 +1,639 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4001, #FBFAF8)",
+    "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Albert Sans",
+    "minHeight": "100vh",
+    "overflowX": "clip",
+    "width": "100%"
+   },
+   "blockId": "0000b3e5ef",
+   "blockName": "Page",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "0000b3e5e7",
+     "blockName": "Weave Nav",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0000b3e5e8",
+       "blockName": "Brand",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "weave_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "0000b3e580",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0000b3e5e9",
+       "blockName": "Nav Links",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "0000b3e5ea",
+         "blockName": "Nav Story",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "weave_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "0000b3e581",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "0000b3e5eb",
+         "blockName": "Nav Contact",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "weave_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "0000b3e582",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "weave_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "0000b3e583",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "weave_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "22px",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "960px",
+      "padding": "108px 24px 72px",
+      "width": "100%"
+     },
+     "blockId": "0000b3e5d8",
+     "blockName": "Contact Opening",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+        "fontFamily": "Albert Sans",
+        "fontSize": "11.5px",
+        "fontWeight": "600",
+        "height": "fit-content",
+        "letterSpacing": "0.14em",
+        "lineHeight": "1.5",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e5d5",
+       "blockName": "Contact Overline",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "p",
+       "innerHTML": "CONTACT",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+        "fontFamily": "Spectral",
+        "fontSize": "52px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "letterSpacing": "-0.01em",
+        "lineHeight": "1.3",
+        "maxWidth": "760px",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e5d6",
+       "blockName": "Contact Statement",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "h1",
+       "innerHTML": "Say it <img src=\"https://images.pexels.com/photos/8543321/pexels-photo-8543321.jpeg?auto=compress&cs=tinysrgb&w=400\" alt=\"\" loading=\"lazy\" style=\"display: inline-block; height: 0.72em; width: 1.18em; object-fit: cover; border-radius: 0.36em; vertical-align: -0.08em; margin: 0 0.08em;\"> out loud.",
+       "mobileStyles": {
+        "fontSize": "32px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+        "fontFamily": "Albert Sans",
+        "fontSize": "15.5px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "lineHeight": "1.7",
+        "maxWidth": "420px",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e5d7",
+       "blockName": "Contact Sub",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "p",
+       "innerHTML": "A few lines about what you are making, or unmaking. We read everything and reply like people.",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "60px 20px 44px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "960px",
+      "padding": "0 24px 96px",
+      "width": "100%"
+     },
+     "blockId": "0000b3e5e6",
+     "blockName": "Contact Rows",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "borderColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4004, #E9E6DF)",
+        "borderStyle": "solid",
+        "borderWidth": "1px 0 0 0",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "560px",
+        "width": "100%"
+       },
+       "blockId": "0000b3e5e5",
+       "blockName": "Contact List",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4004, #E9E6DF)",
+          "borderStyle": "solid",
+          "borderWidth": "0 0 1px 0",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "24px",
+          "padding": "18px 0",
+          "width": "100%"
+         },
+         "blockId": "0000b3e5db",
+         "blockName": "Contact WRITE",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.14em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textAlign": "left",
+            "width": "110px"
+           },
+           "blockId": "0000b3e5da",
+           "blockName": "Contact Label WRITE",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "WRITE",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "mailto:hello@ombra.studio"
+           },
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "1.5",
+            "textDecoration": "none"
+           },
+           "blockId": "0000b3e5d9",
+           "blockName": "Contact Value",
+           "children": [],
+           "classes": [
+            "wv-link"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "hello@ombra.studio",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "alignItems": "flex-start",
+          "flexDirection": "column",
+          "gap": "6px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4004, #E9E6DF)",
+          "borderStyle": "solid",
+          "borderWidth": "0 0 1px 0",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "24px",
+          "padding": "18px 0",
+          "width": "100%"
+         },
+         "blockId": "0000b3e5de",
+         "blockName": "Contact CALL",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.14em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textAlign": "left",
+            "width": "110px"
+           },
+           "blockId": "0000b3e5dd",
+           "blockName": "Contact Label CALL",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "CALL",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "tel:+351213427760"
+           },
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "lineHeight": "1.5",
+            "textDecoration": "none"
+           },
+           "blockId": "0000b3e5dc",
+           "blockName": "Contact Value",
+           "children": [],
+           "classes": [
+            "wv-link"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "+351 21 342 7760",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "alignItems": "flex-start",
+          "flexDirection": "column",
+          "gap": "6px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4004, #E9E6DF)",
+          "borderStyle": "solid",
+          "borderWidth": "0 0 1px 0",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "24px",
+          "padding": "18px 0",
+          "width": "100%"
+         },
+         "blockId": "0000b3e5e1",
+         "blockName": "Contact VISIT",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.14em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textAlign": "left",
+            "width": "110px"
+           },
+           "blockId": "0000b3e5e0",
+           "blockName": "Contact Label VISIT",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "VISIT",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e5df",
+           "blockName": "Contact Value",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Rua das Gaivotas 14, Lisbon",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "alignItems": "flex-start",
+          "flexDirection": "column",
+          "gap": "6px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4004, #E9E6DF)",
+          "borderStyle": "solid",
+          "borderWidth": "0 0 1px 0",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "24px",
+          "padding": "18px 0",
+          "width": "100%"
+         },
+         "blockId": "0000b3e5e4",
+         "blockName": "Contact HOURS",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.14em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textAlign": "left",
+            "width": "110px"
+           },
+           "blockId": "0000b3e5e3",
+           "blockName": "Contact Label HOURS",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "HOURS",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e5e2",
+           "blockName": "Contact Value",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Weekdays 10 to 18, and by appointment, gladly",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "alignItems": "flex-start",
+          "flexDirection": "column",
+          "gap": "6px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0 20px 56px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "0000b3e5ec",
+     "blockName": "Weave Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0000b3e5ed",
+       "blockName": "Foot Line",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "weave_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "0000b3e585",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0000b3e5ee",
+       "blockName": "Foot Small",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "weave_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "0000b3e586",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "weave_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "weave_styles"
+  }
+ ],
+ "creation": "2026-08-13 14:39:38.389090",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Write, call or visit the studio in Lisbon. We read everything and reply like people.",
+ "modified": "2026-08-13 14:39:38.389090",
+ "modified_by": "Administrator",
+ "name": "weave_contact",
+ "owner": "Administrator",
+ "page_name": "weave_contact",
+ "page_title": "Contact · Ombra",
+ "preview": "/builder_assets/weave/weave_contact/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/weave/contact",
+ "template_group": "weave"
+}
