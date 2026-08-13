@@ -90,6 +90,8 @@ Rules that apply to every template:
 | primer | the framework kit modernized: soft inset section panels (nav lives inside the hero panel), block-built app-window hero mock, logo marquee, icon-chip feature grid, alternating splits, native-details accordion FAQ, brand-tinted CTA panel, multi-column standard footer |
 | tide   | the wireframe made real: sharp 1px outlined boxes for every module, fig-numbered photo frames with mono caption tabs and corner ticks, hairline meta-cell strips, dashed day-timeline, spec-cell room ledger, dashed-X map placeholder joke, boxed cell-grid footer |
 | plot   | quiet editorial dev-tool gallery, still by design: bookish serif over grotesk in a narrow centered measure, borderless warm-grey demo cards holding CSS-drawn chart primitives, a signed letter from the maker, dark code-to-chart panel, serif-italic quote wall, version-dot nav |
+| rail   | sticky section-title rail: every section a two-column spread where the number and title pin left (position sticky) while content flows right; single grotesk family, hairline rules only, near-mono warm palette with one fir accent, sculptural still-life photography |
+| weave  | sentences with inline media: display serif statements carrying small rounded image chips inside the line; centered composition, quiet detail rows between statements, one wide image band, one-line footer |
 
 New briefs must claim an archetype not on this list, and the list grows as templates ship.
 
@@ -1173,6 +1175,99 @@ pages:
       cards (MIT / $90 a year with a straight-faced invoice), what-pro-buys rows, small
       FAQ, footer]}
 components: [plot_nav, plot_footer]
+```
+
+## Brief: rail (General purpose, minimal), BUILT Aug 2026
+
+First of the two general-purpose minimal groups requested Aug 13 2026 ("2 general purpose
+templates, minimal and aesthetic"). Still by direction, strict font roles: one family.
+
+```yaml
+codename: rail
+category: [Marketing, Portfolio]
+title: Rail
+description: >
+  A general-purpose minimal site built on one idea: section titles that stay with you.
+  Sticky rail spreads, one grotesk family, hairline rules, sculptural photography.
+theme: minimal (light + full dark values)
+concept: >
+  Aker, a small design and strategy practice, written so every section slots into any
+  studio, consultancy or brand: practice, services, selected work, contact. The layout is
+  the identity; the copy is quiet and confident. Conversion is an email.
+palette:
+  - {name: paper, value: "#F7F6F2", dark_value: "#131211"}
+  - {name: ink,   value: "#201E1A", dark_value: "#ECEAE5"}
+  - {name: muted, value: "#7C776D", dark_value: "#98938A"}
+  - {name: line,  value: "#E3E0D8", dark_value: "#2B2925"}
+  - {name: wash,  value: "#EFECE5", dark_value: "#1C1B18"}
+  - {name: fir,   value: "#3D5A45", dark_value: "#8FAE97"}
+fonts: {family: Mona Sans (400, 500, 600; one family for everything)}
+archetype: >
+  The sticky rail. After a full-width display statement, every section is a two-column
+  spread: number and title pinned left with position sticky while the right column flows
+  (paragraphs, hairline service rows, work list rows, images). Mobile stacks the rail as a
+  plain heading. Hairline top nav, hairline one-row footer. No cards, no fills except the
+  wash on images' captions.
+imagery: >
+  Pexels, sculptural warm-neutral: stool + lamp against white 7193648 (hero), dotted light
+  on sage wall 14866182, vases with hard shadows 6204267, clay arcs 8063814, soft shadow
+  wall 2648230, white curved studio 20314949, makers at bench 6694317.
+pages:
+  - {name: rail_home, route: /, sections: [hairline nav, display statement, rail 01
+      practice, rail 02 services (hairline rows), rail 03 selected work (list + spread
+      image), rail 04 contact, one-row footer]}
+  - {name: rail_work, route: /work, sections: [header statement, three project rails
+      (image, paragraph, meta rows), one-row footer]}
+  - {name: rail_studio, route: /studio, sections: [header statement, rail on the studio,
+      rail principles (numbered hairline rows), rail space (image pair), rail contact,
+      one-row footer]}
+components: [rail_nav, rail_footer]
+```
+
+## Brief: weave (General purpose, minimal), BUILT Aug 2026
+
+Second of the pair. The signature is typographic: images live inside the sentences.
+
+```yaml
+codename: weave
+category: [Marketing, Portfolio]
+title: Weave
+description: >
+  A general-purpose minimal site where the images live inside the sentences: serif
+  statements with small rounded photo chips woven into the line.
+theme: minimal (light + full dark values)
+concept: >
+  Ombra, a studio for objects, spaces and stories, written swappable for any brand,
+  maker or practice. Centered composition, almost no chrome; the inline chips carry all
+  the imagery except one wide band. Conversion is an email.
+palette:
+  - {name: paper, value: "#FBFAF8", dark_value: "#121110"}
+  - {name: ink,   value: "#191713", dark_value: "#EDEBE6"}
+  - {name: muted, value: "#837D72", dark_value: "#9A948A"}
+  - {name: line,  value: "#E9E6DF", dark_value: "#2A2823"}
+  - {name: wash,  value: "#F3F0E9", dark_value: "#1B1916"}
+  - {name: clay,  value: "#B95C38", dark_value: "#D08A6B"}
+fonts: {display: Spectral (400), body: Albert Sans}
+archetype: >
+  Inline-media sentences: the hero and every section opener is a centered Spectral
+  statement carrying small rounded image chips inline with the words (img tags inside the
+  text, sized to the cap height). Between statements sit quiet centered detail rows and
+  hairline lists; one wide photo band per page; a one-line footer. No cards, no panels,
+  no sidebar, nothing sticky. Nobody else puts pictures inside the type.
+imagery: >
+  Pexels chips (square-cropped small): tiny vase on blush 7663203, green stem shadow
+  8543321, cream linen 7533979, hands with clay coil 7302418, lamp on desk 4884134,
+  palm shadow 28079387 (also the wide band). Chips need display inline-block in their
+  inline style or the page CSS reset stacks them as blocks.
+pages:
+  - {name: weave_home, route: /, sections: [wordmark nav, chip-sentence hero, what-we-do
+      detail trio, second chip statement, services hairline list, wide shadow band,
+      chip CTA statement, one-line footer]}
+  - {name: weave_story, route: /story, sections: [chip statement, prose column, milestone
+      hairline rows, wide band, one-line footer]}
+  - {name: weave_contact, route: /contact, sections: [chip statement, email and phone
+      rows, studio address block, one-line footer]}
+components: [weave_nav, weave_footer]
 ```
 
 ## Follow-ups
