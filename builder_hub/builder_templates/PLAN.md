@@ -82,7 +82,6 @@ Rules that apply to every template:
 | chit   | the till receipt: every page a thermal receipt (zigzag torn edges, dashed rules, dotted price leaders), print-feed hero from a printer slot, punch-card loyalty, 86'd strikethrough items, barcode stubs, Courier Prime only |
 | optic  | the eye chart: shrinking Snellen hero rows with 20/x acuity margins and a lean-in joke line, blur-to-focus reveals, pure-CSS line-drawn frames, prescription-pad Rx grid, black on white |
 | rivet  | industrial trades: concrete paper + safety orange, Archivo caps, grayscale duotone job photos, numbered service cards, honest fixed-price rows, dark pricing manifesto, fixed 24/7 emergency strip, ticker, count-up stats |
-| enamel | soft clinical: warm cream + one clinical blue, Plus Jakarta Sans, pill buttons, morphing-blob hero portrait with bobbing chips, rounded fee tables, minute-by-minute first-visit timeline, blue CTA card |
 | counsel| quiet ivory law: Source Serif 4 + Inter small caps, hairline rules, numbered practice-index rows with hover indent, dark outcomes band with serif numerals, grayscale-to-color portraits, italic "in practice" asides |
 | uptime | status page as brand: deep slate + status green, Space Grotesk, pulsing operational pill, staggered uptime tick bar, counting SLA stats, glass sticky nav, partner wall panels, case-study stat grids, per-seat tiers |
 | tempo  | gym poster: near-black + volt, Anton caps, duotone photos, volt ticker, real weekly class grid (h-scroll on mobile), hard-shadow button hovers, volt quote panel, house-rules ledger |
@@ -956,16 +955,6 @@ price" manifesto, live-ish availability board, service-area chips, and a fixed b
 emergency strip with a pulsing dot ("Burst pipe? No power?"). Count-up stats, dark ink
 ticker. 3 pages (home / services / book), order 39, categories Local business + Marketing.
 
-## Brief: enamel (Local business / dental, soft clinical), BUILT Jul 21 2026
-
-A calm dental practice: warm cream, one clinical blue, Plus Jakarta Sans, pill buttons,
-24px radii. Voice is kind and honest ("Dentistry for people who'd rather be anywhere
-else"). Morphing-blob hero portrait with two bobbing floating chips, a four-step
-nothing-happens-without-a-conversation strip, emoji-icon treatment cards, fees published in
-rounded tables ("Fees, published like normal shops do"), a nervous-patients section with
-hand-signal promises, an $18/mo membership without dark patterns, and a minute-by-minute
-first-visit timeline. 3 pages (home / treatments / visit), order 40, Local business.
-
 ## Brief: counsel (Marketing / law, quiet ivory), BUILT Jul 21 2026
 
 Harrow & Vale, a quiet law firm: ivory ground, Source Serif 4 display, Inter small caps,
@@ -1194,7 +1183,7 @@ components: [plot_nav, plot_footer]
   now three-for-three: build artifacts with furniture and wit, never atmospheres.
 - Jul 21 2026 direction update: the user flagged the artifact conceits as "very niche...
   less useful" and asked for service-industry templates, modern and aesthetic. The
-  seven-template service batch (rivet, enamel, counsel, uptime, tempo, spruce, align,
+  service-industry batch (rivet, counsel, uptime, tempo, spruce, align,
   orders 39-45) is the new model: broadly-usable verticals carried by a strong, distinct
   modern design system and witty honest copy; a skeuomorphic conceit is optional, the
   quality bar is unchanged. Remaining obvious verticals if the batch lands: fade
