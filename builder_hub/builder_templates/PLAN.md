@@ -34,6 +34,9 @@ Rules that apply to every template:
   script pair (IntersectionObserver reveal-on-scroll with stagger classes, marquee, Ken Burns,
   view-timeline parallax as progressive enhancement). The JS arms hidden states only when
   `prefers-reduced-motion` allows, so no-JS and reduced-motion users see a complete static page.
+  Aug 13 2026 direction (from the plot round): default NEW groups to stillness — subtle hover
+  and focus transitions only, no entrance animations, kinetic type or counters unless the
+  brief explicitly asks. Shipped groups keep their motion.
   Pipeline gotcha: a page's root block must carry `"originalElement": "body"` (Builder's canvas
   convention) or JavaScript client scripts are never rendered into the published page. Second
   gotcha: Builder stamps `data-track` on rendered blocks for click analytics, so custom
@@ -85,6 +88,9 @@ Rules that apply to every template:
 | tempo  | gym poster: near-black + volt, Anton caps, duotone photos, volt ticker, real weekly class grid (h-scroll on mobile), hard-shadow button hovers, volt quote panel, house-rules ledger |
 | spruce | the checklist: airy white + leaf green, Figtree, literal checkbox rows with staggered tick-in, floating today-card over hero photo, public rates table, written scopes, 53-point-clean card |
 | align  | warm clinic: bone + clay, Fraunces over Karla, condition-first card nav ("where does it catch?"), four-stage recovery arc with dot rail, initial-avatar clinician cards, minute-by-minute assessment card |
+| primer | the framework kit modernized: soft inset section panels (nav lives inside the hero panel), block-built app-window hero mock, logo marquee, icon-chip feature grid, alternating splits, native-details accordion FAQ, brand-tinted CTA panel, multi-column standard footer |
+| tide   | the wireframe made real: sharp 1px outlined boxes for every module, fig-numbered photo frames with mono caption tabs and corner ticks, hairline meta-cell strips, dashed day-timeline, spec-cell room ledger, dashed-X map placeholder joke, boxed cell-grid footer |
+| plot   | quiet editorial dev-tool gallery, still by design: bookish serif over grotesk in a narrow centered measure, borderless warm-grey demo cards holding CSS-drawn chart primitives, a signed letter from the maker, dark code-to-chart panel, serif-italic quote wall, version-dot nav |
 
 New briefs must claim an archetype not on this list, and the list grows as templates ship.
 
@@ -1012,6 +1018,173 @@ purpose", "0 mystery ultrasounds sold", "discharge is the goal"), initial-avatar
 cards, published session fees, a minute-by-minute first hour ("bring shorts, leave with a
 plan") and house beliefs said out loud ("we treat you, not your MRI"). 3 pages
 (home / care / visit), order 45, Local business.
+
+## Brief: primer (Technology + Marketing, light), BUILT Aug 2026
+
+The user-requested modernization of the classic Frappe website-module web templates: every
+section is the 2026 rendition of one shipped `frappe/website/web_template`, assembled into a
+broadly-usable light SaaS/business starter. Section lineage: standard_navbar → nav row inside
+the hero panel; hero_with_right_image → split hero with a block-built onboarding app window
+(no screenshots to replace); slideshow → logo marquee; section_with_features → icon-chip
+grid; split_section_with_image → alternating splits; testimonial → oversized single quote;
+section_with_cta → brand-tinted CTA panel; standard_footer → multi-column footer;
+section_with_tabs → JS pill-tab switcher (stacks without JS); section_with_cards → use-case
+cards; section_with_collapsible_content → native details/summary accordion;
+section_with_small_cta → slim CTA row; cover_image / full_width_image → photo band;
+markdown → prose story; section_with_testimonials → avatar quote trio.
+
+```yaml
+codename: primer
+category: [Technology, Marketing]
+title: Primer
+description: >
+  The classic framework page kit, re-cut for 2026: soft inset panels, a block-built product
+  mock, feature grid, splits, testimonials, FAQ and CTA in one neutral modern starter.
+theme: light (full dark values on every variable; the only group with a true light/dark pair
+  in the service-era batch)
+concept: >
+  Primer is an employee-onboarding platform: "day one to day done". Honest SaaS voice
+  ("The handbook nobody reads, retired."). Deliberately the most re-purposable group in the
+  catalog: neutral palette, no photography on home, every section maps to a classic kit part.
+palette:
+  - {name: paper, value: "#FFFFFF", dark_value: "#0C0E12"}
+  - {name: ink,   value: "#111826", dark_value: "#EDEFF4"}
+  - {name: muted, value: "#5F6B7E", dark_value: "#98A2B3"}
+  - {name: line,  value: "#E7EAF0", dark_value: "#232936"}
+  - {name: panel, value: "#F3F5F9", dark_value: "#151A22"}   # inset section panels
+  - {name: wash,  value: "#E9F1FE", dark_value: "#14233D"}   # brand tint: chips, icon plates
+  - {name: brand, value: "#2470E8", dark_value: "#6AA4FF"}   # the framework blue, modernized
+fonts: {display: Geist, body: Geist, mono: Geist Mono}
+archetype: >
+  Inset-panel page: every major section is a full-width rounded panel inset from the viewport
+  edge, alternating paper/panel/wash tints; the nav row lives INSIDE the hero panel. Hero is
+  the classic hero-with-right-image with the image replaced by an app window built from
+  blocks (checklist rows, progress bar, avatar stack). Logo marquee under the hero, icon-chip
+  feature grid, alternating 50/50 splits, an accordion FAQ on native details/summary, a
+  brand-tinted CTA panel, and the standard multi-column footer.
+imagery: >
+  None on home (the product mock is blocks). Company page hotlinks Unsplash: bright modern
+  office, team at whiteboard, desk details. Searches: "modern office bright", "team meeting
+  casual", "office plants desk".
+pages:
+  - name: primer_home
+    route: /
+    sections: [nav + split hero panel with app-window mock, logo marquee rule, icon feature
+      grid (6), two alternating splits, oversized single quote, CTA panel, footer]
+  - name: primer_product
+    route: /product
+    sections: [page header, pill-tab switcher (before day one / week one / every week after),
+      use-case cards (3), metrics row, slim CTA row, accordion FAQ, footer]
+  - name: primer_company
+    route: /company
+    sections: [cover photo band, prose story, avatar quote trio, hiring/contact block, footer]
+components: [primer_nav, primer_footer]
+```
+
+## Brief: tide (Travel & Hospitality, minimal wireframe), BUILT Aug 2026
+
+Claims the matrix's `tide` slot and opens the Travel & Hospitality column. User ask: minimal,
+close to wireframe, high-quality layout and fonts, imagery via the Pexels API
+(`pexels_api_key` in common_site_config; photos curated by contact sheet, hotlinked from
+images.pexels.com). First group to use Pexels instead of Unsplash.
+
+```yaml
+codename: tide
+category: Travel & Hospitality
+title: Tide
+description: >
+  A six-room coastal guesthouse drawn like a wireframe that shipped: sharp 1px boxes,
+  fig-numbered photo frames, mono meta cells and a serif that does the talking.
+theme: minimal (light + full dark values)
+concept: >
+  Tide House, a six-room guesthouse behind the dunes on the Danish north coast. The site is
+  the wireframe made real: every module an outlined box, every photo a numbered figure,
+  every fact a mono cell. The luxury is restraint; the voice is dry and kind ("Six rooms.
+  One long beach. Nothing to do, on purpose."). Conversion is an email, answered by Mette.
+palette:
+  - {name: paper,  value: "#FBFAF7", dark_value: "#101112"}
+  - {name: ink,    value: "#1A1915", dark_value: "#EAE8E2"}
+  - {name: muted,  value: "#75736B", dark_value: "#98968E"}
+  - {name: line,   value: "#D8D6CE", dark_value: "#2C2C28"}   # wireframe hairlines
+  - {name: sand,   value: "#F2F0E9", dark_value: "#1A1B19"}   # cell fills
+  - {name: harbor, value: "#3D647C", dark_value: "#90AFC2"}   # links, fig numbers
+fonts: {display: Instrument Serif (with real italic), body: Onest, mono: Fragment Mono}
+archetype: >
+  Sharp-cornered 1px boxes stacked with paper gaps; nothing rounded, nothing shadowed.
+  Boxed nav strip with a filled BOOK cell. Hero is a two-cell box: serif statement left,
+  FIG. 01 photo right. Meta strip of hairline cells (coordinates, season, house rules).
+  Photos always sit in frames with mono caption tabs and CSS corner ticks. A dashed
+  day-timeline with time ticks. Rooms as spec-cell ledger rows. The visit page opens on a
+  dashed-X "map placeholder" that never got replaced, deliberately. Footer is a grid of
+  boxed cells. No other group draws itself as a wireframe.
+imagery: >
+  Pexels, curated cold-coast set (grey-sand register): dune house hero 28383861, Danish
+  flag house 33991684, pale sea 632327, sheer-curtain window 8093107, rooms 545034 /
+  8251692 / 7749046, chair by window 6370040, fog beach 36466033, dune path 34443707,
+  bread 11842180, towels 4210372.
+pages:
+  - {name: tide_home, route: /, sections: [boxed nav, two-cell hero (statement / FIG. 01),
+      meta cell strip, rooms index (3 cards with dashed price rows), dashed day-timeline,
+      sea band FIG., guestbook quote in serif italic, stay-a-while box, cell-grid footer]}
+  - {name: tide_rooms, route: /rooms, sections: [index header, morning-light band, six
+      spec-cell room rows (thumbs on 01-03), every-room dashed cell grid, breakfast figure
+      + note, stay box, footer]}
+  - {name: tide_visit, route: /visit, sections: [getting-here header, dashed-X map box with
+      address, four numbered direction steps ending at the flag FIG., beach + dune pair,
+      house notes with chair figure, booking box (mailto, no engine), footer]}
+components: [tide_nav, tide_footer]
+```
+
+## Brief: plot (Technology / dev tool, quiet editorial), BUILT Aug 2026
+
+Fills the dev-tool slot left by the retired hex. Genre reference from the user: the quiet
+type-first component-gallery family (serif display over grotesk, live demos as the content,
+personal editorial voice). Genre only; every element here is original: different product
+category, fonts, accent, furniture and copy.
+
+```yaml
+codename: plot
+category: Technology
+title: Plot
+description: >
+  A tiny charting library's site in quiet editorial style: bookish serif, live CSS chart
+  demos in warm-grey cards, a signed letter from the maker and a masonry quote wall.
+theme: light (full dark values)
+concept: >
+  Plot is a fictional 4 KB charting library with opinions: one line of data in, one honest
+  chart out. The site whispers. Vast whitespace, a narrow centered measure, demos that are
+  real CSS (bars that grow, a ring, a ticking number), and a maker who signs her letter.
+  Conversion is `npm i @plot/charts` and the Pro tier.
+palette:
+  - {name: paper,  value: "#FFFFFF", dark_value: "#0E0F11"}
+  - {name: ink,    value: "#16181D", dark_value: "#ECEDEF"}
+  - {name: muted,  value: "#6E727C", dark_value: "#9A9EA8"}
+  - {name: card,   value: "#F4F4F2", dark_value: "#17181B"}   # borderless demo panels
+  - {name: line,   value: "#E8E8E5", dark_value: "#26272B"}
+  - {name: accent, value: "#2E45E6", dark_value: "#8B9BFF"}   # ultramarine, links + data
+  - {name: go,     value: "#23A55D", dark_value: "#4CC57F"}   # live dot, positive deltas
+fonts: {display: Libre Caslon Text (real italic), body: Familjen Grotesk, mono: JetBrains Mono}
+archetype: >
+  Narrow centered editorial measure on white; serif display lines as section voice, grotesk
+  for everything functional. Demos are borderless warm-grey rounded cards holding chart
+  primitives drawn from blocks and CSS: bars, a conic ring, a set number, legend chips with
+  a tooltip mock. A signed letter block from the maker, a dark code-to-chart split panel,
+  serif stat trio, serif-italic quote wall with mono handles, and a one-row mono footer.
+  Nav carries a version chip and a green all-systems dot. Still by user direction
+  (Aug 13 2026): no entrance animations, kinetic type or counters anywhere; only subtle
+  hover and focus transitions.
+pages:
+  - {name: plot_home, route: /, sections: [minimal nav with version dot, kinetic serif hero
+      + install pill, letter from June, six live demo cards, dark code-to-chart panel,
+      serif stat trio, quote wall, one-row footer]}
+  - {name: plot_pieces, route: /pieces, sections: [pieces header, demo card rows by family
+      (bars / rings / numbers / bits) each with a one-line mono call, honest-limits note,
+      footer]}
+  - {name: plot_pricing, route: /pricing, sections: [serif pricing statement, free vs pro
+      cards (MIT / $90 a year with a straight-faced invoice), what-pro-buys rows, small
+      FAQ, footer]}
+components: [plot_nav, plot_footer]
+```
 
 ## Follow-ups
 
