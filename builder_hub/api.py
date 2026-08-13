@@ -191,3 +191,19 @@ def _absolutize(obj):
 	s = s.replace('"/builder_assets/', f'"{base}/builder_assets/')
 	s = s.replace('"/files/', f'"{base}/files/')
 	return frappe.parse_json(s)
+
+
+def allow_template_embedding(response=None, request=None):
+	"""Serve template pages with a frame-ancestors CSP so any builder site can
+	embed them in the picker's inline preview. Browsers ignore X-Frame-Options
+	(added by the Frappe Cloud proxy as sameorigin) when frame-ancestors is set.
+	"""
+	if request is None or response is None:
+		return
+	if request.path.startswith("/templates/"):
+		existing = response.headers.get("Content-Security-Policy", "")
+		directives = [d.strip() for d in existing.split(";") if d.strip()]
+		directives = [d for d in directives if not d.startswith("frame-ancestors")]
+		directives.append("frame-ancestors *")
+		response.headers["Content-Security-Policy"] = "; ".join(directives)
+		response.headers.pop("X-Frame-Options", None)
