@@ -1,0 +1,1058 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4001, #FBFAF8)",
+    "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Albert Sans",
+    "minHeight": "100vh",
+    "overflowX": "clip",
+    "width": "100%"
+   },
+   "blockId": "0000b3e5b3",
+   "blockName": "Page",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "0000b3e5ab",
+     "blockName": "Weave Nav",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0000b3e5ac",
+       "blockName": "Brand",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "weave_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "0000b3e580",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0000b3e5ad",
+       "blockName": "Nav Links",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "0000b3e5ae",
+         "blockName": "Nav Story",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "weave_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "0000b3e581",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "0000b3e5af",
+         "blockName": "Nav Contact",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "weave_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "0000b3e582",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "weave_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "0000b3e583",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "weave_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "26px",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "960px",
+      "padding": "108px 24px 96px",
+      "width": "100%"
+     },
+     "blockId": "0000b3e58b",
+     "blockName": "Hero",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+        "fontFamily": "Albert Sans",
+        "fontSize": "11.5px",
+        "fontWeight": "600",
+        "height": "fit-content",
+        "letterSpacing": "0.14em",
+        "lineHeight": "1.5",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e588",
+       "blockName": "Hero Overline",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "p",
+       "innerHTML": "OMBRA STUDIO",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+        "fontFamily": "Spectral",
+        "fontSize": "56px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "letterSpacing": "-0.01em",
+        "lineHeight": "1.3",
+        "maxWidth": "760px",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e589",
+       "blockName": "Hero Statement",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "h1",
+       "innerHTML": "We make <img src=\"https://images.pexels.com/photos/7663203/pexels-photo-7663203.jpeg?auto=compress&cs=tinysrgb&w=400\" alt=\"\" loading=\"lazy\" style=\"display: inline-block; height: 0.72em; width: 1.18em; object-fit: cover; border-radius: 0.36em; vertical-align: -0.08em; margin: 0 0.08em;\"> objects, <img src=\"https://images.pexels.com/photos/7533979/pexels-photo-7533979.jpeg?auto=compress&cs=tinysrgb&w=400\" alt=\"\" loading=\"lazy\" style=\"display: inline-block; height: 0.72em; width: 1.18em; object-fit: cover; border-radius: 0.36em; vertical-align: -0.08em; margin: 0 0.08em;\"> textures and <img src=\"https://images.pexels.com/photos/8543321/pexels-photo-8543321.jpeg?auto=compress&cs=tinysrgb&w=400\" alt=\"\" loading=\"lazy\" style=\"display: inline-block; height: 0.72em; width: 1.18em; object-fit: cover; border-radius: 0.36em; vertical-align: -0.08em; margin: 0 0.08em;\"> rooms for people who notice.",
+       "mobileStyles": {
+        "fontSize": "32px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+        "fontFamily": "Albert Sans",
+        "fontSize": "15.5px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "lineHeight": "1.7",
+        "maxWidth": "460px",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e58a",
+       "blockName": "Hero Sub",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "p",
+       "innerHTML": "A small studio for product, interiors and direction. Started at a kitchen table in Lisbon, still within earshot of one.",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "60px 20px 56px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "960px",
+      "padding": "0 24px 96px",
+      "width": "100%"
+     },
+     "blockId": "0000b3e596",
+     "blockName": "Details",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "56px",
+        "justifyContent": "center",
+        "width": "100%"
+       },
+       "blockId": "0000b3e595",
+       "blockName": "Detail Trio",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "10px"
+         },
+         "blockId": "0000b3e58e",
+         "blockName": "Detail OBJECTS",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.14em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e58c",
+           "blockName": "Detail Label OBJECTS",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "OBJECTS",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "maxWidth": "240px",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e58d",
+           "blockName": "Detail Text OBJECTS",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Furniture, ceramics and lighting, made in editions small enough to sign.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "10px"
+         },
+         "blockId": "0000b3e591",
+         "blockName": "Detail SPACES",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.14em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e58f",
+           "blockName": "Detail Label SPACES",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "SPACES",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "maxWidth": "240px",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e590",
+           "blockName": "Detail Text SPACES",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Homes, shops and one stubborn museum wing, arranged around how people actually move.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "10px"
+         },
+         "blockId": "0000b3e594",
+         "blockName": "Detail STORIES",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.14em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e592",
+           "blockName": "Detail Label STORIES",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "STORIES",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "maxWidth": "240px",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e593",
+           "blockName": "Detail Text STORIES",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Identities and photography for makers who would rather show than shout.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column",
+        "gap": "32px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0 20px 56px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "20px",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "960px",
+      "padding": "0 24px 96px",
+      "width": "100%"
+     },
+     "blockId": "0000b3e599",
+     "blockName": "Second Statement",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+        "fontFamily": "Spectral",
+        "fontSize": "38px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "letterSpacing": "-0.01em",
+        "lineHeight": "1.3",
+        "maxWidth": "760px",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e597",
+       "blockName": "Second Text",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "h2",
+       "innerHTML": "Everything begins <img src=\"https://images.pexels.com/photos/7302418/pexels-photo-7302418.jpeg?auto=compress&cs=tinysrgb&w=400\" alt=\"\" loading=\"lazy\" style=\"display: inline-block; height: 0.72em; width: 1.18em; object-fit: cover; border-radius: 0.36em; vertical-align: -0.08em; margin: 0 0.08em;\"> by hand and ends <img src=\"https://images.pexels.com/photos/4884134/pexels-photo-4884134.jpeg?auto=compress&cs=tinysrgb&w=400\" alt=\"\" loading=\"lazy\" style=\"display: inline-block; height: 0.72em; width: 1.18em; object-fit: cover; border-radius: 0.36em; vertical-align: -0.08em; margin: 0 0.08em;\"> in use.",
+       "mobileStyles": {
+        "fontSize": "26px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+        "fontFamily": "Albert Sans",
+        "fontSize": "15.5px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "lineHeight": "1.7",
+        "maxWidth": "440px",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e598",
+       "blockName": "Second Sub",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "p",
+       "innerHTML": "Nothing we make is finished until someone lives with it. Prototypes leave the studio early and come back with opinions.",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0 20px 56px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "960px",
+      "padding": "0 24px 96px",
+      "width": "100%"
+     },
+     "blockId": "0000b3e5a4",
+     "blockName": "Services",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "borderColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4004, #E9E6DF)",
+        "borderStyle": "solid",
+        "borderWidth": "1px 0 0 0",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "620px",
+        "width": "100%"
+       },
+       "blockId": "0000b3e5a3",
+       "blockName": "Service List",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4004, #E9E6DF)",
+          "borderStyle": "solid",
+          "borderWidth": "0 0 1px 0",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "24px",
+          "justifyContent": "space-between",
+          "padding": "16px 0",
+          "width": "100%"
+         },
+         "blockId": "0000b3e59c",
+         "blockName": "Service Product design",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e59a",
+           "blockName": "Service Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h3",
+           "innerHTML": "Product design",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "textAlign": "right",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e59b",
+           "blockName": "Service Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "From sketch to small-batch production.",
+           "mobileStyles": {
+            "textAlign": "left"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "alignItems": "flex-start",
+          "flexDirection": "column",
+          "gap": "4px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4004, #E9E6DF)",
+          "borderStyle": "solid",
+          "borderWidth": "0 0 1px 0",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "24px",
+          "justifyContent": "space-between",
+          "padding": "16px 0",
+          "width": "100%"
+         },
+         "blockId": "0000b3e59f",
+         "blockName": "Service Interiors",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e59d",
+           "blockName": "Service Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h3",
+           "innerHTML": "Interiors",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "textAlign": "right",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e59e",
+           "blockName": "Service Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Rooms with a point of view and good chairs.",
+           "mobileStyles": {
+            "textAlign": "left"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "alignItems": "flex-start",
+          "flexDirection": "column",
+          "gap": "4px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4004, #E9E6DF)",
+          "borderStyle": "solid",
+          "borderWidth": "0 0 1px 0",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "24px",
+          "justifyContent": "space-between",
+          "padding": "16px 0",
+          "width": "100%"
+         },
+         "blockId": "0000b3e5a2",
+         "blockName": "Service Direction",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e5a0",
+           "blockName": "Service Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h3",
+           "innerHTML": "Direction",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "textAlign": "right",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e5a1",
+           "blockName": "Service Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Brand, photography and the words between.",
+           "mobileStyles": {
+            "textAlign": "left"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "alignItems": "flex-start",
+          "flexDirection": "column",
+          "gap": "4px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0 20px 56px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "1100px",
+      "padding": "0 24px",
+      "width": "100%"
+     },
+     "blockId": "0000b3e5a7",
+     "blockName": "Wide Band",
+     "children": [
+      {
+       "attributes": {
+        "alt": "Afternoon, west wall of the studio",
+        "loading": "lazy",
+        "src": "https://images.pexels.com/photos/28079387/pexels-photo-28079387.jpeg?auto=compress&cs=tinysrgb&w=2000"
+       },
+       "baseStyles": {
+        "borderRadius": "18px",
+        "display": "block",
+        "height": "auto",
+        "objectFit": "cover",
+        "width": "100%"
+       },
+       "blockId": "0000b3e5a5",
+       "blockName": "Band Img",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "img",
+       "mobileStyles": {},
+       "rawStyles": {
+        "aspect-ratio": "21 / 8"
+       },
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+        "fontFamily": "Albert Sans",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "lineHeight": "1.7",
+        "minWidth": "10px",
+        "paddingTop": "12px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e5a6",
+       "blockName": "Band Caption",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "p",
+       "innerHTML": "Afternoon, west wall of the studio",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "18px",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "960px",
+      "padding": "96px 24px 64px",
+      "width": "100%"
+     },
+     "blockId": "0000b3e5aa",
+     "blockName": "CTA",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+        "fontFamily": "Spectral",
+        "fontSize": "38px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "letterSpacing": "-0.01em",
+        "lineHeight": "1.3",
+        "maxWidth": "760px",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e5a8",
+       "blockName": "CTA Text",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "h2",
+       "innerHTML": "Have something <img src=\"https://images.pexels.com/photos/28079387/pexels-photo-28079387.jpeg?auto=compress&cs=tinysrgb&w=400\" alt=\"\" loading=\"lazy\" style=\"display: inline-block; height: 0.72em; width: 1.18em; object-fit: cover; border-radius: 0.36em; vertical-align: -0.08em; margin: 0 0.08em;\"> in mind?",
+       "mobileStyles": {
+        "fontSize": "26px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {
+        "href": "mailto:hello@ombra.studio"
+       },
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+        "fontFamily": "Albert Sans",
+        "fontSize": "17px",
+        "fontWeight": "500",
+        "lineHeight": "1.4",
+        "textDecoration": "none"
+       },
+       "blockId": "0000b3e5a9",
+       "blockName": "Mail Link",
+       "children": [],
+       "classes": [
+        "wv-link"
+       ],
+       "customAttributes": {},
+       "element": "a",
+       "innerHTML": "hello@ombra.studio",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "56px 20px 40px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "0000b3e5b0",
+     "blockName": "Weave Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0000b3e5b1",
+       "blockName": "Foot Line",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "weave_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "0000b3e585",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0000b3e5b2",
+       "blockName": "Foot Small",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "weave_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "0000b3e586",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "weave_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "weave_styles"
+  }
+ ],
+ "creation": "2026-08-13 14:39:38.389090",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "A small studio for product, interiors and direction. Objects, textures and rooms for people who notice.",
+ "modified": "2026-08-13 14:39:38.389090",
+ "modified_by": "Administrator",
+ "name": "weave_home",
+ "owner": "Administrator",
+ "page_name": "weave_home",
+ "page_title": "Ombra · Objects, spaces and stories",
+ "preview": "/builder_assets/weave/weave_home/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/weave/home",
+ "template_group": "weave"
+}
