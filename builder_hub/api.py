@@ -102,22 +102,7 @@ def _get_template_bundle(page: str, base_url: str) -> dict:
 			}
 		)
 
-	variables = [
-		{
-			"doctype": "Builder Variable",
-			"name": v.name,
-			"variable_name": v.variable_name,
-			"type": v.type,
-			"value": v.value,
-			"dark_value": v.dark_value,
-			"group": v.group,
-		}
-		for v in frappe.get_all(
-			"Builder Variable",
-			filters={"group": page_doc.template_group},
-			fields=["name", "variable_name", "type", "value", "dark_value", "group"],
-		)
-	]
+	variables = get_group_variables(page_doc.template_group)
 
 	client_scripts = [
 		{
@@ -163,6 +148,33 @@ def _get_template_bundle(page: str, base_url: str) -> dict:
 		"client_scripts": client_scripts,
 		"fonts": font_docs,
 	}
+
+
+def get_group_variables(group: str) -> list[dict]:
+	"""Rows for the group's design tokens, from whichever doctype this site has
+	(Builder Variable was renamed to Builder Token). Emitted under the old wire
+	name so pre-rename consumers import them as-is; post-rename builders
+	normalize the doctype on their side."""
+	if frappe.db.exists("DocType", "Builder Token"):
+		doctype, name_field = "Builder Token", "token_name"
+	else:
+		doctype, name_field = "Builder Variable", "variable_name"
+	return [
+		{
+			"doctype": "Builder Variable",
+			"name": v.name,
+			"variable_name": v.get(name_field),
+			"type": v.type,
+			"value": v.value,
+			"dark_value": v.dark_value,
+			"group": v.group,
+		}
+		for v in frappe.get_all(
+			doctype,
+			filters={"group": group},
+			fields=["name", name_field, "type", "value", "dark_value", "group"],
+		)
+	]
 
 
 def abs_url(path: str | None) -> str | None:
