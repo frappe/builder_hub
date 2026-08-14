@@ -1,0 +1,3961 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e01, #121210)",
+    "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Inter",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "723974ce6b",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "06fdcf755d",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "2795461d85",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "0758d80ec9",
+         "blockName": "Brand",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "fa3ebff719",
+           "blockName": "Brand T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tempo_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "8f2285e7fb",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "f17cfc6a9b",
+           "blockName": "Brand Slash",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tempo_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ea899f53c9",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "tempo_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "b22c8099e2",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "8d575a554e",
+         "blockName": "Nav Links",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a3e3b6dc4d",
+           "blockName": "Nav Schedule",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tempo_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c4f65dca76",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "744cbaeeea",
+           "blockName": "Nav Join",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tempo_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c204a43cbe",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "ae7793c64d",
+           "blockName": "Nav CTA",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tempo_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "bc22512340",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "tempo_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "abffce4558",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "tempo_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "4801883362",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "tempo_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "80px 40px",
+      "width": "100%"
+     },
+     "blockId": "6ac8d62187",
+     "blockName": "Week",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "20px",
+        "maxWidth": "1200px",
+        "width": "100%"
+       },
+       "blockId": "d47066b254",
+       "blockName": "Wk Head",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "10px",
+          "width": "fit-content"
+         },
+         "blockId": "86fb28785d",
+         "blockName": "Wk Eye",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e03, #D8FF3D)",
+            "flexShrink": 0,
+            "height": "3px",
+            "width": "26px"
+           },
+           "blockId": "80fa16afda",
+           "blockName": "Wk Eye Bar",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e03, #D8FF3D)",
+            "fontFamily": "Inter",
+            "fontSize": "12.5px",
+            "fontWeight": "700",
+            "height": "fit-content",
+            "letterSpacing": "0.22em",
+            "lineHeight": "1.3",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "efb691b03b",
+           "blockName": "Wk Eye T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "span",
+           "innerHTML": "The week",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+          "fontFamily": "Anton",
+          "fontSize": "64px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "0.01em",
+          "lineHeight": "1.02",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "100%"
+         },
+         "blockId": "1bca0837e7",
+         "blockName": "Wk H",
+         "children": [],
+         "classes": [
+          "tm-rise"
+         ],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "Same grid every week.<br>That's a feature.",
+         "mobileStyles": {
+          "fontSize": "38px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "52px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e04, #98988F)",
+          "fontFamily": "Inter",
+          "fontSize": "15.5px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.6",
+          "minWidth": "10px",
+          "width": "560px"
+         },
+         "blockId": "37aba3c413",
+         "blockName": "Wk Sub",
+         "children": [],
+         "classes": [
+          "tm-rise",
+          "tm-d1"
+         ],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Book from the app up to seven days out. Classes cap at twelve; the waitlist actually moves. Open gym is included on every membership.",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "40px",
+        "width": "10px"
+       },
+       "blockId": "9f50cc42d0",
+       "blockName": "Wk Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "maxWidth": "1200px",
+        "width": "100%"
+       },
+       "blockId": "1cdf7231b4",
+       "blockName": "Wk Grid",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "overflowX": "auto",
+          "width": "100%"
+         },
+         "blockId": "fd0aec5ae6",
+         "blockName": "Grid Scroll",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e05, #2B2B27)",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "width": "100%"
+           },
+           "blockId": "4c3b3fea19",
+           "blockName": "Grid Wrap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e06, #1B1B18)",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "width": "100%"
+             },
+             "blockId": "1623c56ef8",
+             "blockName": "Gr Head Row",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 0.7,
+                "flexShrink": 1,
+                "minWidth": "0px",
+                "padding": "12px 10px"
+               },
+               "blockId": "e771deb465",
+               "blockName": "Gr H Time",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "12px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.6",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "ce54cd432f",
+                 "blockName": "Gr H Time T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "12px 10px"
+               },
+               "blockId": "a09f566967",
+               "blockName": "Gr H Mon",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e03, #D8FF3D)",
+                  "fontFamily": "Inter",
+                  "fontSize": "12.5px",
+                  "fontWeight": "700",
+                  "height": "fit-content",
+                  "letterSpacing": "0.14em",
+                  "lineHeight": "1.6",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "5245078604",
+                 "blockName": "Gr H Mon T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Mon",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "12px 10px"
+               },
+               "blockId": "81576bc1b1",
+               "blockName": "Gr H Tue",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e03, #D8FF3D)",
+                  "fontFamily": "Inter",
+                  "fontSize": "12.5px",
+                  "fontWeight": "700",
+                  "height": "fit-content",
+                  "letterSpacing": "0.14em",
+                  "lineHeight": "1.6",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "d1e49594e2",
+                 "blockName": "Gr H Tue T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Tue",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "12px 10px"
+               },
+               "blockId": "db12cdb5c5",
+               "blockName": "Gr H Wed",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e03, #D8FF3D)",
+                  "fontFamily": "Inter",
+                  "fontSize": "12.5px",
+                  "fontWeight": "700",
+                  "height": "fit-content",
+                  "letterSpacing": "0.14em",
+                  "lineHeight": "1.6",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "e67b9b26fd",
+                 "blockName": "Gr H Wed T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Wed",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "12px 10px"
+               },
+               "blockId": "16e3e5807a",
+               "blockName": "Gr H Thu",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e03, #D8FF3D)",
+                  "fontFamily": "Inter",
+                  "fontSize": "12.5px",
+                  "fontWeight": "700",
+                  "height": "fit-content",
+                  "letterSpacing": "0.14em",
+                  "lineHeight": "1.6",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "81c378eb9c",
+                 "blockName": "Gr H Thu T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Thu",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "12px 10px"
+               },
+               "blockId": "e031a2b918",
+               "blockName": "Gr H Fri",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e03, #D8FF3D)",
+                  "fontFamily": "Inter",
+                  "fontSize": "12.5px",
+                  "fontWeight": "700",
+                  "height": "fit-content",
+                  "letterSpacing": "0.14em",
+                  "lineHeight": "1.6",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "7b11ac9d1b",
+                 "blockName": "Gr H Fri T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Fri",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "12px 10px"
+               },
+               "blockId": "25a45b4782",
+               "blockName": "Gr H Sat",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e03, #D8FF3D)",
+                  "fontFamily": "Inter",
+                  "fontSize": "12.5px",
+                  "fontWeight": "700",
+                  "height": "fit-content",
+                  "letterSpacing": "0.14em",
+                  "lineHeight": "1.6",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "28f4a1c496",
+                 "blockName": "Gr H Sat T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Sat",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e05, #2B2B27)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0px 0px 0px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "width": "100%"
+             },
+             "blockId": "153cb6c138",
+             "blockName": "Gr Row 06:00",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 0.7,
+                "flexShrink": 1,
+                "minWidth": "0px",
+                "padding": "16px 10px"
+               },
+               "blockId": "8f6d2942e8",
+               "blockName": "Gr 06:00 T",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Anton",
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.2",
+                  "width": "fit-content"
+                 },
+                 "blockId": "afbbffaef9",
+                 "blockName": "Gr 06:00 TT",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "06:00",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "d7690cb5ec",
+               "blockName": "Gr 06:00 Mon",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "6a805148d3",
+                 "blockName": "Gr 06:00 Mon T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Strength",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "19c0dd6cfa",
+               "blockName": "Gr 06:00 Tue",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "8c97a889f5",
+                 "blockName": "Gr 06:00 Tue T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Engine",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "3beac1ce23",
+               "blockName": "Gr 06:00 Wed",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "fb3287e1fa",
+                 "blockName": "Gr 06:00 Wed T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Strength",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "4b8a4507bf",
+               "blockName": "Gr 06:00 Thu",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "a2cc0e04ce",
+                 "blockName": "Gr 06:00 Thu T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Engine",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "79041253a8",
+               "blockName": "Gr 06:00 Fri",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "ded514eb9c",
+                 "blockName": "Gr 06:00 Fri T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Strength",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "ccd8a90158",
+               "blockName": "Gr 06:00 Sat",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e05, #2B2B27)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "e2e8e4b110",
+                 "blockName": "Gr 06:00 Sat T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "–",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e05, #2B2B27)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0px 0px 0px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "width": "100%"
+             },
+             "blockId": "0baeee3bcd",
+             "blockName": "Gr Row 07:15",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 0.7,
+                "flexShrink": 1,
+                "minWidth": "0px",
+                "padding": "16px 10px"
+               },
+               "blockId": "ebdb020e48",
+               "blockName": "Gr 07:15 T",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Anton",
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.2",
+                  "width": "fit-content"
+                 },
+                 "blockId": "5ba8edf716",
+                 "blockName": "Gr 07:15 TT",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "07:15",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "a0298abd78",
+               "blockName": "Gr 07:15 Mon",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "996e87c500",
+                 "blockName": "Gr 07:15 Mon T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Engine",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "c00a1eb858",
+               "blockName": "Gr 07:15 Tue",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "49678be9a6",
+                 "blockName": "Gr 07:15 Tue T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Strength",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "4b21c18bc9",
+               "blockName": "Gr 07:15 Wed",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "0d301d102e",
+                 "blockName": "Gr 07:15 Wed T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Engine",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "2d5ebe259e",
+               "blockName": "Gr 07:15 Thu",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "03629f4603",
+                 "blockName": "Gr 07:15 Thu T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Strength",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "4250eb77f8",
+               "blockName": "Gr 07:15 Fri",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "2fa5e3bcf6",
+                 "blockName": "Gr 07:15 Fri T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Engine",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "b93f979e05",
+               "blockName": "Gr 07:15 Sat",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "1f74a4eebb",
+                 "blockName": "Gr 07:15 Sat T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Barbell",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e05, #2B2B27)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0px 0px 0px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "width": "100%"
+             },
+             "blockId": "26ba0c3990",
+             "blockName": "Gr Row 12:15",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 0.7,
+                "flexShrink": 1,
+                "minWidth": "0px",
+                "padding": "16px 10px"
+               },
+               "blockId": "ed0d2a4a74",
+               "blockName": "Gr 12:15 T",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Anton",
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.2",
+                  "width": "fit-content"
+                 },
+                 "blockId": "fd5294c372",
+                 "blockName": "Gr 12:15 TT",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "12:15",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "1b782d0764",
+               "blockName": "Gr 12:15 Mon",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "2fadbfd61e",
+                 "blockName": "Gr 12:15 Mon T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Strength",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "2a9e87f6cd",
+               "blockName": "Gr 12:15 Tue",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "c0af4a23d0",
+                 "blockName": "Gr 12:15 Tue T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Strength",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "2c18dc71cd",
+               "blockName": "Gr 12:15 Wed",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "4ed66e2211",
+                 "blockName": "Gr 12:15 Wed T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Engine",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "0689a1b0f4",
+               "blockName": "Gr 12:15 Thu",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "73b43de1ac",
+                 "blockName": "Gr 12:15 Thu T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Strength",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "a9b0a74139",
+               "blockName": "Gr 12:15 Fri",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "5b0442b1ba",
+                 "blockName": "Gr 12:15 Fri T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Engine",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "6ed3e53db3",
+               "blockName": "Gr 12:15 Sat",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "9bad353c7c",
+                 "blockName": "Gr 12:15 Sat T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Open gym",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e05, #2B2B27)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0px 0px 0px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "width": "100%"
+             },
+             "blockId": "5b5e284ef5",
+             "blockName": "Gr Row 17:30",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 0.7,
+                "flexShrink": 1,
+                "minWidth": "0px",
+                "padding": "16px 10px"
+               },
+               "blockId": "7422dbacfd",
+               "blockName": "Gr 17:30 T",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Anton",
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.2",
+                  "width": "fit-content"
+                 },
+                 "blockId": "efb5094631",
+                 "blockName": "Gr 17:30 TT",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "17:30",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "e51c84a03d",
+               "blockName": "Gr 17:30 Mon",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "0fdabc5564",
+                 "blockName": "Gr 17:30 Mon T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Foundations",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "045267d790",
+               "blockName": "Gr 17:30 Tue",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "2298da3dfe",
+                 "blockName": "Gr 17:30 Tue T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Strength",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "d9da391589",
+               "blockName": "Gr 17:30 Wed",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "c942d889a5",
+                 "blockName": "Gr 17:30 Wed T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Foundations",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "4562c580cb",
+               "blockName": "Gr 17:30 Thu",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "e60aaddd23",
+                 "blockName": "Gr 17:30 Thu T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Strength",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "99c5b4c27a",
+               "blockName": "Gr 17:30 Fri",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "8952a59c2a",
+                 "blockName": "Gr 17:30 Fri T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Barbell",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "25728fc995",
+               "blockName": "Gr 17:30 Sat",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e05, #2B2B27)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "16488a3d64",
+                 "blockName": "Gr 17:30 Sat T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "–",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e05, #2B2B27)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0px 0px 0px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "width": "100%"
+             },
+             "blockId": "aa31cb87f4",
+             "blockName": "Gr Row 18:45",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 0.7,
+                "flexShrink": 1,
+                "minWidth": "0px",
+                "padding": "16px 10px"
+               },
+               "blockId": "5d07d50a8d",
+               "blockName": "Gr 18:45 T",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Anton",
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.2",
+                  "width": "fit-content"
+                 },
+                 "blockId": "57e0e394fe",
+                 "blockName": "Gr 18:45 TT",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "18:45",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "e9537d45b3",
+               "blockName": "Gr 18:45 Mon",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "735fe8490e",
+                 "blockName": "Gr 18:45 Mon T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Strength",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "3c5b939d83",
+               "blockName": "Gr 18:45 Tue",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "85f986de98",
+                 "blockName": "Gr 18:45 Tue T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Engine",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "1fdf0554d5",
+               "blockName": "Gr 18:45 Wed",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "3466daf210",
+                 "blockName": "Gr 18:45 Wed T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Strength",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "b51206c0ff",
+               "blockName": "Gr 18:45 Thu",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "633e1ea91f",
+                 "blockName": "Gr 18:45 Thu T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Engine",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "8c158e08d2",
+               "blockName": "Gr 18:45 Fri",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "5b81b0670c",
+                 "blockName": "Gr 18:45 Fri T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Open gym",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "tm-cell"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "justifyContent": "center",
+                "minWidth": "0px",
+                "padding": "16px 8px"
+               },
+               "blockId": "2a08da2390",
+               "blockName": "Gr 18:45 Sat",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e05, #2B2B27)",
+                  "fontFamily": "Inter",
+                  "fontSize": "13px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "textAlign": "center",
+                  "width": "fit-content"
+                 },
+                 "blockId": "780847b915",
+                 "blockName": "Gr 18:45 Sat T",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "–",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "tm-rise"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {
+            "min-width": "640px"
+           },
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "16px",
+        "width": "10px"
+       },
+       "blockId": "5271332ec5",
+       "blockName": "Wk Gap 2",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "maxWidth": "1200px",
+        "width": "100%"
+       },
+       "blockId": "cbfa2fb065",
+       "blockName": "Wk Note",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e04, #98988F)",
+          "fontFamily": "Inter",
+          "fontSize": "12.5px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.6",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "80d5898100",
+         "blockName": "Wk Note T",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Mobile tip: the grid scrolls sideways on small screens, like all good spreadsheets.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "60px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "84px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "borderColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e05, #2B2B27)",
+      "borderStyle": "solid",
+      "borderWidth": "1px 0px 0px 0px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "104px 40px",
+      "width": "100%"
+     },
+     "blockId": "528b9a8e54",
+     "blockName": "Formats",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "18px",
+        "maxWidth": "1200px",
+        "width": "100%"
+       },
+       "blockId": "772fac3d6d",
+       "blockName": "Fm Head",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "10px",
+          "width": "fit-content"
+         },
+         "blockId": "fae80cf88d",
+         "blockName": "Fm Eye",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e03, #D8FF3D)",
+            "flexShrink": 0,
+            "height": "3px",
+            "width": "26px"
+           },
+           "blockId": "88b85da548",
+           "blockName": "Fm Eye Bar",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e03, #D8FF3D)",
+            "fontFamily": "Inter",
+            "fontSize": "12.5px",
+            "fontWeight": "700",
+            "height": "fit-content",
+            "letterSpacing": "0.22em",
+            "lineHeight": "1.3",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "24c103a578",
+           "blockName": "Fm Eye T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "span",
+           "innerHTML": "What the names mean",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+          "fontFamily": "Anton",
+          "fontSize": "54px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "0.01em",
+          "lineHeight": "1.02",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "100%"
+         },
+         "blockId": "a5fc53b4c2",
+         "blockName": "Fm H",
+         "children": [],
+         "classes": [
+          "tm-rise"
+         ],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "Decode the grid",
+         "mobileStyles": {
+          "fontSize": "34px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "44px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "28px",
+        "width": "10px"
+       },
+       "blockId": "3fa1ff2334",
+       "blockName": "Fm Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "maxWidth": "1200px",
+        "width": "100%"
+       },
+       "blockId": "956354cdd9",
+       "blockName": "Fm Rows",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e05, #2B2B27)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "36px",
+          "padding": "36px 0px",
+          "width": "100%"
+         },
+         "blockId": "1dd13b7701",
+         "blockName": "Fmt Strength",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "flexBasis": "0px",
+            "flexGrow": 0.9,
+            "flexShrink": 1,
+            "minWidth": "0px",
+            "overflow": "hidden",
+            "position": "relative",
+            "width": "auto"
+           },
+           "blockId": "6da6896b34",
+           "blockName": "Fmt Strength P",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Fmt Strength P",
+              "loading": "lazy",
+              "src": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1600&q=70&fm=webp&fit=crop"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "b7ce6295c2",
+             "blockName": "Fmt Strength P Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "16 / 10",
+              "filter": "grayscale(1) contrast(1.12) brightness(0.94)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto",
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "10px",
+            "justifyContent": "center",
+            "minWidth": "0px"
+           },
+           "blockId": "f531a82c74",
+           "blockName": "Fmt Strength Body",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "flexWrap": "wrap",
+              "gap": "8px 16px",
+              "width": "100%"
+             },
+             "blockId": "97e80c9a0b",
+             "blockName": "Fmt Strength Row",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                "fontFamily": "Anton",
+                "fontSize": "30px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.02em",
+                "lineHeight": "1.1",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "da5a816697",
+               "blockName": "Fmt Strength T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "h3",
+               "innerHTML": "Strength",
+               "mobileStyles": {
+                "fontSize": "24px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e03, #D8FF3D)",
+                "fontFamily": "Inter",
+                "fontSize": "12px",
+                "fontWeight": "700",
+                "height": "fit-content",
+                "letterSpacing": "0.08em",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "8b1ec045fc",
+               "blockName": "Fmt Strength W",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "60 min · all levels",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e04, #98988F)",
+              "fontFamily": "Inter",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.6",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "9840480d1e",
+             "blockName": "Fmt Strength B",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The flagship. One main lift taken heavy, two builders, coached the whole way. Numbers go on the whiteboard; nobody reads them but you.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "tm-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "18px",
+          "padding": "26px 0px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e05, #2B2B27)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "36px",
+          "padding": "36px 0px",
+          "width": "100%"
+         },
+         "blockId": "49def4d289",
+         "blockName": "Fmt Engine",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "flexBasis": "0px",
+            "flexGrow": 0.9,
+            "flexShrink": 1,
+            "minWidth": "0px",
+            "overflow": "hidden",
+            "position": "relative",
+            "width": "auto"
+           },
+           "blockId": "f7389d328f",
+           "blockName": "Fmt Engine P",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Fmt Engine P",
+              "loading": "lazy",
+              "src": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1600&q=70&fm=webp&fit=crop"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "bbfb57a584",
+             "blockName": "Fmt Engine P Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "16 / 10",
+              "filter": "grayscale(1) contrast(1.12) brightness(0.94)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto",
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "10px",
+            "justifyContent": "center",
+            "minWidth": "0px"
+           },
+           "blockId": "5e067e9ee3",
+           "blockName": "Fmt Engine Body",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "flexWrap": "wrap",
+              "gap": "8px 16px",
+              "width": "100%"
+             },
+             "blockId": "8f9d20a3b2",
+             "blockName": "Fmt Engine Row",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                "fontFamily": "Anton",
+                "fontSize": "30px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.02em",
+                "lineHeight": "1.1",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "e5f914288c",
+               "blockName": "Fmt Engine T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "h3",
+               "innerHTML": "Engine",
+               "mobileStyles": {
+                "fontSize": "24px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e03, #D8FF3D)",
+                "fontFamily": "Inter",
+                "fontSize": "12px",
+                "fontWeight": "700",
+                "height": "fit-content",
+                "letterSpacing": "0.08em",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "6623abcfe1",
+               "blockName": "Fmt Engine W",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "45 min · all levels",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e04, #98988F)",
+              "fontFamily": "Inter",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.6",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "0bc7194e82",
+             "blockName": "Fmt Engine B",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Intervals on rowers, bikes, sleds and your own two legs. Scaled to your pace, not the person's next to you. You finish tired, not wrecked.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "tm-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "18px",
+          "padding": "26px 0px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e05, #2B2B27)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "36px",
+          "padding": "36px 0px",
+          "width": "100%"
+         },
+         "blockId": "cbee66a4e9",
+         "blockName": "Fmt Barbell Club",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "flexBasis": "0px",
+            "flexGrow": 0.9,
+            "flexShrink": 1,
+            "minWidth": "0px",
+            "overflow": "hidden",
+            "position": "relative",
+            "width": "auto"
+           },
+           "blockId": "0b1716d7fc",
+           "blockName": "Fmt Barbell Club P",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Fmt Barbell Club P",
+              "loading": "lazy",
+              "src": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=1600&q=70&fm=webp&fit=crop"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "6c72ce6b0e",
+             "blockName": "Fmt Barbell Club P Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "16 / 10",
+              "filter": "grayscale(1) contrast(1.12) brightness(0.94)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto",
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "10px",
+            "justifyContent": "center",
+            "minWidth": "0px"
+           },
+           "blockId": "be5189f037",
+           "blockName": "Fmt Barbell Club Body",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "flexWrap": "wrap",
+              "gap": "8px 16px",
+              "width": "100%"
+             },
+             "blockId": "c513730d1a",
+             "blockName": "Fmt Barbell Club Row",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                "fontFamily": "Anton",
+                "fontSize": "30px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.02em",
+                "lineHeight": "1.1",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "686a9f8355",
+               "blockName": "Fmt Barbell Club T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "h3",
+               "innerHTML": "Barbell Club",
+               "mobileStyles": {
+                "fontSize": "24px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e03, #D8FF3D)",
+                "fontFamily": "Inter",
+                "fontSize": "12px",
+                "fontWeight": "700",
+                "height": "fit-content",
+                "letterSpacing": "0.08em",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "9ef60f01f3",
+               "blockName": "Fmt Barbell Club W",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "90 min · by invitation of your squat",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e04, #98988F)",
+              "fontFamily": "Inter",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.6",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "57a0464c0d",
+             "blockName": "Fmt Barbell Club B",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Olympic lifting in slow motion: positions, then speed, then kilos. The most patient room in the building.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "tm-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "18px",
+          "padding": "26px 0px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e05, #2B2B27)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "36px",
+          "padding": "36px 0px",
+          "width": "100%"
+         },
+         "blockId": "7b175edf4a",
+         "blockName": "Fmt Foundations",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "flexBasis": "0px",
+            "flexGrow": 0.9,
+            "flexShrink": 1,
+            "minWidth": "0px",
+            "overflow": "hidden",
+            "position": "relative",
+            "width": "auto"
+           },
+           "blockId": "066d555e5a",
+           "blockName": "Fmt Foundations P",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Fmt Foundations P",
+              "loading": "lazy",
+              "src": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?w=1600&q=70&fm=webp&fit=crop"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "07c8abf98d",
+             "blockName": "Fmt Foundations P Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "16 / 10",
+              "filter": "grayscale(1) contrast(1.12) brightness(0.94)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto",
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "10px",
+            "justifyContent": "center",
+            "minWidth": "0px"
+           },
+           "blockId": "a019235e83",
+           "blockName": "Fmt Foundations Body",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "flexWrap": "wrap",
+              "gap": "8px 16px",
+              "width": "100%"
+             },
+             "blockId": "19fc235472",
+             "blockName": "Fmt Foundations Row",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e02, #F4F4F0)",
+                "fontFamily": "Anton",
+                "fontSize": "30px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.02em",
+                "lineHeight": "1.1",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "680a8e5fa6",
+               "blockName": "Fmt Foundations T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "h3",
+               "innerHTML": "Foundations",
+               "mobileStyles": {
+                "fontSize": "24px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e03, #D8FF3D)",
+                "fontFamily": "Inter",
+                "fontSize": "12px",
+                "fontWeight": "700",
+                "height": "fit-content",
+                "letterSpacing": "0.08em",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "62f3613393",
+               "blockName": "Fmt Foundations W",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "60 min · new members",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a8c1d6e3-9b52-4d40-1e0f-2c6b9a3d5e04, #98988F)",
+              "fontFamily": "Inter",
+              "fontSize": "14.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.6",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "2cf5fe7d62",
+             "blockName": "Fmt Foundations B",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Four weeks, eight sessions, the nine lifts. Graduate into any class knowing exactly what you're doing. Included in every membership.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "tm-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "18px",
+          "padding": "26px 0px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "60px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "84px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "66a402d97c",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "f4c95cb189",
+       "blockName": "Footer Inner",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "2ed2cf48ec",
+         "blockName": "F Word Row",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "2c8abc7165",
+           "blockName": "F Word",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tempo_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "b897dc1ce8",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "067a6b2f9a",
+           "blockName": "F Tag",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tempo_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "89a3fb26b7",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "tempo_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "1b72573511",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "b7cccca911",
+         "blockName": "F Cols",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "36f856f72a",
+           "blockName": "F Col Visit",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "40d9ec8f66",
+             "blockName": "FC Visit T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tempo_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "da36fbee50",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "6a56eb7275",
+             "blockName": "FC Visit 18 Foundry Lane, unit 4",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tempo_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "a44e044040",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "dbfd54ea12",
+             "blockName": "FC Visit Doors 06:00–21:30",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tempo_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "bcbcf16d47",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tempo_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "4c88dbf952",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "5e3d5192b0",
+           "blockName": "F Col Train",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "ef15e08f65",
+             "blockName": "FC Train T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tempo_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "c87303772b",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "0268863d8c",
+             "blockName": "FC Train The schedule",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tempo_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "ca404c76f4",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "6dbba7a676",
+             "blockName": "FC Train Memberships",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tempo_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "017273293c",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "d5227365ae",
+             "blockName": "FC Train First class free",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tempo_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "17c4b138a9",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tempo_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ece3382600",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "7803330ab3",
+           "blockName": "F Col Talk",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "968465fd73",
+             "blockName": "FC Talk T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tempo_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "136f1a17c2",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "6626ee685a",
+             "blockName": "FC Talk front@tempo.club",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tempo_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "10f098101b",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "be8526f8d8",
+             "blockName": "FC Talk (555) 016-2288",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tempo_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "f47fb65fb1",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tempo_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "a35e0d0cd5",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "41f6276f1d",
+           "blockName": "F Col Small print",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "2f9bb6ac69",
+             "blockName": "FC Small print T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tempo_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "05cd78149e",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "268a9b7d86",
+             "blockName": "FC Small print © 2026 Tempo Strength Club",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tempo_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "cc4675174d",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "eb77c3a8e9",
+             "blockName": "FC Small print Chalk is included",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tempo_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "1d27e64486",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tempo_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "547126bd14",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "tempo_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "a3385b0c13",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "tempo_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "1639ba7d33",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "tempo_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "tempo_styles"
+  },
+  {
+   "builder_script": "tempo_motion"
+  }
+ ],
+ "creation": "2026-07-21 13:26:12.959842",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "The weekly class grid, same every week on purpose, plus what Strength, Engine, Barbell Club and Foundations actually mean.",
+ "modified": "2026-07-21 13:26:12.959842",
+ "modified_by": "Administrator",
+ "name": "tempo_schedule",
+ "owner": "Administrator",
+ "page_name": "tempo_schedule",
+ "page_title": "The week · Tempo",
+ "preview": "/builder_assets/tempo/tempo_schedule/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/tempo/schedule",
+ "template_group": "tempo"
+}

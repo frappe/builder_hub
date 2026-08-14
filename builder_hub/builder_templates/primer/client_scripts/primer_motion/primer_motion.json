@@ -1,0 +1,12 @@
+{
+ "creation": "2026-08-12 22:44:08.620003",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-08-12 22:44:08.620003",
+ "modified_by": "Administrator",
+ "name": "primer_motion",
+ "owner": "Administrator",
+ "script": "\n(() => {\n  const arm = () => {\n    const html = document.documentElement;\n    html.classList.add(\"pr-js\");\n\n    document.querySelectorAll(\".pr-tabs\").forEach((tabs) => {\n      const buttons = Array.from(tabs.querySelectorAll(\".pr-tab\"));\n      const scope = tabs.closest(\".pr-tabwrap\") || document;\n      const panes = Array.from(scope.querySelectorAll(\".pr-tabpanel\"));\n      const select = (index) => {\n        buttons.forEach((btn, i) =>\n          btn.setAttribute(\"aria-selected\", i === index ? \"true\" : \"false\"));\n        panes.forEach((pane, i) => pane.classList.toggle(\"pr-active\", i === index));\n      };\n      buttons.forEach((btn, i) => btn.addEventListener(\"click\", () => select(i)));\n      select(0);\n    });\n\n    if (window.matchMedia(\"(prefers-reduced-motion: reduce)\").matches) return;\n    html.classList.add(\"pr-motion\");\n    const io = new IntersectionObserver((entries) => {\n      for (const entry of entries) {\n        if (!entry.isIntersecting) continue;\n        entry.target.classList.add(\"pr-in\");\n        io.unobserve(entry.target);\n      }\n    }, { threshold: 0.08, rootMargin: \"0px 0px -6% 0px\" });\n    document.querySelectorAll(\".pr-rise\").forEach((el) => io.observe(el));\n  };\n  if (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", arm);\n  } else {\n    arm();\n  }\n})();\n",
+ "script_type": "JavaScript"
+}

@@ -1,0 +1,12 @@
+{
+ "creation": "2026-07-20 18:18:36.569036",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-07-20 18:18:36.569036",
+ "modified_by": "Administrator",
+ "name": "gambit_motion",
+ "owner": "Administrator",
+ "script": "\n(() => {\n    if (window.matchMedia(\"(prefers-reduced-motion: reduce)\").matches) return;\n    const arm = () => {\n        document.documentElement.classList.add(\"gb-js\");\n        const io = new IntersectionObserver((entries) => {\n            for (const entry of entries) {\n                if (!entry.isIntersecting) continue;\n                entry.target.classList.add(\"gb-in\");\n                io.unobserve(entry.target);\n            }\n        }, { threshold: 0.1, rootMargin: \"0px 0px -6% 0px\" });\n        document.querySelectorAll(\".gb-rise\").forEach((el) => io.observe(el));\n    };\n    if (document.readyState === \"loading\") {\n        document.addEventListener(\"DOMContentLoaded\", arm);\n    } else {\n        arm();\n    }\n})();\n",
+ "script_type": "JavaScript"
+}

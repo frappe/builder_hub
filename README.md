@@ -11,7 +11,7 @@ sharing a set of Builder Components and Variables. Groups are bundled as fixture
 
 ## Templates
 
-Thirty multi-page template groups. Each group owns a distinct structural
+Forty multi-page template groups. Each group owns a distinct structural
 archetype and shares a navbar/footer, palette (as Builder Variables) and client
 scripts across its pages. Themed groups ship a light/dark toggle; single-theme
 groups (dark posters, paper zines) are one look by design.
@@ -32,6 +32,9 @@ per-template briefs.
 | **Candor**<br>A statement-first advisory site: one color, giant serif, a fee table, no photos.<br><sub>Pages: Home · Work · Start</sub> | <img src="builder_hub/www/builder_assets/candor/candor_home/preview.webp" width="360"> |
 | **Recipe**<br>An agency as recipe cards: ruled index cards, chef's notes, a tear-off coupon.<br><sub>Pages: Home · Menu · Kitchen</sub> | <img src="builder_hub/www/builder_assets/recipe/recipe_home/preview.webp" width="360"> |
 | **Fetch**<br>A playful one-product site: rounded color blocks, big dog photos, forever guarantee.<br><sub>Pages: Home · Collar · Help</sub> | <img src="builder_hub/www/builder_assets/fetch/fetch_home/preview.webp" width="360"> |
+| **Groove**<br>A vinyl label where the record spins as you scroll: tonearm progress, ejecting sleeves, a runout-groove footer.<br><sub>Pages: Home · The crate · B-side</sub> | <img src="builder_hub/www/builder_assets/groove/groove_home/preview.webp" width="360"> |
+| **Gambit**<br>A strategy advisory as an annotated chess game: score-sheet moves, board diagrams, engine-eval results.<br><sub>Pages: Home · Openings · The club</sub> | <img src="builder_hub/www/builder_assets/gambit/gambit_home/preview.webp" width="360"> |
+| **Counsel**<br>A quiet law firm in ivory and serif: numbered practice index, outcomes band, partners who answer the phone.<br><sub>Pages: Home · Practice · Enquire · Also in: Local business</sub> | <img src="builder_hub/www/builder_assets/counsel/counsel_home/preview.webp" width="360"> |
 
 ### Portfolio
 
@@ -64,6 +67,12 @@ per-template briefs.
 | **Lull**<br>A soft wellness studio with an arch photo hero and a weekly schedule.<br><sub>Pages: Home · Classes · Visit</sub> | <img src="builder_hub/www/builder_assets/lull/lull_home/preview.webp" width="360"> |
 | **Nook**<br>A photo first boutique stay with full screen room chapters.<br><sub>Pages: Home · Rooms · Visit</sub> | <img src="builder_hub/www/builder_assets/nook/nook_home/preview.webp" width="360"> |
 | **Keys**<br>A property agency in an app shell, with listings as rows.<br><sub>Pages: Listings · Property · Viewings</sub> | <img src="builder_hub/www/builder_assets/keys/keys_listings/preview.webp" width="360"> |
+| **Optic**<br>An optician built as an eye chart: shrinking Snellen hero, blur-to-focus reveals, CSS-drawn frames, a prescription pad.<br><sub>Pages: Home · Exam · Visit</sub> | <img src="builder_hub/www/builder_assets/optic/optic_home/preview.webp" width="360"> |
+| **Rivet**<br>A modern trades contractor: safety-orange accents, grayscale job photography, honest fixed pricing, a 24/7 emergency strip.<br><sub>Pages: Home · Services · Book · Also in: Marketing</sub> | <img src="builder_hub/www/builder_assets/rivet/rivet_home/preview.webp" width="360"> |
+| **Enamel**<br>A calm dental practice: warm cream and clinical blue, published fees, a minute-by-minute first visit for nervous patients.<br><sub>Pages: Home · Treatments · Visit</sub> | <img src="builder_hub/www/builder_assets/enamel/enamel_home/preview.webp" width="360"> |
+| **Tempo**<br>A strength studio in near-black and volt: Anton caps, duotone photography, a real weekly class grid, no dark patterns.<br><sub>Pages: Home · Schedule · Join</sub> | <img src="builder_hub/www/builder_assets/tempo/tempo_home/preview.webp" width="360"> |
+| **Spruce**<br>A home cleaning service: checklist motif with ticks that draw in, published flat rates, a 48-hour guarantee.<br><sub>Pages: Home · Cleans & rates · Quote</sub> | <img src="builder_hub/www/builder_assets/spruce/spruce_home/preview.webp" width="360"> |
+| **Align**<br>A physiotherapy clinic in warm bone and clay: condition-first cards, a four-stage recovery arc, fees priced to discharge you.<br><sub>Pages: Home · Care · Visit</sub> | <img src="builder_hub/www/builder_assets/align/align_home/preview.webp" width="360"> |
 
 ### Fashion
 
@@ -75,12 +84,20 @@ per-template briefs.
 | **Denim**<br>A loud streetwear drop site with thick borders, tickers and price stickers.<br><sub>Pages: Home · Drops · Story · Stockists · Also in: Marketing</sub> | <img src="builder_hub/www/builder_assets/denim/denim_home/preview.webp" width="360"> |
 | **Pleat**<br>An editorial lookbook shot as magazine spreads with folio bars.<br><sub>Pages: Home · Looks · Studio · Also in: Editorial</sub> | <img src="builder_hub/www/builder_assets/pleat/pleat_home/preview.webp" width="360"> |
 
+### Food & Beverage
+
+| Template | Preview |
+|---|---|
+| **Ember**<br>A dark wood-fire tasting room: hearth-lit photography, a framed menu card and scroll-reveal motion.<br><sub>Pages: Home · Menu · About · Contact</sub> | <img src="builder_hub/www/builder_assets/ember/ember_home/preview.webp" width="360"> |
+| **Chit**<br>A coffee bar where every page is a till receipt: print-feed hero, dotted prices, a punch card, barcode stubs.<br><sub>Pages: Home · Menu · Visit</sub> | <img src="builder_hub/www/builder_assets/chit/chit_home/preview.webp" width="360"> |
+
 ### Technology
 
 | Template | Preview |
 |---|---|
 | **Encore**<br>A SaaS site staged as a product keynote: spotlight, demo, reveals, one more thing.<br><sub>Pages: Home · Pricing · Backstage · Also in: Marketing</sub> | <img src="builder_hub/www/builder_assets/encore/encore_home/preview.webp" width="360"> |
 | **Aurora**<br>A dark, glowing SaaS landing: gradient hero, glass bento grid, testimonial wall.<br><sub>Pages: Home · Pricing · Contact · Also in: Marketing</sub> | <img src="builder_hub/www/builder_assets/aurora/aurora_home/preview.webp" width="360"> |
+| **Uptime**<br>A managed IT services firm in deep slate and status green: live uptime bar, SLA stats, partner wall, per-seat pricing.<br><sub>Pages: Home · Services · Partners · Also in: Marketing</sub> | <img src="builder_hub/www/builder_assets/uptime/uptime_home/preview.webp" width="360"> |
 
 ## How it works
 

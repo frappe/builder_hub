@@ -1,0 +1,2813 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e01, #FFFFFF)",
+    "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Schibsted Grotesk",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "e1a93e9fb1",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "f67864c555",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "af5cec9825",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "576a8c3f77",
+         "blockName": "Brand",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "706f0996ba",
+           "blockName": "Brand Mark",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "cbc21e133f",
+             "blockName": "Brand Pupil",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "optic_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "43f2c98b9b",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "5db4d4339e",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "83231b140e",
+           "blockName": "Brand Name",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ef1e7e2942",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "optic_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "41bb5dd93a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "11d6022746",
+         "blockName": "Nav Links",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "4a1693fc9d",
+           "blockName": "Nav Eye exams",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "cc6f07bd58",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a5a160301c",
+           "blockName": "Nav Visit",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "fa6c024386",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "b94d6c7f63",
+           "blockName": "Nav CTA",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "dada60dff9",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "optic_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "fb71a57204",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "optic_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "860bcacca5",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "optic_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "72px 0px 96px 0px",
+      "width": "100%"
+     },
+     "blockId": "83aabaeeab",
+     "blockName": "Chart Hero",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "880px",
+        "padding": "0px 48px",
+        "width": "100%"
+       },
+       "blockId": "d57d640f26",
+       "blockName": "Chart Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "justifyContent": "space-between",
+          "marginBottom": "36px",
+          "width": "100%"
+         },
+         "blockId": "c5c658f7df",
+         "blockName": "Chart Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+            "fontFamily": "IBM Plex Mono",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.2em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "4b466ba277",
+           "blockName": "Chart Label",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Chart 1 · Read from the top",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+            "fontFamily": "IBM Plex Mono",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.2em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "8d6e0d89c8",
+           "blockName": "Chart Distance",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Distance: wherever you are",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "op-focus"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "26px",
+          "width": "100%"
+         },
+         "blockId": "0da3b97084",
+         "blockName": "Chart Rows",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "20px",
+            "justifyContent": "center",
+            "width": "100%"
+           },
+           "blockId": "75d76c8d71",
+           "blockName": "Chart Row 1",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "8d17dbed59",
+             "blockName": "CR Num 1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "1",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "flexShrink": 1,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "170px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.15",
+              "minWidth": "10px",
+              "textAlign": "center",
+              "width": "fit-content"
+             },
+             "blockId": "c159b0427d",
+             "blockName": "CR Letters 1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "L",
+             "mobileStyles": {
+              "fontSize": "96px",
+              "letterSpacing": "0.1em"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "28bb7cf727",
+             "blockName": "CR Acuity 1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "20/200",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus",
+            "op-d1"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "20px",
+            "justifyContent": "center",
+            "width": "100%"
+           },
+           "blockId": "b7eda335ba",
+           "blockName": "Chart Row 2",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "f84cec608f",
+             "blockName": "CR Num 2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "2",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "flexShrink": 1,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "108px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.15",
+              "minWidth": "10px",
+              "textAlign": "center",
+              "width": "fit-content"
+             },
+             "blockId": "b889575070",
+             "blockName": "CR Letters 2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "OO",
+             "mobileStyles": {
+              "fontSize": "64px",
+              "letterSpacing": "0.1em"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "abbfb0026c",
+             "blockName": "CR Acuity 2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "20/100",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus",
+            "op-d2"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "20px",
+            "justifyContent": "center",
+            "width": "100%"
+           },
+           "blockId": "1ba2472767",
+           "blockName": "Chart Row 3",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "07be9d0b19",
+             "blockName": "CR Num 3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "3",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "flexShrink": 1,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "72px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.15",
+              "minWidth": "10px",
+              "textAlign": "center",
+              "width": "fit-content"
+             },
+             "blockId": "c307b55bec",
+             "blockName": "CR Letters 3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "K CLO",
+             "mobileStyles": {
+              "fontSize": "44px",
+              "letterSpacing": "0.1em"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "dcbb6b844f",
+             "blockName": "CR Acuity 3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "20/70",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus",
+            "op-d3"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "20px",
+            "justifyContent": "center",
+            "width": "100%"
+           },
+           "blockId": "ad8b96166d",
+           "blockName": "Chart Row 4",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "24a897e3df",
+             "blockName": "CR Num 4",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "4",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "flexShrink": 1,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "46px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.15",
+              "minWidth": "10px",
+              "textAlign": "center",
+              "width": "fit-content"
+             },
+             "blockId": "73c9849fc0",
+             "blockName": "CR Letters 4",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "SELY NOW",
+             "mobileStyles": {
+              "fontSize": "30px",
+              "letterSpacing": "0.1em"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "61f84de158",
+             "blockName": "CR Acuity 4",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "20/50",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus",
+            "op-d4"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "20px",
+            "justifyContent": "center",
+            "width": "100%"
+           },
+           "blockId": "d0a53f5203",
+           "blockName": "Chart Row 5",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "7f69356588",
+             "blockName": "CR Num 5",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "5",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "flexShrink": 1,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "30px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.15",
+              "minWidth": "10px",
+              "textAlign": "center",
+              "width": "fit-content"
+             },
+             "blockId": "33c56012c7",
+             "blockName": "CR Letters 5",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "WE MAKE GLASSES",
+             "mobileStyles": {
+              "letterSpacing": "0.1em"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "64796aa52c",
+             "blockName": "CR Acuity 5",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "20/40",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus",
+            "op-d5"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "20px",
+            "justifyContent": "center",
+            "width": "100%"
+           },
+           "blockId": "6608c90fb8",
+           "blockName": "Chart Row 6",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "6a3df6b35f",
+             "blockName": "CR Num 6",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "6",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "flexShrink": 1,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "19px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.15",
+              "minWidth": "10px",
+              "textAlign": "center",
+              "width": "fit-content"
+             },
+             "blockId": "d3298f16eb",
+             "blockName": "CR Letters 6",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "FOR PEOPLE WHO LOOK CLOSELY",
+             "mobileStyles": {
+              "letterSpacing": "0.1em"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "59f05a52fb",
+             "blockName": "CR Acuity 6",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "20/30",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus",
+            "op-d6"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "20px",
+            "justifyContent": "center",
+            "width": "100%"
+           },
+           "blockId": "df545421a2",
+           "blockName": "Chart Row 7",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "e6472b33d5",
+             "blockName": "CR Num 7",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "7",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "flexShrink": 1,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "13px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.15",
+              "minWidth": "10px",
+              "textAlign": "center",
+              "width": "fit-content"
+             },
+             "blockId": "d1a5d9cef9",
+             "blockName": "CR Letters 7",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "FITTED SLOWLY, GROUND PRECISELY, PRICED IN PLAIN SIGHT",
+             "mobileStyles": {
+              "letterSpacing": "0.1em"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "f7b77cefc2",
+             "blockName": "CR Acuity 7",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "20/20",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus",
+            "op-d6"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "20px",
+            "justifyContent": "center",
+            "width": "100%"
+           },
+           "blockId": "713fa88f4e",
+           "blockName": "Chart Row 8",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "8c863fbdd0",
+             "blockName": "CR Num 8",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "8",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "flexShrink": 1,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.15",
+              "minWidth": "10px",
+              "textAlign": "center",
+              "width": "fit-content"
+             },
+             "blockId": "397bf1cd6d",
+             "blockName": "CR Letters 8",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "AND ADJUSTED FREE, FOREVER, EVEN IF YOU BOUGHT THEM ELSEWHERE",
+             "mobileStyles": {
+              "letterSpacing": "0.1em"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "6dc42d22ee",
+             "blockName": "CR Acuity 8",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "20/15",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus",
+            "op-d6"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "20px",
+            "justifyContent": "center",
+            "width": "100%"
+           },
+           "blockId": "cc51b56fc6",
+           "blockName": "Chart Row 9",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "d0541b4a48",
+             "blockName": "CR Num 9",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "9",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "flexShrink": 1,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "7.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.15",
+              "minWidth": "10px",
+              "textAlign": "center",
+              "width": "fit-content"
+             },
+             "blockId": "3a2bff7992",
+             "blockName": "CR Letters 9",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "YOU ARE LEANING IN. THAT IS EXACTLY THE KIND OF PERSON WE MAKE GLASSES FOR.",
+             "mobileStyles": {
+              "letterSpacing": "0.1em"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "flexShrink": 0,
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "8d8b094238",
+             "blockName": "CR Acuity 9",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "20/10",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus",
+            "op-d6"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "gap": "18px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "22px",
+          "marginTop": "48px",
+          "width": "100%"
+         },
+         "blockId": "c4e93923a7",
+         "blockName": "Chart Foot",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+            "fontFamily": "Schibsted Grotesk",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "maxWidth": "480px",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "100%"
+           },
+           "blockId": "ae5bda0689",
+           "blockName": "Hero Sub",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Lindqvist Optik is a one-room opticians in Malmö: eye exams without upselling, frames without logos, and lenses ground for the way you actually look at the world.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "20px",
+            "width": "fit-content"
+           },
+           "blockId": "6e17412703",
+           "blockName": "Hero CTAs",
+           "children": [
+            {
+             "attributes": {
+              "href": "mailto:see@lindqvistoptik.se"
+             },
+             "baseStyles": {
+              "backgroundColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "borderRadius": "999px",
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e01, #FFFFFF)",
+              "flexShrink": 0,
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "14.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "padding": "15px 26px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "c36be2bdae",
+             "blockName": "Hero CTA",
+             "children": [],
+             "classes": [
+              "op-btn"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "Book an eye exam",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {
+              "href": "exam"
+             },
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "14.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "25d53d27f1",
+             "blockName": "Hero Secondary",
+             "children": [],
+             "classes": [
+              "op-ul"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "What an exam covers",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexDirection": "column",
+            "gap": "12px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "op-focus"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 32px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "44px 0px 64px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+      "borderStyle": "solid",
+      "borderWidth": "1px 0px 0px 0px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "80px 0px",
+      "width": "100%"
+     },
+     "blockId": "f204272185",
+     "blockName": "Frames",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1160px",
+        "padding": "0px 48px",
+        "width": "100%"
+       },
+       "blockId": "e0d8c75f42",
+       "blockName": "Frames Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "16px",
+          "justifyContent": "space-between",
+          "marginBottom": "30px",
+          "width": "100%"
+         },
+         "blockId": "9521dabfe6",
+         "blockName": "Frames Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+            "fontFamily": "Schibsted Grotesk",
+            "fontSize": "34px",
+            "fontWeight": "700",
+            "height": "fit-content",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "1.2",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "188e5c4e41",
+           "blockName": "Frames Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Three frames. That's the range.",
+           "mobileStyles": {
+            "fontSize": "26px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+            "flexShrink": 0,
+            "fontFamily": "IBM Plex Mono",
+            "fontSize": "10.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.14em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "594cace290",
+           "blockName": "Frames Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Acetate · handmade · Malmö",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "op-focus"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "6px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "20px",
+          "width": "100%"
+         },
+         "blockId": "0d8c95264e",
+         "blockName": "Frames Grid",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "6px",
+            "minWidth": "0px",
+            "padding": "22px 24px 26px 24px"
+           },
+           "blockId": "66a459d79b",
+           "blockName": "Frame Arvid",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "5000b657ba",
+             "blockName": "FR No Arvid",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Modell 01",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "0px",
+              "justifyContent": "center",
+              "padding": "34px 0px",
+              "width": "100%"
+             },
+             "blockId": "59a9cf4790",
+             "blockName": "Frame Art round",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "flexShrink": 0,
+                "height": "2.5px",
+                "width": "26px"
+               },
+               "blockId": "bfcf5618d5",
+               "blockName": "FA Temple L round",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "borderRadius": "999px",
+                "borderStyle": "solid",
+                "borderWidth": "2.5px",
+                "display": "flex",
+                "flexShrink": 0,
+                "height": "70px",
+                "width": "70px"
+               },
+               "blockId": "eacce87fa7",
+               "blockName": "FA Lens L round",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "borderRadius": "999px 999px 0 0",
+                "borderStyle": "solid",
+                "borderWidth": "2.5px 2.5px 0 2.5px",
+                "flexShrink": 0,
+                "height": "9px",
+                "marginBottom": "26px",
+                "width": "22px"
+               },
+               "blockId": "8f27cc7fac",
+               "blockName": "FA Bridge round",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "borderRadius": "999px",
+                "borderStyle": "solid",
+                "borderWidth": "2.5px",
+                "display": "flex",
+                "flexShrink": 0,
+                "height": "70px",
+                "width": "70px"
+               },
+               "blockId": "254c88dde6",
+               "blockName": "FA Lens R round",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "flexShrink": 0,
+                "height": "2.5px",
+                "width": "26px"
+               },
+               "blockId": "464158bd5b",
+               "blockName": "FA Temple R round",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "justifyContent": "space-between",
+              "width": "100%"
+             },
+             "blockId": "a0d4b5c135",
+             "blockName": "FR Meta Arvid",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "fontFamily": "Schibsted Grotesk",
+                "fontSize": "19px",
+                "fontWeight": "700",
+                "height": "fit-content",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "1.2",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "fdac0a4eb3",
+               "blockName": "FR Name Arvid",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Arvid",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+                "flexShrink": 0,
+                "fontFamily": "IBM Plex Mono",
+                "fontSize": "12px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.14em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "4fe0926b83",
+               "blockName": "FR Price Arvid",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "1 900 kr",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.7",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "a83013dfff",
+             "blockName": "FR Line Arvid",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Round, patient, looks better on you than you expect.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus",
+            "op-d1",
+            "op-card"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "6px",
+            "minWidth": "0px",
+            "padding": "22px 24px 26px 24px"
+           },
+           "blockId": "40ee854c75",
+           "blockName": "Frame Berit",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "0cdaec7c16",
+             "blockName": "FR No Berit",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Modell 02",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "0px",
+              "justifyContent": "center",
+              "padding": "34px 0px",
+              "width": "100%"
+             },
+             "blockId": "3948d97330",
+             "blockName": "Frame Art rect",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "flexShrink": 0,
+                "height": "2.5px",
+                "width": "26px"
+               },
+               "blockId": "f0a7af9ecc",
+               "blockName": "FA Temple L rect",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "borderRadius": "10px",
+                "borderStyle": "solid",
+                "borderWidth": "2.5px",
+                "display": "flex",
+                "flexShrink": 0,
+                "height": "64px",
+                "width": "88px"
+               },
+               "blockId": "1cbc149512",
+               "blockName": "FA Lens L rect",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "borderRadius": "999px 999px 0 0",
+                "borderStyle": "solid",
+                "borderWidth": "2.5px 2.5px 0 2.5px",
+                "flexShrink": 0,
+                "height": "9px",
+                "marginBottom": "26px",
+                "width": "22px"
+               },
+               "blockId": "d80cc9c910",
+               "blockName": "FA Bridge rect",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "borderRadius": "10px",
+                "borderStyle": "solid",
+                "borderWidth": "2.5px",
+                "display": "flex",
+                "flexShrink": 0,
+                "height": "64px",
+                "width": "88px"
+               },
+               "blockId": "71af76bbee",
+               "blockName": "FA Lens R rect",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "flexShrink": 0,
+                "height": "2.5px",
+                "width": "26px"
+               },
+               "blockId": "de5a41fa13",
+               "blockName": "FA Temple R rect",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "justifyContent": "space-between",
+              "width": "100%"
+             },
+             "blockId": "e8c328555f",
+             "blockName": "FR Meta Berit",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "fontFamily": "Schibsted Grotesk",
+                "fontSize": "19px",
+                "fontWeight": "700",
+                "height": "fit-content",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "1.2",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "f5dcc83fcc",
+               "blockName": "FR Name Berit",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Berit",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+                "flexShrink": 0,
+                "fontFamily": "IBM Plex Mono",
+                "fontSize": "12px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.14em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "9e33daa7d7",
+               "blockName": "FR Price Berit",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "2 100 kr",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.7",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "6f2343d96c",
+             "blockName": "FR Line Berit",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Rectangular, decisive, the one architects buy.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus",
+            "op-d2",
+            "op-card"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "6px",
+            "minWidth": "0px",
+            "padding": "22px 24px 26px 24px"
+           },
+           "blockId": "c9ef50b4da",
+           "blockName": "Frame Cleo",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "4628db78ab",
+             "blockName": "FR No Cleo",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Modell 03",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "0px",
+              "justifyContent": "center",
+              "padding": "34px 0px",
+              "width": "100%"
+             },
+             "blockId": "90d5d3da5f",
+             "blockName": "Frame Art brow",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "flexShrink": 0,
+                "height": "2.5px",
+                "width": "26px"
+               },
+               "blockId": "30fd002579",
+               "blockName": "FA Temple L brow",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "borderRadius": "6px 6px 22px 22px",
+                "borderStyle": "solid",
+                "borderWidth": "4px 2.5px 2.5px 2.5px",
+                "display": "flex",
+                "flexShrink": 0,
+                "height": "64px",
+                "width": "88px"
+               },
+               "blockId": "3cbb70a727",
+               "blockName": "FA Lens L brow",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "borderRadius": "999px 999px 0 0",
+                "borderStyle": "solid",
+                "borderWidth": "2.5px 2.5px 0 2.5px",
+                "flexShrink": 0,
+                "height": "9px",
+                "marginBottom": "26px",
+                "width": "22px"
+               },
+               "blockId": "c95dbb935b",
+               "blockName": "FA Bridge brow",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "borderRadius": "6px 6px 22px 22px",
+                "borderStyle": "solid",
+                "borderWidth": "4px 2.5px 2.5px 2.5px",
+                "display": "flex",
+                "flexShrink": 0,
+                "height": "64px",
+                "width": "88px"
+               },
+               "blockId": "d603d1ea27",
+               "blockName": "FA Lens R brow",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "flexShrink": 0,
+                "height": "2.5px",
+                "width": "26px"
+               },
+               "blockId": "bd398480b0",
+               "blockName": "FA Temple R brow",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "justifyContent": "space-between",
+              "width": "100%"
+             },
+             "blockId": "22592ceb43",
+             "blockName": "FR Meta Cleo",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+                "fontFamily": "Schibsted Grotesk",
+                "fontSize": "19px",
+                "fontWeight": "700",
+                "height": "fit-content",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "1.2",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "cb806f5f33",
+               "blockName": "FR Name Cleo",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Cleo",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+                "flexShrink": 0,
+                "fontFamily": "IBM Plex Mono",
+                "fontSize": "12px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.14em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "3060a51471",
+               "blockName": "FR Price Cleo",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "2 300 kr",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+              "fontFamily": "Schibsted Grotesk",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.7",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "f5e193e46a",
+             "blockName": "FR Line Cleo",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Browline, slightly dramatic, for people with opinions.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "op-focus",
+            "op-d3",
+            "op-card"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexDirection": "column"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+          "fontFamily": "Schibsted Grotesk",
+          "fontSize": "13.5px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.7",
+          "marginTop": "26px",
+          "maxWidth": "520px",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "4fb2a0e427",
+         "blockName": "Frames Fine",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Every frame in every size, tinted or clear, with your prescription ground in-house. If none of the three suit you, we will say so and point you elsewhere.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 32px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "52px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e04, #F4F4F4)",
+      "borderColor": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e05, #E4E4E4)",
+      "borderStyle": "solid",
+      "borderWidth": "1px 0px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "64px 0px",
+      "width": "100%"
+     },
+     "blockId": "b9039dffbc",
+     "blockName": "Quote",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "14px",
+        "maxWidth": "700px",
+        "padding": "0px 20px"
+       },
+       "blockId": "ff5daae923",
+       "blockName": "Quote Stack",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e02, #0B0B0B)",
+          "fontFamily": "Schibsted Grotesk",
+          "fontSize": "28px",
+          "fontWeight": "500",
+          "height": "fit-content",
+          "letterSpacing": "-0.01em",
+          "lineHeight": "1.2",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "6660e264e5",
+         "blockName": "Quote Text",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "“I read row nine out loud. They gave me a discount and a tissue.”",
+         "mobileStyles": {
+          "fontSize": "21px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c3e6a9b2-4d7f-4a0c-9e3b-5f8a1c4d7e03, #7A7A7A)",
+          "fontFamily": "IBM Plex Mono",
+          "fontSize": "10px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "0.14em",
+          "lineHeight": "1.5",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "54a0ce289b",
+         "blockName": "Quote Attr",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "A customer, now a regular",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "op-focus"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "44px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "961d7fbd25",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "03b3620339",
+       "blockName": "Footer Info",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "14df59ed3c",
+         "blockName": "Footer Col The shop",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "200f874cc4",
+           "blockName": "F The shop",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "2bc2d0056f",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "97cae0ce79",
+           "blockName": "F The shop Storgatan 11, ",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "7c1e446c86",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "1efe5fb89f",
+           "blockName": "F The shop Tue–Sat, 10 to",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "03afa29839",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "optic_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "0f4ae0954a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "d1dff2589b",
+         "blockName": "Footer Col Book",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "18ecea9e72",
+           "blockName": "F Book",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6ab6aec453",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "d80746867a",
+           "blockName": "F Book see@lindqvisto",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c769727016",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "f7aef0b71d",
+           "blockName": "F Book +46 40 12 34 5",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "7a8e7d1b14",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "optic_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "059bb307e9",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "87f33b1ce0",
+         "blockName": "Footer Col Promise",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "680573a636",
+           "blockName": "F Promise",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6cbaedb5dc",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "63c16033cc",
+           "blockName": "F Promise Free adjustmen",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ea909bc185",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "47b1ef734a",
+           "blockName": "F Promise Even on frames",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "optic_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "4a89b42cb2",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "optic_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "90059fa1d3",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "optic_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "9d2a13b2bd",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0d3da7246b",
+       "blockName": "Footer Small",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "ae1470f96a",
+         "blockName": "Footer C",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "optic_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "06e774b8ee",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "f9081df6a9",
+         "blockName": "Footer Joke",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "optic_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "abcafd7a6f",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "optic_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "2c3a10a96c",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "optic_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "optic_styles"
+  },
+  {
+   "builder_script": "optic_motion"
+  }
+ ],
+ "creation": "2026-07-20 18:13:00.607975",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "A one-room opticians in Malmö: the whole pitch is an eye chart, and the last row is worth leaning in for.",
+ "modified": "2026-07-20 18:13:00.607975",
+ "modified_by": "Administrator",
+ "name": "optic_home",
+ "owner": "Administrator",
+ "page_name": "optic_home",
+ "page_title": "Lindqvist Optik · We make glasses for people who look closely",
+ "preview": "/builder_assets/optic/optic_home/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/optic/home",
+ "template_group": "optic"
+}

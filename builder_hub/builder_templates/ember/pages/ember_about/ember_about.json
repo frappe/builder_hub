@@ -1,0 +1,1781 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a01, #141110)",
+    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Figtree",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "22fe73a741",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "e5cef45329",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "548efc843c",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "e21e0a1ad2",
+         "blockName": "Nav Left",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "777c9895ee",
+           "blockName": "Nav Menu",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "7293946bac",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "8c04e34e53",
+           "blockName": "Nav About",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9a6f4df14a",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "25e4628aeb",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "a9de6cb43f",
+         "blockName": "Brand",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "0a0e74a9cb",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "139eeac420",
+         "blockName": "Nav Right",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "bec113928a",
+           "blockName": "Nav Contact",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "8c3d1ce666",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "4b7f6e80c2",
+           "blockName": "Nav Reserve",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "f35940e634",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "a8b8e45708",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "bd963d7906",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "ember_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "margin": "0px auto",
+      "maxWidth": "1280px",
+      "padding": "128px 0px 96px 0px",
+      "width": "100%"
+     },
+     "blockId": "18546f335b",
+     "blockName": "Opening Statement",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "26px",
+        "maxWidth": "980px",
+        "padding": "0px 40px"
+       },
+       "blockId": "622d65ec64",
+       "blockName": "Statement Stack",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "14px",
+          "width": "fit-content"
+         },
+         "blockId": "4dcac96684",
+         "blockName": "Eyebrow",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "flexShrink": 0,
+            "height": "1px",
+            "width": "36px"
+           },
+           "blockId": "a6b9e4d716",
+           "blockName": "Eyebrow Rule",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "fontFamily": "Figtree",
+            "fontSize": "11.5px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "0.24em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "56f0c6684d",
+           "blockName": "Eyebrow Text",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "About the room",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+          "fontFamily": "Fraunces",
+          "fontSize": "52px",
+          "fontWeight": "380",
+          "height": "fit-content",
+          "letterSpacing": "-0.02em",
+          "lineHeight": "1.22",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "8a2ea31a57",
+         "blockName": "Statement",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "We built a room around a fire, then spent seven years learning to <i>listen to it.</i>",
+         "mobileStyles": {
+          "fontSize": "29px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "40px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+          "fontFamily": "Figtree",
+          "fontSize": "16.5px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.75",
+          "maxWidth": "620px",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "1c133ab5b4",
+         "blockName": "Statement Sub",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "There is no gas line into the building. Every dish that leaves the pass has been touched by the same oak fire, lit at three in the afternoon and read like a barometer until close.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "em-rise"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 22px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "72px 0px 56px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "48px 0px 128px 0px",
+      "width": "100%"
+     },
+     "blockId": "ffcd9ca76d",
+     "blockName": "Chef Story",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "72px",
+        "maxWidth": "1280px",
+        "padding": "0px 64px",
+        "width": "100%"
+       },
+       "blockId": "f4ec0e9b81",
+       "blockName": "Chef Split",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderRadius": "16px",
+          "display": "flex",
+          "flexBasis": "44%",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "overflow": "hidden"
+         },
+         "blockId": "fc3758c4a0",
+         "blockName": "Chef Photo Pane",
+         "children": [
+          {
+           "attributes": {
+            "alt": "Elias Voss on the line before service",
+            "src": "https://images.unsplash.com/photo-1622021142947-da7dedc7c39a?auto=format&fit=crop&q=80&w=1300"
+           },
+           "baseStyles": {
+            "aspectRatio": "4 / 5",
+            "display": "block",
+            "flexShrink": 0,
+            "objectFit": "cover",
+            "width": "100%"
+           },
+           "blockId": "71cc40b3cf",
+           "blockName": "Chef Photo",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "img",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-rise",
+          "em-zoom"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "22px",
+          "justifyContent": "center"
+         },
+         "blockId": "e7945dabb5",
+         "blockName": "Chef Copy",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "14px",
+            "width": "fit-content"
+           },
+           "blockId": "fda3795588",
+           "blockName": "Eyebrow",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "flexShrink": 0,
+              "height": "1px",
+              "width": "36px"
+             },
+             "blockId": "0edf0bf415",
+             "blockName": "Eyebrow Rule",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "fontFamily": "Figtree",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "8357c718b3",
+             "blockName": "Eyebrow Text",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The cook",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+            "fontFamily": "Fraunces",
+            "fontSize": "44px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "-0.02em",
+            "lineHeight": "1.1",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "09fdf249f2",
+           "blockName": "Chef Name",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Elias Voss",
+           "mobileStyles": {
+            "fontSize": "32px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "fontFamily": "Figtree",
+            "fontSize": "15.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "fde9ea301d",
+           "blockName": "Chef Para 1",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Elias cooked in kitchens with brigades of forty and menus that never changed. Ember is the opposite of that: one room, five cooks, a menu written in pencil. He spent a year building the hearth before serving a single plate, and still calls the fire the head chef.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "fontFamily": "Figtree",
+            "fontSize": "15.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "4e0af7651a",
+           "blockName": "Chef Para 2",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "His rule for the kitchen is borrowed from his grandmother's farmhouse stove: if the fire is wrong, nothing else can be right. Cooks here learn wood before they learn knives.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-rise",
+          "em-d2"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexBasis": "auto"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "gap": "28px",
+        "padding": "0px 22px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "flexDirection": "column",
+        "gap": "40px",
+        "padding": "0px 40px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "24px 0px 72px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+      "borderStyle": "solid",
+      "borderWidth": "1px 0px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "104px 0px",
+      "width": "100%"
+     },
+     "blockId": "fb360f967e",
+     "blockName": "Principles",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1280px",
+        "padding": "0px 64px",
+        "width": "100%"
+       },
+       "blockId": "fc99488602",
+       "blockName": "Principles Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "48px",
+          "width": "100%"
+         },
+         "blockId": "b293ad5d52",
+         "blockName": "Principles Row",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 0px 1px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "16px",
+            "padding": "8px 0px 8px 32px"
+           },
+           "blockId": "0fffaeec81",
+           "blockName": "Principle I",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "fontFamily": "Fraunces",
+              "fontSize": "34px",
+              "fontStyle": "italic",
+              "fontWeight": "350",
+              "height": "fit-content",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "0c37608640",
+             "blockName": "Principle Numeral I",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "I",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Fraunces",
+              "fontSize": "24px",
+              "fontWeight": "450",
+              "height": "fit-content",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "2eb4e75624",
+             "blockName": "Principle Title I",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Fire",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "6b816ea1b7",
+             "blockName": "Principle Desc I",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Lit the same way every day, read differently every day. We cook to the fire we have, not the one we planned for.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "em-rise",
+            "em-d1"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "padding": "8px 0px 8px 20px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 0px 1px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "16px",
+            "padding": "8px 0px 8px 32px"
+           },
+           "blockId": "16b795dd84",
+           "blockName": "Principle II",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "fontFamily": "Fraunces",
+              "fontSize": "34px",
+              "fontStyle": "italic",
+              "fontWeight": "350",
+              "height": "fit-content",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "8c8087c5bb",
+             "blockName": "Principle Numeral II",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "II",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Fraunces",
+              "fontSize": "24px",
+              "fontWeight": "450",
+              "height": "fit-content",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "086e4d28fe",
+             "blockName": "Principle Title II",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Seasons",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "f762050d8a",
+             "blockName": "Principle Desc II",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The menu follows the market, not the other way round. When the trout is done for the year, so are we.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "em-rise",
+            "em-d2"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "padding": "8px 0px 8px 20px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+            "borderStyle": "solid",
+            "borderWidth": "0px 0px 0px 1px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "16px",
+            "padding": "8px 0px 8px 32px"
+           },
+           "blockId": "705b6a12cb",
+           "blockName": "Principle III",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "fontFamily": "Fraunces",
+              "fontSize": "34px",
+              "fontStyle": "italic",
+              "fontWeight": "350",
+              "height": "fit-content",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "b4d0c3003f",
+             "blockName": "Principle Numeral III",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "III",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Fraunces",
+              "fontSize": "24px",
+              "fontWeight": "450",
+              "height": "fit-content",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "ca8f77dbed",
+             "blockName": "Principle Title III",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Patience",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "eb2ad0b7c0",
+             "blockName": "Principle Desc III",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Most of what we serve was started days ago. The fire does not hurry, and neither does the room.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "em-rise",
+            "em-d3"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "padding": "8px 0px 8px 20px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexDirection": "column",
+          "gap": "32px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 22px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 40px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "120px 0px 128px 0px",
+      "width": "100%"
+     },
+     "blockId": "5135f6a8e2",
+     "blockName": "Kitchen Strip",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1280px",
+        "padding": "0px 64px",
+        "width": "100%"
+       },
+       "blockId": "fbdf48a591",
+       "blockName": "Kitchen Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "26px",
+          "width": "100%"
+         },
+         "blockId": "1d8cdf6773",
+         "blockName": "Kitchen Row",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderRadius": "14px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "14px",
+            "minWidth": "0px"
+           },
+           "blockId": "d1ff1a5293",
+           "blockName": "Kitchen Shot 1",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderRadius": "14px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "overflow": "hidden",
+              "width": "100%"
+             },
+             "blockId": "272d47d90b",
+             "blockName": "Kitchen Shot Frame 1",
+             "children": [
+              {
+               "attributes": {
+                "alt": "The pass, mid-service",
+                "src": "https://images.unsplash.com/photo-1428515613728-6b4607e44363?auto=format&fit=crop&q=80&w=1100"
+               },
+               "baseStyles": {
+                "aspectRatio": "4 / 3",
+                "display": "block",
+                "flexShrink": 0,
+                "objectFit": "cover",
+                "width": "100%"
+               },
+               "blockId": "bf19e4a29d",
+               "blockName": "Kitchen Photo 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "img",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "em-zoom"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "11.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "a9c9bca06a",
+             "blockName": "Kitchen Caption 1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The pass, mid-service",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "em-rise",
+            "em-d1"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderRadius": "14px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "14px",
+            "minWidth": "0px"
+           },
+           "blockId": "908752b318",
+           "blockName": "Kitchen Shot 2",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderRadius": "14px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "overflow": "hidden",
+              "width": "100%"
+             },
+             "blockId": "4fcaf4fe0d",
+             "blockName": "Kitchen Shot Frame 2",
+             "children": [
+              {
+               "attributes": {
+                "alt": "Course five, plated",
+                "src": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?auto=format&fit=crop&q=80&w=1100"
+               },
+               "baseStyles": {
+                "aspectRatio": "4 / 3",
+                "display": "block",
+                "flexShrink": 0,
+                "objectFit": "cover",
+                "width": "100%"
+               },
+               "blockId": "a36dcbec29",
+               "blockName": "Kitchen Photo 2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "img",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "em-zoom"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "11.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "9ef8915c54",
+             "blockName": "Kitchen Caption 2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Course five, plated",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "em-rise",
+            "em-d2"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderRadius": "14px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "14px",
+            "minWidth": "0px"
+           },
+           "blockId": "ecc68d86dc",
+           "blockName": "Kitchen Shot 3",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderRadius": "14px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "overflow": "hidden",
+              "width": "100%"
+             },
+             "blockId": "f1a9ab639f",
+             "blockName": "Kitchen Shot Frame 3",
+             "children": [
+              {
+               "attributes": {
+                "alt": "The room at seven",
+                "src": "https://images.unsplash.com/photo-1570560258879-af7f8e1447ac?auto=format&fit=crop&q=80&w=1100"
+               },
+               "baseStyles": {
+                "aspectRatio": "4 / 3",
+                "display": "block",
+                "flexShrink": 0,
+                "objectFit": "cover",
+                "width": "100%"
+               },
+               "blockId": "5ab7811832",
+               "blockName": "Kitchen Photo 3",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "img",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "em-zoom"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "11.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "c39dd91dfd",
+             "blockName": "Kitchen Caption 3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The room at seven",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "em-rise",
+            "em-d3"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexDirection": "column"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 22px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 40px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 0px 72px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "c0b30c1fe1",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "a4d76b7894",
+       "blockName": "Reserve Banner",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "91418b801e",
+         "blockName": "Banner Eyebrow",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "78b7488368",
+           "blockName": "Eyebrow Rule",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "4352d95b5c",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "d11a36a1ae",
+           "blockName": "Eyebrow Text",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "51941c66a2",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "a477a0e78c",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "fca40187e6",
+         "blockName": "Banner Line 1",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "709b9d4bc6",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "dc43d6e890",
+         "blockName": "Banner Sub",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "9371236bd7",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "9ee8f3e320",
+         "blockName": "Banner CTAs",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "1d7f312c89",
+           "blockName": "Banner Reserve",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "93a229df13",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "c334fdf4c1",
+           "blockName": "Banner Phone",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "feecf5d55e",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "85664f4156",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_reserve_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "85534d305f",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "952d95b3aa",
+       "blockName": "Info Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "dbe31cb458",
+         "blockName": "Info Visit",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "4c9ff42b55",
+           "blockName": "Visit Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "bb00e720ae",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "aac579aaac",
+           "blockName": "Visit 14 Coal Yard L",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "2a9793d6e5",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "f9e08beb8d",
+           "blockName": "Visit Shoreditch, Lo",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "b9da0a5358",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "9b2162b2bf",
+           "blockName": "Visit Directions",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "2e82020327",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "d3092658a1",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "101ce9b7ec",
+         "blockName": "Info Hours",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "ef7f8f6acd",
+           "blockName": "Hours Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "5d24801f7d",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "3f1c84d89b",
+           "blockName": "Hours Wednesday to S",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ac38d9f8ba",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "343836812a",
+           "blockName": "Hours 6 pm until 11 ",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "d8b7a4b7fd",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "dd9e9d7fdf",
+           "blockName": "Hours Closed Monday ",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6eb0b51600",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "78e1294023",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "eaa31bc1b3",
+         "blockName": "Info Contact",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "95fbfeb159",
+           "blockName": "Contact Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c3fd50e14d",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "087ae0599e",
+           "blockName": "Contact tables@ember.kitchen",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "e2f4048623",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "73a2a98984",
+           "blockName": "Contact 020 7946 0180",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "82fcd42168",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "83fa40e4b4",
+           "blockName": "Contact Instagram",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "25f798a6f2",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "9b1cc31c26",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_reserve_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "39d6ca4c4c",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "8a5f1e33d4",
+       "blockName": "Small Print",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "dcf88adaf9",
+         "blockName": "Copyright",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "cb1cc6961a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "176b865e9a",
+         "blockName": "Credit",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "7a43474f09",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_reserve_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "ff636ab216",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "ember_reserve_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "ember_styles"
+  },
+  {
+   "builder_script": "ember_motion"
+  }
+ ],
+ "creation": "2026-07-19 20:03:44.021485",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "The room, the hearth and the cook: how Ember came to cook everything over one oak fire.",
+ "modified": "2026-07-19 20:03:44.021485",
+ "modified_by": "Administrator",
+ "name": "ember_about",
+ "owner": "Administrator",
+ "page_name": "ember_about",
+ "page_title": "About · Ember",
+ "preview": "/builder_assets/ember/ember_about/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/ember/about",
+ "template_group": "ember"
+}

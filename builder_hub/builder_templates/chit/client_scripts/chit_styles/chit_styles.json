@@ -1,0 +1,12 @@
+{
+ "creation": "2026-07-20 18:18:36.782248",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-07-20 18:18:36.782248",
+ "modified_by": "Administrator",
+ "name": "chit_styles",
+ "owner": "Administrator",
+ "script": "\nhtml { scroll-behavior: smooth; }\n::selection { background: #232220; color: #FDFCF8; }\n\n/* the hero receipt feeds out of the printer slot on load */\nhtml.ch-js .ch-feed > * { transform: translateY(-104%); }\nhtml.ch-js.ch-printed .ch-feed > * {\n  transform: none;\n  transition: transform 2.1s cubic-bezier(0.25, 1, 0.4, 1);\n}\n\nhtml.ch-js .ch-rise { opacity: 0; transform: translateY(16px); }\nhtml.ch-js .ch-rise.ch-in {\n  opacity: 1; transform: none;\n  transition: opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1),\n    transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);\n}\n\n.ch-ul {\n  background-image: linear-gradient(currentColor, currentColor);\n  background-position: left bottom; background-repeat: no-repeat;\n  background-size: 0% 1.5px;\n  transition: background-size 0.35s cubic-bezier(0.22, 1, 0.36, 1);\n}\n.ch-ul:hover { background-size: 100% 1.5px; }\n.ch-btn { transition: opacity 0.2s ease; }\n.ch-btn:hover { opacity: 0.82; }\n\n@media (prefers-reduced-motion: reduce) {\n  html { scroll-behavior: auto; }\n}\n",
+ "script_type": "CSS"
+}

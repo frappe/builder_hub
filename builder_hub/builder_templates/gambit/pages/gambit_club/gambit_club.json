@@ -1,0 +1,1411 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c01, #FAFAF6)",
+    "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Crimson Pro",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "ac2ded076c",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "fa08cf8c69",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0be76bf613",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "a328bc6661",
+         "blockName": "Brand",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "d076bcefc1",
+           "blockName": "Brand Glyph",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6a0154e2ba",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "266dd011cb",
+           "blockName": "Brand Name",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "30bf1aca5b",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "de19576f4a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "0bdd5b9f64",
+         "blockName": "Nav Links",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "2ea46f1a31",
+           "blockName": "Nav Openings",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ebda22704e",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "fdc77c31db",
+           "blockName": "Nav The club",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "bda010d207",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "05c9e526d2",
+           "blockName": "Nav CTA",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "b96cab57cf",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "d07f6a2008",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "gambit_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "6378ce1bc1",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "gambit_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "88px 0px 80px 0px",
+      "width": "100%"
+     },
+     "blockId": "5bdecba6dd",
+     "blockName": "Club",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1180px",
+        "padding": "0px 48px",
+        "width": "100%"
+       },
+       "blockId": "50f1d55bd6",
+       "blockName": "Club Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "14px",
+          "marginBottom": "40px",
+          "width": "100%"
+         },
+         "blockId": "e47457edb0",
+         "blockName": "Club Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+            "fontFamily": "IBM Plex Mono",
+            "fontSize": "11.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.2em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "0c03960b4b",
+           "blockName": "Club Eyebrow",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "The club · two partners, one board",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+            "fontFamily": "Crimson Pro",
+            "fontSize": "56px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "-0.005em",
+            "lineHeight": "1.2",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "a16b621579",
+           "blockName": "Club Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "A very small firm, <i>on purpose.</i>",
+           "mobileStyles": {
+            "fontSize": "32px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {
+            "fontSize": "42px"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+            "fontFamily": "Crimson Pro",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.65",
+            "maxWidth": "540px",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "55b6bc0eca",
+           "blockName": "Club Sub",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Two partners, no associates, no leverage model. When you hire Gambit you get the people whose names are on the door, at the board, every session.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gb-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "22px",
+          "width": "100%"
+         },
+         "blockId": "7032192b71",
+         "blockName": "Partners Row",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "12px",
+            "minWidth": "0px",
+            "padding": "28px 28px"
+           },
+           "blockId": "83a0745f0f",
+           "blockName": "Partner Edith Marlowe",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "justifyContent": "space-between",
+              "width": "100%"
+             },
+             "blockId": "ba4ec4654f",
+             "blockName": "P Head Edith Marlowe",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                "fontSize": "30px",
+                "height": "fit-content",
+                "lineHeight": "1",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "ff8a5013b8",
+               "blockName": "P Glyph Edith Marlowe",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "♔",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "flexShrink": 0,
+                "fontFamily": "IBM Plex Mono",
+                "fontSize": "11px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.14em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "7c00f9b43d",
+               "blockName": "P Rating Edith Marlowe",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Peak 2380 · dogmatic about coffee",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "fontFamily": "Crimson Pro",
+              "fontSize": "27px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "-0.005em",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "bf4cd31659",
+             "blockName": "P Name Edith Marlowe",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Edith Marlowe",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "1cf70ffcc2",
+             "blockName": "P Role Edith Marlowe",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Positional matters",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+              "fontFamily": "Crimson Pro",
+              "fontSize": "15.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "1fbc1e27b5",
+             "blockName": "P Bio Edith Marlowe",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Fifteen years turning around family firms taught Edith that most crises are just bad piece placement. She fixes structures first and feelings second, in that order, kindly.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gb-rise",
+            "gb-d1",
+            "gb-card"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "padding": "20px 18px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "12px",
+            "minWidth": "0px",
+            "padding": "28px 28px"
+           },
+           "blockId": "1f077c7e7a",
+           "blockName": "Partner Tomas Keller",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "justifyContent": "space-between",
+              "width": "100%"
+             },
+             "blockId": "9160cae7a2",
+             "blockName": "P Head Tomas Keller",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                "fontSize": "30px",
+                "height": "fit-content",
+                "lineHeight": "1",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "3b90caa247",
+               "blockName": "P Glyph Tomas Keller",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "♖",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "flexShrink": 0,
+                "fontFamily": "IBM Plex Mono",
+                "fontSize": "11px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.14em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "24e04024ec",
+               "blockName": "P Rating Tomas Keller",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "FIDE arbiter · keeps score in pen",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+              "fontFamily": "Crimson Pro",
+              "fontSize": "27px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "-0.005em",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "3392509c2f",
+             "blockName": "P Name Tomas Keller",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Tomas Keller",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+              "fontFamily": "IBM Plex Mono",
+              "fontSize": "10.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "3eaa5c34e1",
+             "blockName": "P Role Tomas Keller",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Sharp lines",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+              "fontFamily": "Crimson Pro",
+              "fontSize": "15.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "061f332dd0",
+             "blockName": "P Bio Tomas Keller",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Tomas ran deals at a bank until he noticed the best ones were declined gambits. He handles negotiations, pricing and every situation with a clock on it.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "gb-rise",
+            "gb-d2",
+            "gb-card"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "padding": "20px 18px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexDirection": "column"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 32px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "56px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "0px 0px 96px 0px",
+      "width": "100%"
+     },
+     "blockId": "aabfa41f6a",
+     "blockName": "The Room",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1040px",
+        "padding": "0px 48px",
+        "width": "100%"
+       },
+       "blockId": "04e68667ce",
+       "blockName": "Room Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c06, #F1EFE8)",
+          "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "16px",
+          "padding": "40px 44px",
+          "width": "100%"
+         },
+         "blockId": "ac64cc12c7",
+         "blockName": "Room Panel",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+            "fontFamily": "Crimson Pro",
+            "fontSize": "34px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "-0.005em",
+            "lineHeight": "1.2",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "73d03b03e2",
+           "blockName": "Room Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Adjournment",
+           "mobileStyles": {
+            "fontSize": "27px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+            "fontFamily": "Crimson Pro",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.65",
+            "maxWidth": "560px",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "d9ac02dcbc",
+           "blockName": "Room Copy",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "First sessions happen at the board on Batterymarch Lane: one hour, tea, and a wooden set that has heard worse problems than yours. Write, and we will seal our reply like a proper adjourned move.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c04, #E0DED5)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "paddingTop": "8px"
+           },
+           "blockId": "b8200737d4",
+           "blockName": "Room Rows",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "18px",
+              "padding": "10px 0px",
+              "width": "100%"
+             },
+             "blockId": "3fa62589f6",
+             "blockName": "Room Row Write",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "flexShrink": 0,
+                "fontFamily": "IBM Plex Mono",
+                "fontSize": "10.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.18em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "69ce8b058b",
+               "blockName": "Room L Write",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Write",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {
+                "href": "mailto:play@gambitandpartners.com"
+               },
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "17px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textDecoration": "none",
+                "width": "fit-content"
+               },
+               "blockId": "2c721391dc",
+               "blockName": "Room V Write",
+               "children": [],
+               "classes": [
+                "gb-ul"
+               ],
+               "customAttributes": {},
+               "element": "a",
+               "innerHTML": "play@gambitandpartners.com",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "flexWrap": "wrap",
+              "gap": "8px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "18px",
+              "padding": "10px 0px",
+              "width": "100%"
+             },
+             "blockId": "4b0cd707a1",
+             "blockName": "Room Row Call",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "flexShrink": 0,
+                "fontFamily": "IBM Plex Mono",
+                "fontSize": "10.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.18em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "8bd19cd9cc",
+               "blockName": "Room L Call",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Call",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {
+                "href": "tel:+442079460777"
+               },
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "17px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textDecoration": "none",
+                "width": "fit-content"
+               },
+               "blockId": "3d94a99287",
+               "blockName": "Room V Call",
+               "children": [],
+               "classes": [
+                "gb-ul"
+               ],
+               "customAttributes": {},
+               "element": "a",
+               "innerHTML": "+44 20 7946 0777",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "flexWrap": "wrap",
+              "gap": "8px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "18px",
+              "padding": "10px 0px",
+              "width": "100%"
+             },
+             "blockId": "c8002459bd",
+             "blockName": "Room Row Visit",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c03, #75726A)",
+                "flexShrink": 0,
+                "fontFamily": "IBM Plex Mono",
+                "fontSize": "10.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.18em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "bc3f4aef10",
+               "blockName": "Room L Visit",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Visit",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a1c4e7f0-2b5d-4e8a-9c1f-3d6e9a2b5c02, #161512)",
+                "fontFamily": "Crimson Pro",
+                "fontSize": "17px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textDecoration": "none",
+                "width": "fit-content"
+               },
+               "blockId": "b9a107c9c2",
+               "blockName": "Room V Visit",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "4 Batterymarch Lane, third floor, London EC3",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "flexWrap": "wrap",
+              "gap": "8px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "gb-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "padding": "26px 20px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 32px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0px 0px 64px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "a23be1f0d2",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "1f4d5ba87a",
+       "blockName": "Footer Banner",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "b34b67a592",
+         "blockName": "Footer Line",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "d7ac511c25",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "4a6a332929",
+         "blockName": "Footer Sub",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "77c9f2de7e",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "83a80f5eca",
+         "blockName": "Footer CTA",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "fa5c881ade",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "gambit_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "ae02b75677",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "4de3694c42",
+       "blockName": "Footer Sub Center",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "gambit_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "42a873a69c",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "443a68afd4",
+       "blockName": "Footer Info",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "a5a743fd6a",
+         "blockName": "Footer Col The board",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "93cb689434",
+           "blockName": "F The board",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "19614dc1e4",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "ecb912590a",
+           "blockName": "F The board 4 Batterymarch",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9833f0c95e",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "6082fd6473",
+           "blockName": "F The board London EC3",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "a2142d697c",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "21c7a6da0e",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "8b9c1711ff",
+         "blockName": "Footer Col Hours",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "f8b208373f",
+           "blockName": "F Hours",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9d0bf49ae6",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "bfcd7fec5c",
+           "blockName": "F Hours Weekdays, 9 to",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "f87f6819c3",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "237d1562bf",
+           "blockName": "F Hours Adjournments b",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c2ec3f5cbe",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "79c6e43359",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "29dc072daa",
+         "blockName": "Footer Col Write",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "e71ef64723",
+           "blockName": "F Write",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "1ab255e407",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "7c5cc8a41c",
+           "blockName": "F Write play@gambitand",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "08ab4781ff",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "1fd4bcaeb4",
+           "blockName": "F Write +44 20 7946 07",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "gambit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "4e49166ba5",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "17b3042a6e",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "gambit_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "b9fb1f46a9",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "da5bce2537",
+       "blockName": "Footer Small",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "75676db359",
+         "blockName": "Footer C",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "5919eddae2",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "68c25e2c5b",
+         "blockName": "Footer Score",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "gambit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "a6297a74d1",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "gambit_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "6fed74766a",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "gambit_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "gambit_styles"
+  },
+  {
+   "builder_script": "gambit_motion"
+  }
+ ],
+ "creation": "2026-07-20 18:18:36.569036",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Two partners, one board: Edith Marlowe and Tomas Keller, and how to adjourn with them on Batterymarch Lane.",
+ "modified": "2026-07-20 18:18:36.569036",
+ "modified_by": "Administrator",
+ "name": "gambit_club",
+ "owner": "Administrator",
+ "page_name": "gambit_club",
+ "page_title": "The club · Gambit & Partners",
+ "preview": "/builder_assets/gambit/gambit_club/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/gambit/club",
+ "template_group": "gambit"
+}

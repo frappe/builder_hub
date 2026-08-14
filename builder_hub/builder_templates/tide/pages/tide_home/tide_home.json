@@ -1,0 +1,2917 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6001, #FBFAF7)",
+    "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Onest",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "00007e4aab",
+   "blockName": "Page",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "16px",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "1280px",
+      "padding": "16px",
+      "width": "100%"
+     },
+     "blockId": "00007e4aaa",
+     "blockName": "Page Frame",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00007e4a87",
+       "blockName": "Tide Nav",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00007e4a88",
+         "blockName": "Brand Cell",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "tide_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00007e4a10",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00007e4a89",
+         "blockName": "Nav Links",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00007e4a8a",
+           "blockName": "Nav ROOMS",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tide_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00007e4a11",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00007e4a8b",
+           "blockName": "Nav VISIT",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tide_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00007e4a12",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00007e4a8c",
+           "blockName": "Nav STORIES",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tide_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00007e4a13",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "tide_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00007e4a14",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00007e4a8d",
+         "blockName": "Nav Spacer",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "tide_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00007e4a16",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00007e4a8e",
+         "blockName": "Nav Book",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "tide_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00007e4a15",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "extendedFromComponent": "tide_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6001, #FBFAF7)",
+        "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+        "borderStyle": "solid",
+        "borderWidth": "1px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "width": "100%"
+       },
+       "blockId": "00007e4a38",
+       "blockName": "Hero Box",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "stretch",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "width": "100%"
+         },
+         "blockId": "00007e4a37",
+         "blockName": "Hero Split",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "20px",
+            "justifyContent": "center",
+            "padding": "72px 56px",
+            "width": "52%"
+           },
+           "blockId": "00007e4a31",
+           "blockName": "Hero Copy",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+              "fontFamily": "Fragment Mono",
+              "fontSize": "11.5px",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a2b",
+             "blockName": "Hero Eyebrow",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "GUESTHOUSE · DANISH NORTH COAST",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+              "fontFamily": "Instrument Serif",
+              "fontSize": "76px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "-0.01em",
+              "lineHeight": "1.05",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a2c",
+             "blockName": "Hero Title",
+             "children": [],
+             "classes": [
+              "td-rise"
+             ],
+             "customAttributes": {},
+             "element": "h1",
+             "innerHTML": "The sea does the<br>entertaining.",
+             "mobileStyles": {
+              "fontSize": "42px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {
+              "fontSize": "56px"
+             }
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+              "fontFamily": "Onest",
+              "fontSize": "16.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "maxWidth": "420px",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a2d",
+             "blockName": "Hero Sub",
+             "children": [],
+             "classes": [
+              "td-rise",
+              "td-d1"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Six rooms behind the dunes at Vorupør. Bread in the morning, a sauna at four, one long beach. Nothing to do, on purpose.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "26px",
+              "paddingTop": "10px"
+             },
+             "blockId": "00007e4a30",
+             "blockName": "Hero Actions",
+             "children": [
+              {
+               "attributes": {
+                "href": "visit"
+               },
+               "baseStyles": {
+                "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+                "fontFamily": "Onest",
+                "fontSize": "15.5px",
+                "fontWeight": "500",
+                "lineHeight": "1.4",
+                "textDecoration": "none"
+               },
+               "blockId": "00007e4a2e",
+               "blockName": "Hero Book",
+               "children": [],
+               "classes": [
+                "td-link"
+               ],
+               "customAttributes": {},
+               "element": "a",
+               "innerHTML": "Book a room →",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+                "fontFamily": "Fragment Mono",
+                "fontSize": "11.5px",
+                "height": "fit-content",
+                "letterSpacing": "0.1em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00007e4a2f",
+               "blockName": "Hero Price",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "FROM €140 / NIGHT",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "td-rise",
+              "td-d2"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "padding": "44px 22px",
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+            "borderStyle": "solid",
+            "borderWidth": "0 0 0 1px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "width": "48%"
+           },
+           "blockId": "00007e4a36",
+           "blockName": "Hero Photo Cell",
+           "children": [
+            {
+             "attributes": {
+              "alt": "The house from the dunes",
+              "loading": "eager",
+              "src": "https://images.pexels.com/photos/28383861/pexels-photo-28383861.jpeg?auto=compress&cs=tinysrgb&w=2000"
+             },
+             "baseStyles": {
+              "display": "block",
+              "flexGrow": 1,
+              "height": "100%",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "00007e4a32",
+             "blockName": "Hero Photo",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {
+              "height": "auto"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0 0 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "justifyContent": "space-between",
+              "padding": "10px 14px",
+              "width": "100%"
+             },
+             "blockId": "00007e4a35",
+             "blockName": "Hero Caption",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+                "fontFamily": "Fragment Mono",
+                "fontSize": "11.5px",
+                "height": "fit-content",
+                "letterSpacing": "0.1em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00007e4a33",
+               "blockName": "Hero Fig",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "FIG. 01",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+                "fontFamily": "Fragment Mono",
+                "fontSize": "11.5px",
+                "height": "fit-content",
+                "letterSpacing": "0.1em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00007e4a34",
+               "blockName": "Hero Fig Caption",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "THE HOUSE, FROM THE DUNES",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "td-frame"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "borderWidth": "1px 0 0 0",
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6001, #FBFAF7)",
+        "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+        "borderStyle": "solid",
+        "borderWidth": "1px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "width": "100%"
+       },
+       "blockId": "00007e4a3e",
+       "blockName": "Meta Strip",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "flexWrap": "wrap",
+          "width": "100%"
+         },
+         "blockId": "00007e4a3d",
+         "blockName": "Meta Cells",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+            "borderStyle": "solid",
+            "borderWidth": "0 1px 0 0",
+            "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+            "flexGrow": 1,
+            "fontFamily": "Fragment Mono",
+            "fontSize": "11.5px",
+            "height": "fit-content",
+            "letterSpacing": "0.1em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "padding": "14px 18px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "00007e4a39",
+           "blockName": "Meta 56.9506° N, ",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "56.9506° N, 8.3626° E",
+           "mobileStyles": {
+            "borderWidth": "0 0 1px 0",
+            "minWidth": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+            "borderStyle": "solid",
+            "borderWidth": "0 1px 0 0",
+            "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+            "flexGrow": 1,
+            "fontFamily": "Fragment Mono",
+            "fontSize": "11.5px",
+            "height": "fit-content",
+            "letterSpacing": "0.1em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "padding": "14px 18px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "00007e4a3a",
+           "blockName": "Meta OPEN APRIL —",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "OPEN APRIL — OCTOBER",
+           "mobileStyles": {
+            "borderWidth": "0 0 1px 0",
+            "minWidth": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+            "borderStyle": "solid",
+            "borderWidth": "0 1px 0 0",
+            "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+            "flexGrow": 1,
+            "fontFamily": "Fragment Mono",
+            "fontSize": "11.5px",
+            "height": "fit-content",
+            "letterSpacing": "0.1em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "padding": "14px 18px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "00007e4a3b",
+           "blockName": "Meta SIX ROOMS, N",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "SIX ROOMS, NO TELEVISIONS",
+           "mobileStyles": {
+            "borderWidth": "0 0 1px 0",
+            "minWidth": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+            "borderStyle": "solid",
+            "borderWidth": "0 0 0 0",
+            "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+            "flexGrow": 1,
+            "fontFamily": "Fragment Mono",
+            "fontSize": "11.5px",
+            "height": "fit-content",
+            "letterSpacing": "0.1em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "padding": "14px 18px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "00007e4a3c",
+           "blockName": "Meta DOGS: WELCOM",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "DOGS: WELCOME",
+           "mobileStyles": {
+            "borderWidth": "0",
+            "minWidth": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "26px",
+        "padding": "40px 0",
+        "width": "100%"
+       },
+       "blockId": "00007e4a66",
+       "blockName": "Rooms Section",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "flex-end",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "justifyContent": "space-between",
+          "width": "100%"
+         },
+         "blockId": "00007e4a43",
+         "blockName": "Rooms Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "10px"
+           },
+           "blockId": "00007e4a41",
+           "blockName": "Section Label",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+              "fontFamily": "Fragment Mono",
+              "fontSize": "11.5px",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a3f",
+             "blockName": "Index",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "INDEX / ROOMS",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+              "fontFamily": "Instrument Serif",
+              "fontSize": "42px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "-0.01em",
+              "lineHeight": "1.05",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a40",
+             "blockName": "Section Title",
+             "children": [],
+             "classes": [
+              "td-rise"
+             ],
+             "customAttributes": {},
+             "element": "h2",
+             "innerHTML": "Six rooms, three shown.",
+             "mobileStyles": {
+              "fontSize": "30px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "rooms"
+           },
+           "baseStyles": {
+            "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+            "fontFamily": "Fragment Mono",
+            "fontSize": "11.5px",
+            "letterSpacing": "0.1em",
+            "lineHeight": "1.4",
+            "textDecoration": "none"
+           },
+           "blockId": "00007e4a42",
+           "blockName": "Rooms All",
+           "children": [],
+           "classes": [
+            "td-link"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "FULL INDEX →",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "flexWrap": "wrap",
+          "gap": "16px",
+          "width": "100%"
+         },
+         "blockId": "00007e4a65",
+         "blockName": "Rooms Grid",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6001, #FBFAF7)",
+            "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "width": "calc(33.333% - 11px)"
+           },
+           "blockId": "00007e4a4e",
+           "blockName": "Room Hav",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Room 01, Hav",
+              "loading": "lazy",
+              "src": "https://images.pexels.com/photos/545034/pexels-photo-545034.jpeg?auto=compress&cs=tinysrgb&w=1200"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "00007e4a44",
+             "blockName": "Room Photo",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "4 / 3"
+             },
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0 0 0",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "8px",
+              "padding": "18px 20px",
+              "width": "100%"
+             },
+             "blockId": "00007e4a4d",
+             "blockName": "Room Body",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "justifyContent": "space-between",
+                "width": "100%"
+               },
+               "blockId": "00007e4a47",
+               "blockName": "Room Name Row",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+                  "fontFamily": "Instrument Serif",
+                  "fontSize": "27px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "letterSpacing": "-0.01em",
+                  "lineHeight": "1.05",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00007e4a45",
+                 "blockName": "Room Name",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "h3",
+                 "innerHTML": "Hav",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+                  "fontFamily": "Fragment Mono",
+                  "fontSize": "11.5px",
+                  "height": "fit-content",
+                  "letterSpacing": "0.1em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00007e4a46",
+                 "blockName": "Room No",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "NO. 01",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+                "fontFamily": "Fragment Mono",
+                "fontSize": "11.5px",
+                "height": "fit-content",
+                "letterSpacing": "0.1em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00007e4a48",
+               "blockName": "Room Spec",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "22 M² · KING · SEA SIDE",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+                "borderStyle": "dashed",
+                "borderWidth": "1px 0 0 0",
+                "flexShrink": 0,
+                "height": "1px",
+                "marginBottom": "2px",
+                "marginTop": "10px",
+                "width": "100%"
+               },
+               "blockId": "00007e4a49",
+               "blockName": "Dashed Rule",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "justifyContent": "space-between",
+                "paddingTop": "10px",
+                "width": "100%"
+               },
+               "blockId": "00007e4a4c",
+               "blockName": "Room Price Row",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+                  "fontFamily": "Fragment Mono",
+                  "fontSize": "11.5px",
+                  "height": "fit-content",
+                  "letterSpacing": "0.1em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00007e4a4a",
+                 "blockName": "Room Price",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "FROM €180 / NIGHT",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {
+                  "href": "rooms"
+                 },
+                 "baseStyles": {
+                  "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+                  "fontFamily": "Onest",
+                  "fontSize": "14px",
+                  "fontWeight": "500",
+                  "lineHeight": "1.4",
+                  "textDecoration": "none"
+                 },
+                 "blockId": "00007e4a4b",
+                 "blockName": "Room View",
+                 "children": [],
+                 "classes": [
+                  "td-link"
+                 ],
+                 "customAttributes": {},
+                 "element": "a",
+                 "innerHTML": "View →",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "td-frame",
+            "td-card",
+            "td-rise"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6001, #FBFAF7)",
+            "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "width": "calc(33.333% - 11px)"
+           },
+           "blockId": "00007e4a59",
+           "blockName": "Room Klit",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Room 02, Klit",
+              "loading": "lazy",
+              "src": "https://images.pexels.com/photos/8251692/pexels-photo-8251692.jpeg?auto=compress&cs=tinysrgb&w=1200"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "00007e4a4f",
+             "blockName": "Room Photo",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "4 / 3"
+             },
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0 0 0",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "8px",
+              "padding": "18px 20px",
+              "width": "100%"
+             },
+             "blockId": "00007e4a58",
+             "blockName": "Room Body",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "justifyContent": "space-between",
+                "width": "100%"
+               },
+               "blockId": "00007e4a52",
+               "blockName": "Room Name Row",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+                  "fontFamily": "Instrument Serif",
+                  "fontSize": "27px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "letterSpacing": "-0.01em",
+                  "lineHeight": "1.05",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00007e4a50",
+                 "blockName": "Room Name",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "h3",
+                 "innerHTML": "Klit",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+                  "fontFamily": "Fragment Mono",
+                  "fontSize": "11.5px",
+                  "height": "fit-content",
+                  "letterSpacing": "0.1em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00007e4a51",
+                 "blockName": "Room No",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "NO. 02",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+                "fontFamily": "Fragment Mono",
+                "fontSize": "11.5px",
+                "height": "fit-content",
+                "letterSpacing": "0.1em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00007e4a53",
+               "blockName": "Room Spec",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "18 M² · QUEEN · DUNE SIDE",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+                "borderStyle": "dashed",
+                "borderWidth": "1px 0 0 0",
+                "flexShrink": 0,
+                "height": "1px",
+                "marginBottom": "2px",
+                "marginTop": "10px",
+                "width": "100%"
+               },
+               "blockId": "00007e4a54",
+               "blockName": "Dashed Rule",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "justifyContent": "space-between",
+                "paddingTop": "10px",
+                "width": "100%"
+               },
+               "blockId": "00007e4a57",
+               "blockName": "Room Price Row",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+                  "fontFamily": "Fragment Mono",
+                  "fontSize": "11.5px",
+                  "height": "fit-content",
+                  "letterSpacing": "0.1em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00007e4a55",
+                 "blockName": "Room Price",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "FROM €150 / NIGHT",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {
+                  "href": "rooms"
+                 },
+                 "baseStyles": {
+                  "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+                  "fontFamily": "Onest",
+                  "fontSize": "14px",
+                  "fontWeight": "500",
+                  "lineHeight": "1.4",
+                  "textDecoration": "none"
+                 },
+                 "blockId": "00007e4a56",
+                 "blockName": "Room View",
+                 "children": [],
+                 "classes": [
+                  "td-link"
+                 ],
+                 "customAttributes": {},
+                 "element": "a",
+                 "innerHTML": "View →",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "td-frame",
+            "td-card",
+            "td-rise"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6001, #FBFAF7)",
+            "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "width": "calc(33.333% - 11px)"
+           },
+           "blockId": "00007e4a64",
+           "blockName": "Room Læ",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Room 03, Læ",
+              "loading": "lazy",
+              "src": "https://images.pexels.com/photos/7749046/pexels-photo-7749046.jpeg?auto=compress&cs=tinysrgb&w=1200"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "00007e4a5a",
+             "blockName": "Room Photo",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "4 / 3"
+             },
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+              "borderStyle": "solid",
+              "borderWidth": "1px 0 0 0",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "8px",
+              "padding": "18px 20px",
+              "width": "100%"
+             },
+             "blockId": "00007e4a63",
+             "blockName": "Room Body",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "justifyContent": "space-between",
+                "width": "100%"
+               },
+               "blockId": "00007e4a5d",
+               "blockName": "Room Name Row",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+                  "fontFamily": "Instrument Serif",
+                  "fontSize": "27px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "letterSpacing": "-0.01em",
+                  "lineHeight": "1.05",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00007e4a5b",
+                 "blockName": "Room Name",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "h3",
+                 "innerHTML": "Læ",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+                  "fontFamily": "Fragment Mono",
+                  "fontSize": "11.5px",
+                  "height": "fit-content",
+                  "letterSpacing": "0.1em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00007e4a5c",
+                 "blockName": "Room No",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "NO. 03",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+                "fontFamily": "Fragment Mono",
+                "fontSize": "11.5px",
+                "height": "fit-content",
+                "letterSpacing": "0.1em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00007e4a5e",
+               "blockName": "Room Spec",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "16 M² · QUEEN · GARDEN",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+                "borderStyle": "dashed",
+                "borderWidth": "1px 0 0 0",
+                "flexShrink": 0,
+                "height": "1px",
+                "marginBottom": "2px",
+                "marginTop": "10px",
+                "width": "100%"
+               },
+               "blockId": "00007e4a5f",
+               "blockName": "Dashed Rule",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "justifyContent": "space-between",
+                "paddingTop": "10px",
+                "width": "100%"
+               },
+               "blockId": "00007e4a62",
+               "blockName": "Room Price Row",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+                  "fontFamily": "Fragment Mono",
+                  "fontSize": "11.5px",
+                  "height": "fit-content",
+                  "letterSpacing": "0.1em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00007e4a60",
+                 "blockName": "Room Price",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "FROM €140 / NIGHT",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {
+                  "href": "rooms"
+                 },
+                 "baseStyles": {
+                  "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+                  "fontFamily": "Onest",
+                  "fontSize": "14px",
+                  "fontWeight": "500",
+                  "lineHeight": "1.4",
+                  "textDecoration": "none"
+                 },
+                 "blockId": "00007e4a61",
+                 "blockName": "Room View",
+                 "children": [],
+                 "classes": [
+                  "td-link"
+                 ],
+                 "customAttributes": {},
+                 "element": "a",
+                 "innerHTML": "View →",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "td-frame",
+            "td-card",
+            "td-rise"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6001, #FBFAF7)",
+        "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+        "borderStyle": "solid",
+        "borderWidth": "1px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "width": "100%"
+       },
+       "blockId": "00007e4a7d",
+       "blockName": "Day Box",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+          "fontFamily": "Fragment Mono",
+          "fontSize": "11.5px",
+          "height": "fit-content",
+          "letterSpacing": "0.1em",
+          "lineHeight": "1.5",
+          "minWidth": "10px",
+          "padding": "22px 26px 34px",
+          "width": "fit-content"
+         },
+         "blockId": "00007e4a67",
+         "blockName": "Day Label",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "THE DAY, ROUGHLY",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+          "borderStyle": "dashed",
+          "borderWidth": "1px 0 0 0",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "justifyContent": "space-between",
+          "margin": "0 26px",
+          "paddingBottom": "34px",
+          "width": "auto"
+         },
+         "blockId": "00007e4a7c",
+         "blockName": "Timeline",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "4px",
+            "maxWidth": "170px"
+           },
+           "blockId": "00007e4a6b",
+           "blockName": "Tick 07:12",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+              "flexShrink": 0,
+              "height": "12px",
+              "marginTop": "-7px",
+              "width": "1px"
+             },
+             "blockId": "00007e4a68",
+             "blockName": "Tick Mark",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "height": "1px",
+              "marginLeft": "-17px",
+              "marginTop": "0",
+              "width": "12px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+              "fontFamily": "Fragment Mono",
+              "fontSize": "11.5px",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "paddingTop": "12px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a69",
+             "blockName": "Tick Time",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "07:12",
+             "mobileStyles": {
+              "paddingTop": "0"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+              "fontFamily": "Onest",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a6a",
+             "blockName": "Tick Label",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Low tide. Best shells.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "gap": "2px",
+            "maxWidth": "100%",
+            "paddingLeft": "17px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "4px",
+            "maxWidth": "170px"
+           },
+           "blockId": "00007e4a6f",
+           "blockName": "Tick 08:30",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+              "flexShrink": 0,
+              "height": "12px",
+              "marginTop": "-7px",
+              "width": "1px"
+             },
+             "blockId": "00007e4a6c",
+             "blockName": "Tick Mark",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "height": "1px",
+              "marginLeft": "-17px",
+              "marginTop": "0",
+              "width": "12px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+              "fontFamily": "Fragment Mono",
+              "fontSize": "11.5px",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "paddingTop": "12px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a6d",
+             "blockName": "Tick Time",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "08:30",
+             "mobileStyles": {
+              "paddingTop": "0"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+              "fontFamily": "Onest",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a6e",
+             "blockName": "Tick Label",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Bread's out of the oven.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "gap": "2px",
+            "maxWidth": "100%",
+            "paddingLeft": "17px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "4px",
+            "maxWidth": "170px"
+           },
+           "blockId": "00007e4a73",
+           "blockName": "Tick 13:00",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+              "flexShrink": 0,
+              "height": "12px",
+              "marginTop": "-7px",
+              "width": "1px"
+             },
+             "blockId": "00007e4a70",
+             "blockName": "Tick Mark",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "height": "1px",
+              "marginLeft": "-17px",
+              "marginTop": "0",
+              "width": "12px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+              "fontFamily": "Fragment Mono",
+              "fontSize": "11.5px",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "paddingTop": "12px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a71",
+             "blockName": "Tick Time",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "13:00",
+             "mobileStyles": {
+              "paddingTop": "0"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+              "fontFamily": "Onest",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a72",
+             "blockName": "Tick Label",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Nothing scheduled.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "gap": "2px",
+            "maxWidth": "100%",
+            "paddingLeft": "17px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "4px",
+            "maxWidth": "170px"
+           },
+           "blockId": "00007e4a77",
+           "blockName": "Tick 16:00",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+              "flexShrink": 0,
+              "height": "12px",
+              "marginTop": "-7px",
+              "width": "1px"
+             },
+             "blockId": "00007e4a74",
+             "blockName": "Tick Mark",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "height": "1px",
+              "marginLeft": "-17px",
+              "marginTop": "0",
+              "width": "12px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+              "fontFamily": "Fragment Mono",
+              "fontSize": "11.5px",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "paddingTop": "12px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a75",
+             "blockName": "Tick Time",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "16:00",
+             "mobileStyles": {
+              "paddingTop": "0"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+              "fontFamily": "Onest",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a76",
+             "blockName": "Tick Label",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Sauna lit. Sea after.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "gap": "2px",
+            "maxWidth": "100%",
+            "paddingLeft": "17px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "4px",
+            "maxWidth": "170px"
+           },
+           "blockId": "00007e4a7b",
+           "blockName": "Tick 21:30",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+              "flexShrink": 0,
+              "height": "12px",
+              "marginTop": "-7px",
+              "width": "1px"
+             },
+             "blockId": "00007e4a78",
+             "blockName": "Tick Mark",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "height": "1px",
+              "marginLeft": "-17px",
+              "marginTop": "0",
+              "width": "12px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+              "fontFamily": "Fragment Mono",
+              "fontSize": "11.5px",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "paddingTop": "12px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a79",
+             "blockName": "Tick Time",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "21:30",
+             "mobileStyles": {
+              "paddingTop": "0"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+              "fontFamily": "Onest",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a7a",
+             "blockName": "Tick Label",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The light does its thing.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "gap": "2px",
+            "maxWidth": "100%",
+            "paddingLeft": "17px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "borderWidth": "0 0 0 1px",
+          "flexDirection": "column",
+          "gap": "22px",
+          "paddingBottom": "26px",
+          "paddingTop": "6px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6001, #FBFAF7)",
+        "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+        "borderStyle": "solid",
+        "borderWidth": "1px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "width": "100%"
+       },
+       "blockId": "00007e4a82",
+       "blockName": "Frame 05",
+       "children": [
+        {
+         "attributes": {
+          "alt": "The north sea, performing daily",
+          "loading": "lazy",
+          "src": "https://images.pexels.com/photos/632327/pexels-photo-632327.jpeg?auto=compress&cs=tinysrgb&w=2200"
+         },
+         "baseStyles": {
+          "display": "block",
+          "height": "auto",
+          "objectFit": "cover",
+          "width": "100%"
+         },
+         "blockId": "00007e4a7e",
+         "blockName": "Frame Photo",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "img",
+         "mobileStyles": {},
+         "rawStyles": {
+          "aspect-ratio": "21 / 8"
+         },
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+          "borderStyle": "solid",
+          "borderWidth": "1px 0 0 0",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "18px",
+          "justifyContent": "space-between",
+          "padding": "10px 14px",
+          "width": "100%"
+         },
+         "blockId": "00007e4a81",
+         "blockName": "Frame Caption",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6006, #3D647C)",
+            "fontFamily": "Fragment Mono",
+            "fontSize": "11.5px",
+            "height": "fit-content",
+            "letterSpacing": "0.1em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00007e4a7f",
+           "blockName": "Fig No",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "FIG. 05",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+            "fontFamily": "Fragment Mono",
+            "fontSize": "11.5px",
+            "height": "fit-content",
+            "letterSpacing": "0.1em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textAlign": "right",
+            "width": "fit-content"
+           },
+           "blockId": "00007e4a80",
+           "blockName": "Fig Caption",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "THE NORTH SEA, PERFORMING DAILY",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "td-frame",
+        "td-rise"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6001, #FBFAF7)",
+        "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+        "borderStyle": "solid",
+        "borderWidth": "1px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "width": "100%"
+       },
+       "blockId": "00007e4a86",
+       "blockName": "Quote Box",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "18px",
+          "padding": "72px 32px",
+          "width": "100%"
+         },
+         "blockId": "00007e4a85",
+         "blockName": "Quote Inner",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+            "fontFamily": "Instrument Serif",
+            "fontSize": "36px",
+            "fontStyle": "italic",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "1.25",
+            "maxWidth": "760px",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "00007e4a83",
+           "blockName": "Quote Text",
+           "children": [],
+           "classes": [
+            "td-rise"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "“We came for a weekend and left different people. Also, the bread.”",
+           "mobileStyles": {
+            "fontSize": "25px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+            "fontFamily": "Fragment Mono",
+            "fontSize": "11.5px",
+            "height": "fit-content",
+            "letterSpacing": "0.1em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "00007e4a84",
+           "blockName": "Quote Source",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "GUESTBOOK, P. 41",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "padding": "48px 22px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6005, #F2F0E9)",
+        "borderColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6004, #D8D6CE)",
+        "borderStyle": "solid",
+        "borderWidth": "1px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "width": "100%"
+       },
+       "blockId": "00007e4a96",
+       "blockName": "Stay Box",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "40px",
+          "justifyContent": "space-between",
+          "padding": "52px 56px",
+          "width": "100%"
+         },
+         "blockId": "00007e4a95",
+         "blockName": "Stay Row",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "10px"
+           },
+           "blockId": "00007e4a91",
+           "blockName": "Stay Text",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+              "fontFamily": "Instrument Serif",
+              "fontSize": "44px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "-0.01em",
+              "lineHeight": "1.05",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a8f",
+             "blockName": "Stay Title",
+             "children": [],
+             "classes": [
+              "td-rise"
+             ],
+             "customAttributes": {},
+             "element": "h2",
+             "innerHTML": "Stay a while.",
+             "mobileStyles": {
+              "fontSize": "32px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+              "fontFamily": "Onest",
+              "fontSize": "15.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "maxWidth": "380px",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a90",
+             "blockName": "Stay Sub",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Two nights minimum on weekends. The sea insists.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "flex-end",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "12px"
+           },
+           "blockId": "00007e4a94",
+           "blockName": "Stay Action",
+           "children": [
+            {
+             "attributes": {
+              "href": "mailto:stay@tidehouse.dk"
+             },
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6002, #1A1915)",
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6001, #FBFAF7)",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "fontFamily": "Fragment Mono",
+              "fontSize": "12px",
+              "justifyContent": "center",
+              "letterSpacing": "0.12em",
+              "lineHeight": "1",
+              "padding": "17px 30px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a92",
+             "blockName": "Book Cell",
+             "children": [],
+             "classes": [
+              "td-btn"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "BOOK A ROOM",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a3c47e91-5b28-4f06-9d13-7e2a8c4b6003, #75736B)",
+              "fontFamily": "Fragment Mono",
+              "fontSize": "11.5px",
+              "height": "fit-content",
+              "letterSpacing": "0.1em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00007e4a93",
+             "blockName": "Stay Note",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "REPLIES BY A PERSON, USUALLY METTE",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "alignItems": "flex-start"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "alignItems": "flex-start",
+          "flexDirection": "column",
+          "gap": "26px",
+          "padding": "32px 22px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00007e4a97",
+       "blockName": "Tide Footer",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00007e4a98",
+         "blockName": "Foot Cells",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00007e4a99",
+           "blockName": "Foot Brand",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00007e4a9a",
+             "blockName": "Foot Name",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tide_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00007e4a18",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00007e4a9b",
+             "blockName": "Foot Tag",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tide_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00007e4a19",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tide_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00007e4a1a",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00007e4a9c",
+           "blockName": "Foot Address",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00007e4a9d",
+             "blockName": "Foot Label A",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tide_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00007e4a1b",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00007e4a9e",
+             "blockName": "Foot Addr",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tide_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00007e4a1c",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tide_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00007e4a1d",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00007e4a9f",
+           "blockName": "Foot Contact",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00007e4aa0",
+             "blockName": "Foot Label B",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tide_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00007e4a1e",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00007e4aa1",
+             "blockName": "Foot Mail",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tide_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00007e4a1f",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00007e4aa2",
+             "blockName": "Foot Phone",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tide_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00007e4a20",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tide_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00007e4a21",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00007e4aa3",
+           "blockName": "Foot Times",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00007e4aa4",
+             "blockName": "Foot Label C",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tide_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00007e4a22",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00007e4aa5",
+             "blockName": "Foot In",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tide_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00007e4a23",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00007e4aa6",
+             "blockName": "Foot Out",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "tide_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00007e4a24",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tide_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00007e4a25",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "tide_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00007e4a26",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00007e4aa7",
+         "blockName": "Foot Bottom",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00007e4aa8",
+           "blockName": "Foot Copy",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tide_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00007e4a27",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00007e4aa9",
+           "blockName": "Foot Colophon",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "tide_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00007e4a28",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "tide_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00007e4a29",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "extendedFromComponent": "tide_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "gap": "12px",
+      "padding": "10px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "tide_styles"
+  },
+  {
+   "builder_script": "tide_motion"
+  }
+ ],
+ "creation": "2026-08-13 08:49:42.980429",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Six rooms behind the dunes on the Danish north coast. Bread in the morning, sauna at four, one long beach. Nothing to do, on purpose.",
+ "modified": "2026-08-13 08:49:42.980429",
+ "modified_by": "Administrator",
+ "name": "tide_home",
+ "owner": "Administrator",
+ "page_name": "tide_home",
+ "page_title": "Tide House · A guesthouse behind the dunes",
+ "preview": "/builder_assets/tide/tide_home/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/tide/home",
+ "template_group": "tide"
+}
