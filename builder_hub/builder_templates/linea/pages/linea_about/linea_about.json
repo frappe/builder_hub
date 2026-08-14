@@ -1,0 +1,1229 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--linea-bg,#F4F1EB)",
+    "color": "var(--linea-fg,#1B1712)",
+    "display": "flex",
+    "flexDirection": "column",
+    "fontFamily": "Jost",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "root",
+   "blockName": "Page",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {
+      "backgroundColor": "var(--linea-bg,#F4F1EB)",
+      "boxSizing": "border-box",
+      "display": "flex",
+      "justifyContent": "center",
+      "padding": "34px 48px",
+      "width": "100%"
+     },
+     "blockId": "li00192",
+     "blockName": "Nav",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "boxSizing": "border-box",
+        "display": "flex",
+        "justifyContent": "space-between",
+        "maxWidth": "1240px",
+        "width": "100%"
+       },
+       "blockId": "li00191",
+       "blockName": "NavInner",
+       "children": [
+        {
+         "attributes": {
+          "href": "/templates/linea/home"
+         },
+         "baseStyles": {
+          "color": "var(--linea-fg,#1B1712)",
+          "fontFamily": "Jost",
+          "fontSize": "18px",
+          "fontWeight": "500",
+          "letterSpacing": "0.34em",
+          "textTransform": "uppercase"
+         },
+         "blockId": "li00184",
+         "blockName": "Brand",
+         "classes": [],
+         "customAttributes": {},
+         "element": "a",
+         "innerHTML": "Linea",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "gap": "32px"
+         },
+         "blockId": "li00190",
+         "blockName": "NavRight",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "gap": "38px"
+           },
+           "blockId": "li00188",
+           "blockName": "Links",
+           "children": [
+            {
+             "attributes": {
+              "href": "/templates/linea/collections"
+             },
+             "baseStyles": {
+              "borderBottom": "1px solid transparent",
+              "color": "var(--linea-muted,#8A8073)",
+              "fontFamily": "Jost",
+              "fontSize": "12px",
+              "fontWeight": "500",
+              "letterSpacing": "0.2em",
+              "paddingBottom": "3px",
+              "textTransform": "uppercase"
+             },
+             "blockId": "li00185",
+             "blockName": "NL",
+             "classes": [
+              "u"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "Collections",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {
+              "href": "/templates/linea/about"
+             },
+             "baseStyles": {
+              "borderBottom": "1px solid var(--linea-fg,#1B1712)",
+              "color": "var(--linea-fg,#1B1712)",
+              "fontFamily": "Jost",
+              "fontSize": "12px",
+              "fontWeight": "500",
+              "letterSpacing": "0.2em",
+              "paddingBottom": "3px",
+              "textTransform": "uppercase"
+             },
+             "blockId": "li00186",
+             "blockName": "NL",
+             "classes": [
+              "u"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "About",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {
+              "href": "/templates/linea/contact"
+             },
+             "baseStyles": {
+              "borderBottom": "1px solid transparent",
+              "color": "var(--linea-muted,#8A8073)",
+              "fontFamily": "Jost",
+              "fontSize": "12px",
+              "fontWeight": "500",
+              "letterSpacing": "0.2em",
+              "paddingBottom": "3px",
+              "textTransform": "uppercase"
+             },
+             "blockId": "li00187",
+             "blockName": "NL",
+             "classes": [
+              "u"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "Contact",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "nav-links"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "aria-label": "Toggle theme",
+            "data-theme-toggle": "1"
+           },
+           "baseStyles": {
+            "borderBottom": "1px solid transparent",
+            "paddingBottom": "3px"
+           },
+           "blockId": "li00189",
+           "blockName": "Tog",
+           "classes": [],
+           "customAttributes": {},
+           "element": "button",
+           "innerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z\"/></svg>",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "nav",
+     "mobileStyles": {
+      "padding": "24px 22px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--linea-bg,#F4F1EB)",
+      "boxSizing": "border-box",
+      "display": "flex",
+      "flexDirection": "column",
+      "padding": "90px 48px 90px",
+      "width": "100%"
+     },
+     "blockId": "li00163",
+     "blockName": "Statement",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "flex-start",
+        "boxSizing": "border-box",
+        "display": "flex",
+        "flexDirection": "column",
+        "maxWidth": "1240px",
+        "width": "100%"
+       },
+       "blockId": "li00162",
+       "blockName": "Wrap",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--linea-muted,#8A8073)",
+          "fontFamily": "Jost",
+          "fontSize": "11px",
+          "fontWeight": "500",
+          "letterSpacing": "0.24em",
+          "textTransform": "uppercase"
+         },
+         "blockId": "li00160",
+         "blockName": "Label",
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "innerHTML": "About",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--linea-fg,#1B1712)",
+          "fontFamily": "Jost",
+          "fontSize": "46px",
+          "fontWeight": "300",
+          "letterSpacing": "-0.01em",
+          "lineHeight": "1.06",
+          "margin": "0px",
+          "marginTop": "30px",
+          "maxWidth": "980px"
+         },
+         "blockId": "li00161",
+         "blockName": "Display",
+         "classes": [],
+         "customAttributes": {},
+         "element": "h1",
+         "innerHTML": "Linea is a small London label making considered everyday clothing from natural, traceable fabrics.",
+         "mobileStyles": {
+          "fontSize": "30px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "section",
+     "mobileStyles": {
+      "padding": "50px 22px 60px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--linea-bg,#F4F1EB)",
+      "boxSizing": "border-box",
+      "display": "flex",
+      "flexDirection": "column",
+      "padding": "0 48px 110px",
+      "width": "100%"
+     },
+     "blockId": "li00172",
+     "blockName": "Story",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "boxSizing": "border-box",
+        "display": "grid",
+        "gap": "70px",
+        "gridTemplateColumns": "1fr 1fr",
+        "maxWidth": "1240px",
+        "width": "100%"
+       },
+       "blockId": "li00171",
+       "blockName": "Split",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "aspectRatio": "4 / 5",
+          "backgroundColor": "var(--linea-card,#EEEAE1)",
+          "overflow": "hidden",
+          "width": "100%"
+         },
+         "blockId": "li00165",
+         "blockName": "Frame",
+         "children": [
+          {
+           "attributes": {
+            "alt": "",
+            "loading": "lazy",
+            "src": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&q=80&w=1100"
+           },
+           "baseStyles": {
+            "display": "block",
+            "height": "100%",
+            "objectFit": "cover",
+            "width": "100%"
+           },
+           "blockId": "li00164",
+           "blockName": "Img",
+           "classes": [],
+           "customAttributes": {},
+           "element": "img",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "gap": "22px",
+          "justifyContent": "center"
+         },
+         "blockId": "li00170",
+         "blockName": "AR",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-muted,#8A8073)",
+            "fontFamily": "Jost",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "letterSpacing": "0.24em",
+            "textTransform": "uppercase"
+           },
+           "blockId": "li00166",
+           "blockName": "Label",
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "innerHTML": "The atelier",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-fg,#1B1712)",
+            "fontFamily": "Jost",
+            "fontSize": "36px",
+            "fontWeight": "300",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "1.06",
+            "margin": "0px",
+            "maxWidth": "420px"
+           },
+           "blockId": "li00167",
+           "blockName": "Display",
+           "classes": [],
+           "customAttributes": {},
+           "element": "h2",
+           "innerHTML": "Cut and finished<br/>by hand.",
+           "mobileStyles": {
+            "fontSize": "28px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "margin": "0px"
+           },
+           "blockId": "li00168",
+           "blockName": "Text",
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Founded in 2019, the studio works to a simple brief: design fewer garments and make them properly. Patterns are drafted in-house and sampled on the rail before anything goes into production.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "1.75",
+            "margin": "0px"
+           },
+           "blockId": "li00169",
+           "blockName": "Text",
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "We produce in small runs with a family-run maker in Portugal, choosing deadstock and certified natural fibres wherever we can.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "split"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "section",
+     "mobileStyles": {
+      "padding": "0 22px 70px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--linea-bg,#F4F1EB)",
+      "boxSizing": "border-box",
+      "display": "flex",
+      "flexDirection": "column",
+      "padding": "0 48px 130px",
+      "width": "100%"
+     },
+     "blockId": "li00183",
+     "blockName": "Values",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "boxSizing": "border-box",
+        "display": "grid",
+        "gap": "48px",
+        "gridTemplateColumns": "repeat(3,1fr)",
+        "maxWidth": "1240px",
+        "width": "100%"
+       },
+       "blockId": "li00182",
+       "blockName": "VG",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderTop": "1px solid var(--linea-border,#E4DED3)",
+          "display": "flex",
+          "flexDirection": "column",
+          "gap": "14px",
+          "paddingTop": "26px"
+         },
+         "blockId": "li00175",
+         "blockName": "V",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-fg,#1B1712)",
+            "fontFamily": "Jost",
+            "fontSize": "18px"
+           },
+           "blockId": "li00173",
+           "blockName": "Vt",
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "innerHTML": "Material",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "lineHeight": "1.7",
+            "margin": "0px"
+           },
+           "blockId": "li00174",
+           "blockName": "Text",
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Natural, traceable fibres. Deadstock and certified mills, chosen for how they wear and age.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderTop": "1px solid var(--linea-border,#E4DED3)",
+          "display": "flex",
+          "flexDirection": "column",
+          "gap": "14px",
+          "paddingTop": "26px"
+         },
+         "blockId": "li00178",
+         "blockName": "V",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-fg,#1B1712)",
+            "fontFamily": "Jost",
+            "fontSize": "18px"
+           },
+           "blockId": "li00176",
+           "blockName": "Vt",
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "innerHTML": "Craft",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "lineHeight": "1.7",
+            "margin": "0px"
+           },
+           "blockId": "li00177",
+           "blockName": "Text",
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Patterns drafted in-house, sampled by hand, and produced in small runs with a single maker.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderTop": "1px solid var(--linea-border,#E4DED3)",
+          "display": "flex",
+          "flexDirection": "column",
+          "gap": "14px",
+          "paddingTop": "26px"
+         },
+         "blockId": "li00181",
+         "blockName": "V",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-fg,#1B1712)",
+            "fontFamily": "Jost",
+            "fontSize": "18px"
+           },
+           "blockId": "li00179",
+           "blockName": "Vt",
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "innerHTML": "Longevity",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "lineHeight": "1.7",
+            "margin": "0px"
+           },
+           "blockId": "li00180",
+           "blockName": "Text",
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Repairs offered on every garment. Clothing designed to stay in a wardrobe, not a landfill.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "grid3"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "section",
+     "mobileStyles": {
+      "padding": "0 22px 90px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "var(--linea-bg,#F4F1EB)",
+      "boxSizing": "border-box",
+      "display": "flex",
+      "flexDirection": "column",
+      "padding": "80px 48px 48px",
+      "width": "100%"
+     },
+     "blockId": "li00215",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "boxSizing": "border-box",
+        "display": "grid",
+        "gap": "48px",
+        "gridTemplateColumns": "2fr 1fr 1fr 1fr",
+        "maxWidth": "1240px",
+        "width": "100%"
+       },
+       "blockId": "li00211",
+       "blockName": "FG",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "gap": "18px"
+         },
+         "blockId": "li00195",
+         "blockName": "FBrand",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-fg,#1B1712)",
+            "fontFamily": "Jost",
+            "fontSize": "22px",
+            "fontWeight": "500",
+            "letterSpacing": "0.34em",
+            "textTransform": "uppercase"
+           },
+           "blockId": "li00193",
+           "blockName": "FN",
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "innerHTML": "Linea",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "14px",
+            "fontWeight": "400",
+            "lineHeight": "1.7",
+            "margin": "0px",
+            "maxWidth": "340px"
+           },
+           "blockId": "li00194",
+           "blockName": "Text",
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "A quiet, made-to-last wardrobe. Designed and cut in London, produced in small runs.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "gap": "14px"
+         },
+         "blockId": "li00200",
+         "blockName": "FC",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-muted,#8A8073)",
+            "fontFamily": "Jost",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "letterSpacing": "0.24em",
+            "textTransform": "uppercase"
+           },
+           "blockId": "li00196",
+           "blockName": "Label",
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "innerHTML": "Shop",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "/templates/linea/collections"
+           },
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "14px"
+           },
+           "blockId": "li00197",
+           "blockName": "FL",
+           "classes": [
+            "u"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "Collections",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "/templates/linea/collections"
+           },
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "14px"
+           },
+           "blockId": "li00198",
+           "blockName": "FL",
+           "classes": [
+            "u"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "Lookbook",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "/templates/linea/contact"
+           },
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "14px"
+           },
+           "blockId": "li00199",
+           "blockName": "FL",
+           "classes": [
+            "u"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "Stockists",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "gap": "14px"
+         },
+         "blockId": "li00205",
+         "blockName": "FC",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-muted,#8A8073)",
+            "fontFamily": "Jost",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "letterSpacing": "0.24em",
+            "textTransform": "uppercase"
+           },
+           "blockId": "li00201",
+           "blockName": "Label",
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "innerHTML": "Studio",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "/templates/linea/about"
+           },
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "14px"
+           },
+           "blockId": "li00202",
+           "blockName": "FL",
+           "classes": [
+            "u"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "About",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "/templates/linea/contact"
+           },
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "14px"
+           },
+           "blockId": "li00203",
+           "blockName": "FL",
+           "classes": [
+            "u"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "Contact",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "/templates/linea/contact"
+           },
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "14px"
+           },
+           "blockId": "li00204",
+           "blockName": "FL",
+           "classes": [
+            "u"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "Press",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "gap": "14px"
+         },
+         "blockId": "li00210",
+         "blockName": "FC",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--linea-muted,#8A8073)",
+            "fontFamily": "Jost",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "letterSpacing": "0.24em",
+            "textTransform": "uppercase"
+           },
+           "blockId": "li00206",
+           "blockName": "Label",
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "innerHTML": "Follow",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "#"
+           },
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "14px"
+           },
+           "blockId": "li00207",
+           "blockName": "FL",
+           "classes": [
+            "u"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "Instagram",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "#"
+           },
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "14px"
+           },
+           "blockId": "li00208",
+           "blockName": "FL",
+           "classes": [
+            "u"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "Newsletter",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "mailto:studio@linea.co"
+           },
+           "baseStyles": {
+            "color": "var(--linea-ink,#3A342B)",
+            "fontFamily": "Jost",
+            "fontSize": "14px"
+           },
+           "blockId": "li00209",
+           "blockName": "FL",
+           "classes": [
+            "u"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "studio@linea.co",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "grid2"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "gap": "32px",
+        "gridTemplateColumns": "1fr 1fr"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "borderTop": "1px solid var(--linea-border,#E4DED3)",
+        "boxSizing": "border-box",
+        "display": "flex",
+        "justifyContent": "space-between",
+        "marginTop": "56px",
+        "maxWidth": "1240px",
+        "paddingTop": "22px",
+        "width": "100%"
+       },
+       "blockId": "li00214",
+       "blockName": "FBot",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--linea-muted,#8A8073)",
+          "fontFamily": "Jost",
+          "fontSize": "12px",
+          "letterSpacing": "0.04em"
+         },
+         "blockId": "li00212",
+         "blockName": "Cp",
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "innerHTML": "&copy; 2026 Linea. All rights reserved.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--linea-muted,#8A8073)",
+          "fontFamily": "Jost",
+          "fontSize": "12px",
+          "letterSpacing": "0.04em"
+         },
+         "blockId": "li00213",
+         "blockName": "Cp2",
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "innerHTML": "London",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "section",
+     "mobileStyles": {
+      "padding": "56px 22px 40px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "body",
+   "mobileStyles": {},
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "linea_styles"
+  },
+  {
+   "builder_script": "linea_theme"
+  }
+ ],
+ "creation": "2026-07-03 15:23:27.420096",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "head_html": "",
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "modified": "2026-07-03 15:23:27.434652",
+ "modified_by": "Administrator",
+ "name": "linea_about",
+ "owner": "Administrator",
+ "page_name": "linea_about",
+ "page_title": "About · Linea",
+ "preview": "/builder_assets/linea/linea_about/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/linea/about",
+ "template_group": "linea"
+}
