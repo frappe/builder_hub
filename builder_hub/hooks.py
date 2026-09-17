@@ -207,7 +207,10 @@ after_migrate = "builder_hub.install.after_migrate"
 # ----------------
 # before_request = ["builder_hub.utils.before_request"]
 # after_request = ["builder_hub.utils.after_request"]
-after_request = ["builder_hub.api.allow_template_embedding"]
+after_request = [
+	"builder_hub.api.allow_template_embedding",
+	"builder_hub.assets.set_asset_cache_headers",
+]
 
 # Job Events
 # ----------
