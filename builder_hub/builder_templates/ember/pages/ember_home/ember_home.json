@@ -1,0 +1,3772 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a01, #141110)",
+    "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Figtree",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "44aa7aaf03",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "87e1849dc2",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "8d03bace28",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "778357c1d2",
+         "blockName": "Nav Left",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "fa99946226",
+           "blockName": "Nav Menu",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "7293946bac",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0832be3ee5",
+           "blockName": "Nav About",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9a6f4df14a",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "25e4628aeb",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "ede25a4eaa",
+         "blockName": "Brand",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "0a0e74a9cb",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "9efd4b7db0",
+         "blockName": "Nav Right",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "f553502c15",
+           "blockName": "Nav Contact",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "8c3d1ce666",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "119d8faab3",
+           "blockName": "Nav Reserve",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "f35940e634",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "a8b8e45708",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "bd963d7906",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "ember_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "display": "flex",
+      "flexDirection": "row",
+      "flexShrink": 0,
+      "minHeight": "88vh",
+      "width": "100%"
+     },
+     "blockId": "b88103012b",
+     "blockName": "Hero",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexBasis": "58%",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 1,
+        "gap": "30px",
+        "justifyContent": "center",
+        "padding": "96px 72px 96px 88px"
+       },
+       "blockId": "ebe1971ee6",
+       "blockName": "Hero Copy",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "width": "fit-content"
+         },
+         "blockId": "dbf284f05b",
+         "blockName": "Hero Eyebrow Wrap",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "14px",
+            "width": "fit-content"
+           },
+           "blockId": "39fd7db423",
+           "blockName": "Eyebrow",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "flexShrink": 0,
+              "height": "1px",
+              "width": "36px"
+             },
+             "blockId": "56bda08940",
+             "blockName": "Eyebrow Rule",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "fontFamily": "Figtree",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "37eea77b1b",
+             "blockName": "Eyebrow Text",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Wood-fired tasting room, est. 2019",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "width": "100%"
+         },
+         "blockId": "7998ce4c0d",
+         "blockName": "Hero Headline Wrap",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+            "fontFamily": "Fraunces",
+            "fontSize": "92px",
+            "fontWeight": "380",
+            "height": "fit-content",
+            "letterSpacing": "-0.025em",
+            "lineHeight": "1.0",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "0025d4fe41",
+           "blockName": "Hero Headline",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "One fire,<br>seven courses,<br><i>no shortcuts.</i>",
+           "mobileStyles": {
+            "fontSize": "42px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {
+            "fontSize": "64px"
+           }
+          }
+         ],
+         "classes": [
+          "em-rise",
+          "em-d2"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "width": "100%"
+         },
+         "blockId": "c8382f2dae",
+         "blockName": "Hero Promise Wrap",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "fontFamily": "Figtree",
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.75",
+            "maxWidth": "470px",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "7b96b2c1f7",
+           "blockName": "Hero Promise",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Ember is a 24-seat tasting room cooked entirely over a single open hearth. No gas, no electric, no tricks. Just oak, smoke and time.",
+           "mobileStyles": {
+            "fontSize": "15px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-rise",
+          "em-d3"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "width": "fit-content"
+         },
+         "blockId": "da70932bc2",
+         "blockName": "Hero CTA Wrap",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "22px",
+            "marginTop": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "936a20728d",
+           "blockName": "Hero CTAs",
+           "children": [
+            {
+             "attributes": {
+              "href": "contact"
+             },
+             "baseStyles": {
+              "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "borderRadius": "999px",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "color": "#16100C",
+              "flexShrink": 0,
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "padding": "16px 28px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "a17cde23b2",
+             "blockName": "Hero Reserve",
+             "children": [],
+             "classes": [
+              "em-btn"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "Reserve a table",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {
+              "href": "menu"
+             },
+             "baseStyles": {
+              "alignItems": "center",
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "display": "flex",
+              "flexDirection": "row",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontWeight": "500",
+              "gap": "8px",
+              "height": "fit-content",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "3d221ea754",
+             "blockName": "Hero Menu Link",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                "fontFamily": "Figtree",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "22f675e3bb",
+               "blockName": "Menu Link Text",
+               "children": [],
+               "classes": [
+                "em-ul"
+               ],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Tonight's menu",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                "fontFamily": "Figtree",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.2",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "f70ce66d9b",
+               "blockName": "Menu Link Arrow",
+               "children": [],
+               "classes": [
+                "em-arrow"
+               ],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "→",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "em-cta"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "alignItems": "flex-start",
+            "flexDirection": "column",
+            "gap": "14px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-rise",
+          "em-d4"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "gap": "22px",
+        "padding": "56px 22px 48px 22px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "flexBasis": "auto",
+        "padding": "72px 40px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexBasis": "42%",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "overflow": "hidden",
+        "position": "relative"
+       },
+       "blockId": "0e2ecbbb5b",
+       "blockName": "Hero Photo Pane",
+       "children": [
+        {
+         "attributes": {
+          "alt": "The chef working the pass under copper lamps",
+          "src": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&q=80&w=1600"
+         },
+         "baseStyles": {
+          "display": "block",
+          "flexShrink": 0,
+          "height": "100%",
+          "objectFit": "cover",
+          "width": "100%"
+         },
+         "blockId": "a2a9257727",
+         "blockName": "Hero Photo",
+         "children": [],
+         "classes": [
+          "em-kb"
+         ],
+         "customAttributes": {},
+         "element": "img",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "backgroundColor": "rgba(20, 17, 16, 0.55)",
+          "borderRadius": "999px",
+          "bottom": "26px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "8px",
+          "left": "26px",
+          "padding": "9px 16px",
+          "position": "absolute",
+          "width": "fit-content",
+          "zIndex": "2"
+         },
+         "blockId": "042802f297",
+         "blockName": "Hero Caption",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "borderRadius": "999px",
+            "flexShrink": 0,
+            "height": "6px",
+            "width": "6px"
+           },
+           "blockId": "cc4670b7a8",
+           "blockName": "Caption Dot",
+           "children": [],
+           "classes": [
+            "em-pulse"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+            "fontFamily": "Figtree",
+            "fontSize": "11px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.14em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "width": "fit-content"
+           },
+           "blockId": "54f5897e5a",
+           "blockName": "Caption Text",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "The hearth, lit at 3 pm daily",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {
+          "backdrop-filter": "blur(8px)"
+         },
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "height": "320px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "flexBasis": "auto",
+        "height": "440px",
+        "width": "100%"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {
+      "flexDirection": "column",
+      "minHeight": "0px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+      "borderStyle": "solid",
+      "borderWidth": "1px 0px 1px 0px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "overflow": "hidden",
+      "padding": "15px 0px",
+      "width": "100%"
+     },
+     "blockId": "e1238d98d8",
+     "blockName": "Hours Marquee",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "width": "max-content"
+       },
+       "blockId": "cb6be906e1",
+       "blockName": "Marquee Track",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "48px",
+          "padding": "0px 24px",
+          "width": "fit-content"
+         },
+         "blockId": "a6f398ffdd",
+         "blockName": "Marquee Run A",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.18em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "8adc60f4af",
+           "blockName": "Run A Item 0",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Open Wednesday to Sunday, 6 pm to 11 pm",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "11px",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "7ac0699b21",
+           "blockName": "Run A Dot 0",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "✦",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.18em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "7c45977970",
+           "blockName": "Run A Item 1",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "14 Coal Yard Lane, Shoreditch",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "11px",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "30eccfdff2",
+           "blockName": "Run A Dot 1",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "✦",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.18em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "ffd22076f6",
+           "blockName": "Run A Item 2",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Reservations essential",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "11px",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "e9c784c626",
+           "blockName": "Run A Dot 2",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "✦",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.18em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "80899958e0",
+           "blockName": "Run A Item 3",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "The menu changes with the market",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "11px",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "f7429b2a1f",
+           "blockName": "Run A Dot 3",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "✦",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.18em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "c8281eec46",
+           "blockName": "Run A Item 4",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "One hearth, no gas line",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "11px",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "9e5096c1c4",
+           "blockName": "Run A Dot 4",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "✦",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "48px",
+          "padding": "0px 24px",
+          "width": "fit-content"
+         },
+         "blockId": "8d67056259",
+         "blockName": "Marquee Run B",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.18em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "f1a5f8b41f",
+           "blockName": "Run B Item 0",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Open Wednesday to Sunday, 6 pm to 11 pm",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "11px",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "827cd0aa6f",
+           "blockName": "Run B Dot 0",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "✦",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.18em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "9433de6fc6",
+           "blockName": "Run B Item 1",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "14 Coal Yard Lane, Shoreditch",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "11px",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "09fe20170f",
+           "blockName": "Run B Dot 1",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "✦",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.18em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "62d67fc663",
+           "blockName": "Run B Item 2",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Reservations essential",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "11px",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "6e27da9399",
+           "blockName": "Run B Dot 2",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "✦",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.18em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "1985a17664",
+           "blockName": "Run B Item 3",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "The menu changes with the market",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "11px",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "fa989b14c4",
+           "blockName": "Run B Dot 3",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "✦",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.18em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "textTransform": "uppercase",
+            "whiteSpace": "nowrap",
+            "width": "fit-content"
+           },
+           "blockId": "dc03e5eec2",
+           "blockName": "Run B Item 4",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "One hearth, no gas line",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "flexShrink": 0,
+            "fontFamily": "Figtree",
+            "fontSize": "11px",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "cca3799ce8",
+           "blockName": "Run B Dot 4",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "✦",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "em-marquee-track"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [
+      "em-marquee"
+     ],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "128px 0px",
+      "width": "100%"
+     },
+     "blockId": "8a21b02b92",
+     "blockName": "Tonight Section",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "1280px",
+        "padding": "0px 64px",
+        "width": "100%"
+       },
+       "blockId": "7647171c9b",
+       "blockName": "Tonight Container",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "flex-end",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "20px",
+          "justifyContent": "space-between",
+          "marginBottom": "44px",
+          "width": "100%"
+         },
+         "blockId": "98e8b43da7",
+         "blockName": "Tonight Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "16px",
+            "width": "fit-content"
+           },
+           "blockId": "93a352466e",
+           "blockName": "Tonight Title Stack",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "14px",
+              "width": "fit-content"
+             },
+             "blockId": "e7cfb81b53",
+             "blockName": "Eyebrow",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                "flexShrink": 0,
+                "height": "1px",
+                "width": "36px"
+               },
+               "blockId": "a35fb2d64d",
+               "blockName": "Eyebrow Rule",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                "fontFamily": "Figtree",
+                "fontSize": "11.5px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.24em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "746e9a028c",
+               "blockName": "Eyebrow Text",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Tonight at the hearth",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Fraunces",
+              "fontSize": "46px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "-0.02em",
+              "lineHeight": "1.1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "6fcd45c2db",
+             "blockName": "Tonight Title",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "What the fire is <i>saying.</i>",
+             "mobileStyles": {
+              "fontSize": "32px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "em-rise"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "menu"
+           },
+           "baseStyles": {
+            "alignItems": "center",
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "8px",
+            "height": "fit-content",
+            "textDecoration": "none",
+            "width": "fit-content"
+           },
+           "blockId": "7e2ac3d70d",
+           "blockName": "Tonight Link",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Figtree",
+              "fontSize": "14.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "f1d951f443",
+             "blockName": "Tonight Link Text",
+             "children": [],
+             "classes": [
+              "em-ul"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The full menu",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "fontFamily": "Figtree",
+              "fontSize": "15px",
+              "height": "fit-content",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "f45ccacd40",
+             "blockName": "Tonight Link Arrow",
+             "children": [],
+             "classes": [
+              "em-arrow"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "→",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "em-cta",
+            "em-rise",
+            "em-d2"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "alignItems": "flex-start",
+          "flexDirection": "column",
+          "gap": "14px",
+          "marginBottom": "30px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "26px",
+          "width": "100%"
+         },
+         "blockId": "5930b5ba24",
+         "blockName": "Dish Grid",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a02, #201B18)",
+            "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+            "borderRadius": "16px",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "overflow": "hidden"
+           },
+           "blockId": "38ce80f2ca",
+           "blockName": "Dish Card 1",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "overflow": "hidden",
+              "width": "100%"
+             },
+             "blockId": "e3a61af701",
+             "blockName": "Dish Photo Frame 1",
+             "children": [
+              {
+               "attributes": {
+                "alt": "Aged sirloin, ember butter",
+                "src": "https://images.unsplash.com/photo-1504973960431-1c467e159aa4?auto=format&fit=crop&q=80&w=1200"
+               },
+               "baseStyles": {
+                "aspectRatio": "4 / 3",
+                "display": "block",
+                "flexShrink": 0,
+                "objectFit": "cover",
+                "width": "100%"
+               },
+               "blockId": "5ca161d3a7",
+               "blockName": "Dish Photo 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "img",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "10px",
+              "padding": "26px 28px 30px 28px"
+             },
+             "blockId": "399649cad6",
+             "blockName": "Dish Body 1",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                "fontFamily": "Figtree",
+                "fontSize": "10.5px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.22em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "d94c1a3187",
+               "blockName": "Dish Tag 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Course V",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                "fontFamily": "Fraunces",
+                "fontSize": "24px",
+                "fontWeight": "450",
+                "height": "fit-content",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "1.25",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "b0f0e93022",
+               "blockName": "Dish Title 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Aged sirloin, ember butter",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                "fontFamily": "Figtree",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "50ef44df02",
+               "blockName": "Dish Desc 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Forty days in the dry room, forty seconds on white oak coals.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "padding": "20px 20px 24px 20px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "em-rise",
+            "em-d1",
+            "em-lift",
+            "em-zoom"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a02, #201B18)",
+            "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+            "borderRadius": "16px",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "overflow": "hidden"
+           },
+           "blockId": "012edec8c4",
+           "blockName": "Dish Card 2",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "overflow": "hidden",
+              "width": "100%"
+             },
+             "blockId": "0251067211",
+             "blockName": "Dish Photo Frame 2",
+             "children": [
+              {
+               "attributes": {
+                "alt": "Duck, burnt honey",
+                "src": "https://images.unsplash.com/photo-1558030006-450675393462?auto=format&fit=crop&q=80&w=1200"
+               },
+               "baseStyles": {
+                "aspectRatio": "4 / 3",
+                "display": "block",
+                "flexShrink": 0,
+                "objectFit": "cover",
+                "width": "100%"
+               },
+               "blockId": "986a1e15be",
+               "blockName": "Dish Photo 2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "img",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "10px",
+              "padding": "26px 28px 30px 28px"
+             },
+             "blockId": "120fc13cf1",
+             "blockName": "Dish Body 2",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                "fontFamily": "Figtree",
+                "fontSize": "10.5px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.22em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "c1eb57853b",
+               "blockName": "Dish Tag 2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Course IV",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                "fontFamily": "Fraunces",
+                "fontSize": "24px",
+                "fontWeight": "450",
+                "height": "fit-content",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "1.25",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "92fa8ca6df",
+               "blockName": "Dish Title 2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Duck, burnt honey",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                "fontFamily": "Figtree",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "e25f2ec1e3",
+               "blockName": "Dish Desc 2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Rested over the dying fire until the skin turns to lacquer.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "padding": "20px 20px 24px 20px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "em-rise",
+            "em-d2",
+            "em-lift",
+            "em-zoom"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a02, #201B18)",
+            "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+            "borderRadius": "16px",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "overflow": "hidden"
+           },
+           "blockId": "2b0dd4ddad",
+           "blockName": "Dish Card 3",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "overflow": "hidden",
+              "width": "100%"
+             },
+             "blockId": "8939357432",
+             "blockName": "Dish Photo Frame 3",
+             "children": [
+              {
+               "attributes": {
+                "alt": "Smoked caramel custard",
+                "src": "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&q=80&w=1200"
+               },
+               "baseStyles": {
+                "aspectRatio": "4 / 3",
+                "display": "block",
+                "flexShrink": 0,
+                "objectFit": "cover",
+                "width": "100%"
+               },
+               "blockId": "f0f719042c",
+               "blockName": "Dish Photo 3",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "img",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "10px",
+              "padding": "26px 28px 30px 28px"
+             },
+             "blockId": "e1753050d0",
+             "blockName": "Dish Body 3",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+                "fontFamily": "Figtree",
+                "fontSize": "10.5px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.22em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "50e7a4dc45",
+               "blockName": "Dish Tag 3",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Course VII",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+                "fontFamily": "Fraunces",
+                "fontSize": "24px",
+                "fontWeight": "450",
+                "height": "fit-content",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "1.25",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "e47feb8001",
+               "blockName": "Dish Title 3",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Smoked caramel custard",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+                "fontFamily": "Figtree",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "a11ac501e5",
+               "blockName": "Dish Desc 3",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Set beside the embers, sauced without apology at the table.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "padding": "20px 20px 24px 20px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "em-rise",
+            "em-d3",
+            "em-lift",
+            "em-zoom"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {
+            "flexBasis": "auto"
+           }
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {
+          "flexDirection": "column"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "0px 22px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 40px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "72px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "96px 0px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+      "borderStyle": "solid",
+      "borderWidth": "1px 0px 0px 0px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "120px 0px 96px 0px",
+      "width": "100%"
+     },
+     "blockId": "a4c61ca4d8",
+     "blockName": "Courses Section",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "flex-end",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "20px",
+        "justifyContent": "space-between",
+        "marginBottom": "44px",
+        "maxWidth": "1280px",
+        "padding": "0px 64px",
+        "width": "100%"
+       },
+       "blockId": "30cf524a43",
+       "blockName": "Courses Head",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "16px",
+          "width": "fit-content"
+         },
+         "blockId": "b4d6fc2420",
+         "blockName": "Courses Title Stack",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "14px",
+            "width": "fit-content"
+           },
+           "blockId": "a6b2a9fe29",
+           "blockName": "Eyebrow",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "flexShrink": 0,
+              "height": "1px",
+              "width": "36px"
+             },
+             "blockId": "1e0a342cc5",
+             "blockName": "Eyebrow Rule",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+              "fontFamily": "Figtree",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "0ba9ee0101",
+             "blockName": "Eyebrow Text",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The courses",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+            "fontFamily": "Fraunces",
+            "fontSize": "46px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "-0.02em",
+            "lineHeight": "1.1",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "46d81b26c6",
+           "blockName": "Courses Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Seven acts, <i>one fire.</i>",
+           "mobileStyles": {
+            "fontSize": "32px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+          "flexShrink": 0,
+          "fontFamily": "Figtree",
+          "fontSize": "12px",
+          "fontWeight": "500",
+          "height": "fit-content",
+          "letterSpacing": "0.18em",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "6e649d98ce",
+         "blockName": "Courses Hint",
+         "children": [],
+         "classes": [
+          "em-rise",
+          "em-d2"
+         ],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Scroll →",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "alignItems": "flex-start",
+        "flexDirection": "column",
+        "gap": "14px",
+        "marginBottom": "30px",
+        "padding": "0px 22px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "0px 40px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "22px",
+        "overflowX": "auto",
+        "padding": "6px 64px 24px 64px",
+        "scrollPaddingLeft": "64px",
+        "width": "100%"
+       },
+       "blockId": "b3fbc1bcb8",
+       "blockName": "Courses Strip",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a02, #201B18)",
+          "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+          "borderRadius": "16px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "40px",
+          "justifyContent": "space-between",
+          "minHeight": "240px",
+          "padding": "30px 32px",
+          "width": "300px"
+         },
+         "blockId": "f3ba250eb8",
+         "blockName": "Course I",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "fontFamily": "Fraunces",
+            "fontSize": "44px",
+            "fontStyle": "italic",
+            "fontWeight": "350",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "2d6c44f882",
+           "blockName": "Course Numeral I",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "I",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "8px"
+           },
+           "blockId": "989caf660a",
+           "blockName": "Course Text I",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Fraunces",
+              "fontSize": "22px",
+              "fontWeight": "450",
+              "height": "fit-content",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "9736b73faa",
+             "blockName": "Course Title I",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Bread",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "5157bca222",
+             "blockName": "Course Desc I",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Baked in the falling ash as you sit down.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-lift"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "minHeight": "210px",
+          "padding": "24px 24px",
+          "width": "250px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a02, #201B18)",
+          "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+          "borderRadius": "16px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "40px",
+          "justifyContent": "space-between",
+          "minHeight": "240px",
+          "padding": "30px 32px",
+          "width": "300px"
+         },
+         "blockId": "7f5853874e",
+         "blockName": "Course II",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "fontFamily": "Fraunces",
+            "fontSize": "44px",
+            "fontStyle": "italic",
+            "fontWeight": "350",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "b811344c01",
+           "blockName": "Course Numeral II",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "II",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "8px"
+           },
+           "blockId": "8b983d79b0",
+           "blockName": "Course Text II",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Fraunces",
+              "fontSize": "22px",
+              "fontWeight": "450",
+              "height": "fit-content",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "4d1068e4db",
+             "blockName": "Course Title II",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Garden",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "85de8af09d",
+             "blockName": "Course Desc II",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Leeks held over coals until they give up and turn sweet.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-lift"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "minHeight": "210px",
+          "padding": "24px 24px",
+          "width": "250px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a02, #201B18)",
+          "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+          "borderRadius": "16px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "40px",
+          "justifyContent": "space-between",
+          "minHeight": "240px",
+          "padding": "30px 32px",
+          "width": "300px"
+         },
+         "blockId": "aabdecb9b8",
+         "blockName": "Course III",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "fontFamily": "Fraunces",
+            "fontSize": "44px",
+            "fontStyle": "italic",
+            "fontWeight": "350",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0bb8da649b",
+           "blockName": "Course Numeral III",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "III",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "8px"
+           },
+           "blockId": "89bd0658b0",
+           "blockName": "Course Text III",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Fraunces",
+              "fontSize": "22px",
+              "fontWeight": "450",
+              "height": "fit-content",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "07c611a3bf",
+             "blockName": "Course Title III",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Broth",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "15022909d7",
+             "blockName": "Course Desc III",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Yesterday's fire, poured over today's bones.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-lift"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "minHeight": "210px",
+          "padding": "24px 24px",
+          "width": "250px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a02, #201B18)",
+          "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+          "borderRadius": "16px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "40px",
+          "justifyContent": "space-between",
+          "minHeight": "240px",
+          "padding": "30px 32px",
+          "width": "300px"
+         },
+         "blockId": "960d8d05e6",
+         "blockName": "Course IV",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "fontFamily": "Fraunces",
+            "fontSize": "44px",
+            "fontStyle": "italic",
+            "fontWeight": "350",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "8bae678a38",
+           "blockName": "Course Numeral IV",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "IV",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "8px"
+           },
+           "blockId": "6aa14dca45",
+           "blockName": "Course Text IV",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Fraunces",
+              "fontSize": "22px",
+              "fontWeight": "450",
+              "height": "fit-content",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "794a25c1cc",
+             "blockName": "Course Title IV",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "River",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "3821f10c10",
+             "blockName": "Course Desc IV",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Trout wrapped in fig leaf, steamed on the hearth stone.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-lift"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "minHeight": "210px",
+          "padding": "24px 24px",
+          "width": "250px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a02, #201B18)",
+          "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+          "borderRadius": "16px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "40px",
+          "justifyContent": "space-between",
+          "minHeight": "240px",
+          "padding": "30px 32px",
+          "width": "300px"
+         },
+         "blockId": "13e9937913",
+         "blockName": "Course V",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "fontFamily": "Fraunces",
+            "fontSize": "44px",
+            "fontStyle": "italic",
+            "fontWeight": "350",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "031c36cfbb",
+           "blockName": "Course Numeral V",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "V",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "8px"
+           },
+           "blockId": "64b6e2539d",
+           "blockName": "Course Text V",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Fraunces",
+              "fontSize": "22px",
+              "fontWeight": "450",
+              "height": "fit-content",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "68d681d3e3",
+             "blockName": "Course Title V",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Hearth",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "4c026c108e",
+             "blockName": "Course Desc V",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The day's beast, aged in-house, finished over oak.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-lift"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "minHeight": "210px",
+          "padding": "24px 24px",
+          "width": "250px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a02, #201B18)",
+          "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+          "borderRadius": "16px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "40px",
+          "justifyContent": "space-between",
+          "minHeight": "240px",
+          "padding": "30px 32px",
+          "width": "300px"
+         },
+         "blockId": "60be4d47b6",
+         "blockName": "Course VI",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "fontFamily": "Fraunces",
+            "fontSize": "44px",
+            "fontStyle": "italic",
+            "fontWeight": "350",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "531c06ab22",
+           "blockName": "Course Numeral VI",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "VI",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "8px"
+           },
+           "blockId": "5d99f43257",
+           "blockName": "Course Text VI",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Fraunces",
+              "fontSize": "22px",
+              "fontWeight": "450",
+              "height": "fit-content",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "66d4480187",
+             "blockName": "Course Title VI",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Smoke",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "f76815b969",
+             "blockName": "Course Desc VI",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Ewe's cheese under a glass of applewood smoke.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-lift"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "minHeight": "210px",
+          "padding": "24px 24px",
+          "width": "250px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a02, #201B18)",
+          "borderColor": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a05, #382F29)",
+          "borderRadius": "16px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "40px",
+          "justifyContent": "space-between",
+          "minHeight": "240px",
+          "padding": "30px 32px",
+          "width": "300px"
+         },
+         "blockId": "2e1a47ec44",
+         "blockName": "Course VII",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a06, #E2571B)",
+            "fontFamily": "Fraunces",
+            "fontSize": "44px",
+            "fontStyle": "italic",
+            "fontWeight": "350",
+            "height": "fit-content",
+            "lineHeight": "1",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "cbe892846e",
+           "blockName": "Course Numeral VII",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "VII",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "8px"
+           },
+           "blockId": "fa7bcdb11f",
+           "blockName": "Course Text VII",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+              "fontFamily": "Fraunces",
+              "fontSize": "22px",
+              "fontWeight": "450",
+              "height": "fit-content",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "fb69d3110e",
+             "blockName": "Course Title VII",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Ash",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+              "fontFamily": "Figtree",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "ef99b38fb7",
+             "blockName": "Course Desc VII",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Smoked caramel, burnt honey, a clean spoon.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "em-lift"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "minHeight": "210px",
+          "padding": "24px 24px",
+          "width": "250px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "em-snap"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "gap": "14px",
+        "padding": "6px 22px 20px 22px",
+        "scrollPaddingLeft": "22px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "padding": "6px 40px 24px 40px",
+        "scrollPaddingLeft": "40px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 0px 56px 0px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "88px 0px 72px 0px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "justifyContent": "center",
+      "minHeight": "72vh",
+      "overflow": "hidden",
+      "padding": "120px 40px",
+      "position": "relative",
+      "width": "100%"
+     },
+     "blockId": "8d75149e23",
+     "blockName": "Ambiance Band",
+     "children": [
+      {
+       "attributes": {
+        "alt": "Sparks rising off the open fire",
+        "src": "https://images.unsplash.com/photo-1486915309851-b0cc1f8a0084?auto=format&fit=crop&q=80&w=2000"
+       },
+       "baseStyles": {
+        "display": "block",
+        "flexShrink": 0,
+        "height": "118%",
+        "left": "0px",
+        "objectFit": "cover",
+        "position": "absolute",
+        "top": "-9%",
+        "width": "100%"
+       },
+       "blockId": "053403111f",
+       "blockName": "Band Photo",
+       "children": [],
+       "classes": [
+        "em-drift"
+       ],
+       "customAttributes": {},
+       "element": "img",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "rgba(20, 17, 16, 0.62)",
+        "height": "100%",
+        "left": "0px",
+        "position": "absolute",
+        "top": "0px",
+        "width": "100%",
+        "zIndex": "1"
+       },
+       "blockId": "3d2c4ebf86",
+       "blockName": "Band Scrim",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "26px",
+        "maxWidth": "860px",
+        "position": "relative",
+        "zIndex": "2"
+       },
+       "blockId": "39e6a4d61e",
+       "blockName": "Band Quote Stack",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a03, #EDE4D6)",
+          "fontFamily": "Fraunces",
+          "fontSize": "42px",
+          "fontStyle": "italic",
+          "fontWeight": "350",
+          "height": "fit-content",
+          "letterSpacing": "-0.01em",
+          "lineHeight": "1.35",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "dec051b4c0",
+         "blockName": "Band Quote",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "“Cooking over fire is a conversation. The cook proposes, the fire disposes.”",
+         "mobileStyles": {
+          "fontSize": "25px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "34px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--9b1f9c1e-4c1a-4f7e-9d1b-6a1e3d2c5a04, #9E9486)",
+          "fontFamily": "Figtree",
+          "fontSize": "12px",
+          "fontWeight": "500",
+          "height": "fit-content",
+          "letterSpacing": "0.22em",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "dfd0e91b62",
+         "blockName": "Band Attribution",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Elias Voss, chef and keeper of the hearth",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "em-rise"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "minHeight": "0px",
+      "padding": "80px 22px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "ef94f2b9ef",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "842d5034f1",
+       "blockName": "Reserve Banner",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "3f955895d6",
+         "blockName": "Banner Eyebrow",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a2ba480f26",
+           "blockName": "Eyebrow Rule",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "4352d95b5c",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "6ac7cad63e",
+           "blockName": "Eyebrow Text",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "51941c66a2",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "a477a0e78c",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "a1f06f64c4",
+         "blockName": "Banner Line 1",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "709b9d4bc6",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "288775aea6",
+         "blockName": "Banner Sub",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "9371236bd7",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "4b763d729b",
+         "blockName": "Banner CTAs",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "901aa03ad0",
+           "blockName": "Banner Reserve",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "93a229df13",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "9806457c3c",
+           "blockName": "Banner Phone",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "feecf5d55e",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "85664f4156",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_reserve_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "85534d305f",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "ddc515f23c",
+       "blockName": "Info Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "42afdf36b4",
+         "blockName": "Info Visit",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "c8d1120ca1",
+           "blockName": "Visit Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "bb00e720ae",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "136b7c03e1",
+           "blockName": "Visit 14 Coal Yard L",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "2a9793d6e5",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "18eea095c4",
+           "blockName": "Visit Shoreditch, Lo",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "b9da0a5358",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "1be6f39de7",
+           "blockName": "Visit Directions",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "2e82020327",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "d3092658a1",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "fc7df4f1ef",
+         "blockName": "Info Hours",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "662514a610",
+           "blockName": "Hours Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "5d24801f7d",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "1b644c27ee",
+           "blockName": "Hours Wednesday to S",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "ac38d9f8ba",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "b37f62b2c0",
+           "blockName": "Hours 6 pm until 11 ",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "d8b7a4b7fd",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "dc6b55953e",
+           "blockName": "Hours Closed Monday ",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6eb0b51600",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "78e1294023",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "2182d65ed9",
+         "blockName": "Info Contact",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "6b5372c4c4",
+           "blockName": "Contact Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c3fd50e14d",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a325f497cc",
+           "blockName": "Contact tables@ember.kitchen",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "e2f4048623",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "e12f9626d5",
+           "blockName": "Contact 020 7946 0180",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "82fcd42168",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "1dcafe3944",
+           "blockName": "Contact Instagram",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "ember_reserve_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "25f798a6f2",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "9b1cc31c26",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_reserve_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "39d6ca4c4c",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "1d8dc303e4",
+       "blockName": "Small Print",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "c31c54095f",
+         "blockName": "Copyright",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "cb1cc6961a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "bf14f8e34c",
+         "blockName": "Credit",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "ember_reserve_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "7a43474f09",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "ember_reserve_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "ff636ab216",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "ember_reserve_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "ember_styles"
+  },
+  {
+   "builder_script": "ember_motion"
+  }
+ ],
+ "creation": "2026-07-19 20:03:44.021485",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Ember is a 24-seat tasting room in Shoreditch where every course is cooked over a single open hearth.",
+ "modified": "2026-07-19 20:03:44.021485",
+ "modified_by": "Administrator",
+ "name": "ember_home",
+ "owner": "Administrator",
+ "page_name": "ember_home",
+ "page_title": "Ember · Wood-fired tasting room",
+ "preview": "/builder_assets/ember/ember_home/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/ember/home",
+ "template_group": "ember"
+}

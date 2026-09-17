@@ -1,0 +1,12 @@
+{
+ "creation": "2026-08-13 09:28:59.389865",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-08-13 09:28:59.389865",
+ "modified_by": "Administrator",
+ "name": "plot_styles",
+ "owner": "Administrator",
+ "script": "\nhtml { scroll-behavior: smooth; }\n::selection { background: var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6); color: #FFFFFF; }\nbody { -webkit-font-smoothing: antialiased; }\n\n/* the ring is a conic gradient with a punched centre */\n.pl-ring { background: conic-gradient(var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6) 0 72%, var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5) 72% 100%); }\n\n/* quiet interactions */\n.pl-link { transition: color 0.18s ease; }\n.pl-link:hover { color: var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6); }\n.pl-btn { transition: transform 0.18s ease, opacity 0.18s ease; }\n.pl-btn:hover { opacity: 0.9; transform: translateY(-1px); }\n\na:focus-visible { border-radius: 6px; outline: 2px solid var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6); outline-offset: 3px; }\n",
+ "script_type": "CSS"
+}

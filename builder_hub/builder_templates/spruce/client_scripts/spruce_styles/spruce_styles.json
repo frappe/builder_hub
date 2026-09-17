@@ -1,0 +1,12 @@
+{
+ "creation": "2026-07-21 13:19:10.776592",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-07-21 13:19:10.776592",
+ "modified_by": "Administrator",
+ "name": "spruce_styles",
+ "owner": "Administrator",
+ "script": "\nhtml { scroll-behavior: smooth; }\n::selection { background: #2F9158; color: #FFFFFF; }\n\nhtml.sp-js .sp-rise { opacity: 0; transform: translateY(20px); }\nhtml.sp-js .sp-rise.sp-in {\n  opacity: 1; transform: none;\n  transition: opacity 0.85s cubic-bezier(0.22, 1, 0.36, 1),\n    transform 0.85s cubic-bezier(0.22, 1, 0.36, 1);\n}\nhtml.sp-js .sp-d1.sp-in { transition-delay: 0.12s; }\nhtml.sp-js .sp-d2.sp-in { transition-delay: 0.24s; }\n\n.sp-grow { flex-grow: 1; flex-shrink: 1; min-width: 0; }\n\n.sp-ul {\n  background-image: linear-gradient(currentColor, currentColor);\n  background-position: left bottom; background-repeat: no-repeat;\n  background-size: 0% 1.5px;\n  transition: background-size 0.35s cubic-bezier(0.22, 1, 0.36, 1);\n}\n.sp-ul:hover { background-size: 100% 1.5px; }\n\n.sp-btn { transition: transform 0.25s ease, box-shadow 0.25s ease,\n  filter 0.25s ease; }\n.sp-btn:hover { transform: translateY(-2px); filter: brightness(1.06);\n  box-shadow: 0 12px 26px rgba(47, 145, 88, 0.3); }\n.sp-btn-o { transition: border-color 0.25s ease, transform 0.25s ease; }\n.sp-btn-o:hover { border-color: #2F9158; transform: translateY(-2px); }\n.sp-btn-w { transition: transform 0.25s ease, box-shadow 0.25s ease; }\n.sp-btn-w:hover { transform: translateY(-2px);\n  box-shadow: 0 12px 26px rgba(20, 40, 30, 0.25); }\n\n.sp-card { transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),\n  box-shadow 0.35s ease; }\n.sp-card:hover { transform: translateY(-4px);\n  box-shadow: 0 18px 40px rgba(30, 53, 42, 0.08); }\n\n.sp-chip { transition: background-color 0.25s ease, transform 0.25s ease; }\n.sp-chip:hover { background-color: #CFE9DA; transform: translateY(-2px); }\n\nhtml.sp-js .sp-check .sp-tick { opacity: 0; transform: scale(0.3); }\nhtml.sp-js .sp-check.sp-in .sp-tick { opacity: 1; transform: none;\n  transition: opacity 0.3s ease, transform 0.45s\n    cubic-bezier(0.34, 1.56, 0.64, 1); }\n\nhtml.sp-js .sp-float { animation: sp-bob 6s ease-in-out infinite; }\n@keyframes sp-bob {\n  0%, 100% { transform: translateY(0); }\n  50% { transform: translateY(-8px); }\n}\n\n@media (prefers-reduced-motion: reduce) {\n  html { scroll-behavior: auto; }\n  html.sp-js .sp-float { animation: none; }\n}\n",
+ "script_type": "CSS"
+}

@@ -1,0 +1,1921 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+    "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Geist",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "00001a2db2",
+   "blockName": "Page",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "14px",
+      "padding": "14px",
+      "width": "100%"
+     },
+     "blockId": "00001a2db1",
+     "blockName": "Page Frame",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db005, #F3F5F9)",
+        "borderRadius": "28px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "overflow": "hidden",
+        "padding": "28px 32px 76px",
+        "width": "100%"
+       },
+       "blockId": "00001a2d63",
+       "blockName": "Header Panel",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00001a2d53",
+         "blockName": "Primer Nav",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00001a2d54",
+           "blockName": "Brand",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d55",
+             "blockName": "Brand Mark",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d56",
+               "blockName": "Brand Letter",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_nav",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b3c",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b3d",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d57",
+             "blockName": "Brand Word",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b3e",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "primer_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00001a2b3f",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00001a2d58",
+           "blockName": "Nav Links",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d59",
+             "blockName": "Nav Product",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b40",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d5a",
+             "blockName": "Nav Company",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b41",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d5b",
+             "blockName": "Nav Docs",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b42",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "primer_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00001a2b43",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00001a2d5c",
+           "blockName": "Nav Actions",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d5d",
+             "blockName": "Nav Sign In",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b44",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d5e",
+             "blockName": "Nav CTA",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b45",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "primer_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00001a2b46",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "extendedFromComponent": "primer_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "14px",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1120px",
+          "paddingTop": "64px",
+          "width": "100%"
+         },
+         "blockId": "00001a2d62",
+         "blockName": "Company Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+            "fontFamily": "Geist Mono",
+            "fontSize": "12.5px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.16em",
+            "lineHeight": "1.3",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2d5f",
+           "blockName": "Company Eyebrow",
+           "children": [],
+           "classes": [
+            "pr-rise"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "COMPANY",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+            "fontFamily": "Geist",
+            "fontSize": "48px",
+            "fontWeight": "650",
+            "height": "fit-content",
+            "letterSpacing": "-0.03em",
+            "lineHeight": "1.08",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2d60",
+           "blockName": "Company Title",
+           "children": [],
+           "classes": [
+            "pr-rise"
+           ],
+           "customAttributes": {},
+           "element": "h1",
+           "innerHTML": "We've onboarded badly, too.",
+           "mobileStyles": {
+            "fontSize": "32px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+            "fontFamily": "Geist",
+            "fontSize": "17px",
+            "height": "fit-content",
+            "lineHeight": "1.6",
+            "maxWidth": "540px",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2d61",
+           "blockName": "Company Sub",
+           "children": [],
+           "classes": [
+            "pr-rise",
+            "pr-d1"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Primer exists because our own day ones were 43 tabs and a shrug. We fixed ours, then everyone wanted the fix.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "paddingTop": "44px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "borderRadius": "18px",
+        "padding": "20px 20px 52px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "borderRadius": "28px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "overflow": "hidden",
+        "width": "100%"
+       },
+       "blockId": "00001a2d65",
+       "blockName": "Cover Band",
+       "children": [
+        {
+         "attributes": {
+          "alt": "The Primer team at work in a bright office",
+          "loading": "lazy",
+          "src": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=2000&q=70&fm=webp&fit=crop"
+         },
+         "baseStyles": {
+          "display": "block",
+          "height": "auto",
+          "objectFit": "cover",
+          "width": "100%"
+         },
+         "blockId": "00001a2d64",
+         "blockName": "Cover Photo",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "img",
+         "mobileStyles": {},
+         "rawStyles": {
+          "aspect-ratio": "21 / 8"
+         },
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "borderRadius": "18px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "22px",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "maxWidth": "720px",
+        "padding": "72px 0",
+        "width": "100%"
+       },
+       "blockId": "00001a2d69",
+       "blockName": "Story",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+          "fontFamily": "Geist",
+          "fontSize": "21px",
+          "fontWeight": "500",
+          "height": "fit-content",
+          "letterSpacing": "-0.01em",
+          "lineHeight": "1.55",
+          "minWidth": "10px",
+          "width": "fit-content"
+         },
+         "blockId": "00001a2d66",
+         "blockName": "Story Lead",
+         "children": [],
+         "classes": [
+          "pr-rise"
+         ],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Primer started as an internal tool at a forty-person startup with a hiring spree and a wiki nobody trusted.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+          "fontFamily": "Geist",
+          "fontSize": "16.5px",
+          "height": "fit-content",
+          "lineHeight": "1.7",
+          "minWidth": "10px",
+          "width": "fit-content"
+         },
+         "blockId": "00001a2d67",
+         "blockName": "Story Two",
+         "children": [],
+         "classes": [
+          "pr-rise",
+          "pr-d1"
+         ],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "We wrote the first path for one engineer, Nadia. She shipped on day four and asked why the sales team didn't have one. Then the sales team asked. Then our investors' other companies asked.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+          "fontFamily": "Geist",
+          "fontSize": "16.5px",
+          "height": "fit-content",
+          "lineHeight": "1.7",
+          "minWidth": "10px",
+          "width": "fit-content"
+         },
+         "blockId": "00001a2d68",
+         "blockName": "Story Three",
+         "children": [],
+         "classes": [
+          "pr-rise",
+          "pr-d2"
+         ],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Six years later the product is bigger and the opinion is the same: onboarding is a path, not a pile of links. Every step has an owner. Progress is public. And the handbook? Retired with honors.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "48px 0"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db005, #F3F5F9)",
+        "borderRadius": "28px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "overflow": "hidden",
+        "padding": "72px 32px",
+        "width": "100%"
+       },
+       "blockId": "00001a2d84",
+       "blockName": "Quotes Panel",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "40px",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1120px",
+          "width": "100%"
+         },
+         "blockId": "00001a2d83",
+         "blockName": "Quotes Content",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "14px"
+           },
+           "blockId": "00001a2d6c",
+           "blockName": "Section Head",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+              "fontFamily": "Geist Mono",
+              "fontSize": "12.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.16em",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2d6a",
+             "blockName": "Head Eyebrow",
+             "children": [],
+             "classes": [
+              "pr-rise"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "KIND WORDS",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+              "fontFamily": "Geist",
+              "fontSize": "38px",
+              "fontWeight": "650",
+              "height": "fit-content",
+              "letterSpacing": "-0.025em",
+              "lineHeight": "1.12",
+              "maxWidth": "620px",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2d6b",
+             "blockName": "Head Title",
+             "children": [],
+             "classes": [
+              "pr-rise",
+              "pr-d1"
+             ],
+             "customAttributes": {},
+             "element": "h2",
+             "innerHTML": "What the humans say.",
+             "mobileStyles": {
+              "fontSize": "28px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "stretch",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "flexWrap": "wrap",
+            "gap": "18px",
+            "width": "100%"
+           },
+           "blockId": "00001a2d82",
+           "blockName": "Quotes Grid",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderRadius": "18px",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "6px",
+              "padding": "26px",
+              "width": "calc(33.333% - 12px)"
+             },
+             "blockId": "00001a2d73",
+             "blockName": "Quote Dana Whitfield",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "16px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.55",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2d6d",
+               "blockName": "Quote Body",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "“I stopped being the human FAQ. I miss it zero.”",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "gap": "12px",
+                "marginTop": "auto",
+                "paddingTop": "18px"
+               },
+               "blockId": "00001a2d72",
+               "blockName": "Quote Person",
+               "children": [
+                {
+                 "attributes": {
+                  "alt": "Dana Whitfield",
+                  "loading": "lazy",
+                  "src": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=70&fm=webp&fit=crop"
+                 },
+                 "baseStyles": {
+                  "borderRadius": "999px",
+                  "display": "block",
+                  "flexShrink": 0,
+                  "height": "40px",
+                  "objectFit": "cover",
+                  "width": "40px"
+                 },
+                 "blockId": "00001a2d6e",
+                 "blockName": "Quote Avatar",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "img",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "flexShrink": 0,
+                  "gap": "2px"
+                 },
+                 "blockId": "00001a2d71",
+                 "blockName": "Quote Who",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                    "fontFamily": "Geist",
+                    "fontSize": "14px",
+                    "fontWeight": "650",
+                    "height": "fit-content",
+                    "lineHeight": "1.3",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "00001a2d6f",
+                   "blockName": "Quote Name",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Dana Whitfield",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                    "fontFamily": "Geist",
+                    "fontSize": "12.5px",
+                    "height": "fit-content",
+                    "lineHeight": "1.3",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "00001a2d70",
+                   "blockName": "Quote Role",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Ops Lead, Coppermill",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "pr-card",
+              "pr-rise",
+              "pr-d1"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {
+              "width": "100%"
+             }
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderRadius": "18px",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "6px",
+              "padding": "26px",
+              "width": "calc(33.333% - 12px)"
+             },
+             "blockId": "00001a2d7a",
+             "blockName": "Quote Priya Nair",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "16px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.55",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2d74",
+               "blockName": "Quote Body",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "“Our retention team keeps stealing the format for everything else.”",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "gap": "12px",
+                "marginTop": "auto",
+                "paddingTop": "18px"
+               },
+               "blockId": "00001a2d79",
+               "blockName": "Quote Person",
+               "children": [
+                {
+                 "attributes": {
+                  "alt": "Priya Nair",
+                  "loading": "lazy",
+                  "src": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&q=70&fm=webp&fit=crop"
+                 },
+                 "baseStyles": {
+                  "borderRadius": "999px",
+                  "display": "block",
+                  "flexShrink": 0,
+                  "height": "40px",
+                  "objectFit": "cover",
+                  "width": "40px"
+                 },
+                 "blockId": "00001a2d75",
+                 "blockName": "Quote Avatar",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "img",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "flexShrink": 0,
+                  "gap": "2px"
+                 },
+                 "blockId": "00001a2d78",
+                 "blockName": "Quote Who",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                    "fontFamily": "Geist",
+                    "fontSize": "14px",
+                    "fontWeight": "650",
+                    "height": "fit-content",
+                    "lineHeight": "1.3",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "00001a2d76",
+                   "blockName": "Quote Name",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Priya Nair",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                    "fontFamily": "Geist",
+                    "fontSize": "12.5px",
+                    "height": "fit-content",
+                    "lineHeight": "1.3",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "00001a2d77",
+                   "blockName": "Quote Role",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "People Ops, Halyard",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "pr-card",
+              "pr-rise",
+              "pr-d2"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {
+              "width": "100%"
+             }
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderRadius": "18px",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "6px",
+              "padding": "26px",
+              "width": "calc(33.333% - 12px)"
+             },
+             "blockId": "00001a2d81",
+             "blockName": "Quote Tomás Rivera",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "16px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.55",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2d7b",
+               "blockName": "Quote Body",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "“Set it up on a Tuesday. New grad shipped Friday.”",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "gap": "12px",
+                "marginTop": "auto",
+                "paddingTop": "18px"
+               },
+               "blockId": "00001a2d80",
+               "blockName": "Quote Person",
+               "children": [
+                {
+                 "attributes": {
+                  "alt": "Tomás Rivera",
+                  "loading": "lazy",
+                  "src": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&q=70&fm=webp&fit=crop"
+                 },
+                 "baseStyles": {
+                  "borderRadius": "999px",
+                  "display": "block",
+                  "flexShrink": 0,
+                  "height": "40px",
+                  "objectFit": "cover",
+                  "width": "40px"
+                 },
+                 "blockId": "00001a2d7c",
+                 "blockName": "Quote Avatar",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "img",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "display": "flex",
+                  "flexDirection": "column",
+                  "flexShrink": 0,
+                  "gap": "2px"
+                 },
+                 "blockId": "00001a2d7f",
+                 "blockName": "Quote Who",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                    "fontFamily": "Geist",
+                    "fontSize": "14px",
+                    "fontWeight": "650",
+                    "height": "fit-content",
+                    "lineHeight": "1.3",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "00001a2d7d",
+                   "blockName": "Quote Name",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Tomás Rivera",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                    "fontFamily": "Geist",
+                    "fontSize": "12.5px",
+                    "height": "fit-content",
+                    "lineHeight": "1.3",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "00001a2d7e",
+                   "blockName": "Quote Role",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "Engineering Manager, Tandem",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "pr-card",
+              "pr-rise",
+              "pr-d3"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {
+              "width": "100%"
+             }
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "borderRadius": "18px",
+        "padding": "48px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+        "borderRadius": "28px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "overflow": "hidden",
+        "padding": "80px 32px",
+        "width": "100%"
+       },
+       "blockId": "00001a2d8b",
+       "blockName": "Contact Panel",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "14px",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "560px",
+          "width": "100%"
+         },
+         "blockId": "00001a2d8a",
+         "blockName": "Contact Content",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+            "fontFamily": "Geist",
+            "fontSize": "40px",
+            "fontWeight": "650",
+            "height": "fit-content",
+            "letterSpacing": "-0.03em",
+            "lineHeight": "1.1",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2d85",
+           "blockName": "Contact Title",
+           "children": [],
+           "classes": [
+            "pr-rise"
+           ],
+           "customAttributes": {},
+           "element": "h2",
+           "innerHTML": "Say hello.",
+           "mobileStyles": {
+            "fontSize": "30px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+            "fontFamily": "Geist",
+            "fontSize": "16.5px",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2d86",
+           "blockName": "Contact Sub",
+           "children": [],
+           "classes": [
+            "pr-rise",
+            "pr-d1"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "A human answers. Usually the same day.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "12px",
+            "justifyContent": "center",
+            "paddingTop": "8px"
+           },
+           "blockId": "00001a2d89",
+           "blockName": "Contact Buttons",
+           "children": [
+            {
+             "attributes": {
+              "href": "mailto:hello@primer.app"
+             },
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+              "borderRadius": "10px",
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "fontFamily": "Geist",
+              "fontSize": "15px",
+              "fontWeight": "600",
+              "justifyContent": "center",
+              "lineHeight": "1",
+              "padding": "15px 26px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2d87",
+             "blockName": "Button hello@primer.app",
+             "children": [],
+             "classes": [
+              "pr-btn"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "hello@primer.app",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {
+              "href": "#"
+             },
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderRadius": "10px",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "fontFamily": "Geist",
+              "fontSize": "15px",
+              "fontWeight": "600",
+              "justifyContent": "center",
+              "lineHeight": "1",
+              "padding": "15px 26px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2d88",
+             "blockName": "Button Book a demo",
+             "children": [],
+             "classes": [
+              "pr-btn"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "Book a demo",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "pr-rise",
+            "pr-d2"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexDirection": "column",
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "borderRadius": "18px",
+        "padding": "48px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00001a2d8c",
+       "blockName": "Primer Footer",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00001a2d8d",
+         "blockName": "Foot Content",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00001a2d8e",
+           "blockName": "Foot Top",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d8f",
+             "blockName": "Foot Brand",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d90",
+               "blockName": "Foot Brand Row",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "00001a2d91",
+                 "blockName": "Foot Mark",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "00001a2d92",
+                   "blockName": "Foot Letter",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "primer_footer",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "referenceBlockId": "00001a2b48",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "primer_footer",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "referenceBlockId": "00001a2b49",
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "00001a2d93",
+                 "blockName": "Foot Word",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "primer_footer",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "referenceBlockId": "00001a2b4a",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b4b",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d94",
+               "blockName": "Foot Line",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b4c",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b4d",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d95",
+             "blockName": "Foot Col Product",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d96",
+               "blockName": "Foot Col Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b52",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d97",
+               "blockName": "Foot Overview",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b4e",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d98",
+               "blockName": "Foot What's inside",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b4f",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d99",
+               "blockName": "Foot Changelog",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b50",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d9a",
+               "blockName": "Foot Status",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b51",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b53",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d9b",
+             "blockName": "Foot Col Company",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d9c",
+               "blockName": "Foot Col Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b57",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d9d",
+               "blockName": "Foot About",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b54",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d9e",
+               "blockName": "Foot Careers",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b55",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d9f",
+               "blockName": "Foot Contact",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b56",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b58",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2da0",
+             "blockName": "Foot Col Resources",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2da1",
+               "blockName": "Foot Col Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b5c",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2da2",
+               "blockName": "Foot Guides",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b59",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2da3",
+               "blockName": "Foot Templates",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b5a",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2da4",
+               "blockName": "Foot Help center",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b5b",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b5d",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2da5",
+             "blockName": "Foot Col Legal",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2da6",
+               "blockName": "Foot Col Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b61",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2da7",
+               "blockName": "Foot Privacy",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b5e",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2da8",
+               "blockName": "Foot Terms",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b5f",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2da9",
+               "blockName": "Foot DPA",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b60",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b62",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "primer_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00001a2b63",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00001a2daa",
+           "blockName": "Foot Rule",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "primer_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00001a2b64",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00001a2dab",
+           "blockName": "Foot Bottom",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2dac",
+             "blockName": "Foot Copyright",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b65",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2dad",
+             "blockName": "Foot Social",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2dae",
+               "blockName": "Foot GitHub",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b66",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2daf",
+               "blockName": "Foot X",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b67",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2db0",
+               "blockName": "Foot LinkedIn",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b68",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b69",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "primer_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00001a2b6a",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "primer_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00001a2b6b",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "extendedFromComponent": "primer_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "gap": "10px",
+      "padding": "8px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "primer_styles"
+  },
+  {
+   "builder_script": "primer_motion"
+  }
+ ],
+ "creation": "2026-08-12 22:44:08.620003",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "The story of Primer: an internal fix for our own bad day ones that everyone else wanted. Say hello, a human answers.",
+ "modified": "2026-08-12 22:44:08.620003",
+ "modified_by": "Administrator",
+ "name": "primer_company",
+ "owner": "Administrator",
+ "page_name": "primer_company",
+ "page_title": "Company · Primer",
+ "preview": "/builder_assets/primer/primer_company/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/primer/company",
+ "template_group": "primer"
+}

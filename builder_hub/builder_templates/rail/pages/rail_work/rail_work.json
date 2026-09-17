@@ -1,0 +1,1850 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3001, #F7F6F2)",
+    "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Mona Sans",
+    "minHeight": "100vh",
+    "overflowX": "clip",
+    "width": "100%"
+   },
+   "blockId": "0000a1d42c",
+   "blockName": "Page",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "0000a1d41d",
+     "blockName": "Rail Nav",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0000a1d41e",
+       "blockName": "Nav Measure",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "0000a1d41f",
+         "blockName": "Nav Row",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0000a1d420",
+           "blockName": "Brand",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "rail_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "0000a1d370",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0000a1d421",
+           "blockName": "Nav Links",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "0000a1d422",
+             "blockName": "Nav Work",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "rail_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "0000a1d371",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "0000a1d423",
+             "blockName": "Nav Studio",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "rail_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "0000a1d372",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "rail_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "0000a1d373",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0000a1d424",
+           "blockName": "Nav Mail",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "rail_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "0000a1d374",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "rail_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "0000a1d375",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "rail_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "0000a1d376",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "rail_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "20px",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "1160px",
+      "padding": "88px 28px 64px",
+      "width": "100%"
+     },
+     "blockId": "0000a1d3e0",
+     "blockName": "Opening",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+        "fontFamily": "Mona Sans",
+        "fontSize": "56px",
+        "fontWeight": "500",
+        "height": "fit-content",
+        "letterSpacing": "-0.03em",
+        "lineHeight": "1.08",
+        "maxWidth": "820px",
+        "minWidth": "10px",
+        "width": "fit-content"
+       },
+       "blockId": "0000a1d3de",
+       "blockName": "Statement",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "h1",
+       "innerHTML": "Selected work, 2019 to now.",
+       "mobileStyles": {
+        "fontSize": "34px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3003, #7C776D)",
+        "fontFamily": "Mona Sans",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "lineHeight": "1.7",
+        "maxWidth": "520px",
+        "minWidth": "10px",
+        "width": "fit-content"
+       },
+       "blockId": "0000a1d3df",
+       "blockName": "Statement Sub",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "p",
+       "innerHTML": "Three engagements told properly. The rest on request; clients get to keep some things to themselves.",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "48px 20px 36px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "1160px",
+      "padding": "0 28px",
+      "width": "100%"
+     },
+     "blockId": "0000a1d3f4",
+     "blockName": "Section Fold Furniture",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "flex-start",
+        "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+        "borderStyle": "solid",
+        "borderWidth": "1px 0 0 0",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "justifyContent": "space-between",
+        "padding": "56px 0 72px",
+        "width": "100%"
+       },
+       "blockId": "0000a1d3f3",
+       "blockName": "Rail Spread",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignSelf": "flex-start",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "6px",
+          "position": "sticky",
+          "top": "96px",
+          "width": "30%"
+         },
+         "blockId": "0000a1d3f1",
+         "blockName": "Rail Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3006, #3D5A45)",
+            "fontFamily": "Mona Sans",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.04em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0000a1d3ef",
+           "blockName": "Rail Num",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "01",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+            "fontFamily": "Mona Sans",
+            "fontSize": "21px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "1.25",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0000a1d3f0",
+           "blockName": "Rail Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h2",
+           "innerHTML": "Fold Furniture",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "position": "static",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "26px",
+          "width": "63%"
+         },
+         "blockId": "0000a1d3f2",
+         "blockName": "Rail Body",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "width": "100%"
+           },
+           "blockId": "0000a1d3e3",
+           "blockName": "Fold Furniture Photo",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Fold, brand objects, shot in studio",
+              "loading": "lazy",
+              "src": "https://images.pexels.com/photos/6204267/pexels-photo-6204267.jpeg?auto=compress&cs=tinysrgb&w=1600"
+             },
+             "baseStyles": {
+              "borderRadius": "4px",
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "0000a1d3e1",
+             "blockName": "Fold Furniture Photo Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "3 / 2"
+             },
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3003, #7C776D)",
+              "fontFamily": "Mona Sans",
+              "fontSize": "13px",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "paddingTop": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "0000a1d3e2",
+             "blockName": "Fold Furniture Photo Caption",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Fold, brand objects, shot in studio",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+            "fontFamily": "Mona Sans",
+            "fontSize": "16.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "maxWidth": "560px",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0000a1d3e4",
+           "blockName": "Fold Furniture Body",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "A flat-pack furniture maker with a good product and a forgettable name. We renamed it, rebuilt the identity around the fold itself and photographed the range like sculpture, because it earned it.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0 0 0",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "marginTop": "4px",
+            "width": "100%"
+           },
+           "blockId": "0000a1d3ee",
+           "blockName": "Fold Furniture Meta",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "24px",
+              "justifyContent": "space-between",
+              "padding": "12px 0",
+              "width": "100%"
+             },
+             "blockId": "0000a1d3e7",
+             "blockName": "Fold Furniture Scope",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3003, #7C776D)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "13.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d3e5",
+               "blockName": "Meta Label",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Scope",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textAlign": "right",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d3e6",
+               "blockName": "Meta Value",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Identity, packaging, product photography",
+               "mobileStyles": {
+                "textAlign": "left"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "alignItems": "flex-start",
+              "flexDirection": "column",
+              "gap": "6px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "24px",
+              "justifyContent": "space-between",
+              "padding": "12px 0",
+              "width": "100%"
+             },
+             "blockId": "0000a1d3ea",
+             "blockName": "Fold Furniture Year",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3003, #7C776D)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "13.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d3e8",
+               "blockName": "Meta Label",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Year",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textAlign": "right",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d3e9",
+               "blockName": "Meta Value",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "2026",
+               "mobileStyles": {
+                "textAlign": "left"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "alignItems": "flex-start",
+              "flexDirection": "column",
+              "gap": "6px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "24px",
+              "justifyContent": "space-between",
+              "padding": "12px 0",
+              "width": "100%"
+             },
+             "blockId": "0000a1d3ed",
+             "blockName": "Fold Furniture Since then",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3003, #7C776D)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "13.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d3eb",
+               "blockName": "Meta Label",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Since then",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textAlign": "right",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d3ec",
+               "blockName": "Meta Value",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Wholesale accounts doubled",
+               "mobileStyles": {
+                "textAlign": "left"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "alignItems": "flex-start",
+              "flexDirection": "column",
+              "gap": "6px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column",
+        "gap": "22px",
+        "padding": "40px 0 48px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "1160px",
+      "padding": "0 28px",
+      "width": "100%"
+     },
+     "blockId": "0000a1d408",
+     "blockName": "Section Marrow Bakery",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "flex-start",
+        "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+        "borderStyle": "solid",
+        "borderWidth": "1px 0 0 0",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "justifyContent": "space-between",
+        "padding": "56px 0 72px",
+        "width": "100%"
+       },
+       "blockId": "0000a1d407",
+       "blockName": "Rail Spread",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignSelf": "flex-start",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "6px",
+          "position": "sticky",
+          "top": "96px",
+          "width": "30%"
+         },
+         "blockId": "0000a1d405",
+         "blockName": "Rail Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3006, #3D5A45)",
+            "fontFamily": "Mona Sans",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.04em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0000a1d403",
+           "blockName": "Rail Num",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "02",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+            "fontFamily": "Mona Sans",
+            "fontSize": "21px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "1.25",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0000a1d404",
+           "blockName": "Rail Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h2",
+           "innerHTML": "Marrow Bakery",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "position": "static",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "26px",
+          "width": "63%"
+         },
+         "blockId": "0000a1d406",
+         "blockName": "Rail Body",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "width": "100%"
+           },
+           "blockId": "0000a1d3f7",
+           "blockName": "Marrow Bakery Photo",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Marrow, work in progress at the bench",
+              "loading": "lazy",
+              "src": "https://images.pexels.com/photos/8063814/pexels-photo-8063814.jpeg?auto=compress&cs=tinysrgb&w=1600"
+             },
+             "baseStyles": {
+              "borderRadius": "4px",
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "0000a1d3f5",
+             "blockName": "Marrow Bakery Photo Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "3 / 2"
+             },
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3003, #7C776D)",
+              "fontFamily": "Mona Sans",
+              "fontSize": "13px",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "paddingTop": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "0000a1d3f6",
+             "blockName": "Marrow Bakery Photo Caption",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Marrow, work in progress at the bench",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+            "fontFamily": "Mona Sans",
+            "fontSize": "16.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "maxWidth": "560px",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0000a1d3f8",
+           "blockName": "Marrow Bakery Body",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "A neighbourhood bakery growing into three rooms. One typeface, one clay tone, paper bags worth keeping. The interior does the advertising; the bread does the rest.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0 0 0",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "marginTop": "4px",
+            "width": "100%"
+           },
+           "blockId": "0000a1d402",
+           "blockName": "Marrow Bakery Meta",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "24px",
+              "justifyContent": "space-between",
+              "padding": "12px 0",
+              "width": "100%"
+             },
+             "blockId": "0000a1d3fb",
+             "blockName": "Marrow Bakery Scope",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3003, #7C776D)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "13.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d3f9",
+               "blockName": "Meta Label",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Scope",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textAlign": "right",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d3fa",
+               "blockName": "Meta Value",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Brand, interior, packaging",
+               "mobileStyles": {
+                "textAlign": "left"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "alignItems": "flex-start",
+              "flexDirection": "column",
+              "gap": "6px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "24px",
+              "justifyContent": "space-between",
+              "padding": "12px 0",
+              "width": "100%"
+             },
+             "blockId": "0000a1d3fe",
+             "blockName": "Marrow Bakery Year",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3003, #7C776D)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "13.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d3fc",
+               "blockName": "Meta Label",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Year",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textAlign": "right",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d3fd",
+               "blockName": "Meta Value",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "2025",
+               "mobileStyles": {
+                "textAlign": "left"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "alignItems": "flex-start",
+              "flexDirection": "column",
+              "gap": "6px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "24px",
+              "justifyContent": "space-between",
+              "padding": "12px 0",
+              "width": "100%"
+             },
+             "blockId": "0000a1d401",
+             "blockName": "Marrow Bakery Since then",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3003, #7C776D)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "13.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d3ff",
+               "blockName": "Meta Label",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Since then",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textAlign": "right",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d400",
+               "blockName": "Meta Value",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Queues, politely managed",
+               "mobileStyles": {
+                "textAlign": "left"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "alignItems": "flex-start",
+              "flexDirection": "column",
+              "gap": "6px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column",
+        "gap": "22px",
+        "padding": "40px 0 48px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "1160px",
+      "padding": "0 28px",
+      "width": "100%"
+     },
+     "blockId": "0000a1d41c",
+     "blockName": "Section Sonder Hotels",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "flex-start",
+        "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+        "borderStyle": "solid",
+        "borderWidth": "1px 0 0 0",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "justifyContent": "space-between",
+        "padding": "56px 0 72px",
+        "width": "100%"
+       },
+       "blockId": "0000a1d41b",
+       "blockName": "Rail Spread",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignSelf": "flex-start",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "6px",
+          "position": "sticky",
+          "top": "96px",
+          "width": "30%"
+         },
+         "blockId": "0000a1d419",
+         "blockName": "Rail Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3006, #3D5A45)",
+            "fontFamily": "Mona Sans",
+            "fontSize": "13px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.04em",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0000a1d417",
+           "blockName": "Rail Num",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "03",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+            "fontFamily": "Mona Sans",
+            "fontSize": "21px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "letterSpacing": "-0.01em",
+            "lineHeight": "1.25",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0000a1d418",
+           "blockName": "Rail Title",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h2",
+           "innerHTML": "Sonder Hotels",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "position": "static",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "26px",
+          "width": "63%"
+         },
+         "blockId": "0000a1d41a",
+         "blockName": "Rail Body",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "width": "100%"
+           },
+           "blockId": "0000a1d40b",
+           "blockName": "Sonder Hotels Photo",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Sonder, light study for the north stair",
+              "loading": "lazy",
+              "src": "https://images.pexels.com/photos/14866182/pexels-photo-14866182.jpeg?auto=compress&cs=tinysrgb&w=1600"
+             },
+             "baseStyles": {
+              "borderRadius": "4px",
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "0000a1d409",
+             "blockName": "Sonder Hotels Photo Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "3 / 2"
+             },
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3003, #7C776D)",
+              "fontFamily": "Mona Sans",
+              "fontSize": "13px",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "paddingTop": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "0000a1d40a",
+             "blockName": "Sonder Hotels Photo Caption",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Sonder, light study for the north stair",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+            "fontFamily": "Mona Sans",
+            "fontSize": "16.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "maxWidth": "560px",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "0000a1d40c",
+           "blockName": "Sonder Hotels Body",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Forty corridors, four buildings, one system. Signs that read at a glance, age with the building and never shout. The hardest work here is everything you don't notice.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0 0 0",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "marginTop": "4px",
+            "width": "100%"
+           },
+           "blockId": "0000a1d416",
+           "blockName": "Sonder Hotels Meta",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "24px",
+              "justifyContent": "space-between",
+              "padding": "12px 0",
+              "width": "100%"
+             },
+             "blockId": "0000a1d40f",
+             "blockName": "Sonder Hotels Scope",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3003, #7C776D)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "13.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d40d",
+               "blockName": "Meta Label",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Scope",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textAlign": "right",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d40e",
+               "blockName": "Meta Value",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Wayfinding, signage system",
+               "mobileStyles": {
+                "textAlign": "left"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "alignItems": "flex-start",
+              "flexDirection": "column",
+              "gap": "6px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "24px",
+              "justifyContent": "space-between",
+              "padding": "12px 0",
+              "width": "100%"
+             },
+             "blockId": "0000a1d412",
+             "blockName": "Sonder Hotels Year",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3003, #7C776D)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "13.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d410",
+               "blockName": "Meta Label",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Year",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textAlign": "right",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d411",
+               "blockName": "Meta Value",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "2024",
+               "mobileStyles": {
+                "textAlign": "left"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "alignItems": "flex-start",
+              "flexDirection": "column",
+              "gap": "6px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "borderColor": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3004, #E3E0D8)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "24px",
+              "justifyContent": "space-between",
+              "padding": "12px 0",
+              "width": "100%"
+             },
+             "blockId": "0000a1d415",
+             "blockName": "Sonder Hotels Since then",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3003, #7C776D)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "13.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d413",
+               "blockName": "Meta Label",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Since then",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A)",
+                "fontFamily": "Mona Sans",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "textAlign": "right",
+                "width": "fit-content"
+               },
+               "blockId": "0000a1d414",
+               "blockName": "Meta Value",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Nobody lost, reportedly",
+               "mobileStyles": {
+                "textAlign": "left"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "alignItems": "flex-start",
+              "flexDirection": "column",
+              "gap": "6px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column",
+        "gap": "22px",
+        "padding": "40px 0 48px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "0000a1d425",
+     "blockName": "Rail Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0000a1d426",
+       "blockName": "Foot Measure",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "0000a1d427",
+         "blockName": "Foot Row",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0000a1d428",
+           "blockName": "Foot Copy",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "rail_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "0000a1d378",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0000a1d429",
+           "blockName": "Foot Links",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "0000a1d42a",
+             "blockName": "Foot Mail",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "rail_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "0000a1d379",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "0000a1d42b",
+             "blockName": "Foot Ig",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "rail_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "0000a1d37a",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "rail_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "0000a1d37b",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "rail_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "0000a1d37c",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "rail_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "0000a1d37d",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "rail_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "rail_styles"
+  }
+ ],
+ "creation": "2026-08-13 14:34:28.789539",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Selected work: Fold Furniture, Marrow Bakery, Sonder Hotels. Scope, years and what happened since.",
+ "modified": "2026-08-13 14:34:28.789539",
+ "modified_by": "Administrator",
+ "name": "rail_work",
+ "owner": "Administrator",
+ "page_name": "rail_work",
+ "page_title": "Work · Aker",
+ "preview": "/builder_assets/rail/rail_work/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/rail/work",
+ "template_group": "rail"
+}

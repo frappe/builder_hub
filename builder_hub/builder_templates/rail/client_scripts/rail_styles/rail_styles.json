@@ -1,0 +1,12 @@
+{
+ "creation": "2026-08-13 14:34:28.789539",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-08-13 14:34:28.789539",
+ "modified_by": "Administrator",
+ "name": "rail_styles",
+ "owner": "Administrator",
+ "script": "\nhtml { scroll-behavior: smooth; }\n::selection { background: var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3002, #201E1A); color: var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3001, #F7F6F2); }\nbody { -webkit-font-smoothing: antialiased; }\n\n.ra-link { transition: color 0.18s ease; }\n.ra-link:hover { color: var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3006, #3D5A45); }\n\nimg { filter: saturate(0.94); }\n@media (prefers-color-scheme: dark) { img { filter: saturate(0.9) brightness(0.88); } }\n\na:focus-visible { border-radius: 4px; outline: 2px solid var(--d5f83a26-9c41-4e07-b812-6a4f2c9e3006, #3D5A45); outline-offset: 3px; }\n",
+ "script_type": "CSS"
+}

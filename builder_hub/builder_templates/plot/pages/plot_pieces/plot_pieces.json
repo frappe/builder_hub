@@ -1,0 +1,2960 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9001, #FFFFFF)",
+    "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Familjen Grotesk",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "00009b2d83",
+   "blockName": "Page",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "00009b2d6f",
+     "blockName": "Plot Nav",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00009b2d70",
+       "blockName": "Brand",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "plot_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "00009b2c40",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00009b2d71",
+       "blockName": "Nav Links",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2d72",
+         "blockName": "Nav Pieces",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c41",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2d73",
+         "blockName": "Nav Pricing",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c42",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2d74",
+         "blockName": "Nav Docs",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c43",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2d75",
+         "blockName": "Nav GitHub",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c44",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "plot_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "00009b2c45",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00009b2d76",
+       "blockName": "Nav Status",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2d77",
+         "blockName": "Go Dot",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c46",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2d78",
+         "blockName": "Version",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c47",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2d79",
+         "blockName": "Nav Install",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c48",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "plot_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "00009b2c49",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "plot_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "16px",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "980px",
+      "padding": "96px 24px 64px",
+      "width": "100%"
+     },
+     "blockId": "00009b2cf7",
+     "blockName": "Pieces Head",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+        "fontFamily": "Libre Caslon Text",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "letterSpacing": "-0.015em",
+        "lineHeight": "1.12",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "00009b2cf5",
+       "blockName": "Pieces Title",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "h1",
+       "innerHTML": "The pieces.",
+       "mobileStyles": {
+        "fontSize": "36px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+        "fontFamily": "Familjen Grotesk",
+        "fontSize": "16px",
+        "height": "fit-content",
+        "lineHeight": "1.7",
+        "maxWidth": "440px",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "00009b2cf6",
+       "blockName": "Pieces Sub",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "p",
+       "innerHTML": "Three primitives and their moods. Each card is live; each call is the whole API for that chart.",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "56px 20px 44px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "4px",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "980px",
+      "padding": "0 24px 64px",
+      "width": "100%"
+     },
+     "blockId": "00009b2d22",
+     "blockName": "Family Bars",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "14px"
+       },
+       "blockId": "00009b2d20",
+       "blockName": "Family Head Bars",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6)",
+          "fontFamily": "Familjen Grotesk",
+          "fontSize": "11.5px",
+          "fontWeight": "500",
+          "height": "fit-content",
+          "letterSpacing": "0.08em",
+          "lineHeight": "1.5",
+          "minWidth": "10px",
+          "width": "fit-content"
+         },
+         "blockId": "00009b2d1e",
+         "blockName": "Family Index",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "01",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+          "fontFamily": "Libre Caslon Text",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "-0.015em",
+          "lineHeight": "1.12",
+          "minWidth": "10px",
+          "textAlign": "left",
+          "width": "fit-content"
+         },
+         "blockId": "00009b2d1f",
+         "blockName": "Family Title",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "Bars",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "flexWrap": "wrap",
+        "gap": "18px",
+        "paddingTop": "22px",
+        "width": "100%"
+       },
+       "blockId": "00009b2d21",
+       "blockName": "Family Grid Bars",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9004, #F4F4F2)",
+          "borderRadius": "18px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "overflow": "hidden",
+          "width": "calc(50% - 9px)"
+         },
+         "blockId": "00009b2d07",
+         "blockName": "P Bars",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 0,
+            "justifyContent": "center",
+            "minHeight": "220px",
+            "width": "100%"
+           },
+           "blockId": "00009b2d05",
+           "blockName": "P Bars Stage",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "flex-end",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "8px"
+             },
+             "blockId": "00009b2d04",
+             "blockName": "Bars",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                "borderRadius": "3px 3px 0 0",
+                "flexShrink": 0,
+                "height": "34px",
+                "width": "14px"
+               },
+               "blockId": "00009b2cf8",
+               "blockName": "Bar 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                "borderRadius": "3px 3px 0 0",
+                "flexShrink": 0,
+                "height": "58px",
+                "width": "14px"
+               },
+               "blockId": "00009b2cf9",
+               "blockName": "Bar 2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                "borderRadius": "3px 3px 0 0",
+                "flexShrink": 0,
+                "height": "42px",
+                "width": "14px"
+               },
+               "blockId": "00009b2cfa",
+               "blockName": "Bar 3",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                "borderRadius": "3px 3px 0 0",
+                "flexShrink": 0,
+                "height": "76px",
+                "width": "14px"
+               },
+               "blockId": "00009b2cfb",
+               "blockName": "Bar 4",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                "borderRadius": "3px 3px 0 0",
+                "flexShrink": 0,
+                "height": "51px",
+                "width": "14px"
+               },
+               "blockId": "00009b2cfc",
+               "blockName": "Bar 5",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                "borderRadius": "3px 3px 0 0",
+                "flexShrink": 0,
+                "height": "88px",
+                "width": "14px"
+               },
+               "blockId": "00009b2cfd",
+               "blockName": "Bar 6",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                "borderRadius": "3px 3px 0 0",
+                "flexShrink": 0,
+                "height": "64px",
+                "width": "14px"
+               },
+               "blockId": "00009b2cfe",
+               "blockName": "Bar 7",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6)",
+                "borderRadius": "3px 3px 0 0",
+                "flexShrink": 0,
+                "height": "96px",
+                "width": "14px"
+               },
+               "blockId": "00009b2cff",
+               "blockName": "Bar 8",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                "borderRadius": "3px 3px 0 0",
+                "flexShrink": 0,
+                "height": "70px",
+                "width": "14px"
+               },
+               "blockId": "00009b2d00",
+               "blockName": "Bar 9",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                "borderRadius": "3px 3px 0 0",
+                "flexShrink": 0,
+                "height": "44px",
+                "width": "14px"
+               },
+               "blockId": "00009b2d01",
+               "blockName": "Bar 10",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                "borderRadius": "3px 3px 0 0",
+                "flexShrink": 0,
+                "height": "82px",
+                "width": "14px"
+               },
+               "blockId": "00009b2d02",
+               "blockName": "Bar 11",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                "borderRadius": "3px 3px 0 0",
+                "flexShrink": 0,
+                "height": "60px",
+                "width": "14px"
+               },
+               "blockId": "00009b2d03",
+               "blockName": "Bar 12",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+            "fontFamily": "JetBrains Mono",
+            "fontSize": "12px",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "padding": "0 22px 16px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2d06",
+           "blockName": "P Bars Label",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "plot.bars(data) · the workhorse",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9004, #F4F4F2)",
+          "borderRadius": "18px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "overflow": "hidden",
+          "width": "calc(50% - 9px)"
+         },
+         "blockId": "00009b2d1d",
+         "blockName": "P Deltas",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 0,
+            "justifyContent": "center",
+            "minHeight": "220px",
+            "width": "100%"
+           },
+           "blockId": "00009b2d1b",
+           "blockName": "P Deltas Stage",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "flex-end",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "9px"
+             },
+             "blockId": "00009b2d1a",
+             "blockName": "Deltas",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "justifyContent": "flex-end"
+               },
+               "blockId": "00009b2d09",
+               "blockName": "Delta 1",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                  "borderRadius": "3px",
+                  "flexShrink": 0,
+                  "height": "28px",
+                  "width": "12px"
+                 },
+                 "blockId": "00009b2d08",
+                 "blockName": "Delta Bar",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "justifyContent": "flex-end"
+               },
+               "blockId": "00009b2d0b",
+               "blockName": "Delta 2",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                  "borderRadius": "3px",
+                  "flexShrink": 0,
+                  "height": "44px",
+                  "width": "12px"
+                 },
+                 "blockId": "00009b2d0a",
+                 "blockName": "Delta Bar",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "justifyContent": "flex-end"
+               },
+               "blockId": "00009b2d0d",
+               "blockName": "Delta 3",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "3px",
+                  "flexShrink": 0,
+                  "height": "18px",
+                  "width": "12px"
+                 },
+                 "blockId": "00009b2d0c",
+                 "blockName": "Delta Bar",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "justifyContent": "flex-end"
+               },
+               "blockId": "00009b2d0f",
+               "blockName": "Delta 4",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                  "borderRadius": "3px",
+                  "flexShrink": 0,
+                  "height": "52px",
+                  "width": "12px"
+                 },
+                 "blockId": "00009b2d0e",
+                 "blockName": "Delta Bar",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "justifyContent": "flex-end"
+               },
+               "blockId": "00009b2d11",
+               "blockName": "Delta 5",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "3px",
+                  "flexShrink": 0,
+                  "height": "30px",
+                  "width": "12px"
+                 },
+                 "blockId": "00009b2d10",
+                 "blockName": "Delta Bar",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "justifyContent": "flex-end"
+               },
+               "blockId": "00009b2d13",
+               "blockName": "Delta 6",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                  "borderRadius": "3px",
+                  "flexShrink": 0,
+                  "height": "64px",
+                  "width": "12px"
+                 },
+                 "blockId": "00009b2d12",
+                 "blockName": "Delta Bar",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "justifyContent": "flex-end"
+               },
+               "blockId": "00009b2d15",
+               "blockName": "Delta 7",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                  "borderRadius": "3px",
+                  "flexShrink": 0,
+                  "height": "24px",
+                  "width": "12px"
+                 },
+                 "blockId": "00009b2d14",
+                 "blockName": "Delta Bar",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "justifyContent": "flex-end"
+               },
+               "blockId": "00009b2d17",
+               "blockName": "Delta 8",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "3px",
+                  "flexShrink": 0,
+                  "height": "40px",
+                  "width": "12px"
+                 },
+                 "blockId": "00009b2d16",
+                 "blockName": "Delta Bar",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "justifyContent": "flex-end"
+               },
+               "blockId": "00009b2d19",
+               "blockName": "Delta 9",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                  "borderRadius": "3px",
+                  "flexShrink": 0,
+                  "height": "72px",
+                  "width": "12px"
+                 },
+                 "blockId": "00009b2d18",
+                 "blockName": "Delta Bar",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+            "fontFamily": "JetBrains Mono",
+            "fontSize": "12px",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "padding": "0 22px 16px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2d1c",
+           "blockName": "P Deltas Label",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "plot.deltas(data) · up is green",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0 20px 44px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "4px",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "980px",
+      "padding": "0 24px 64px",
+      "width": "100%"
+     },
+     "blockId": "00009b2d3f",
+     "blockName": "Family Lines",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "14px"
+       },
+       "blockId": "00009b2d3d",
+       "blockName": "Family Head Lines",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6)",
+          "fontFamily": "Familjen Grotesk",
+          "fontSize": "11.5px",
+          "fontWeight": "500",
+          "height": "fit-content",
+          "letterSpacing": "0.08em",
+          "lineHeight": "1.5",
+          "minWidth": "10px",
+          "width": "fit-content"
+         },
+         "blockId": "00009b2d3b",
+         "blockName": "Family Index",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "02",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+          "fontFamily": "Libre Caslon Text",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "-0.015em",
+          "lineHeight": "1.12",
+          "minWidth": "10px",
+          "textAlign": "left",
+          "width": "fit-content"
+         },
+         "blockId": "00009b2d3c",
+         "blockName": "Family Title",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "Lines",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "flexWrap": "wrap",
+        "gap": "18px",
+        "paddingTop": "22px",
+        "width": "100%"
+       },
+       "blockId": "00009b2d3e",
+       "blockName": "Family Grid Lines",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9004, #F4F4F2)",
+          "borderRadius": "18px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "overflow": "hidden",
+          "width": "calc(50% - 9px)"
+         },
+         "blockId": "00009b2d26",
+         "blockName": "P Area",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 0,
+            "justifyContent": "center",
+            "minHeight": "220px",
+            "width": "100%"
+           },
+           "blockId": "00009b2d24",
+           "blockName": "P Area Stage",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6)",
+              "flexShrink": 0,
+              "height": "110px",
+              "opacity": "0.85",
+              "width": "78%"
+             },
+             "blockId": "00009b2d23",
+             "blockName": "Area Fill",
+             "children": [],
+             "classes": [
+              "pl-area"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {
+              "clip-path": "polygon(0 78%, 9% 64%, 18% 70%, 27% 48%, 36% 56%, 45% 38%, 54% 46%, 63% 28%, 72% 36%, 81% 18%, 90% 26%, 100% 8%, 100% 100%, 0 100%)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+            "fontFamily": "JetBrains Mono",
+            "fontSize": "12px",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "padding": "0 22px 16px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2d25",
+           "blockName": "P Area Label",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "plot.area(data) · fills to zero",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9004, #F4F4F2)",
+          "borderRadius": "18px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "overflow": "hidden",
+          "width": "calc(50% - 9px)"
+         },
+         "blockId": "00009b2d3a",
+         "blockName": "P Spark",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 0,
+            "justifyContent": "center",
+            "minHeight": "220px",
+            "width": "100%"
+           },
+           "blockId": "00009b2d38",
+           "blockName": "P Spark Stage",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0
+             },
+             "blockId": "00009b2d37",
+             "blockName": "Sparkline Demo",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "flex-end",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "gap": "5px"
+               },
+               "blockId": "00009b2d35",
+               "blockName": "Spark Bars",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "2px",
+                  "flexShrink": 0,
+                  "height": "12px",
+                  "width": "7px"
+                 },
+                 "blockId": "00009b2d27",
+                 "blockName": "Spark 1",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "2px",
+                  "flexShrink": 0,
+                  "height": "20px",
+                  "width": "7px"
+                 },
+                 "blockId": "00009b2d28",
+                 "blockName": "Spark 2",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "2px",
+                  "flexShrink": 0,
+                  "height": "16px",
+                  "width": "7px"
+                 },
+                 "blockId": "00009b2d29",
+                 "blockName": "Spark 3",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "2px",
+                  "flexShrink": 0,
+                  "height": "30px",
+                  "width": "7px"
+                 },
+                 "blockId": "00009b2d2a",
+                 "blockName": "Spark 4",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "2px",
+                  "flexShrink": 0,
+                  "height": "24px",
+                  "width": "7px"
+                 },
+                 "blockId": "00009b2d2b",
+                 "blockName": "Spark 5",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "2px",
+                  "flexShrink": 0,
+                  "height": "40px",
+                  "width": "7px"
+                 },
+                 "blockId": "00009b2d2c",
+                 "blockName": "Spark 6",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "2px",
+                  "flexShrink": 0,
+                  "height": "34px",
+                  "width": "7px"
+                 },
+                 "blockId": "00009b2d2d",
+                 "blockName": "Spark 7",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "2px",
+                  "flexShrink": 0,
+                  "height": "52px",
+                  "width": "7px"
+                 },
+                 "blockId": "00009b2d2e",
+                 "blockName": "Spark 8",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "2px",
+                  "flexShrink": 0,
+                  "height": "44px",
+                  "width": "7px"
+                 },
+                 "blockId": "00009b2d2f",
+                 "blockName": "Spark 9",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "2px",
+                  "flexShrink": 0,
+                  "height": "62px",
+                  "width": "7px"
+                 },
+                 "blockId": "00009b2d30",
+                 "blockName": "Spark 10",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "2px",
+                  "flexShrink": 0,
+                  "height": "50px",
+                  "width": "7px"
+                 },
+                 "blockId": "00009b2d31",
+                 "blockName": "Spark 11",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "2px",
+                  "flexShrink": 0,
+                  "height": "74px",
+                  "width": "7px"
+                 },
+                 "blockId": "00009b2d32",
+                 "blockName": "Spark 12",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+                  "borderRadius": "2px",
+                  "flexShrink": 0,
+                  "height": "66px",
+                  "width": "7px"
+                 },
+                 "blockId": "00009b2d33",
+                 "blockName": "Spark 13",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6)",
+                  "borderRadius": "2px",
+                  "flexShrink": 0,
+                  "height": "84px",
+                  "width": "7px"
+                 },
+                 "blockId": "00009b2d34",
+                 "blockName": "Spark 14",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+                "fontFamily": "JetBrains Mono",
+                "fontSize": "12px",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "paddingTop": "14px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d36",
+               "blockName": "Spark Caption",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "plot.spark(weekly)",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+            "fontFamily": "JetBrains Mono",
+            "fontSize": "12px",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "padding": "0 22px 16px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2d39",
+           "blockName": "P Spark Label",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "plot.spark(data) · fits in a sentence",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0 20px 44px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "4px",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "980px",
+      "padding": "0 24px 64px",
+      "width": "100%"
+     },
+     "blockId": "00009b2d52",
+     "blockName": "Family Numbers",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "14px"
+       },
+       "blockId": "00009b2d50",
+       "blockName": "Family Head Numbers",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6)",
+          "fontFamily": "Familjen Grotesk",
+          "fontSize": "11.5px",
+          "fontWeight": "500",
+          "height": "fit-content",
+          "letterSpacing": "0.08em",
+          "lineHeight": "1.5",
+          "minWidth": "10px",
+          "width": "fit-content"
+         },
+         "blockId": "00009b2d4e",
+         "blockName": "Family Index",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "03",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+          "fontFamily": "Libre Caslon Text",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "-0.015em",
+          "lineHeight": "1.12",
+          "minWidth": "10px",
+          "textAlign": "left",
+          "width": "fit-content"
+         },
+         "blockId": "00009b2d4f",
+         "blockName": "Family Title",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "Numbers",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "flexWrap": "wrap",
+        "gap": "18px",
+        "paddingTop": "22px",
+        "width": "100%"
+       },
+       "blockId": "00009b2d51",
+       "blockName": "Family Grid Numbers",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9004, #F4F4F2)",
+          "borderRadius": "18px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "overflow": "hidden",
+          "width": "calc(50% - 9px)"
+         },
+         "blockId": "00009b2d46",
+         "blockName": "P Ticker",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 0,
+            "justifyContent": "center",
+            "minHeight": "220px",
+            "width": "100%"
+           },
+           "blockId": "00009b2d44",
+           "blockName": "P Ticker Stage",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+              "fontFamily": "Libre Caslon Text",
+              "fontSize": "54px",
+              "height": "fit-content",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00009b2d40",
+             "blockName": "Tick Number",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "48,213",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "10px",
+              "paddingTop": "10px"
+             },
+             "blockId": "00009b2d43",
+             "blockName": "Tick Delta",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "12.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d41",
+               "blockName": "Tick Arrow",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "▲ 12.4%",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "11.5px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "letterSpacing": "0.02em",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d42",
+               "blockName": "Tick Period",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "vs last quarter",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+            "fontFamily": "JetBrains Mono",
+            "fontSize": "12px",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "padding": "0 22px 16px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2d45",
+           "blockName": "P Ticker Label",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "plot.number(data) · the headline figure",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9004, #F4F4F2)",
+          "borderRadius": "18px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "overflow": "hidden",
+          "width": "calc(50% - 9px)"
+         },
+         "blockId": "00009b2d4d",
+         "blockName": "P Ring",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 0,
+            "justifyContent": "center",
+            "minHeight": "220px",
+            "width": "100%"
+           },
+           "blockId": "00009b2d4b",
+           "blockName": "P Ring Stage",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "borderRadius": "999px",
+              "display": "flex",
+              "flexShrink": 0,
+              "height": "110px",
+              "justifyContent": "center",
+              "width": "110px"
+             },
+             "blockId": "00009b2d4a",
+             "blockName": "Ring",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9004, #F4F4F2)",
+                "borderRadius": "999px",
+                "display": "flex",
+                "flexDirection": "column",
+                "height": "84px",
+                "justifyContent": "center",
+                "width": "84px"
+               },
+               "blockId": "00009b2d49",
+               "blockName": "Ring Hole",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+                  "fontFamily": "Libre Caslon Text",
+                  "fontSize": "19px",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00009b2d47",
+                 "blockName": "Ring Value",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "72%",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+                  "fontFamily": "Familjen Grotesk",
+                  "fontSize": "10.5px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "letterSpacing": "0.02em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00009b2d48",
+                 "blockName": "Ring Caption",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "of goal",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "pl-ring"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+            "fontFamily": "JetBrains Mono",
+            "fontSize": "12px",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "padding": "0 22px 16px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2d4c",
+           "blockName": "P Ring Label",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "plot.ring(share) · one value, honestly",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0 20px 44px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "4px",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "980px",
+      "padding": "0 24px 64px",
+      "width": "100%"
+     },
+     "blockId": "00009b2d6a",
+     "blockName": "Family Bits",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "14px"
+       },
+       "blockId": "00009b2d68",
+       "blockName": "Family Head Bits",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6)",
+          "fontFamily": "Familjen Grotesk",
+          "fontSize": "11.5px",
+          "fontWeight": "500",
+          "height": "fit-content",
+          "letterSpacing": "0.08em",
+          "lineHeight": "1.5",
+          "minWidth": "10px",
+          "width": "fit-content"
+         },
+         "blockId": "00009b2d66",
+         "blockName": "Family Index",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "04",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+          "fontFamily": "Libre Caslon Text",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "-0.015em",
+          "lineHeight": "1.12",
+          "minWidth": "10px",
+          "textAlign": "left",
+          "width": "fit-content"
+         },
+         "blockId": "00009b2d67",
+         "blockName": "Family Title",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "Bits",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "flexWrap": "wrap",
+        "gap": "18px",
+        "paddingTop": "22px",
+        "width": "100%"
+       },
+       "blockId": "00009b2d69",
+       "blockName": "Family Grid Bits",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9004, #F4F4F2)",
+          "borderRadius": "18px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "overflow": "hidden",
+          "width": "100%"
+         },
+         "blockId": "00009b2d65",
+         "blockName": "P Legend",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 0,
+            "justifyContent": "center",
+            "minHeight": "200px",
+            "width": "100%"
+           },
+           "blockId": "00009b2d63",
+           "blockName": "P Legend Stage",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "18px"
+             },
+             "blockId": "00009b2d62",
+             "blockName": "Legend Demo",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+                "borderRadius": "9px",
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "gap": "3px",
+                "padding": "9px 12px"
+               },
+               "blockId": "00009b2d57",
+               "blockName": "Tooltip",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9001, #FFFFFF)",
+                  "fontFamily": "Familjen Grotesk",
+                  "fontSize": "10.5px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "letterSpacing": "0.02em",
+                  "lineHeight": "1.5",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00009b2d53",
+                 "blockName": "Tooltip Title",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "March 14",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "6px"
+                 },
+                 "blockId": "00009b2d56",
+                 "blockName": "Tooltip Row",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6)",
+                    "borderRadius": "999px",
+                    "flexShrink": 0,
+                    "height": "7px",
+                    "width": "7px"
+                   },
+                   "blockId": "00009b2d54",
+                   "blockName": "Tooltip Dot",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "div",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9001, #FFFFFF)",
+                    "fontFamily": "Familjen Grotesk",
+                    "fontSize": "10.5px",
+                    "fontWeight": "400",
+                    "height": "fit-content",
+                    "letterSpacing": "0.02em",
+                    "lineHeight": "1.5",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "00009b2d55",
+                   "blockName": "Tooltip Value",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "signups · 1,204",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "flexShrink": 0,
+                "gap": "16px"
+               },
+               "blockId": "00009b2d61",
+               "blockName": "Legend Row",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "7px"
+                 },
+                 "blockId": "00009b2d5a",
+                 "blockName": "Legend signups",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6)",
+                    "borderRadius": "999px",
+                    "flexShrink": 0,
+                    "height": "9px",
+                    "width": "9px"
+                   },
+                   "blockId": "00009b2d58",
+                   "blockName": "Legend Dot",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "div",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+                    "fontFamily": "Familjen Grotesk",
+                    "fontSize": "11.5px",
+                    "fontWeight": "400",
+                    "height": "fit-content",
+                    "letterSpacing": "0.02em",
+                    "lineHeight": "1.5",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "00009b2d59",
+                   "blockName": "Legend Label",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "signups",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "7px"
+                 },
+                 "blockId": "00009b2d5d",
+                 "blockName": "Legend active",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                    "borderRadius": "999px",
+                    "flexShrink": 0,
+                    "height": "9px",
+                    "width": "9px"
+                   },
+                   "blockId": "00009b2d5b",
+                   "blockName": "Legend Dot",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "div",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+                    "fontFamily": "Familjen Grotesk",
+                    "fontSize": "11.5px",
+                    "fontWeight": "400",
+                    "height": "fit-content",
+                    "letterSpacing": "0.02em",
+                    "lineHeight": "1.5",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "00009b2d5c",
+                   "blockName": "Legend Label",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "active",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "alignItems": "center",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexShrink": 0,
+                  "gap": "7px"
+                 },
+                 "blockId": "00009b2d60",
+                 "blockName": "Legend churned",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+                    "borderRadius": "999px",
+                    "flexShrink": 0,
+                    "height": "9px",
+                    "width": "9px"
+                   },
+                   "blockId": "00009b2d5e",
+                   "blockName": "Legend Dot",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "div",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+                    "fontFamily": "Familjen Grotesk",
+                    "fontSize": "11.5px",
+                    "fontWeight": "400",
+                    "height": "fit-content",
+                    "letterSpacing": "0.02em",
+                    "lineHeight": "1.5",
+                    "minWidth": "10px",
+                    "width": "fit-content"
+                   },
+                   "blockId": "00009b2d5f",
+                   "blockName": "Legend Label",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "p",
+                   "innerHTML": "churned",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+            "fontFamily": "JetBrains Mono",
+            "fontSize": "12px",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "padding": "0 22px 16px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2d64",
+           "blockName": "P Legend Label",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "legend + tooltip · free with any chart",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0 20px 44px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "980px",
+      "padding": "0 24px 80px",
+      "width": "100%"
+     },
+     "blockId": "00009b2d6e",
+     "blockName": "Limits",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9004, #F4F4F2)",
+        "borderRadius": "18px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "12px",
+        "padding": "36px 40px",
+        "width": "100%"
+       },
+       "blockId": "00009b2d6d",
+       "blockName": "Limits Card",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6)",
+          "fontFamily": "Familjen Grotesk",
+          "fontSize": "11.5px",
+          "fontWeight": "500",
+          "height": "fit-content",
+          "letterSpacing": "0.08em",
+          "lineHeight": "1.5",
+          "minWidth": "10px",
+          "width": "fit-content"
+         },
+         "blockId": "00009b2d6b",
+         "blockName": "Limits Label",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "WHAT PLOT WON'T DO",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+          "fontFamily": "Familjen Grotesk",
+          "fontSize": "15.5px",
+          "height": "fit-content",
+          "lineHeight": "1.7",
+          "minWidth": "10px",
+          "width": "fit-content"
+         },
+         "blockId": "00009b2d6c",
+         "blockName": "Limits Body",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "No 3D. No pie charts (we've met your data; it isn't a pie). No candlesticks, no gauges shaped like speedometers. If you need those, you need a different library, and that's fine.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0 20px 56px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "00009b2d7a",
+     "blockName": "Plot Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00009b2d7b",
+       "blockName": "Foot Brand",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "plot_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "00009b2c4b",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00009b2d7c",
+       "blockName": "Foot Links",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2d7d",
+         "blockName": "Foot PIECES",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c4c",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2d7e",
+         "blockName": "Foot PRICING",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c4d",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2d7f",
+         "blockName": "Foot DOCS",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c4e",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2d80",
+         "blockName": "Foot GITHUB",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c4f",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2d81",
+         "blockName": "Foot MIT",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c50",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "plot_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "00009b2c51",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00009b2d82",
+       "blockName": "Foot Line",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "plot_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "00009b2c52",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "plot_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "plot_styles"
+  }
+ ],
+ "creation": "2026-08-13 09:28:59.389865",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Bars, lines, numbers and bits: every Plot primitive, live, with the one-line call that draws it. Plus a short list of what Plot refuses to do.",
+ "modified": "2026-08-13 09:28:59.389865",
+ "modified_by": "Administrator",
+ "name": "plot_pieces",
+ "owner": "Administrator",
+ "page_name": "plot_pieces",
+ "page_title": "Pieces · Plot",
+ "preview": "/builder_assets/plot/plot_pieces/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/plot/pieces",
+ "template_group": "plot"
+}

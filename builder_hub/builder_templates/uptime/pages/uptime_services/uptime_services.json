@@ -1,0 +1,2607 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d01, #0D1220)",
+    "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Inter",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "b9f721d48d",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "7938f71f5a",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "be8238aaaa",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "250c3db40c",
+         "blockName": "Brand",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "9b9f1e2e16",
+           "blockName": "Brand T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "uptime_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "b70ddd699a",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "86ca020413",
+           "blockName": "Brand Cursor",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "uptime_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "8f46e893fd",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "uptime_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "8719e5d52a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "d1b58be6fb",
+         "blockName": "Nav Links",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "29582792f9",
+           "blockName": "Nav Services",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "uptime_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "d622b86a9b",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "95d4e41b76",
+           "blockName": "Nav Partners",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "uptime_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "45bc6479db",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "b0f0a7e871",
+           "blockName": "Nav CTA",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "uptime_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "83b72fdee7",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "uptime_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "a3f2ff03f6",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "uptime_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "6599e355e0",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "uptime_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "88px 40px",
+      "width": "100%"
+     },
+     "blockId": "78f182561e",
+     "blockName": "Catalog",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "20px",
+        "maxWidth": "1180px",
+        "width": "100%"
+       },
+       "blockId": "1ee98b1bf1",
+       "blockName": "Ct Head",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d05, #34D399)",
+          "fontFamily": "Space Grotesk",
+          "fontSize": "12px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "letterSpacing": "0.18em",
+          "lineHeight": "1.3",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "120dd18157",
+         "blockName": "Ct Eye",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Services & pricing",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+          "fontFamily": "Space Grotesk",
+          "fontSize": "54px",
+          "fontWeight": "700",
+          "height": "fit-content",
+          "letterSpacing": "-0.02em",
+          "lineHeight": "1.08",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "b5d9bfd3ee",
+         "blockName": "Ct H",
+         "children": [],
+         "classes": [
+          "up-rise"
+         ],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "Per seat, per month,<br>no line-item roulette",
+         "mobileStyles": {
+          "fontSize": "34px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "46px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+          "fontFamily": "Inter",
+          "fontSize": "15.5px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.65",
+          "minWidth": "10px",
+          "width": "600px"
+         },
+         "blockId": "640e844c72",
+         "blockName": "Ct Sub",
+         "children": [],
+         "classes": [
+          "up-rise",
+          "up-d1"
+         ],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "One number covers the helpdesk, the cloud, the security and the essentials. It goes up when you hire and down when you don't. That's the whole model.",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "44px",
+        "width": "10px"
+       },
+       "blockId": "ffc6d43884",
+       "blockName": "Ct Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "18px",
+        "maxWidth": "1180px",
+        "width": "100%"
+       },
+       "blockId": "8c14f5a782",
+       "blockName": "Ct Tiers",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d02, #141B2D)",
+          "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d06, #222B42)",
+          "borderRadius": "16px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "20px",
+          "minWidth": "0px",
+          "padding": "30px",
+          "width": "auto"
+         },
+         "blockId": "8d63ab1240",
+         "blockName": "Tier Steady",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "6px",
+            "width": "100%"
+           },
+           "blockId": "79835e92a7",
+           "blockName": "Tier Steady Head",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+              "fontFamily": "Space Grotesk",
+              "fontSize": "18px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "8834325473",
+             "blockName": "Tier Steady T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Steady",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "ebc2bd510a",
+             "blockName": "Tier Steady W",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "10–50 seats finding their feet",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "6px",
+            "width": "fit-content"
+           },
+           "blockId": "c21b4787fe",
+           "blockName": "Tier Steady Price Row",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+              "fontFamily": "Space Grotesk",
+              "fontSize": "40px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "letterSpacing": "-0.02em",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "fd5cd76658",
+             "blockName": "Tier Steady P",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "$59",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "13px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "cabde3b020",
+             "blockName": "Tier Steady U",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "/ seat / month",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d06, #222B42)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "9px",
+            "paddingTop": "18px",
+            "width": "100%"
+           },
+           "blockId": "3c3ec37cc6",
+           "blockName": "Tier Steady List",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "2a83b2b333",
+             "blockName": "Tier Steady L0",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "✓&nbsp;&nbsp;Helpdesk, business hours + on-call",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "d472504b9a",
+             "blockName": "Tier Steady L1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "✓&nbsp;&nbsp;Cloud suite run & backed up",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "3c846af9ed",
+             "blockName": "Tier Steady L2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "✓&nbsp;&nbsp;Managed endpoint security",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "bd80b679b1",
+             "blockName": "Tier Steady L3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "✓&nbsp;&nbsp;Quarterly strategy hour",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "services#audit"
+           },
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d06, #222B42)",
+            "borderRadius": "10px",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px",
+            "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "fontFamily": "Space Grotesk",
+            "fontSize": "14.5px",
+            "fontWeight": "700",
+            "justifyContent": "center",
+            "lineHeight": "1",
+            "padding": "17px 30px",
+            "textDecoration": "none",
+            "width": "fit-content"
+           },
+           "blockId": "c2b9323555",
+           "blockName": "Tier Steady Btn",
+           "children": [],
+           "classes": [
+            "up-btn-o"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "Start with the audit",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "up-rise",
+          "up-panel"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d02, #141B2D)",
+          "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d05, #34D399)",
+          "borderRadius": "16px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "20px",
+          "minWidth": "0px",
+          "padding": "30px",
+          "width": "auto"
+         },
+         "blockId": "a66102e650",
+         "blockName": "Tier Serious",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "6px",
+            "width": "100%"
+           },
+           "blockId": "7d8bb4ca13",
+           "blockName": "Tier Serious Head",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+              "fontFamily": "Space Grotesk",
+              "fontSize": "18px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "c1aa64a222",
+             "blockName": "Tier Serious T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Serious",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "3614799a65",
+             "blockName": "Tier Serious W",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "50–200 seats with things to lose",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "6px",
+            "width": "fit-content"
+           },
+           "blockId": "36f7e73790",
+           "blockName": "Tier Serious Price Row",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+              "fontFamily": "Space Grotesk",
+              "fontSize": "40px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "letterSpacing": "-0.02em",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "d273735732",
+             "blockName": "Tier Serious P",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "$89",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "13px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "920320fb7f",
+             "blockName": "Tier Serious U",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "/ seat / month",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d06, #222B42)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "9px",
+            "paddingTop": "18px",
+            "width": "100%"
+           },
+           "blockId": "c518ead212",
+           "blockName": "Tier Serious List",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "517f25f489",
+             "blockName": "Tier Serious L0",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "✓&nbsp;&nbsp;Everything in Steady, 24/7",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "0423d202fa",
+             "blockName": "Tier Serious L1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "✓&nbsp;&nbsp;Managed detection & response",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "4a96144929",
+             "blockName": "Tier Serious L2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "✓&nbsp;&nbsp;Phishing drills & training",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "70eed60ff2",
+             "blockName": "Tier Serious L3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "✓&nbsp;&nbsp;Monthly reporting your board can read",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "services#audit"
+           },
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d05, #34D399)",
+            "borderRadius": "10px",
+            "color": "#07100C",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "fontFamily": "Space Grotesk",
+            "fontSize": "14.5px",
+            "fontWeight": "700",
+            "justifyContent": "center",
+            "lineHeight": "1",
+            "padding": "17px 30px",
+            "textDecoration": "none",
+            "width": "fit-content"
+           },
+           "blockId": "a4d857e6c0",
+           "blockName": "Tier Serious Btn",
+           "children": [],
+           "classes": [
+            "up-btn"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "Start with the audit",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "up-rise",
+          "up-panel"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d02, #141B2D)",
+          "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d06, #222B42)",
+          "borderRadius": "16px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "20px",
+          "minWidth": "0px",
+          "padding": "30px",
+          "width": "auto"
+         },
+         "blockId": "56cf0d88bb",
+         "blockName": "Tier Regulated",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "6px",
+            "width": "100%"
+           },
+           "blockId": "55c8328ddd",
+           "blockName": "Tier Regulated Head",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+              "fontFamily": "Space Grotesk",
+              "fontSize": "18px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "1303f387e1",
+             "blockName": "Tier Regulated T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Regulated",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "13.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "5fe24492e1",
+             "blockName": "Tier Regulated W",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Compliance-bound and audited",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "6px",
+            "width": "fit-content"
+           },
+           "blockId": "f15aafaa67",
+           "blockName": "Tier Regulated Price Row",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+              "fontFamily": "Space Grotesk",
+              "fontSize": "40px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "letterSpacing": "-0.02em",
+              "lineHeight": "1",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "640a37891d",
+             "blockName": "Tier Regulated P",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "$129",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "13px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "5ee910380c",
+             "blockName": "Tier Regulated U",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "/ seat / month",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d06, #222B42)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0px 0px 0px",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "9px",
+            "paddingTop": "18px",
+            "width": "100%"
+           },
+           "blockId": "7bdd369c9a",
+           "blockName": "Tier Regulated List",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "f8571c4f27",
+             "blockName": "Tier Regulated L0",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "✓&nbsp;&nbsp;Everything in Serious",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "91fd4529b7",
+             "blockName": "Tier Regulated L1",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "✓&nbsp;&nbsp;Compliance evidence on tap (SOC 2, ISO)",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "7c2a239060",
+             "blockName": "Tier Regulated L2",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "✓&nbsp;&nbsp;Annual incident-response rehearsal",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "a21a97ee54",
+             "blockName": "Tier Regulated L3",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "✓&nbsp;&nbsp;A named engineer who knows your stack",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "services#audit"
+           },
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d06, #222B42)",
+            "borderRadius": "10px",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px",
+            "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "fontFamily": "Space Grotesk",
+            "fontSize": "14.5px",
+            "fontWeight": "700",
+            "justifyContent": "center",
+            "lineHeight": "1",
+            "padding": "17px 30px",
+            "textDecoration": "none",
+            "width": "fit-content"
+           },
+           "blockId": "a1e0a00c36",
+           "blockName": "Tier Regulated Btn",
+           "children": [],
+           "classes": [
+            "up-btn-o"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "Start with the audit",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "up-rise",
+          "up-panel"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "flexDirection": "column"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "60px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "84px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d06, #222B42)",
+      "borderStyle": "solid",
+      "borderWidth": "1px 0px 0px 0px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "104px 40px",
+      "width": "100%"
+     },
+     "blockId": "4805498286",
+     "blockName": "Included",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "18px",
+        "maxWidth": "1180px",
+        "width": "100%"
+       },
+       "blockId": "d1f3e8ba4f",
+       "blockName": "In Head",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d05, #34D399)",
+          "fontFamily": "Space Grotesk",
+          "fontSize": "12px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "letterSpacing": "0.18em",
+          "lineHeight": "1.3",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "e38ca8f9fa",
+         "blockName": "In Eye",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Always included",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+          "fontFamily": "Space Grotesk",
+          "fontSize": "44px",
+          "fontWeight": "700",
+          "height": "fit-content",
+          "letterSpacing": "-0.02em",
+          "lineHeight": "1.08",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "423d676799",
+         "blockName": "In H",
+         "children": [],
+         "classes": [
+          "up-rise"
+         ],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "The fine print, printed large",
+         "mobileStyles": {
+          "fontSize": "30px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "38px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "30px",
+        "width": "10px"
+       },
+       "blockId": "8756dbb249",
+       "blockName": "In Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "maxWidth": "1180px",
+        "width": "100%"
+       },
+       "blockId": "7b4f854c94",
+       "blockName": "In Rows",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d06, #222B42)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "32px",
+          "padding": "26px 0px",
+          "width": "100%"
+         },
+         "blockId": "edb3d6a607",
+         "blockName": "Inc 01",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d05, #34D399)",
+            "fontFamily": "Space Grotesk",
+            "fontSize": "13px",
+            "fontWeight": "700",
+            "height": "fit-content",
+            "lineHeight": "1.6",
+            "minWidth": "10px",
+            "width": "44px"
+           },
+           "blockId": "385e41825f",
+           "blockName": "Inc 01 N",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "01",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+            "fontFamily": "Inter",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "280px"
+           },
+           "blockId": "0c02127dde",
+           "blockName": "Inc 01 T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Onboarding in 30 days",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+            "fontFamily": "Inter",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.65",
+            "minWidth": "10px",
+            "width": "auto"
+           },
+           "blockId": "d83792ea7e",
+           "blockName": "Inc 01 B",
+           "children": [],
+           "classes": [
+            "up-grow"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "We shadow your current setup, document everything, then take the pager. No cliff, no chaos week.",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "up-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexWrap": "wrap",
+          "gap": "8px 20px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d06, #222B42)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "32px",
+          "padding": "26px 0px",
+          "width": "100%"
+         },
+         "blockId": "bdd65d85f5",
+         "blockName": "Inc 02",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d05, #34D399)",
+            "fontFamily": "Space Grotesk",
+            "fontSize": "13px",
+            "fontWeight": "700",
+            "height": "fit-content",
+            "lineHeight": "1.6",
+            "minWidth": "10px",
+            "width": "44px"
+           },
+           "blockId": "71cf5ad3de",
+           "blockName": "Inc 02 N",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "02",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+            "fontFamily": "Inter",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "280px"
+           },
+           "blockId": "945aeb6610",
+           "blockName": "Inc 02 T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Exit plan in the contract",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+            "fontFamily": "Inter",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.65",
+            "minWidth": "10px",
+            "width": "auto"
+           },
+           "blockId": "4b745198ae",
+           "blockName": "Inc 02 B",
+           "children": [],
+           "classes": [
+            "up-grow"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Leaving us takes one email and gets you every password, licence and diagram in a tidy handover. Confidence, not lock-in.",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "up-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexWrap": "wrap",
+          "gap": "8px 20px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d06, #222B42)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "32px",
+          "padding": "26px 0px",
+          "width": "100%"
+         },
+         "blockId": "575ce39228",
+         "blockName": "Inc 03",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d05, #34D399)",
+            "fontFamily": "Space Grotesk",
+            "fontSize": "13px",
+            "fontWeight": "700",
+            "height": "fit-content",
+            "lineHeight": "1.6",
+            "minWidth": "10px",
+            "width": "44px"
+           },
+           "blockId": "9b00955b76",
+           "blockName": "Inc 03 N",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "03",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+            "fontFamily": "Inter",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "280px"
+           },
+           "blockId": "95b19f49c2",
+           "blockName": "Inc 03 T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Hardware at cost",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+            "fontFamily": "Inter",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.65",
+            "minWidth": "10px",
+            "width": "auto"
+           },
+           "blockId": "fdbf72133b",
+           "blockName": "Inc 03 B",
+           "children": [],
+           "classes": [
+            "up-grow"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Laptops and kit at our price with the invoice attached. We make money on service, not margin archaeology.",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "up-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexWrap": "wrap",
+          "gap": "8px 20px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d06, #222B42)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "32px",
+          "padding": "26px 0px",
+          "width": "100%"
+         },
+         "blockId": "aec3dc9c9c",
+         "blockName": "Inc 04",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d05, #34D399)",
+            "fontFamily": "Space Grotesk",
+            "fontSize": "13px",
+            "fontWeight": "700",
+            "height": "fit-content",
+            "lineHeight": "1.6",
+            "minWidth": "10px",
+            "width": "44px"
+           },
+           "blockId": "78375caa38",
+           "blockName": "Inc 04 N",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "04",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+            "fontFamily": "Inter",
+            "fontSize": "17px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.4",
+            "minWidth": "10px",
+            "width": "280px"
+           },
+           "blockId": "a94b9b0918",
+           "blockName": "Inc 04 T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Plain-language reports",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+            "fontFamily": "Inter",
+            "fontSize": "14.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.65",
+            "minWidth": "10px",
+            "width": "auto"
+           },
+           "blockId": "8039a7dc0e",
+           "blockName": "Inc 04 B",
+           "children": [],
+           "classes": [
+            "up-grow"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Monthly, one page: what broke, what we fixed, what we'd spend next. The forty-page version exists if you insist.",
+           "mobileStyles": {
+            "width": "100%"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "up-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexWrap": "wrap",
+          "gap": "8px 20px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "60px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "84px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "0px 40px 104px 40px",
+      "width": "100%"
+     },
+     "blockId": "4718a3456a",
+     "blockName": "Audit",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "maxWidth": "1180px",
+        "width": "100%"
+       },
+       "blockId": "382cd2e6d9",
+       "blockName": "Au Panel Wrap",
+       "children": [
+        {
+         "attributes": {
+          "id": "audit"
+         },
+         "baseStyles": {
+          "flexShrink": 0,
+          "height": "1px",
+          "width": "1px"
+         },
+         "blockId": "310aa5a4f9",
+         "blockName": "Au Anchor",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d02, #141B2D)",
+          "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d05, #34D399)",
+          "borderRadius": "18px",
+          "borderStyle": "solid",
+          "borderWidth": "1px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "48px",
+          "padding": "48px",
+          "width": "100%"
+         },
+         "blockId": "bf0a5a34a3",
+         "blockName": "Au Panel",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1.3,
+            "flexShrink": 1,
+            "gap": "14px",
+            "minWidth": "0px"
+           },
+           "blockId": "34e6ce8961",
+           "blockName": "Au Copy",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d05, #34D399)",
+              "fontFamily": "Space Grotesk",
+              "fontSize": "12px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.18em",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "a64cdc9b60",
+             "blockName": "Au Eye",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The free audit",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+              "fontFamily": "Space Grotesk",
+              "fontSize": "36px",
+              "fontWeight": "700",
+              "height": "fit-content",
+              "letterSpacing": "-0.02em",
+              "lineHeight": "1.08",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "0544980b17",
+             "blockName": "Au H",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h2",
+             "innerHTML": "Two hours. One report. Zero obligation.",
+             "mobileStyles": {
+              "fontSize": "27px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {
+              "fontSize": "32px"
+             }
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "15.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "6e117a1e65",
+             "blockName": "Au Sub",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "A read-only look at your stack: security posture, licence waste, backup reality, single points of failure. You get the findings whether or not we ever speak again. About a third of audits end with 'you're fine, change these four settings'.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "14px",
+            "justifyContent": "center",
+            "minWidth": "0px"
+           },
+           "blockId": "77e1d280fa",
+           "blockName": "Au Side",
+           "children": [
+            {
+             "attributes": {
+              "href": "mailto:hello@uptime.partners?subject=Free%20IT%20audit"
+             },
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d05, #34D399)",
+              "borderRadius": "10px",
+              "color": "#07100C",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "fontFamily": "Space Grotesk",
+              "fontSize": "14.5px",
+              "fontWeight": "700",
+              "justifyContent": "center",
+              "lineHeight": "1",
+              "padding": "17px 30px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "f5804c3a38",
+             "blockName": "Au B1",
+             "children": [],
+             "classes": [
+              "up-btn"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "Book the audit",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {
+              "href": "tel:+15550108899"
+             },
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "transparent",
+              "borderColor": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d06, #222B42)",
+              "borderRadius": "10px",
+              "borderStyle": "solid",
+              "borderWidth": "1.5px",
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d03, #E9EDF6)",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "fontFamily": "Space Grotesk",
+              "fontSize": "14.5px",
+              "fontWeight": "700",
+              "justifyContent": "center",
+              "lineHeight": "1",
+              "padding": "17px 30px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "056ebcf242",
+             "blockName": "Au B2",
+             "children": [],
+             "classes": [
+              "up-btn-o"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "(555) 010-8899",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--f7b0d5e2-8a41-4c3f-0d9e-1b5a8f2c4d04, #8B94A9)",
+              "fontFamily": "Inter",
+              "fontSize": "13px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.65",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "d49a501cce",
+             "blockName": "Au Note",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Median time from call to report: six working days.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "up-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "24px",
+          "padding": "28px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "gap": "32px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0px 18px 60px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "84px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "ce23bac5d4",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "47bfe6f5b0",
+       "blockName": "Footer Inner",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "6b2e10343a",
+         "blockName": "F Top",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "9eeb473120",
+           "blockName": "F Brand Col",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "143add7b80",
+             "blockName": "F Brand",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "72d246b125",
+               "blockName": "FB T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "uptime_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "0cbeddffb9",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "615c7c2b01",
+               "blockName": "FB Cursor",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "uptime_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "9beb85738a",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "uptime_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "4ca2d13bab",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "ee1a80d994",
+             "blockName": "F Pitch",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "uptime_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "7bb44fdf93",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "e1ebe9aea9",
+             "blockName": "F Status",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "92d5a7e979",
+               "blockName": "F Status Dot",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "uptime_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "1c70a0fe3b",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "27146c1f5b",
+               "blockName": "F Status T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "uptime_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "67a2ae7cbe",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "uptime_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "11c48e41c7",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "uptime_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9d9cf39504",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "51615e93da",
+           "blockName": "F Col Company",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "72e27a2b11",
+             "blockName": "FC Company T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "uptime_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "a3b4fdf948",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "571e4de89d",
+             "blockName": "FC Company Services",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "uptime_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "bc8ac8985e",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "d21ec2e257",
+             "blockName": "FC Company Partners & proof",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "uptime_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "9c52bfe465",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "1440a7e655",
+             "blockName": "FC Company Free IT audit",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "uptime_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "b249f1ff27",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "uptime_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "d7c8e8f675",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "d915c878ad",
+           "blockName": "F Col Talk",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "9c603e6669",
+             "blockName": "FC Talk T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "uptime_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "0f96f2153c",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "f8d2dbabed",
+             "blockName": "FC Talk (555) 010-8899",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "uptime_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "331455387b",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "6d6a0cda4a",
+             "blockName": "FC Talk hello@uptime.partners",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "uptime_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "7a72d904b8",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "uptime_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "5784d0b825",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "10421b1517",
+           "blockName": "F Col For clients",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "f41f08342f",
+             "blockName": "FC For clients T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "uptime_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "aa17b523ec",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "7125348554",
+             "blockName": "FC For clients Support: 24/7, humans",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "uptime_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "f9af5ca238",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "2455db46b1",
+             "blockName": "FC For clients Median first reply: 11 min",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "uptime_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "e002408e30",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "uptime_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "06c7eaaa39",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "uptime_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "2a670d8be0",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "7440448021",
+         "blockName": "F Bottom",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a829722d82",
+           "blockName": "F Legal",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "uptime_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "85d37c798e",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "f476ef9234",
+           "blockName": "F Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "uptime_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "83303055bb",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "uptime_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "97b1790ac7",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "uptime_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "e90e9fdafe",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "uptime_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "uptime_styles"
+  },
+  {
+   "builder_script": "uptime_motion"
+  }
+ ],
+ "creation": "2026-07-21 13:06:44.084466",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "One per-seat price covering helpdesk, cloud, security and essentials, with the exit plan in the contract.",
+ "modified": "2026-07-21 13:06:44.084466",
+ "modified_by": "Administrator",
+ "name": "uptime_services",
+ "owner": "Administrator",
+ "page_name": "uptime_services",
+ "page_title": "Services & per-seat pricing · Uptime",
+ "preview": "/builder_assets/uptime/uptime_services/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/uptime/services",
+ "template_group": "uptime"
+}

@@ -1,0 +1,766 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4001, #FBFAF8)",
+    "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Albert Sans",
+    "minHeight": "100vh",
+    "overflowX": "clip",
+    "width": "100%"
+   },
+   "blockId": "0000b3e5d4",
+   "blockName": "Page",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "0000b3e5cc",
+     "blockName": "Weave Nav",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0000b3e5cd",
+       "blockName": "Brand",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "weave_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "0000b3e580",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0000b3e5ce",
+       "blockName": "Nav Links",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "0000b3e5cf",
+         "blockName": "Nav Story",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "weave_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "0000b3e581",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "0000b3e5d0",
+         "blockName": "Nav Contact",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "weave_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "0000b3e582",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "weave_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "0000b3e583",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "weave_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "22px",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "960px",
+      "padding": "100px 24px 64px",
+      "width": "100%"
+     },
+     "blockId": "0000b3e5b6",
+     "blockName": "Story Opening",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+        "fontFamily": "Albert Sans",
+        "fontSize": "11.5px",
+        "fontWeight": "600",
+        "height": "fit-content",
+        "letterSpacing": "0.14em",
+        "lineHeight": "1.5",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e5b4",
+       "blockName": "Story Overline",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "p",
+       "innerHTML": "THE STORY",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+        "fontFamily": "Spectral",
+        "fontSize": "48px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "letterSpacing": "-0.01em",
+        "lineHeight": "1.3",
+        "maxWidth": "760px",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e5b5",
+       "blockName": "Story Statement",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "h1",
+       "innerHTML": "Ten years of <img src=\"https://images.pexels.com/photos/7302418/pexels-photo-7302418.jpeg?auto=compress&cs=tinysrgb&w=400\" alt=\"\" loading=\"lazy\" style=\"display: inline-block; height: 0.72em; width: 1.18em; object-fit: cover; border-radius: 0.36em; vertical-align: -0.08em; margin: 0 0.08em;\"> patient work.",
+       "mobileStyles": {
+        "fontSize": "30px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "56px 20px 40px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "flex-start",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "18px",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "620px",
+      "padding": "0 24px 80px",
+      "width": "100%"
+     },
+     "blockId": "0000b3e5ba",
+     "blockName": "Prose",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713)",
+        "fontFamily": "Albert Sans",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "lineHeight": "1.7",
+        "maxWidth": "560px",
+        "minWidth": "10px",
+        "textAlign": "left",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e5b7",
+       "blockName": "Prose Lead",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "p",
+       "innerHTML": "Ombra started with one chair. It took eleven months, sold to a neighbour, and is still in her hallway taking compliments.",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+        "fontFamily": "Albert Sans",
+        "fontSize": "15.5px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "lineHeight": "1.7",
+        "maxWidth": "560px",
+        "minWidth": "10px",
+        "textAlign": "left",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e5b8",
+       "blockName": "Prose Two",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "p",
+       "innerHTML": "The studio grew the slow way: one commission recommending the next. First objects, then whole rooms, then the photographs and words that carry them. We hire slowly, keep the tools sharp and the egos blunted, and close for August like civilised people.",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+        "fontFamily": "Albert Sans",
+        "fontSize": "15.5px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "lineHeight": "1.7",
+        "maxWidth": "560px",
+        "minWidth": "10px",
+        "textAlign": "left",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e5b9",
+       "blockName": "Prose Three",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "p",
+       "innerHTML": "Ten years in, the brief has not changed: make it honest, make it last, make someone glad it exists.",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0 20px 48px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "960px",
+      "padding": "0 24px 88px",
+      "width": "100%"
+     },
+     "blockId": "0000b3e5c8",
+     "blockName": "Milestones",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "borderColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4004, #E9E6DF)",
+        "borderStyle": "solid",
+        "borderWidth": "1px 0 0 0",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "620px",
+        "width": "100%"
+       },
+       "blockId": "0000b3e5c7",
+       "blockName": "Milestone List",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4004, #E9E6DF)",
+          "borderStyle": "solid",
+          "borderWidth": "0 0 1px 0",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "20px",
+          "padding": "14px 0",
+          "width": "100%"
+         },
+         "blockId": "0000b3e5bd",
+         "blockName": "Milestone 2016",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "width": "64px"
+           },
+           "blockId": "0000b3e5bb",
+           "blockName": "Milestone Year",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "2016",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "textAlign": "left",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e5bc",
+           "blockName": "Milestone Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "The chair. Eleven months, one very patient neighbour.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4004, #E9E6DF)",
+          "borderStyle": "solid",
+          "borderWidth": "0 0 1px 0",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "20px",
+          "padding": "14px 0",
+          "width": "100%"
+         },
+         "blockId": "0000b3e5c0",
+         "blockName": "Milestone 2019",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "width": "64px"
+           },
+           "blockId": "0000b3e5be",
+           "blockName": "Milestone Year",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "2019",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "textAlign": "left",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e5bf",
+           "blockName": "Milestone Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "The studio: four rooms above a bakery, rent in bread.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4004, #E9E6DF)",
+          "borderStyle": "solid",
+          "borderWidth": "0 0 1px 0",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "20px",
+          "padding": "14px 0",
+          "width": "100%"
+         },
+         "blockId": "0000b3e5c3",
+         "blockName": "Milestone 2023",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "width": "64px"
+           },
+           "blockId": "0000b3e5c1",
+           "blockName": "Milestone Year",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "2023",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "textAlign": "left",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e5c2",
+           "blockName": "Milestone Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "First museum commission. The wing still argues back.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "baseline",
+          "borderColor": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4004, #E9E6DF)",
+          "borderStyle": "solid",
+          "borderWidth": "0 0 1px 0",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "20px",
+          "padding": "14px 0",
+          "width": "100%"
+         },
+         "blockId": "0000b3e5c6",
+         "blockName": "Milestone 2026",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "width": "64px"
+           },
+           "blockId": "0000b3e5c4",
+           "blockName": "Milestone Year",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "2026",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+            "fontFamily": "Albert Sans",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "textAlign": "left",
+            "width": "fit-content"
+           },
+           "blockId": "0000b3e5c5",
+           "blockName": "Milestone Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Ten people, three trades, one long table.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0 20px 52px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "1100px",
+      "padding": "0 24px",
+      "width": "100%"
+     },
+     "blockId": "0000b3e5cb",
+     "blockName": "Wide Band",
+     "children": [
+      {
+       "attributes": {
+        "alt": "The west wall, doing what it does",
+        "loading": "lazy",
+        "src": "https://images.pexels.com/photos/28079387/pexels-photo-28079387.jpeg?auto=compress&cs=tinysrgb&w=2000"
+       },
+       "baseStyles": {
+        "borderRadius": "18px",
+        "display": "block",
+        "height": "auto",
+        "objectFit": "cover",
+        "width": "100%"
+       },
+       "blockId": "0000b3e5c9",
+       "blockName": "Band Img",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "img",
+       "mobileStyles": {},
+       "rawStyles": {
+        "aspect-ratio": "21 / 8"
+       },
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4003, #837D72)",
+        "fontFamily": "Albert Sans",
+        "fontSize": "13px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "lineHeight": "1.7",
+        "minWidth": "10px",
+        "paddingTop": "12px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "0000b3e5ca",
+       "blockName": "Band Caption",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "p",
+       "innerHTML": "The west wall, doing what it does",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "0000b3e5d1",
+     "blockName": "Weave Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0000b3e5d2",
+       "blockName": "Foot Line",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "weave_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "0000b3e585",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "0000b3e5d3",
+       "blockName": "Foot Small",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "weave_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "0000b3e586",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "weave_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "weave_styles"
+  }
+ ],
+ "creation": "2026-08-13 14:39:38.389090",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Ten years of patient work: one chair, then rooms, then the photographs and words that carry them.",
+ "modified": "2026-08-13 14:39:38.389090",
+ "modified_by": "Administrator",
+ "name": "weave_story",
+ "owner": "Administrator",
+ "page_name": "weave_story",
+ "page_title": "Story · Ombra",
+ "preview": "/builder_assets/weave/weave_story/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/weave/story",
+ "template_group": "weave"
+}

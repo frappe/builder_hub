@@ -1,0 +1,1582 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9001, #FFFFFF)",
+    "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Familjen Grotesk",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "00009b2dce",
+   "blockName": "Page",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "00009b2dba",
+     "blockName": "Plot Nav",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00009b2dbb",
+       "blockName": "Brand",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "plot_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "00009b2c40",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00009b2dbc",
+       "blockName": "Nav Links",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2dbd",
+         "blockName": "Nav Pieces",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c41",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2dbe",
+         "blockName": "Nav Pricing",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c42",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2dbf",
+         "blockName": "Nav Docs",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c43",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2dc0",
+         "blockName": "Nav GitHub",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c44",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "plot_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "00009b2c45",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00009b2dc1",
+       "blockName": "Nav Status",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2dc2",
+         "blockName": "Go Dot",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c46",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2dc3",
+         "blockName": "Version",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c47",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2dc4",
+         "blockName": "Nav Install",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c48",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "plot_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "00009b2c49",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "plot_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "16px",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "980px",
+      "padding": "96px 24px 64px",
+      "width": "100%"
+     },
+     "blockId": "00009b2d86",
+     "blockName": "Pricing Head",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+        "fontFamily": "Libre Caslon Text",
+        "fontSize": "54px",
+        "fontWeight": "400",
+        "height": "fit-content",
+        "letterSpacing": "-0.015em",
+        "lineHeight": "1.12",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "00009b2d84",
+       "blockName": "Pricing Title",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "h1",
+       "innerHTML": "Free. Pro is for companies.",
+       "mobileStyles": {
+        "fontSize": "36px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+        "fontFamily": "Familjen Grotesk",
+        "fontSize": "16px",
+        "height": "fit-content",
+        "lineHeight": "1.7",
+        "maxWidth": "440px",
+        "minWidth": "10px",
+        "textAlign": "center",
+        "width": "fit-content"
+       },
+       "blockId": "00009b2d85",
+       "blockName": "Pricing Sub",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "p",
+       "innerHTML": "The library is MIT and always will be. Pro exists so your finance team has something to approve.",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "56px 20px 44px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "980px",
+      "padding": "0 24px 72px",
+      "width": "100%"
+     },
+     "blockId": "00009b2dae",
+     "blockName": "Tiers",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignItems": "stretch",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "flexWrap": "wrap",
+        "gap": "18px",
+        "width": "100%"
+       },
+       "blockId": "00009b2dad",
+       "blockName": "Tiers Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9004, #F4F4F2)",
+          "borderColor": "transparent",
+          "borderRadius": "20px",
+          "borderStyle": "solid",
+          "borderWidth": "0",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "10px",
+          "padding": "34px 34px 30px",
+          "width": "calc(50% - 9px)"
+         },
+         "blockId": "00009b2d99",
+         "blockName": "Tier Open source",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+            "fontFamily": "Familjen Grotesk",
+            "fontSize": "11.5px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.08em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2d93",
+           "blockName": "Tier Name",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "OPEN SOURCE",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "flex-end",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "8px"
+           },
+           "blockId": "00009b2d96",
+           "blockName": "Tier Price Row",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+              "fontFamily": "Libre Caslon Text",
+              "fontSize": "52px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "-0.015em",
+              "lineHeight": "1.12",
+              "minWidth": "10px",
+              "textAlign": "left",
+              "width": "fit-content"
+             },
+             "blockId": "00009b2d94",
+             "blockName": "Tier Price",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "$0",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+              "fontFamily": "Familjen Grotesk",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.02em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "paddingBottom": "8px",
+              "width": "fit-content"
+             },
+             "blockId": "00009b2d95",
+             "blockName": "Tier Per",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "forever",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "10px",
+            "paddingTop": "12px"
+           },
+           "blockId": "00009b2d97",
+           "blockName": "Tier Lines",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "10px"
+             },
+             "blockId": "00009b2d89",
+             "blockName": "Tier Line 0",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "12px",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d87",
+               "blockName": "Tier Check",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "✓",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "14.5px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d88",
+               "blockName": "Tier Item",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Every primitive, every mood",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "10px"
+             },
+             "blockId": "00009b2d8c",
+             "blockName": "Tier Line 1",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "12px",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d8a",
+               "blockName": "Tier Check",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "✓",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "14.5px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d8b",
+               "blockName": "Tier Item",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "MIT license, no asterisks",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "10px"
+             },
+             "blockId": "00009b2d8f",
+             "blockName": "Tier Line 2",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "12px",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d8d",
+               "blockName": "Tier Check",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "✓",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "14.5px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d8e",
+               "blockName": "Tier Item",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "The docs, all nine pages of them",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "10px"
+             },
+             "blockId": "00009b2d92",
+             "blockName": "Tier Line 3",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "12px",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d90",
+               "blockName": "Tier Check",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "✓",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "14.5px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d91",
+               "blockName": "Tier Item",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Issues read by June herself",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "#"
+           },
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9004, #F4F4F2)",
+            "borderRadius": "999px",
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+            "display": "flex",
+            "fontFamily": "JetBrains Mono",
+            "fontSize": "12px",
+            "fontWeight": "500",
+            "justifyContent": "center",
+            "letterSpacing": "0.02em",
+            "lineHeight": "1",
+            "marginTop": "auto",
+            "padding": "15px 26px",
+            "textDecoration": "none",
+            "width": "100%"
+           },
+           "blockId": "00009b2d98",
+           "blockName": "Tier CTA",
+           "children": [],
+           "classes": [
+            "pl-btn"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "npm i @plot/charts",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9001, #FFFFFF)",
+          "borderColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6)",
+          "borderRadius": "20px",
+          "borderStyle": "solid",
+          "borderWidth": "1.5px",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "10px",
+          "padding": "34px 34px 30px",
+          "width": "calc(50% - 9px)"
+         },
+         "blockId": "00009b2dac",
+         "blockName": "Tier Pro",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9006, #2E45E6)",
+            "fontFamily": "Familjen Grotesk",
+            "fontSize": "11.5px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.08em",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2da6",
+           "blockName": "Tier Name",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "PRO",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "flex-end",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "8px"
+           },
+           "blockId": "00009b2da9",
+           "blockName": "Tier Price Row",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+              "fontFamily": "Libre Caslon Text",
+              "fontSize": "52px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "-0.015em",
+              "lineHeight": "1.12",
+              "minWidth": "10px",
+              "textAlign": "left",
+              "width": "fit-content"
+             },
+             "blockId": "00009b2da7",
+             "blockName": "Tier Price",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "$90",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+              "fontFamily": "Familjen Grotesk",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.02em",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "paddingBottom": "8px",
+              "width": "fit-content"
+             },
+             "blockId": "00009b2da8",
+             "blockName": "Tier Per",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "per year",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "10px",
+            "paddingTop": "12px"
+           },
+           "blockId": "00009b2daa",
+           "blockName": "Tier Lines",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "10px"
+             },
+             "blockId": "00009b2d9c",
+             "blockName": "Tier Line 0",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "12px",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d9a",
+               "blockName": "Tier Check",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "✓",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "14.5px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d9b",
+               "blockName": "Tier Item",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Theme kit: your brand, one file",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "10px"
+             },
+             "blockId": "00009b2d9f",
+             "blockName": "Tier Line 1",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "12px",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d9d",
+               "blockName": "Tier Check",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "✓",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "14.5px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2d9e",
+               "blockName": "Tier Item",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Priority fixes, same week",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "10px"
+             },
+             "blockId": "00009b2da2",
+             "blockName": "Tier Line 2",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "12px",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2da0",
+               "blockName": "Tier Check",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "✓",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "14.5px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2da1",
+               "blockName": "Tier Item",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "An invoice with a straight face",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "flex-start",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "10px"
+             },
+             "blockId": "00009b2da5",
+             "blockName": "Tier Line 3",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9007, #23A55D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "12px",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2da3",
+               "blockName": "Tier Check",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "✓",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+                "fontFamily": "Familjen Grotesk",
+                "fontSize": "14.5px",
+                "height": "fit-content",
+                "lineHeight": "1.7",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00009b2da4",
+               "blockName": "Tier Item",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "June answers email first",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "#"
+           },
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+            "borderRadius": "999px",
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9001, #FFFFFF)",
+            "display": "flex",
+            "fontFamily": "Familjen Grotesk",
+            "fontSize": "13.5px",
+            "fontWeight": "500",
+            "justifyContent": "center",
+            "letterSpacing": "0.02em",
+            "lineHeight": "1",
+            "marginTop": "auto",
+            "padding": "15px 26px",
+            "textDecoration": "none",
+            "width": "100%"
+           },
+           "blockId": "00009b2dab",
+           "blockName": "Tier CTA",
+           "children": [],
+           "classes": [
+            "pl-btn"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "Get Pro →",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0 20px 48px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "maxWidth": "560px",
+      "padding": "0 24px 80px",
+      "width": "100%"
+     },
+     "blockId": "00009b2db9",
+     "blockName": "Pricing FAQ",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "width": "100%"
+       },
+       "blockId": "00009b2db8",
+       "blockName": "FAQ List",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+          "borderStyle": "solid",
+          "borderWidth": "1px 0 0 0",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "6px",
+          "padding": "18px 0"
+         },
+         "blockId": "00009b2db1",
+         "blockName": "FAQ 0",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+            "fontFamily": "Familjen Grotesk",
+            "fontSize": "15.5px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2daf",
+           "blockName": "FAQ Q",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Is Pro per seat?",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+            "fontFamily": "Familjen Grotesk",
+            "fontSize": "14.5px",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2db0",
+           "blockName": "FAQ A",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Per company. Count yourselves however you like.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+          "borderStyle": "solid",
+          "borderWidth": "1px 0 0 0",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "6px",
+          "padding": "18px 0"
+         },
+         "blockId": "00009b2db4",
+         "blockName": "FAQ 1",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+            "fontFamily": "Familjen Grotesk",
+            "fontSize": "15.5px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2db2",
+           "blockName": "FAQ Q",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "What if Plot gets abandoned?",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+            "fontFamily": "Familjen Grotesk",
+            "fontSize": "14.5px",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2db3",
+           "blockName": "FAQ A",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "It's 4 KB of MIT-licensed code with zero dependencies. You could adopt it.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9005, #E8E8E5)",
+          "borderStyle": "solid",
+          "borderWidth": "1px 0 0 0",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "6px",
+          "padding": "18px 0"
+         },
+         "blockId": "00009b2db7",
+         "blockName": "FAQ 2",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9002, #16181D)",
+            "fontFamily": "Familjen Grotesk",
+            "fontSize": "15.5px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2db5",
+           "blockName": "FAQ Q",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Can I expense this?",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--c9e52d84-7a16-4b39-8f02-5d3c1e7a9003, #6E727C)",
+            "fontFamily": "Familjen Grotesk",
+            "fontSize": "14.5px",
+            "height": "fit-content",
+            "lineHeight": "1.7",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00009b2db6",
+           "blockName": "FAQ A",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "That's the entire business model.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0 20px 56px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "00009b2dc5",
+     "blockName": "Plot Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00009b2dc6",
+       "blockName": "Foot Brand",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "plot_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "00009b2c4b",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00009b2dc7",
+       "blockName": "Foot Links",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2dc8",
+         "blockName": "Foot PIECES",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c4c",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2dc9",
+         "blockName": "Foot PRICING",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c4d",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2dca",
+         "blockName": "Foot DOCS",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c4e",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2dcb",
+         "blockName": "Foot GITHUB",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c4f",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00009b2dcc",
+         "blockName": "Foot MIT",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "plot_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00009b2c50",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "plot_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "00009b2c51",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00009b2dcd",
+       "blockName": "Foot Line",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "plot_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "00009b2c52",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "plot_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "plot_styles"
+  }
+ ],
+ "creation": "2026-08-13 09:28:59.389865",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "The library is MIT and free forever. Pro is $90 a year per company: themes, priority fixes, and an invoice with a straight face.",
+ "modified": "2026-08-13 09:28:59.389865",
+ "modified_by": "Administrator",
+ "name": "plot_pricing",
+ "owner": "Administrator",
+ "page_name": "plot_pricing",
+ "page_title": "Pricing · Plot",
+ "preview": "/builder_assets/plot/plot_pricing/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/plot/pricing",
+ "template_group": "plot"
+}
