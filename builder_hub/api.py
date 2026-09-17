@@ -11,6 +11,8 @@ import frappe
 from frappe.utils import get_url
 from frappe.utils.caching import redis_cache
 
+from builder_hub.assets import get_thumbnail_url
+
 
 @frappe.whitelist(allow_guest=True)
 def get_catalog() -> list[dict]:
@@ -32,6 +34,8 @@ def _get_catalog(base_url: str) -> list[dict]:
 		ignore_permissions=True,
 	)
 	for p in pages:
+		# the picker shows cards ~220px wide; the full 2560px preview stays for fallbacks
+		p.thumbnail = abs_url(get_thumbnail_url(p.preview))
 		p.preview = abs_url(p.preview)
 		# absolute URL of the published page on this hub (opened in a new tab as
 		# the template preview). abs_url only handles asset paths, so build it here.
@@ -50,13 +54,19 @@ def _get_catalog(base_url: str) -> list[dict]:
 			pg.get("name"): i for i, pg in enumerate(manifest.get("pages") or []) if isinstance(pg, dict)
 		}
 		group_pages.sort(key=lambda p: (order.get(p.name, len(order)), p.page_title or ""))
+		manifest_preview = manifest.get("preview")
 		groups.append(
 			{
 				"name": group,
 				"title": manifest.get("title") or group.replace("_", " ").title(),
 				"description": manifest.get("description") or "",
 				"categories": manifest.get("categories") or [],
-				"preview": abs_url(manifest.get("preview")) or group_pages[0].preview,
+				"preview": abs_url(manifest_preview) or group_pages[0].preview,
+				"thumbnail": (
+					abs_url(get_thumbnail_url(manifest_preview))
+					if manifest_preview
+					else group_pages[0].thumbnail
+				),
 				"order": manifest.get("order"),
 				"pages": group_pages,
 			}
