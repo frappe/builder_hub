@@ -11,7 +11,7 @@ sharing a set of Builder Components and Variables. Groups are bundled as fixture
 
 ## Templates
 
-Thirty multi-page template groups. Each group owns a distinct structural
+Twenty-eight multi-page template groups. Each group owns a distinct structural
 archetype and shares a navbar/footer, palette (as Builder Variables) and client
 scripts across its pages. Themed groups ship a light/dark toggle; single-theme
 groups (dark posters, paper zines) are one look by design.
@@ -74,13 +74,6 @@ per-template briefs.
 | **Tulle**<br>A blush bridal boutique with layered tissue panels and script accents.<br><sub>Pages: Home · Dresses · Visit · Also in: Local business</sub> | <img src="builder_hub/www/builder_assets/tulle/tulle_home/preview.webp" width="360"> |
 | **Denim**<br>A loud streetwear drop site with thick borders, tickers and price stickers.<br><sub>Pages: Home · Drops · Story · Stockists · Also in: Marketing</sub> | <img src="builder_hub/www/builder_assets/denim/denim_home/preview.webp" width="360"> |
 | **Pleat**<br>An editorial lookbook shot as magazine spreads with folio bars.<br><sub>Pages: Home · Looks · Studio · Also in: Editorial</sub> | <img src="builder_hub/www/builder_assets/pleat/pleat_home/preview.webp" width="360"> |
-
-### Technology
-
-| Template | Preview |
-|---|---|
-| **Encore**<br>A SaaS site staged as a product keynote: spotlight, demo, reveals, one more thing.<br><sub>Pages: Home · Pricing · Backstage · Also in: Marketing</sub> | <img src="builder_hub/www/builder_assets/encore/encore_home/preview.webp" width="360"> |
-| **Aurora**<br>A dark, glowing SaaS landing: gradient hero, glass bento grid, testimonial wall.<br><sub>Pages: Home · Pricing · Contact · Also in: Marketing</sub> | <img src="builder_hub/www/builder_assets/aurora/aurora_home/preview.webp" width="360"> |
 
 ## How it works
 
