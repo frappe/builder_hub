@@ -79,8 +79,6 @@ per-template briefs.
 
 | Template | Preview |
 |---|---|
-| **Encore**<br>A SaaS site staged as a product keynote: spotlight, demo, reveals, one more thing.<br><sub>Pages: Home · Pricing · Backstage · Also in: Marketing</sub> | <img src="builder_hub/www/builder_assets/encore/encore_home/preview.webp" width="360"> |
-| **Aurora**<br>A dark, glowing SaaS landing: gradient hero, glass bento grid, testimonial wall.<br><sub>Pages: Home · Pricing · Contact · Also in: Marketing</sub> | <img src="builder_hub/www/builder_assets/aurora/aurora_home/preview.webp" width="360"> |
 
 ## How it works
 
