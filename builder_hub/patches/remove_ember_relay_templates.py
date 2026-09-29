@@ -55,9 +55,9 @@ def _delete_group(group):
 	):
 		_safe_delete("Builder Component", component)
 
-	# 3. the group's variables (make_variable stored group=<group>)
-	if frappe.get_meta("Builder Variable").has_field("group"):
-		for variable in frappe.get_all(
-			"Builder Variable", filters={"group": group}, pluck="name"
-		):
-			_safe_delete("Builder Variable", variable)
+	# 3. the group's tokens (Builder Variable on sites from before the Builder Token rename)
+	for doctype in ("Builder Token", "Builder Variable"):
+		if not frappe.db.exists("DocType", doctype) or not frappe.get_meta(doctype).has_field("group"):
+			continue
+		for variable in frappe.get_all(doctype, filters={"group": group}, pluck="name"):
+			_safe_delete(doctype, variable)
