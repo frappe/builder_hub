@@ -1,0 +1,13 @@
+{
+ "creation": "2026-07-03 15:05:34.900012",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-07-03 15:05:34.900012",
+ "modified_by": "Administrator",
+ "name": "launchpad_theme",
+ "owner": "Administrator",
+ "public_url": "/files/page_scripts/launchpad_theme-5f28f80269.js?v=f116acb165",
+ "script": "(function(){var MOON='<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z\"/></svg>';var SUN='<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v2\"/><path d=\"M12 20v2\"/><path d=\"m4.93 4.93 1.41 1.41\"/><path d=\"m17.66 17.66 1.41 1.41\"/><path d=\"M2 12h2\"/><path d=\"M20 12h2\"/><path d=\"m6.34 17.66-1.41 1.41\"/><path d=\"m19.07 4.93-1.41 1.41\"/></svg>';function syncIcon(t){var b=document.querySelector('[data-theme-toggle]');if(b)b.innerHTML=(t==='dark'?SUN:MOON);}function cur(){return document.documentElement.getAttribute('data-theme');}function set(t){document.documentElement.setAttribute('data-theme',t);try{localStorage.setItem('site-theme',t)}catch(e){}syncIcon(t);}function apply(t){document.documentElement.setAttribute('data-theme',t);syncIcon(t);}var s=null;try{s=localStorage.getItem('site-theme')}catch(e){}apply(s||'light');document.addEventListener('DOMContentLoaded',function(){syncIcon(cur());});document.addEventListener('click',function(e){var el=e.target.closest('[data-theme-toggle]');if(el){e.preventDefault();set(cur()==='dark'?'light':'dark')}});})();",
+ "script_type": "JavaScript"
+}
