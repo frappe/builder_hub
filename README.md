@@ -75,11 +75,6 @@ per-template briefs.
 | **Denim**<br>A loud streetwear drop site with thick borders, tickers and price stickers.<br><sub>Pages: Home · Drops · Story · Stockists · Also in: Marketing</sub> | <img src="builder_hub/www/builder_assets/denim/denim_home/preview.webp" width="360"> |
 | **Pleat**<br>An editorial lookbook shot as magazine spreads with folio bars.<br><sub>Pages: Home · Looks · Studio · Also in: Editorial</sub> | <img src="builder_hub/www/builder_assets/pleat/pleat_home/preview.webp" width="360"> |
 
-### Technology
-
-| Template | Preview |
-|---|---|
-
 ## How it works
 
 - **`builder_hub.api.get_catalog()`** (guest) - returns the template groups (with their
