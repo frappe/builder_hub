@@ -63,6 +63,7 @@ Rules that apply to every template:
 | recipe | recipe cards: ruled index cards with red margin rules, dog-ears, chef's margin notes, stamps, tear-off coupon |
 | candor | statement screens: full-viewport one-color statement hero, cropped mega wordmark, serif fee table, no photos |
 | fetch  | product bento: super-rounded pastel tiles, blob photo frames, star reviews, size table, guarantee card |
+| stock  | frappe-ui app shell: gray-50 sidebar with grouped nav and counts, breadcrumb top bar, segmented tabs + subtle icon buttons, outlined 12px product cards, a docs-playground product page (dotted canvas + lowercase controls + buy strip, "On this page" rail), list-view price list |
 
 New briefs must claim an archetype not on this list, and the list grows as templates ship.
 
@@ -818,6 +819,41 @@ sections with numbered serif service rows, a house-position pine band ("We will 
 are the wrong hire"), a fee table with a thick top rule and fixed prices, roman-numeral working
 principles, and a start page that sets expectations for the first call. Serif everywhere,
 no photos, single theme. 3 pages (home / work / start), order 31.
+
+## Brief: stock (Marketing / Local business, frappe-ui monochrome), BUILT Sep 2026
+
+Requested Sep 30 2026: "frappe style catalogue page, espresso, monochrome as much as possible",
+with ui.frappe.io as the reference.
+
+```yaml
+codename: stock
+category: [Marketing, Local business]
+title: Stock
+theme: frappe-ui Espresso grays only (light + full dark values), no accent, grayscale photos
+concept: Quire Supply Co., a Pune maker of paper, pens and desk goods, shown as a store catalogue.
+palette:   # surface-white, surface-gray-1/2, outline-gray-1/2, ink-gray-5/7/9
+  - {name: paper,  value: "#FFFFFF", dark_value: "#171717"}
+  - {name: subtle, value: "#F8F8F8", dark_value: "#1F1F1F"}
+  - {name: wash,   value: "#F3F3F3", dark_value: "#242424"}
+  - {name: line,   value: "#EDEDED", dark_value: "#292929"}
+  - {name: strong, value: "#E2E2E2", dark_value: "#383838"}
+  - {name: muted,  value: "#7C7C7C", dark_value: "#999999"}
+  - {name: body,   value: "#525252", dark_value: "#D9D9D9"}
+  - {name: ink,    value: "#171717", dark_value: "#F8F8F8"}
+fonts: Inter only, 13-15px UI, 24px page titles, tabular numbers
+behaviour: >
+  stock_ui JS: sidebar and tab links filter the catalogue grid by st-<category|new|best>
+  classes (hash-driven, so links from other pages land filtered); the sidebar marks the
+  current page; product segments, switches, checkboxes and the quantity stepper work.
+imagery: >
+  Pexels, grayscale via CSS: 7431636 29765813 37793421 7784602 13583358 13583360 35110202
+  3373736 29765799 33761244 12495669 27204287.
+pages:
+  - {name: stock_home, route: /, sections: [sidebar, top bar, page head, tabs + toolbar, 12-card grid, footer]}
+  - {name: stock_product, route: /product, sections: [overview, playground card, details + spec table, care, reviews, on-this-page rail, related grid]}
+  - {name: stock_list, route: /list, sections: [page head, list controls, list view with checkboxes and badges, summary actions]}
+components: [stock_sidebar, stock_footer]
+```
 
 ## Follow-ups
 

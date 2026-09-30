@@ -32,6 +32,7 @@ per-template briefs.
 | **Candor**<br>A statement-first advisory site: one color, giant serif, a fee table, no photos.<br><sub>Pages: Home · Work · Start</sub> | <img src="builder_hub/www/builder_assets/candor/candor_home/preview.webp" width="360"> |
 | **Recipe**<br>An agency as recipe cards: ruled index cards, chef's notes, a tear-off coupon.<br><sub>Pages: Home · Menu · Kitchen</sub> | <img src="builder_hub/www/builder_assets/recipe/recipe_home/preview.webp" width="360"> |
 | **Fetch**<br>A playful one-product site: rounded color blocks, big dog photos, forever guarantee.<br><sub>Pages: Home · Collar · Help</sub> | <img src="builder_hub/www/builder_assets/fetch/fetch_home/preview.webp" width="360"> |
+| **Stock**<br>A catalogue in the frappe-ui style: sidebar shell, Espresso grays, grayscale photos, a playground product page and a list-view price list.<br><sub>Pages: Catalogue · Product · Price list</sub> | <img src="builder_hub/www/builder_assets/stock/stock_home/preview.webp" width="360"> |
 
 ### Portfolio
 
@@ -64,6 +65,7 @@ per-template briefs.
 | **Lull**<br>A soft wellness studio with an arch photo hero and a weekly schedule.<br><sub>Pages: Home · Classes · Visit</sub> | <img src="builder_hub/www/builder_assets/lull/lull_home/preview.webp" width="360"> |
 | **Nook**<br>A photo first boutique stay with full screen room chapters.<br><sub>Pages: Home · Rooms · Visit</sub> | <img src="builder_hub/www/builder_assets/nook/nook_home/preview.webp" width="360"> |
 | **Keys**<br>A property agency in an app shell, with listings as rows.<br><sub>Pages: Listings · Property · Viewings</sub> | <img src="builder_hub/www/builder_assets/keys/keys_listings/preview.webp" width="360"> |
+| **Stock**<br>A catalogue in the frappe-ui style: sidebar shell, Espresso grays, grayscale photos, a playground product page and a list-view price list.<br><sub>Pages: Catalogue · Product · Price list</sub> | <img src="builder_hub/www/builder_assets/stock/stock_home/preview.webp" width="360"> |
 
 ### Fashion
 
