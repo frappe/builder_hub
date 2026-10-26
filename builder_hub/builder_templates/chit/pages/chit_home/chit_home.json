@@ -1,0 +1,2159 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d01, #E9E8E3)",
+    "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Courier Prime",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "f54da6709f",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "19174bf8e6",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "94edc496a3",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "a94527b7c6",
+         "blockName": "Brand",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "chit_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "2097854719",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "6c7d7895e5",
+         "blockName": "Nav Links",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "e80905187d",
+           "blockName": "Nav Menu",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "chit_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "a0eff883a2",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "8c5b52ba59",
+           "blockName": "Nav Visit",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "chit_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "58898faf64",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "dfcd296f3f",
+           "blockName": "Nav CTA",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "chit_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "f813aa94c6",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "chit_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "548f22c2e9",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "chit_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "cf0e0ec8ee",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "chit_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "0px 20px 72px 20px",
+      "width": "100%"
+     },
+     "blockId": "3258e03095",
+     "blockName": "Hero",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+        "borderRadius": "0px 0px 6px 6px",
+        "flexShrink": 0,
+        "height": "10px",
+        "maxWidth": "480px",
+        "width": "100%",
+        "zIndex": "2"
+       },
+       "blockId": "811a74e36c",
+       "blockName": "Printer Slot",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "justifyContent": "flex-start",
+        "maxWidth": "460px",
+        "overflow": "hidden",
+        "padding": "0px 10px 24px 10px",
+        "width": "100%"
+       },
+       "blockId": "e274fa1d1f",
+       "blockName": "Feed Mask",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d02, #FDFCF8)",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "maxWidth": "440px",
+          "padding": "30px 28px 34px 28px",
+          "width": "100%"
+         },
+         "blockId": "49fb5a5ca3",
+         "blockName": "Hero Receipt",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d04, #8F8D86)",
+            "fontFamily": "Courier Prime",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.02em",
+            "lineHeight": "1.6",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "100%"
+           },
+           "blockId": "2ff401513a",
+           "blockName": "HR Stars",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "* * * * * * * * * * * * * *",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "fontFamily": "Courier Prime",
+            "fontSize": "26px",
+            "fontWeight": "700",
+            "height": "fit-content",
+            "letterSpacing": "0.1em",
+            "lineHeight": "1.6",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "100%"
+           },
+           "blockId": "49b1710e66",
+           "blockName": "HR Name",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "SMALL CHANGE",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "fontFamily": "Courier Prime",
+            "fontSize": "11.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.22em",
+            "lineHeight": "1.6",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "100%"
+           },
+           "blockId": "4af3d82160",
+           "blockName": "HR Sub",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "ESPRESSO BAR + BAKERY",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d04, #8F8D86)",
+            "fontFamily": "Courier Prime",
+            "fontSize": "11.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.02em",
+            "lineHeight": "1.6",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "100%"
+           },
+           "blockId": "9d2ff85ed3",
+           "blockName": "HR Addr",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "7 Ledger Lane · reg #04",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d05, #C9C7C0)",
+            "borderStyle": "dashed",
+            "borderWidth": "0px 0px 1.5px 0px",
+            "flexShrink": 0,
+            "margin": "10px 0px",
+            "width": "100%"
+           },
+           "blockId": "aaed4c00ea",
+           "blockName": "HR R1",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "fontFamily": "Courier Prime",
+            "fontSize": "12.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.08em",
+            "lineHeight": "1.6",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "ff13d7bc1a",
+           "blockName": "HR Order",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "ORDER #047&nbsp;&nbsp;·&nbsp;&nbsp;DINE IN&nbsp;&nbsp;·&nbsp;&nbsp;07:42",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d05, #C9C7C0)",
+            "borderStyle": "dashed",
+            "borderWidth": "0px 0px 1.5px 0px",
+            "flexShrink": 0,
+            "margin": "10px 0px",
+            "width": "100%"
+           },
+           "blockId": "20856748c7",
+           "blockName": "HR R2",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "1px",
+            "width": "100%"
+           },
+           "blockId": "1f4b263d81",
+           "blockName": "HR I1 Wrap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "8px",
+              "width": "100%"
+             },
+             "blockId": "072b7cac28",
+             "blockName": "HR I1 Row",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+                "flexShrink": 1,
+                "fontFamily": "Courier Prime",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "0px",
+                "textDecoration": "none",
+                "width": "fit-content"
+               },
+               "blockId": "c9032ee493",
+               "blockName": "HR I1 Item",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "1x FLAT WHITE",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d05, #C9C7C0)",
+                "borderStyle": "dotted",
+                "borderWidth": "0px 0px 2px 0px",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "height": "2px",
+                "minWidth": "16px"
+               },
+               "blockId": "d4ac0db2a1",
+               "blockName": "HR I1 Leader",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+                "flexShrink": 0,
+                "fontFamily": "Courier Prime",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "textDecoration": "none",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "fc82177e52",
+               "blockName": "HR I1 Price",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "3.80",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d04, #8F8D86)",
+              "fontFamily": "Courier Prime",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.02em",
+              "lineHeight": "1.6",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "ac9ee38234",
+             "blockName": "HR I1 Note",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "&nbsp;&nbsp;single origin, stirred, no art requests",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "1px",
+            "width": "100%"
+           },
+           "blockId": "67720abc8c",
+           "blockName": "HR I2 Wrap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "8px",
+              "width": "100%"
+             },
+             "blockId": "d8d23a6785",
+             "blockName": "HR I2 Row",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+                "flexShrink": 1,
+                "fontFamily": "Courier Prime",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "0px",
+                "textDecoration": "none",
+                "width": "fit-content"
+               },
+               "blockId": "08874c7133",
+               "blockName": "HR I2 Item",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "1x KARDEMUMMABULLE",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d05, #C9C7C0)",
+                "borderStyle": "dotted",
+                "borderWidth": "0px 0px 2px 0px",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "height": "2px",
+                "minWidth": "16px"
+               },
+               "blockId": "a6ff06f3ab",
+               "blockName": "HR I2 Leader",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+                "flexShrink": 0,
+                "fontFamily": "Courier Prime",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "textDecoration": "none",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "0d2617fd08",
+               "blockName": "HR I2 Price",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "4.20",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d04, #8F8D86)",
+              "fontFamily": "Courier Prime",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.02em",
+              "lineHeight": "1.6",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "3e987d4403",
+             "blockName": "HR I2 Note",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "&nbsp;&nbsp;baked 06:15 this morning",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "1px",
+            "width": "100%"
+           },
+           "blockId": "5ba7e2aff1",
+           "blockName": "HR I3 Wrap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "baseline",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "8px",
+              "width": "100%"
+             },
+             "blockId": "320bbd22b0",
+             "blockName": "HR I3 Row",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+                "flexShrink": 1,
+                "fontFamily": "Courier Prime",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "0px",
+                "textDecoration": "none",
+                "width": "fit-content"
+               },
+               "blockId": "68d307fd06",
+               "blockName": "HR I3 Item",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "1x TAP WATER",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d05, #C9C7C0)",
+                "borderStyle": "dotted",
+                "borderWidth": "0px 0px 2px 0px",
+                "flexBasis": "0px",
+                "flexGrow": 1,
+                "flexShrink": 1,
+                "height": "2px",
+                "minWidth": "16px"
+               },
+               "blockId": "3f32bb4fdb",
+               "blockName": "HR I3 Leader",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+                "flexShrink": 0,
+                "fontFamily": "Courier Prime",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "textDecoration": "none",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "a9aa149c8d",
+               "blockName": "HR I3 Price",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "0.00",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d04, #8F8D86)",
+              "fontFamily": "Courier Prime",
+              "fontSize": "11.5px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.02em",
+              "lineHeight": "1.6",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "6cf7b42332",
+             "blockName": "HR I3 Note",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "&nbsp;&nbsp;always. asking is allowed",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d05, #C9C7C0)",
+            "borderStyle": "dashed",
+            "borderWidth": "0px 0px 1.5px 0px",
+            "flexShrink": 0,
+            "margin": "10px 0px",
+            "width": "100%"
+           },
+           "blockId": "f1ed274eac",
+           "blockName": "HR R3",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "baseline",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "gap": "8px",
+            "width": "100%"
+           },
+           "blockId": "86eb411c67",
+           "blockName": "HR Total Row",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+              "flexShrink": 1,
+              "fontFamily": "Courier Prime",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.6",
+              "minWidth": "0px",
+              "textDecoration": "none",
+              "width": "fit-content"
+             },
+             "blockId": "6ce3548a9c",
+             "blockName": "HR Total Item",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "<b>TOTAL</b>",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d05, #C9C7C0)",
+              "borderStyle": "dotted",
+              "borderWidth": "0px 0px 2px 0px",
+              "flexBasis": "0px",
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "height": "2px",
+              "minWidth": "16px"
+             },
+             "blockId": "6b97563938",
+             "blockName": "HR Total Leader",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+              "flexShrink": 0,
+              "fontFamily": "Courier Prime",
+              "fontSize": "14px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.6",
+              "minWidth": "10px",
+              "textDecoration": "none",
+              "whiteSpace": "nowrap",
+              "width": "fit-content"
+             },
+             "blockId": "70c002afe6",
+             "blockName": "HR Total Price",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "<b>8.00</b>",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d04, #8F8D86)",
+            "fontFamily": "Courier Prime",
+            "fontSize": "11.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.02em",
+            "lineHeight": "1.6",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "260c55886b",
+           "blockName": "HR Cash",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "CARD OR COINS · WE ARE CALLED SMALL CHANGE",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d05, #C9C7C0)",
+            "borderStyle": "dashed",
+            "borderWidth": "0px 0px 1.5px 0px",
+            "flexShrink": 0,
+            "margin": "10px 0px",
+            "width": "100%"
+           },
+           "blockId": "b6bdc803f8",
+           "blockName": "HR R4",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "fontFamily": "Courier Prime",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.02em",
+            "lineHeight": "1.6",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "7a5140b5f7",
+           "blockName": "HR Served",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "YOU WERE SERVED BY: INES",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "fontFamily": "Courier Prime",
+            "fontSize": "12.5px",
+            "fontWeight": "700",
+            "height": "fit-content",
+            "letterSpacing": "0.02em",
+            "lineHeight": "1.6",
+            "minWidth": "10px",
+            "width": "100%"
+           },
+           "blockId": "72873d836e",
+           "blockName": "HR Pitch",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "A NINE-SEAT ESPRESSO BAR THAT TAKES COFFEE SERIOUSLY AND ITSELF NOT AT ALL.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "fontFamily": "Courier Prime",
+            "fontSize": "11.5px",
+            "fontWeight": "400",
+            "height": "fit-content",
+            "letterSpacing": "0.02em",
+            "lineHeight": "1.6",
+            "minWidth": "10px",
+            "textAlign": "center",
+            "width": "100%"
+           },
+           "blockId": "587231d525",
+           "blockName": "HR Thanks",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "THANK YOU / COME AGAIN / (WE MEAN IT)",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "4px",
+            "marginTop": "6px",
+            "width": "100%"
+           },
+           "blockId": "1ee333cb6e",
+           "blockName": "HR Barcode",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "height": "38px",
+              "width": "62%"
+             },
+             "blockId": "3ed5b808d4",
+             "blockName": "HR Barcode Bars",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {
+              "background": "repeating-linear-gradient(90deg, #232220 0px, #232220 2px, transparent 2px, transparent 5px, #232220 5px, #232220 6px, transparent 6px, transparent 8px, #232220 8px, #232220 11px, transparent 11px, transparent 13px)"
+             },
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+              "fontFamily": "Courier Prime",
+              "fontSize": "11px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.14em",
+              "lineHeight": "1.6",
+              "minWidth": "10px",
+              "textAlign": "center",
+              "width": "100%"
+             },
+             "blockId": "0d2699d360",
+             "blockName": "HR Barcode No",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "* 4 7 0 0 4 7 *",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "ch-print"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "padding": "24px 18px 28px 18px"
+         },
+         "rawStyles": {
+          "box-shadow": "0 14px 34px rgba(35, 34, 32, 0.13)",
+          "clip-path": "polygon(0 0, 100% 0, 100% calc(100% - 7px), 97.5% 100%, 95% calc(100% - 7px), 92.5% 100%, 90% calc(100% - 7px), 87.5% 100%, 85% calc(100% - 7px), 82.5% 100%, 80% calc(100% - 7px), 77.5% 100%, 75% calc(100% - 7px), 72.5% 100%, 70% calc(100% - 7px), 67.5% 100%, 65% calc(100% - 7px), 62.5% 100%, 60% calc(100% - 7px), 57.5% 100%, 55% calc(100% - 7px), 52.5% 100%, 50% calc(100% - 7px), 47.5% 100%, 45% calc(100% - 7px), 42.5% 100%, 40% calc(100% - 7px), 37.5% 100%, 35% calc(100% - 7px), 32.5% 100%, 30% calc(100% - 7px), 27.5% 100%, 25% calc(100% - 7px), 22.5% 100%, 20% calc(100% - 7px), 17.5% 100%, 15% calc(100% - 7px), 12.5% 100%, 10% calc(100% - 7px), 7.5% 100%, 5% calc(100% - 7px), 2.5% 100%, 0 calc(100% - 7px))"
+         },
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "ch-feed"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0px 14px 48px 14px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "0px 20px 72px 20px",
+      "width": "100%"
+     },
+     "blockId": "558aef2df7",
+     "blockName": "Fine Print",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "14px",
+        "maxWidth": "520px",
+        "width": "100%"
+       },
+       "blockId": "a782f8d3d6",
+       "blockName": "FP Inner",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+          "fontFamily": "Courier Prime",
+          "fontSize": "13px",
+          "fontWeight": "700",
+          "height": "fit-content",
+          "letterSpacing": "0.2em",
+          "lineHeight": "1.6",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "6fd1e06675",
+         "blockName": "FP Title",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "THE SMALL PRINT",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+          "fontFamily": "Courier Prime",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "0.02em",
+          "lineHeight": "1.6",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "b33e197da8",
+         "blockName": "FP 1",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "*&nbsp;&nbsp;Beans roasted four streets away, every Tuesday. If it isn't from this week, it's in the staff cupboard.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+          "fontFamily": "Courier Prime",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "0.02em",
+          "lineHeight": "1.6",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "5a2ad8a995",
+         "blockName": "FP 2",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "**&nbsp;&nbsp;Milk from one farm, one herd, one very confident cow named Ulla.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+          "fontFamily": "Courier Prime",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "0.02em",
+          "lineHeight": "1.6",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "9c08818041",
+         "blockName": "FP 3",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "***&nbsp;&nbsp;The wifi password is the espresso recipe. It changes when the roast does.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "ch-rise"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0px 14px 48px 14px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "0px 20px 72px 20px",
+      "width": "100%"
+     },
+     "blockId": "cd7c3bcc0b",
+     "blockName": "Loyalty",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d02, #FDFCF8)",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "maxWidth": "440px",
+        "padding": "30px 28px 34px 28px",
+        "width": "100%"
+       },
+       "blockId": "0a08786215",
+       "blockName": "Loyalty Card",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+          "fontFamily": "Courier Prime",
+          "fontSize": "15px",
+          "fontWeight": "700",
+          "height": "fit-content",
+          "letterSpacing": "0.14em",
+          "lineHeight": "1.6",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "65236f9d43",
+         "blockName": "LC Title",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "LOYALTY, PUNCHED",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d04, #8F8D86)",
+          "fontFamily": "Courier Prime",
+          "fontSize": "11px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "0.02em",
+          "lineHeight": "1.6",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "f97ea60bcc",
+         "blockName": "LC Sub",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "TENTH CUP FREE · CARD LIVES BEHIND THE COUNTER SO YOU CAN'T LOSE IT",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d05, #C9C7C0)",
+          "borderStyle": "dashed",
+          "borderWidth": "0px 0px 1.5px 0px",
+          "flexShrink": 0,
+          "margin": "10px 0px",
+          "width": "100%"
+         },
+         "blockId": "929b6382a5",
+         "blockName": "LC R1",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "flexWrap": "wrap",
+          "gap": "8px",
+          "justifyContent": "center",
+          "padding": "8px 0px",
+          "width": "100%"
+         },
+         "blockId": "e5f81d0dd1",
+         "blockName": "Punch Row",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderRadius": "999px",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px",
+            "display": "flex",
+            "flexShrink": 0,
+            "height": "29px",
+            "justifyContent": "center",
+            "width": "29px"
+           },
+           "blockId": "fe99c9f9ef",
+           "blockName": "Punch 0",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "height": "25px",
+            "width": "25px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderRadius": "999px",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px",
+            "display": "flex",
+            "flexShrink": 0,
+            "height": "29px",
+            "justifyContent": "center",
+            "width": "29px"
+           },
+           "blockId": "9926d1403a",
+           "blockName": "Punch 1",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "height": "25px",
+            "width": "25px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderRadius": "999px",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px",
+            "display": "flex",
+            "flexShrink": 0,
+            "height": "29px",
+            "justifyContent": "center",
+            "width": "29px"
+           },
+           "blockId": "f685cc3862",
+           "blockName": "Punch 2",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "height": "25px",
+            "width": "25px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderRadius": "999px",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px",
+            "display": "flex",
+            "flexShrink": 0,
+            "height": "29px",
+            "justifyContent": "center",
+            "width": "29px"
+           },
+           "blockId": "e1ef790e0c",
+           "blockName": "Punch 3",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "height": "25px",
+            "width": "25px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderRadius": "999px",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px",
+            "display": "flex",
+            "flexShrink": 0,
+            "height": "29px",
+            "justifyContent": "center",
+            "width": "29px"
+           },
+           "blockId": "d11fe28f3f",
+           "blockName": "Punch 4",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "height": "25px",
+            "width": "25px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderRadius": "999px",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px",
+            "display": "flex",
+            "flexShrink": 0,
+            "height": "29px",
+            "justifyContent": "center",
+            "width": "29px"
+           },
+           "blockId": "4fdba5b3bf",
+           "blockName": "Punch 5",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "height": "25px",
+            "width": "25px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderRadius": "999px",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px",
+            "display": "flex",
+            "flexShrink": 0,
+            "height": "29px",
+            "justifyContent": "center",
+            "width": "29px"
+           },
+           "blockId": "b12c6ec4aa",
+           "blockName": "Punch 6",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "height": "25px",
+            "width": "25px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderRadius": "999px",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px",
+            "display": "flex",
+            "flexShrink": 0,
+            "height": "29px",
+            "justifyContent": "center",
+            "width": "29px"
+           },
+           "blockId": "31d184f6b4",
+           "blockName": "Punch 7",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "height": "25px",
+            "width": "25px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderRadius": "999px",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px",
+            "display": "flex",
+            "flexShrink": 0,
+            "height": "29px",
+            "justifyContent": "center",
+            "width": "29px"
+           },
+           "blockId": "07918aafdf",
+           "blockName": "Punch 8",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "height": "25px",
+            "width": "25px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "transparent",
+            "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+            "borderRadius": "999px",
+            "borderStyle": "solid",
+            "borderWidth": "1.5px",
+            "display": "flex",
+            "flexShrink": 0,
+            "height": "29px",
+            "justifyContent": "center",
+            "width": "29px"
+           },
+           "blockId": "7231ea7c02",
+           "blockName": "Punch 9",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d03, #232220)",
+              "fontFamily": "Courier Prime",
+              "fontSize": "11px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "letterSpacing": "0.02em",
+              "lineHeight": "1.6",
+              "minWidth": "10px",
+              "textAlign": "center",
+              "width": "100%"
+             },
+             "blockId": "6f9ee79cd2",
+             "blockName": "Punch N 9",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "10",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "height": "25px",
+            "width": "25px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d05, #C9C7C0)",
+          "borderStyle": "dashed",
+          "borderWidth": "0px 0px 1.5px 0px",
+          "flexShrink": 0,
+          "margin": "10px 0px",
+          "width": "100%"
+         },
+         "blockId": "f4acd0a56e",
+         "blockName": "LC R2",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--b2d5f8a1-3c6e-4f9b-8d2a-4e7f0b3c6d04, #8F8D86)",
+          "fontFamily": "Courier Prime",
+          "fontSize": "11px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "letterSpacing": "0.02em",
+          "lineHeight": "1.6",
+          "minWidth": "10px",
+          "textAlign": "center",
+          "width": "100%"
+         },
+         "blockId": "e430977d8a",
+         "blockName": "LC Note",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "CURRENT RECORD: MARGIT, 214 CARDS. WE ARE IN AWE AND SLIGHT FEAR.",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "ch-rise"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "24px 18px 28px 18px"
+       },
+       "rawStyles": {
+        "box-shadow": "0 14px 34px rgba(35, 34, 32, 0.13)",
+        "clip-path": "polygon(0 0, 100% 0, 100% calc(100% - 7px), 97.5% 100%, 95% calc(100% - 7px), 92.5% 100%, 90% calc(100% - 7px), 87.5% 100%, 85% calc(100% - 7px), 82.5% 100%, 80% calc(100% - 7px), 77.5% 100%, 75% calc(100% - 7px), 72.5% 100%, 70% calc(100% - 7px), 67.5% 100%, 65% calc(100% - 7px), 62.5% 100%, 60% calc(100% - 7px), 57.5% 100%, 55% calc(100% - 7px), 52.5% 100%, 50% calc(100% - 7px), 47.5% 100%, 45% calc(100% - 7px), 42.5% 100%, 40% calc(100% - 7px), 37.5% 100%, 35% calc(100% - 7px), 32.5% 100%, 30% calc(100% - 7px), 27.5% 100%, 25% calc(100% - 7px), 22.5% 100%, 20% calc(100% - 7px), 17.5% 100%, 15% calc(100% - 7px), 12.5% 100%, 10% calc(100% - 7px), 7.5% 100%, 5% calc(100% - 7px), 2.5% 100%, 0 calc(100% - 7px))"
+       },
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "0px 14px 48px 14px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "8ddaddcbc6",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "530bc7f4c9",
+       "blockName": "Footer Receipt Wrap",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "0ca8431399",
+         "blockName": "Footer Stub",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "c4cdb135ff",
+           "blockName": "FS Head",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "chit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "666e2746f1",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a4117963d9",
+           "blockName": "FS R1",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "chit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "673295ad61",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "d1b9299453",
+           "blockName": "FS Hours Row",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "e24365648d",
+             "blockName": "FS Hours Item",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "chit_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "a58816fe2f",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "fbf9949e80",
+             "blockName": "FS Hours Leader",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "chit_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "fd5f07117c",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "3854cf29ee",
+             "blockName": "FS Hours Price",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "chit_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "0df0cad764",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "chit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "207095b7d5",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "9a0fa96e49",
+           "blockName": "FS Hours 2 Row",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "5fbc18ae8d",
+             "blockName": "FS Hours 2 Item",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "chit_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "29fe6e4a1f",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "5707a1e971",
+             "blockName": "FS Hours 2 Leader",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "chit_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "052c1046f8",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "8e915fb200",
+             "blockName": "FS Hours 2 Price",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "chit_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "dea7f0596f",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "chit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "e62b47f3d5",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "36a436dd94",
+           "blockName": "FS Where Row",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "da42c78eb8",
+             "blockName": "FS Where Item",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "chit_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "18904c5cbc",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "cae4bba038",
+             "blockName": "FS Where Leader",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "chit_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "c0898684b7",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "ef333aaeb0",
+             "blockName": "FS Where Price",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "chit_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "468967f17d",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "chit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "2ecf5f3f60",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "aaee1db79a",
+           "blockName": "FS Mail Row",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "2e44d2f40c",
+             "blockName": "FS Mail Item",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "chit_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "bc5afc7d54",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "a362acd2c6",
+             "blockName": "FS Mail Leader",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "chit_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "7688a5e2b5",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "b17f1d976f",
+             "blockName": "FS Mail Price",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "chit_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "74635f3a38",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "chit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c69fe2c62d",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "4aa1c51342",
+           "blockName": "FS R2",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "chit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "0c27072039",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "11df1034ba",
+           "blockName": "FS Thanks",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "chit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "02e182c5fb",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "ba87b0647b",
+           "blockName": "FS Barcode",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "ce1f8dbb93",
+             "blockName": "FS Barcode Bars",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "chit_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "4a14db3a61",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "c757d59400",
+             "blockName": "FS Barcode No",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "chit_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "6752e41791",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "chit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "854d291e20",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "0899b01154",
+           "blockName": "FS Legal",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "chit_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "3975657a0c",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "chit_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "797152439b",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "chit_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "28f0e227fc",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "chit_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "chit_styles"
+  },
+  {
+   "builder_script": "chit_motion"
+  }
+ ],
+ "creation": "2026-07-20 18:18:36.782248",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "A nine-seat espresso bar that takes coffee seriously and itself not at all. The whole pitch fits on a receipt.",
+ "modified": "2026-07-20 18:18:36.782248",
+ "modified_by": "Administrator",
+ "name": "chit_home",
+ "owner": "Administrator",
+ "page_name": "chit_home",
+ "page_title": "Small Change · A nine-seat espresso bar",
+ "preview": "/builder_assets/chit/chit_home/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/chit/home",
+ "template_group": "chit"
+}

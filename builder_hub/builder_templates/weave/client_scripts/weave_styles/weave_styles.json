@@ -1,0 +1,12 @@
+{
+ "creation": "2026-08-13 14:39:38.389090",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-08-13 14:39:38.389090",
+ "modified_by": "Administrator",
+ "name": "weave_styles",
+ "owner": "Administrator",
+ "script": "\nhtml { scroll-behavior: smooth; }\n::selection { background: var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4002, #191713); color: var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4001, #FBFAF8); }\nbody { -webkit-font-smoothing: antialiased; }\n\n.wv-link { transition: color 0.18s ease; }\n.wv-link:hover { color: var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38); }\n\nimg { filter: saturate(0.95); }\n@media (prefers-color-scheme: dark) { img { filter: saturate(0.9) brightness(0.88); } }\n\na:focus-visible { border-radius: 4px; outline: 2px solid var(--e7a94b53-2d18-4f60-a927-8b5e3d1c4006, #B95C38); outline-offset: 3px; }\n",
+ "script_type": "CSS"
+}

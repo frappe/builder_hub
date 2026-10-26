@@ -1,0 +1,3107 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c01, #F5F2EA)",
+    "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Inter",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "c0e104ac73",
+   "blockName": "Root",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "dd6bfd54c9",
+     "blockName": "Navbar",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "6c7b7258c5",
+       "blockName": "Nav Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "153825a8fc",
+         "blockName": "Brand",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "dcee42816c",
+           "blockName": "Brand T",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "c2de0c749c",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a267baf295",
+           "blockName": "Brand Sub",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "9619c60cf3",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "counsel_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "1cafce664a",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "f749631ab8",
+         "blockName": "Nav Links",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "4b6fb7d06f",
+           "blockName": "Nav Practice",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "a336c3b248",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "7f71b9117f",
+           "blockName": "Nav People",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "695b3b8daa",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "ed3c7ef166",
+           "blockName": "Nav Enquire",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "6833bca18a",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "counsel_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "9832df8242",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "counsel_nav",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "d60715f94e",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "counsel_nav",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "88px 40px 40px 40px",
+      "width": "100%"
+     },
+     "blockId": "2240a2d019",
+     "blockName": "Areas",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "20px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "fcfeadfc78",
+       "blockName": "Ar Head",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+          "fontFamily": "Inter",
+          "fontSize": "11.5px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "letterSpacing": "0.24em",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "243351fe18",
+         "blockName": "Ar Eye",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Practice areas",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+          "fontFamily": "Source Serif 4",
+          "fontSize": "52px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "lineHeight": "1.12",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "110c2d14fe",
+         "blockName": "Ar H",
+         "children": [],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "h1",
+         "innerHTML": "What we take on,<br>and what we send elsewhere",
+         "mobileStyles": {
+          "fontSize": "33px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "42px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+          "fontFamily": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.75",
+          "minWidth": "10px",
+          "width": "560px"
+         },
+         "blockId": "d359863901",
+         "blockName": "Ar Sub",
+         "children": [],
+         "classes": [
+          "cn-rise",
+          "cn-d1"
+         ],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "A short menu is an honesty policy. If your matter belongs with a specialist we know, we say so at the first meeting and make the introduction ourselves.",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "28px",
+        "width": "10px"
+       },
+       "blockId": "0b85d98192",
+       "blockName": "Ar Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "c6799d9abf",
+       "blockName": "Ar Blocks",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "56px",
+          "padding": "56px 0px",
+          "width": "100%"
+         },
+         "blockId": "d547b9a8f0",
+         "blockName": "AB 01",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "16px",
+            "minWidth": "0px"
+           },
+           "blockId": "b730b6079e",
+           "blockName": "AB 01 Left",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+              "fontFamily": "Inter",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "4bed7a90c4",
+             "blockName": "AB 01 No",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "01",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "34px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.15",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "d1861145cd",
+             "blockName": "AB 01 T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h3",
+             "innerHTML": "Corporate & ventures",
+             "mobileStyles": {
+              "fontSize": "26px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "8e8b86489d",
+             "blockName": "AB 01 L",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "From incorporation to the sale of the company, with every financing in between. We act for companies that intend to exist in thirty years.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c06, #FCFAF4)",
+              "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "6px",
+              "marginTop": "8px",
+              "padding": "20px 22px",
+              "width": "100%"
+             },
+             "blockId": "5215901a22",
+             "blockName": "AB 01 Aside",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "10px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.24em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "a1e2e38759",
+               "blockName": "AB 01 AT",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "In practice",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Source Serif 4",
+                "fontSize": "15.5px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "18da318233",
+               "blockName": "AB 01 AB",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "A term sheet is a prenup. We write them as if the honeymoon ends.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1.15,
+            "flexShrink": 1,
+            "gap": "26px",
+            "minWidth": "0px"
+           },
+           "blockId": "fba6868a6b",
+           "blockName": "AB 01 Right",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "10px",
+              "width": "100%"
+             },
+             "blockId": "508a49bc22",
+             "blockName": "Mt Formation & governance",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Inter",
+                "fontSize": "11px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.24em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "4692c99954",
+               "blockName": "Mt Formation & governance T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Formation & governance",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "45b08fc4f4",
+               "blockName": "Mt Formation & governance 0",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Incorporations, charters, board mechanics",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "85bb188d0a",
+               "blockName": "Mt Formation & governance 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Founder agreements written for the falling-out you don't expect",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "10px",
+              "width": "100%"
+             },
+             "blockId": "f975ceb61a",
+             "blockName": "Mt Financings & exits",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Inter",
+                "fontSize": "11px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.24em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "51bff63dc7",
+               "blockName": "Mt Financings & exits T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Financings & exits",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "53e42185a8",
+               "blockName": "Mt Financings & exits 0",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Seed through Series C, both sides of the table",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "03293fc52b",
+               "blockName": "Mt Financings & exits 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Acquisitions and sales, priced calm",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "24px",
+          "padding": "36px 0px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "gap": "32px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "56px",
+          "padding": "56px 0px",
+          "width": "100%"
+         },
+         "blockId": "354864f43b",
+         "blockName": "AB 02",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "16px",
+            "minWidth": "0px"
+           },
+           "blockId": "d08f877ec8",
+           "blockName": "AB 02 Left",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+              "fontFamily": "Inter",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "71114ed06c",
+             "blockName": "AB 02 No",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "02",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "34px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.15",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "dbf30fe37e",
+             "blockName": "AB 02 T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h3",
+             "innerHTML": "Disputes",
+             "mobileStyles": {
+              "fontSize": "26px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "cbb65c0246",
+             "blockName": "AB 02 L",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "We litigate well and reluctantly. The best verdict is the one made unnecessary in a conference room eight months earlier.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c06, #FCFAF4)",
+              "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "6px",
+              "marginTop": "8px",
+              "padding": "20px 22px",
+              "width": "100%"
+             },
+             "blockId": "b3b031887c",
+             "blockName": "AB 02 Aside",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "10px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.24em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "233d037fa0",
+               "blockName": "AB 02 AT",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "In practice",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Source Serif 4",
+                "fontSize": "15.5px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "53aa8692fa",
+               "blockName": "AB 02 AB",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Our favourite war stories are the ones with no war in them.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1.15,
+            "flexShrink": 1,
+            "gap": "26px",
+            "minWidth": "0px"
+           },
+           "blockId": "2aab74e692",
+           "blockName": "AB 02 Right",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "10px",
+              "width": "100%"
+             },
+             "blockId": "d131df63ec",
+             "blockName": "Mt Commercial litigation",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Inter",
+                "fontSize": "11px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.24em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "2c55a8a57c",
+               "blockName": "Mt Commercial litigation T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Commercial litigation",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "87b832229d",
+               "blockName": "Mt Commercial litigation 0",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Contract, partnership and shareholder disputes",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "e318d2db71",
+               "blockName": "Mt Commercial litigation 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Injunctions, when the clock genuinely matters",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "10px",
+              "width": "100%"
+             },
+             "blockId": "a8115f3378",
+             "blockName": "Mt Resolution",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Inter",
+                "fontSize": "11px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.24em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "1222af2d84",
+               "blockName": "Mt Resolution T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Resolution",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "fcd61cb8f9",
+               "blockName": "Mt Resolution 0",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Mediation and settlement architecture",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "36e508da1e",
+               "blockName": "Mt Resolution 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Pre-dispute counselling: the cheap kind of genius",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "24px",
+          "padding": "36px 0px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "gap": "32px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "56px",
+          "padding": "56px 0px",
+          "width": "100%"
+         },
+         "blockId": "afa4baa498",
+         "blockName": "AB 03",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "16px",
+            "minWidth": "0px"
+           },
+           "blockId": "2a98fd2c33",
+           "blockName": "AB 03 Left",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+              "fontFamily": "Inter",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "e85664d093",
+             "blockName": "AB 03 No",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "03",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "34px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.15",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "f1bcfbefb9",
+             "blockName": "AB 03 T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h3",
+             "innerHTML": "Employment",
+             "mobileStyles": {
+              "fontSize": "26px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "6bdb6f07a6",
+             "blockName": "AB 03 L",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The entire arc of working life: offers, equity, exits, and the conversations in between, kept dignified on both sides of the desk.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c06, #FCFAF4)",
+              "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "6px",
+              "marginTop": "8px",
+              "padding": "20px 22px",
+              "width": "100%"
+             },
+             "blockId": "08093fada6",
+             "blockName": "AB 03 Aside",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "10px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.24em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "a315a4c40c",
+               "blockName": "AB 03 AT",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "In practice",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Source Serif 4",
+                "fontSize": "15.5px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "50dab681bd",
+               "blockName": "AB 03 AB",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Every exit is a future reference check. We draft accordingly.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1.15,
+            "flexShrink": 1,
+            "gap": "26px",
+            "minWidth": "0px"
+           },
+           "blockId": "65f0562ed9",
+           "blockName": "AB 03 Right",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "10px",
+              "width": "100%"
+             },
+             "blockId": "ec5178a65b",
+             "blockName": "Mt For companies",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Inter",
+                "fontSize": "11px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.24em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "07927418e7",
+               "blockName": "Mt For companies T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "For companies",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "79d254a28b",
+               "blockName": "Mt For companies 0",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Handbooks and equity plans humans can read",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "fb1c82efc3",
+               "blockName": "Mt For companies 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Executive hires, terminations, investigations",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "10px",
+              "width": "100%"
+             },
+             "blockId": "4bff8079a8",
+             "blockName": "Mt For executives",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Inter",
+                "fontSize": "11px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.24em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "eb68c74021",
+               "blockName": "Mt For executives T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "For executives",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "3b753166de",
+               "blockName": "Mt For executives 0",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Offer and severance negotiation",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "9bfaf66711",
+               "blockName": "Mt For executives 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Non-competes: what they actually mean for you",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "24px",
+          "padding": "36px 0px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "gap": "32px"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+          "borderStyle": "solid",
+          "borderWidth": "0px 0px 1px 0px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "56px",
+          "padding": "56px 0px",
+          "width": "100%"
+         },
+         "blockId": "1a003f3115",
+         "blockName": "AB 04",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "gap": "16px",
+            "minWidth": "0px"
+           },
+           "blockId": "455fffd4cd",
+           "blockName": "AB 04 Left",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+              "fontFamily": "Inter",
+              "fontSize": "11.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "3503de8084",
+             "blockName": "AB 04 No",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "04",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "34px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.15",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "026d885f31",
+             "blockName": "AB 04 T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h3",
+             "innerHTML": "Private client",
+             "mobileStyles": {
+              "fontSize": "26px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "15px",
+              "fontWeight": "400",
+              "height": "fit-content",
+              "lineHeight": "1.75",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "a7af4ebf41",
+             "blockName": "AB 04 L",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Wills, trusts, succession and the family conversations that go better with an agenda. Discretion is the entire product.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c06, #FCFAF4)",
+              "borderColor": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c04, #DFD9CB)",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "6px",
+              "marginTop": "8px",
+              "padding": "20px 22px",
+              "width": "100%"
+             },
+             "blockId": "6b4fb1dc41",
+             "blockName": "AB 04 Aside",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "10px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.24em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "f9daa08adf",
+               "blockName": "AB 04 AT",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "In practice",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Source Serif 4",
+                "fontSize": "15.5px",
+                "fontStyle": "italic",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "9b06dbf550",
+               "blockName": "AB 04 AB",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "The reading of a will should contain no surprises. That's the job.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexBasis": "0px",
+            "flexDirection": "column",
+            "flexGrow": 1.15,
+            "flexShrink": 1,
+            "gap": "26px",
+            "minWidth": "0px"
+           },
+           "blockId": "93b22f879c",
+           "blockName": "AB 04 Right",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "10px",
+              "width": "100%"
+             },
+             "blockId": "9ae9ab4a9b",
+             "blockName": "Mt Estates & trusts",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Inter",
+                "fontSize": "11px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.24em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "2a1dc1ec35",
+               "blockName": "Mt Estates & trusts T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Estates & trusts",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "d219391aff",
+               "blockName": "Mt Estates & trusts 0",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Estate plans that survive both taxes and siblings",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "d3b49e7364",
+               "blockName": "Mt Estates & trusts 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Trust formation and administration",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "10px",
+              "width": "100%"
+             },
+             "blockId": "54355a59ca",
+             "blockName": "Mt Family matters",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+                "fontFamily": "Inter",
+                "fontSize": "11px",
+                "fontWeight": "600",
+                "height": "fit-content",
+                "letterSpacing": "0.24em",
+                "lineHeight": "1.4",
+                "minWidth": "10px",
+                "textTransform": "uppercase",
+                "width": "fit-content"
+               },
+               "blockId": "57dbe38eb3",
+               "blockName": "Mt Family matters T",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Family matters",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "96d1401885",
+               "blockName": "Mt Family matters 0",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Prenuptial agreements, negotiated kindly",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+                "fontFamily": "Inter",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "height": "fit-content",
+                "lineHeight": "1.75",
+                "minWidth": "10px",
+                "width": "100%"
+               },
+               "blockId": "950035c8f9",
+               "blockName": "Mt Family matters 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "– Succession for family companies",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "flexBasis": "auto"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "24px",
+          "padding": "36px 0px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "gap": "32px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "88px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "alignItems": "center",
+      "backgroundColor": "#EEEAE0",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "padding": "110px 40px",
+      "width": "100%"
+     },
+     "blockId": "4640ecfb6d",
+     "blockName": "People Full",
+     "children": [
+      {
+       "attributes": {
+        "id": "people"
+       },
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "1px",
+        "width": "1px"
+       },
+       "blockId": "8cabc5b6d6",
+       "blockName": "People Anchor",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "18px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "8e10ef7011",
+       "blockName": "PF Head",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c05, #7A2C25)",
+          "fontFamily": "Inter",
+          "fontSize": "11.5px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "letterSpacing": "0.24em",
+          "lineHeight": "1.4",
+          "minWidth": "10px",
+          "textTransform": "uppercase",
+          "width": "fit-content"
+         },
+         "blockId": "136ebac180",
+         "blockName": "PF Eye",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "The partners",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+          "fontFamily": "Source Serif 4",
+          "fontSize": "40px",
+          "fontWeight": "600",
+          "height": "fit-content",
+          "lineHeight": "1.2",
+          "minWidth": "10px",
+          "width": "100%"
+         },
+         "blockId": "91ee42df84",
+         "blockName": "PF H",
+         "children": [],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "h2",
+         "innerHTML": "The people you'd actually get",
+         "mobileStyles": {
+          "fontSize": "29px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {
+          "fontSize": "35px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "44px",
+        "width": "10px"
+       },
+       "blockId": "a18bf1e68e",
+       "blockName": "PF Gap",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "gap": "20px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "f071eddc9e",
+       "blockName": "PF Grid",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "16px",
+          "minWidth": "0px",
+          "width": "auto"
+         },
+         "blockId": "db00f732a3",
+         "blockName": "PF P1",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "#E8E4DA",
+            "flexShrink": 0,
+            "overflow": "hidden",
+            "width": "100%"
+           },
+           "blockId": "df0e795168",
+           "blockName": "PF P1 Frame",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Edmund Harrow",
+              "loading": "lazy",
+              "src": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=900&q=70&fm=webp&fit=crop"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "5a80e85d55",
+             "blockName": "PF P1 Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "4 / 5",
+              "filter": "grayscale(1) contrast(1.02)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "cn-frame"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "3px",
+            "width": "100%"
+           },
+           "blockId": "8b7700648d",
+           "blockName": "PF P1 Cap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "18px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "87ade9899e",
+             "blockName": "PF P1 Who",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Edmund Harrow",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "10.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "69c5945c8b",
+             "blockName": "PF P1 Role",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Senior partner · Corporate",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "16px",
+          "minWidth": "0px",
+          "width": "auto"
+         },
+         "blockId": "26e1ead24b",
+         "blockName": "PF P2",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "#E8E4DA",
+            "flexShrink": 0,
+            "overflow": "hidden",
+            "width": "100%"
+           },
+           "blockId": "31fa80f47f",
+           "blockName": "PF P2 Frame",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Naomi Vale",
+              "loading": "lazy",
+              "src": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=900&q=70&fm=webp&fit=crop"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "f143bf0f90",
+             "blockName": "PF P2 Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "4 / 5",
+              "filter": "grayscale(1) contrast(1.02)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "cn-frame"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "3px",
+            "width": "100%"
+           },
+           "blockId": "c483301ca1",
+           "blockName": "PF P2 Cap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "18px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "f30c39619f",
+             "blockName": "PF P2 Who",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Naomi Vale",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "10.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "0cca3d9fc0",
+             "blockName": "PF P2 Role",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Managing partner · Disputes",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "16px",
+          "minWidth": "0px",
+          "width": "auto"
+         },
+         "blockId": "71a8aa9a2e",
+         "blockName": "PF P3",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "#E8E4DA",
+            "flexShrink": 0,
+            "overflow": "hidden",
+            "width": "100%"
+           },
+           "blockId": "35f95714f1",
+           "blockName": "PF P3 Frame",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Marcus Ihejirika",
+              "loading": "lazy",
+              "src": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=900&q=70&fm=webp&fit=crop"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "7acc518f9f",
+             "blockName": "PF P3 Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "4 / 5",
+              "filter": "grayscale(1) contrast(1.02)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "cn-frame"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "3px",
+            "width": "100%"
+           },
+           "blockId": "e88ec40ada",
+           "blockName": "PF P3 Cap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "18px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "01727fdb08",
+             "blockName": "PF P3 Who",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Marcus Ihejirika",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "10.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "af2b429a5d",
+             "blockName": "PF P3 Role",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Partner · Employment",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexBasis": "0px",
+          "flexDirection": "column",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "gap": "16px",
+          "minWidth": "0px",
+          "width": "auto"
+         },
+         "blockId": "ab9f646d2f",
+         "blockName": "PF P4",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "#E8E4DA",
+            "flexShrink": 0,
+            "overflow": "hidden",
+            "width": "100%"
+           },
+           "blockId": "744270c195",
+           "blockName": "PF P4 Frame",
+           "children": [
+            {
+             "attributes": {
+              "alt": "Cecilia Ordóñez",
+              "loading": "lazy",
+              "src": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=900&q=70&fm=webp&fit=crop"
+             },
+             "baseStyles": {
+              "display": "block",
+              "height": "auto",
+              "objectFit": "cover",
+              "width": "100%"
+             },
+             "blockId": "617daa4e12",
+             "blockName": "PF P4 Img",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "img",
+             "mobileStyles": {},
+             "rawStyles": {
+              "aspect-ratio": "4 / 5",
+              "filter": "grayscale(1) contrast(1.02)"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "cn-frame"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "3px",
+            "width": "100%"
+           },
+           "blockId": "ecec4056dd",
+           "blockName": "PF P4 Cap",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c02, #211E18)",
+              "fontFamily": "Source Serif 4",
+              "fontSize": "18px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "100%"
+             },
+             "blockId": "8b73e533f0",
+             "blockName": "PF P4 Who",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Cecilia Ordóñez",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+              "fontFamily": "Inter",
+              "fontSize": "10.5px",
+              "fontWeight": "600",
+              "height": "fit-content",
+              "letterSpacing": "0.24em",
+              "lineHeight": "1.4",
+              "minWidth": "10px",
+              "textTransform": "uppercase",
+              "width": "fit-content"
+             },
+             "blockId": "64c74fd82f",
+             "blockName": "PF P4 Role",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Partner · Private client",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "cn-rise"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "flexBasis": "auto",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column",
+        "gap": "32px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {
+        "flexWrap": "wrap"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "flexShrink": 0,
+        "height": "36px",
+        "width": "10px"
+       },
+       "blockId": "bc900f7130",
+       "blockName": "PF Gap 2",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "maxWidth": "1120px",
+        "width": "100%"
+       },
+       "blockId": "4a7ebd8c1c",
+       "blockName": "PF Note",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "color": "var(--e6a9c4d1-7f30-4b2e-9c8d-0a4f7e1b3c03, #847C6C)",
+          "fontFamily": "Inter",
+          "fontSize": "14.5px",
+          "fontWeight": "400",
+          "height": "fit-content",
+          "lineHeight": "1.75",
+          "minWidth": "10px",
+          "width": "560px"
+         },
+         "blockId": "47cc7139d5",
+         "blockName": "PF Note T",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "element": "p",
+         "innerHTML": "Plus seven of counsel and associates we are extremely proud of, who work on your matter behind a partner, never instead of one.",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "padding": "64px 18px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {
+      "padding": "88px 28px"
+     }
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "814db745f5",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "079348f2f0",
+       "blockName": "Footer Inner",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "78b9e5244d",
+         "blockName": "F Top",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "336be23a70",
+           "blockName": "F Brand Col",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "07054836b8",
+             "blockName": "F Brand",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "2725eff074",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "944b92da8d",
+             "blockName": "F Pitch",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "9e13e3b59a",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "646f0a93b8",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "ed7c6ec5fd",
+           "blockName": "F Col Visit",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "f19c854b9b",
+             "blockName": "FC Visit T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "e52545ddba",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "a2f9eefcdd",
+             "blockName": "FC Visit 4 Chancery Row, Suite 300",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "22a7b96275",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "251bb9dcff",
+             "blockName": "FC Visit Weekdays 8:30–18:00",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "a1f22b8389",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "60df088f00",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "4a26cc7fd2",
+           "blockName": "F Col Contact",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "67bd3f43c6",
+             "blockName": "FC Contact T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "6fd5749523",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "d2f6136556",
+             "blockName": "FC Contact (555) 014-7700",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "c537742df6",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "01fc69edb5",
+             "blockName": "FC Contact clerks@harrowvale.law",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "045a7af442",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "dd27835d20",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "e02f923c6a",
+           "blockName": "F Col Firm",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "aedf70a056",
+             "blockName": "FC Firm T",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "ce1ddaa3eb",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "97f3896fb8",
+             "blockName": "FC Firm Practice areas",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "7732567c37",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "ced00d9a06",
+             "blockName": "FC Firm Our people",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "a4cdabd88e",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "30238c2e1a",
+             "blockName": "FC Firm Start an enquiry",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "counsel_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "8f76b1dbb4",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "be0b71ae76",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "counsel_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "9662e2198f",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "edf7e4396f",
+         "blockName": "F Bottom",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "cf9315b37f",
+           "blockName": "F Legal",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "f769e9133d",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "9f5efd2012",
+           "blockName": "F Note",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "counsel_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "d3121a9a0e",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "counsel_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "2cecb367fe",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "counsel_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "referenceBlockId": "b44c9364b5",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "extendedFromComponent": "counsel_footer",
+     "mobileStyles": {},
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "counsel_styles"
+  },
+  {
+   "builder_script": "counsel_motion"
+  }
+ ],
+ "creation": "2026-07-21 13:26:12.799403",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Four practice areas done properly, the matters within each, and the partners you'd actually get.",
+ "modified": "2026-07-21 13:26:12.799403",
+ "modified_by": "Administrator",
+ "name": "counsel_practice",
+ "owner": "Administrator",
+ "page_name": "counsel_practice",
+ "page_title": "Practice & people · Harrow & Vale",
+ "preview": "/builder_assets/counsel/counsel_practice/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/counsel/practice",
+ "template_group": "counsel"
+}

@@ -1,0 +1,5029 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+    "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontFamily": "Geist",
+    "minHeight": "100vh",
+    "overflowX": "hidden",
+    "width": "100%"
+   },
+   "blockId": "00001a2d52",
+   "blockName": "Page",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "flexShrink": 0,
+      "gap": "14px",
+      "padding": "14px",
+      "width": "100%"
+     },
+     "blockId": "00001a2d51",
+     "blockName": "Page Frame",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db005, #F3F5F9)",
+        "borderRadius": "28px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "overflow": "hidden",
+        "padding": "28px 32px 76px",
+        "width": "100%"
+       },
+       "blockId": "00001a2c7f",
+       "blockName": "Header Panel",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00001a2c6f",
+         "blockName": "Primer Nav",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00001a2c70",
+           "blockName": "Brand",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2c71",
+             "blockName": "Brand Mark",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2c72",
+               "blockName": "Brand Letter",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_nav",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b3c",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b3d",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2c73",
+             "blockName": "Brand Word",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b3e",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "primer_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00001a2b3f",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00001a2c74",
+           "blockName": "Nav Links",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2c75",
+             "blockName": "Nav Product",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b40",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2c76",
+             "blockName": "Nav Company",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b41",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2c77",
+             "blockName": "Nav Docs",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b42",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "primer_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00001a2b43",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00001a2c78",
+           "blockName": "Nav Actions",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2c79",
+             "blockName": "Nav Sign In",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b44",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2c7a",
+             "blockName": "Nav CTA",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_nav",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b45",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "primer_nav",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00001a2b46",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "extendedFromComponent": "primer_nav",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "14px",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1120px",
+          "paddingTop": "64px",
+          "width": "100%"
+         },
+         "blockId": "00001a2c7e",
+         "blockName": "Product Head",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+            "fontFamily": "Geist Mono",
+            "fontSize": "12.5px",
+            "fontWeight": "500",
+            "height": "fit-content",
+            "letterSpacing": "0.16em",
+            "lineHeight": "1.3",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2c7b",
+           "blockName": "Product Eyebrow",
+           "children": [],
+           "classes": [
+            "pr-rise"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "WHAT'S INSIDE",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+            "fontFamily": "Geist",
+            "fontSize": "48px",
+            "fontWeight": "650",
+            "height": "fit-content",
+            "letterSpacing": "-0.03em",
+            "lineHeight": "1.08",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2c7c",
+           "blockName": "Product Title",
+           "children": [],
+           "classes": [
+            "pr-rise"
+           ],
+           "customAttributes": {},
+           "element": "h1",
+           "innerHTML": "What Primer does, in order.",
+           "mobileStyles": {
+            "fontSize": "32px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+            "fontFamily": "Geist",
+            "fontSize": "17px",
+            "height": "fit-content",
+            "lineHeight": "1.6",
+            "maxWidth": "540px",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2c7d",
+           "blockName": "Product Sub",
+           "children": [],
+           "classes": [
+            "pr-rise",
+            "pr-d1"
+           ],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "Onboarding isn't one day, it's a sequence. Primer covers the three phases where it usually falls apart.",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "paddingTop": "44px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "borderRadius": "18px",
+        "padding": "20px 20px 52px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "gap": "0px",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "maxWidth": "1120px",
+        "padding": "64px 0",
+        "width": "100%"
+       },
+       "blockId": "00001a2cea",
+       "blockName": "Tabs Section",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db005, #F3F5F9)",
+          "borderRadius": "999px",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "4px",
+          "padding": "5px",
+          "width": "fit-content"
+         },
+         "blockId": "00001a2c83",
+         "blockName": "Tab Row",
+         "children": [
+          {
+           "attributes": {
+            "aria-selected": "true",
+            "type": "button"
+           },
+           "baseStyles": {
+            "backgroundColor": "transparent",
+            "borderRadius": "999px",
+            "borderStyle": "none",
+            "borderWidth": "0",
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+            "fontFamily": "Geist",
+            "fontSize": "14.5px",
+            "fontWeight": "600",
+            "lineHeight": "1.3",
+            "padding": "10px 20px"
+           },
+           "blockId": "00001a2c80",
+           "blockName": "Tab Before day one",
+           "children": [],
+           "classes": [
+            "pr-tab"
+           ],
+           "customAttributes": {},
+           "element": "button",
+           "innerHTML": "Before day one",
+           "mobileStyles": {
+            "fontSize": "13px",
+            "padding": "9px 14px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "aria-selected": "false",
+            "type": "button"
+           },
+           "baseStyles": {
+            "backgroundColor": "transparent",
+            "borderRadius": "999px",
+            "borderStyle": "none",
+            "borderWidth": "0",
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+            "fontFamily": "Geist",
+            "fontSize": "14.5px",
+            "fontWeight": "600",
+            "lineHeight": "1.3",
+            "padding": "10px 20px"
+           },
+           "blockId": "00001a2c81",
+           "blockName": "Tab Week one",
+           "children": [],
+           "classes": [
+            "pr-tab"
+           ],
+           "customAttributes": {},
+           "element": "button",
+           "innerHTML": "Week one",
+           "mobileStyles": {
+            "fontSize": "13px",
+            "padding": "9px 14px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "aria-selected": "false",
+            "type": "button"
+           },
+           "baseStyles": {
+            "backgroundColor": "transparent",
+            "borderRadius": "999px",
+            "borderStyle": "none",
+            "borderWidth": "0",
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+            "fontFamily": "Geist",
+            "fontSize": "14.5px",
+            "fontWeight": "600",
+            "lineHeight": "1.3",
+            "padding": "10px 20px"
+           },
+           "blockId": "00001a2c82",
+           "blockName": "Tab Every week after",
+           "children": [],
+           "classes": [
+            "pr-tab"
+           ],
+           "customAttributes": {},
+           "element": "button",
+           "innerHTML": "Every week after",
+           "mobileStyles": {
+            "fontSize": "13px",
+            "padding": "9px 14px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "pr-tabs"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "justifyContent": "space-between",
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "64px",
+          "justifyContent": "space-between",
+          "paddingTop": "36px",
+          "width": "100%"
+         },
+         "blockId": "00001a2ca0",
+         "blockName": "Tab Panel BEFORE DAY ONE",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "14px",
+            "maxWidth": "460px",
+            "width": "100%"
+           },
+           "blockId": "00001a2c9f",
+           "blockName": "Tab Copy",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+              "borderRadius": "999px",
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+              "fontFamily": "Geist Mono",
+              "fontSize": "12px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.02em",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "padding": "6px 12px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2c98",
+             "blockName": "Tab Label",
+             "children": [],
+             "classes": [
+              "pr-tablabel"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "BEFORE DAY ONE",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+              "fontFamily": "Geist",
+              "fontSize": "28px",
+              "fontWeight": "650",
+              "height": "fit-content",
+              "letterSpacing": "-0.02em",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2c99",
+             "blockName": "Tab Title",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h3",
+             "innerHTML": "It starts before they do.",
+             "mobileStyles": {
+              "fontSize": "24px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+              "fontFamily": "Geist",
+              "fontSize": "15.5px",
+              "height": "fit-content",
+              "lineHeight": "1.6",
+              "maxWidth": "440px",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2c9a",
+             "blockName": "Tab Body",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "The week before a start date is admin quicksand. Primer runs it: accounts, laptop, intros, all fired from one trigger.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "8px",
+              "paddingTop": "2px"
+             },
+             "blockId": "00001a2c9e",
+             "blockName": "Tab Points",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2c9b",
+               "blockName": "Tab Point 0",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "→  Access requests on offer signed",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2c9c",
+               "blockName": "Tab Point 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "→  Hardware tracked to the doorstep",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2c9d",
+               "blockName": "Tab Point 2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "→  A welcome note that isn't a template",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+            "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+            "borderRadius": "16px",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "boxShadow": "0 18px 40px -24px rgba(17, 24, 38, 0.18)",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "4px",
+            "maxWidth": "440px",
+            "padding": "14px",
+            "width": "100%"
+           },
+           "blockId": "00001a2c97",
+           "blockName": "Prelaunch Mock",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "borderRadius": "10px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "padding": "10px 12px",
+              "width": "100%"
+             },
+             "blockId": "00001a2c88",
+             "blockName": "Check Row",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "borderRadius": "6px",
+                "display": "flex",
+                "flexShrink": 0,
+                "height": "18px",
+                "justifyContent": "center",
+                "width": "18px"
+               },
+               "blockId": "00001a2c85",
+               "blockName": "Check Box",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+                  "fontFamily": "Geist",
+                  "fontSize": "11px",
+                  "fontWeight": "700",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2c84",
+                 "blockName": "Check Tick",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "✓",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist",
+                "fontSize": "14px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.35",
+                "minWidth": "10px",
+                "textDecoration": "line-through",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2c86",
+               "blockName": "Check Label",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Accounts provisioned",
+               "mobileStyles": {
+                "fontSize": "13px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist Mono",
+                "fontSize": "11.5px",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "marginLeft": "auto",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2c87",
+               "blockName": "Check Meta",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "T-6 days",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "borderRadius": "10px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "padding": "10px 12px",
+              "width": "100%"
+             },
+             "blockId": "00001a2c8d",
+             "blockName": "Check Row",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "borderRadius": "6px",
+                "display": "flex",
+                "flexShrink": 0,
+                "height": "18px",
+                "justifyContent": "center",
+                "width": "18px"
+               },
+               "blockId": "00001a2c8a",
+               "blockName": "Check Box",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+                  "fontFamily": "Geist",
+                  "fontSize": "11px",
+                  "fontWeight": "700",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2c89",
+                 "blockName": "Check Tick",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "✓",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist",
+                "fontSize": "14px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.35",
+                "minWidth": "10px",
+                "textDecoration": "line-through",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2c8b",
+               "blockName": "Check Label",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Laptop shipped + tracked",
+               "mobileStyles": {
+                "fontSize": "13px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist Mono",
+                "fontSize": "11.5px",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "marginLeft": "auto",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2c8c",
+               "blockName": "Check Meta",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "T-4 days",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "borderRadius": "10px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "padding": "10px 12px",
+              "width": "100%"
+             },
+             "blockId": "00001a2c92",
+             "blockName": "Check Row",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "borderRadius": "6px",
+                "display": "flex",
+                "flexShrink": 0,
+                "height": "18px",
+                "justifyContent": "center",
+                "width": "18px"
+               },
+               "blockId": "00001a2c8f",
+               "blockName": "Check Box",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+                  "fontFamily": "Geist",
+                  "fontSize": "11px",
+                  "fontWeight": "700",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2c8e",
+                 "blockName": "Check Tick",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "✓",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist",
+                "fontSize": "14px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.35",
+                "minWidth": "10px",
+                "textDecoration": "line-through",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2c90",
+               "blockName": "Check Label",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Team intro note sent",
+               "mobileStyles": {
+                "fontSize": "13px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist Mono",
+                "fontSize": "11.5px",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "marginLeft": "auto",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2c91",
+               "blockName": "Check Meta",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "T-2 days",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+              "borderRadius": "10px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "padding": "10px 12px",
+              "width": "100%"
+             },
+             "blockId": "00001a2c96",
+             "blockName": "Check Row",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+                "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+                "borderRadius": "6px",
+                "borderStyle": "solid",
+                "borderWidth": "1.5px",
+                "flexShrink": 0,
+                "height": "18px",
+                "width": "18px"
+               },
+               "blockId": "00001a2c93",
+               "blockName": "Check Box",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "14px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.35",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2c94",
+               "blockName": "Check Label",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Welcome from buddy Sam",
+               "mobileStyles": {
+                "fontSize": "13px"
+               },
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist Mono",
+                "fontSize": "11.5px",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "marginLeft": "auto",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2c95",
+               "blockName": "Check Meta",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "T-1 day",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "pr-rise",
+            "pr-d2"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "pr-tabpanel",
+          "pr-active"
+         ],
+         "customAttributes": {
+          "data-pane": "before-day-one"
+         },
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "36px",
+          "paddingTop": "28px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "64px",
+          "justifyContent": "space-between",
+          "paddingTop": "36px",
+          "width": "100%"
+         },
+         "blockId": "00001a2cbb",
+         "blockName": "Tab Panel WEEK ONE",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "14px",
+            "maxWidth": "460px",
+            "width": "100%"
+           },
+           "blockId": "00001a2cba",
+           "blockName": "Tab Copy",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+              "borderRadius": "999px",
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+              "fontFamily": "Geist Mono",
+              "fontSize": "12px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.02em",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "padding": "6px 12px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2cb3",
+             "blockName": "Tab Label",
+             "children": [],
+             "classes": [
+              "pr-tablabel"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "WEEK ONE",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+              "fontFamily": "Geist",
+              "fontSize": "28px",
+              "fontWeight": "650",
+              "height": "fit-content",
+              "letterSpacing": "-0.02em",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2cb4",
+             "blockName": "Tab Title",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h3",
+             "innerHTML": "A first week that ends with shipping.",
+             "mobileStyles": {
+              "fontSize": "24px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+              "fontFamily": "Geist",
+              "fontSize": "15.5px",
+              "height": "fit-content",
+              "lineHeight": "1.6",
+              "maxWidth": "440px",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2cb5",
+             "blockName": "Tab Body",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Not a lecture series. An ordered path from “hello” to a real, small, shipped thing, with a buddy on call.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "8px",
+              "paddingTop": "2px"
+             },
+             "blockId": "00001a2cb9",
+             "blockName": "Tab Points",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cb6",
+               "blockName": "Tab Point 0",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "→  Role-specific paths, not generic tours",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cb7",
+               "blockName": "Tab Point 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "→  A first task scoped to win",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cb8",
+               "blockName": "Tab Point 2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "→  Buddy assigned, calendar blocked",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "maxWidth": "440px",
+            "width": "100%"
+           },
+           "blockId": "00001a2cb2",
+           "blockName": "Path Mock",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderRadius": "14px",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "boxShadow": "none",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "14px",
+              "padding": "14px 16px",
+              "width": "100%"
+             },
+             "blockId": "00001a2ca5",
+             "blockName": "Step 01",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+                "borderRadius": "9px",
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "display": "flex",
+                "flexShrink": 0,
+                "fontFamily": "Geist Mono",
+                "fontSize": "12px",
+                "fontWeight": "500",
+                "height": "34px",
+                "justifyContent": "center",
+                "lineHeight": "1",
+                "minWidth": "10px",
+                "width": "34px"
+               },
+               "blockId": "00001a2ca1",
+               "blockName": "Step Num",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "01",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "gap": "2px"
+               },
+               "blockId": "00001a2ca4",
+               "blockName": "Step Text",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                  "fontFamily": "Geist",
+                  "fontSize": "14.5px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2ca2",
+                 "blockName": "Step Title",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Access, accounts, laptop",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                  "fontFamily": "Geist",
+                  "fontSize": "12.5px",
+                  "height": "fit-content",
+                  "lineHeight": "1.4",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2ca3",
+                 "blockName": "Step Meta",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "fires automatically on offer signed",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "flexShrink": 0,
+              "height": "18px",
+              "marginLeft": "32px",
+              "width": "2px"
+             },
+             "blockId": "00001a2ca6",
+             "blockName": "Path Connector",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderRadius": "14px",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "boxShadow": "none",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "14px",
+              "padding": "14px 16px",
+              "width": "100%"
+             },
+             "blockId": "00001a2cab",
+             "blockName": "Step 02",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+                "borderRadius": "9px",
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "display": "flex",
+                "flexShrink": 0,
+                "fontFamily": "Geist Mono",
+                "fontSize": "12px",
+                "fontWeight": "500",
+                "height": "34px",
+                "justifyContent": "center",
+                "lineHeight": "1",
+                "minWidth": "10px",
+                "width": "34px"
+               },
+               "blockId": "00001a2ca7",
+               "blockName": "Step Num",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "02",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "gap": "2px"
+               },
+               "blockId": "00001a2caa",
+               "blockName": "Step Text",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                  "fontFamily": "Geist",
+                  "fontSize": "14.5px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2ca8",
+                 "blockName": "Step Title",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Meet the team, read how we ship",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                  "fontFamily": "Geist",
+                  "fontSize": "12.5px",
+                  "height": "fit-content",
+                  "lineHeight": "1.4",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2ca9",
+                 "blockName": "Step Meta",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "day one, two hours, no slideshows",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "flexShrink": 0,
+              "height": "18px",
+              "marginLeft": "32px",
+              "width": "2px"
+             },
+             "blockId": "00001a2cac",
+             "blockName": "Path Connector",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+              "borderRadius": "14px",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "boxShadow": "0 10px 24px -16px rgba(17, 24, 38, 0.16)",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "14px",
+              "padding": "14px 16px",
+              "width": "100%"
+             },
+             "blockId": "00001a2cb1",
+             "blockName": "Step 03",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+                "borderRadius": "9px",
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "display": "flex",
+                "flexShrink": 0,
+                "fontFamily": "Geist Mono",
+                "fontSize": "12px",
+                "fontWeight": "500",
+                "height": "34px",
+                "justifyContent": "center",
+                "lineHeight": "1",
+                "minWidth": "10px",
+                "width": "34px"
+               },
+               "blockId": "00001a2cad",
+               "blockName": "Step Num",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "03",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "gap": "2px"
+               },
+               "blockId": "00001a2cb0",
+               "blockName": "Step Text",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                  "fontFamily": "Geist",
+                  "fontSize": "14.5px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2cae",
+                 "blockName": "Step Title",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Ship something small",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                  "fontFamily": "Geist",
+                  "fontSize": "12.5px",
+                  "height": "fit-content",
+                  "lineHeight": "1.4",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2caf",
+                 "blockName": "Step Meta",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "day four, with a buddy on call",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "pr-rise",
+            "pr-d2"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "pr-tabpanel"
+         ],
+         "customAttributes": {
+          "data-pane": "week-one"
+         },
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "36px",
+          "paddingTop": "28px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "64px",
+          "justifyContent": "space-between",
+          "paddingTop": "36px",
+          "width": "100%"
+         },
+         "blockId": "00001a2ce9",
+         "blockName": "Tab Panel EVERY WEEK AFTER",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "14px",
+            "maxWidth": "460px",
+            "width": "100%"
+           },
+           "blockId": "00001a2ce8",
+           "blockName": "Tab Copy",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+              "borderRadius": "999px",
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+              "fontFamily": "Geist Mono",
+              "fontSize": "12px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.02em",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "padding": "6px 12px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2ce1",
+             "blockName": "Tab Label",
+             "children": [],
+             "classes": [
+              "pr-tablabel"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "EVERY WEEK AFTER",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+              "fontFamily": "Geist",
+              "fontSize": "28px",
+              "fontWeight": "650",
+              "height": "fit-content",
+              "letterSpacing": "-0.02em",
+              "lineHeight": "1.2",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2ce2",
+             "blockName": "Tab Title",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h3",
+             "innerHTML": "30, 60, 90, without the spreadsheet.",
+             "mobileStyles": {
+              "fontSize": "24px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+              "fontFamily": "Geist",
+              "fontSize": "15.5px",
+              "height": "fit-content",
+              "lineHeight": "1.6",
+              "maxWidth": "440px",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2ce3",
+             "blockName": "Tab Body",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Ramp doesn't end on Friday. Check-ins, feedback loops and goals keep running until they're the one writing paths.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "8px",
+              "paddingTop": "2px"
+             },
+             "blockId": "00001a2ce7",
+             "blockName": "Tab Points",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2ce4",
+               "blockName": "Tab Point 0",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "→  30-60-90 check-ins that schedule themselves",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2ce5",
+               "blockName": "Tab Point 1",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "→  Manager view of the whole cohort",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "lineHeight": "1.5",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2ce6",
+               "blockName": "Tab Point 2",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "→  Graduates become buddies, automatically",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+            "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+            "borderRadius": "16px",
+            "borderStyle": "solid",
+            "borderWidth": "1px",
+            "boxShadow": "0 18px 40px -24px rgba(17, 24, 38, 0.18)",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "maxWidth": "440px",
+            "overflow": "hidden",
+            "width": "100%"
+           },
+           "blockId": "00001a2ce0",
+           "blockName": "Roster Mock",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "justifyContent": "space-between",
+              "padding": "14px 18px",
+              "width": "100%"
+             },
+             "blockId": "00001a2cbe",
+             "blockName": "Roster Head",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "13.5px",
+                "fontWeight": "650",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cbc",
+               "blockName": "Roster Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "This week · 4 onboarding",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+                "borderRadius": "999px",
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "fontFamily": "Geist Mono",
+                "fontSize": "12px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "letterSpacing": "0.02em",
+                "lineHeight": "1.3",
+                "minWidth": "10px",
+                "padding": "6px 12px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cbd",
+               "blockName": "Roster Live",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "live",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "padding": "12px 18px",
+              "width": "100%"
+             },
+             "blockId": "00001a2cc6",
+             "blockName": "Roster Nadia Osei",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+                "borderRadius": "999px",
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "display": "flex",
+                "flexShrink": 0,
+                "fontFamily": "Geist Mono",
+                "fontSize": "11px",
+                "fontWeight": "500",
+                "height": "30px",
+                "justifyContent": "center",
+                "lineHeight": "1",
+                "minWidth": "10px",
+                "width": "30px"
+               },
+               "blockId": "00001a2cc2",
+               "blockName": "Roster Avatar",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "NA",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "gap": "2px",
+                "marginRight": "auto"
+               },
+               "blockId": "00001a2cc5",
+               "blockName": "Roster Text",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                  "fontFamily": "Geist",
+                  "fontSize": "14px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2cc3",
+                 "blockName": "Roster Name",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Nadia Osei",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                  "fontFamily": "Geist",
+                  "fontSize": "12px",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2cc4",
+                 "blockName": "Roster Role",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Product engineer",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+                "borderRadius": "999px",
+                "flexShrink": 0,
+                "height": "5px",
+                "overflow": "hidden",
+                "width": "56px"
+               },
+               "blockId": "00001a2cc0",
+               "blockName": "Mini Track",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                  "borderRadius": "999px",
+                  "height": "100%",
+                  "width": "62%"
+                 },
+                 "blockId": "00001a2cbf",
+                 "blockName": "Mini Fill",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist Mono",
+                "fontSize": "11px",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cc1",
+               "blockName": "Mini Pct",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "62%",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "padding": "12px 18px",
+              "width": "100%"
+             },
+             "blockId": "00001a2cce",
+             "blockName": "Roster Jonas Meyer",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+                "borderRadius": "999px",
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "display": "flex",
+                "flexShrink": 0,
+                "fontFamily": "Geist Mono",
+                "fontSize": "11px",
+                "fontWeight": "500",
+                "height": "30px",
+                "justifyContent": "center",
+                "lineHeight": "1",
+                "minWidth": "10px",
+                "width": "30px"
+               },
+               "blockId": "00001a2cca",
+               "blockName": "Roster Avatar",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "JM",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "gap": "2px",
+                "marginRight": "auto"
+               },
+               "blockId": "00001a2ccd",
+               "blockName": "Roster Text",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                  "fontFamily": "Geist",
+                  "fontSize": "14px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2ccb",
+                 "blockName": "Roster Name",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Jonas Meyer",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                  "fontFamily": "Geist",
+                  "fontSize": "12px",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2ccc",
+                 "blockName": "Roster Role",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Support",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+                "borderRadius": "999px",
+                "flexShrink": 0,
+                "height": "5px",
+                "overflow": "hidden",
+                "width": "56px"
+               },
+               "blockId": "00001a2cc8",
+               "blockName": "Mini Track",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                  "borderRadius": "999px",
+                  "height": "100%",
+                  "width": "88%"
+                 },
+                 "blockId": "00001a2cc7",
+                 "blockName": "Mini Fill",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist Mono",
+                "fontSize": "11px",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cc9",
+               "blockName": "Mini Pct",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "88%",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "padding": "12px 18px",
+              "width": "100%"
+             },
+             "blockId": "00001a2cd7",
+             "blockName": "Roster Rhea Kapoor",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+                "borderRadius": "999px",
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "display": "flex",
+                "flexShrink": 0,
+                "fontFamily": "Geist Mono",
+                "fontSize": "11px",
+                "fontWeight": "500",
+                "height": "30px",
+                "justifyContent": "center",
+                "lineHeight": "1",
+                "minWidth": "10px",
+                "width": "30px"
+               },
+               "blockId": "00001a2cd3",
+               "blockName": "Roster Avatar",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "RK",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "gap": "2px",
+                "marginRight": "auto"
+               },
+               "blockId": "00001a2cd6",
+               "blockName": "Roster Text",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                  "fontFamily": "Geist",
+                  "fontSize": "14px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2cd4",
+                 "blockName": "Roster Name",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Rhea Kapoor",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                  "fontFamily": "Geist",
+                  "fontSize": "12px",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2cd5",
+                 "blockName": "Roster Role",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Sales",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+                "borderRadius": "999px",
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "fontFamily": "Geist Mono",
+                "fontSize": "12px",
+                "fontWeight": "500",
+                "height": "fit-content",
+                "letterSpacing": "0.02em",
+                "lineHeight": "1.3",
+                "minWidth": "10px",
+                "padding": "6px 12px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cd2",
+               "blockName": "Roster Flag",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "waiting on laptop",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexShrink": 0,
+              "gap": "12px",
+              "padding": "12px 18px",
+              "width": "100%"
+             },
+             "blockId": "00001a2cdf",
+             "blockName": "Roster Tom Walsh",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+                "borderRadius": "999px",
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "display": "flex",
+                "flexShrink": 0,
+                "fontFamily": "Geist Mono",
+                "fontSize": "11px",
+                "fontWeight": "500",
+                "height": "30px",
+                "justifyContent": "center",
+                "lineHeight": "1",
+                "minWidth": "10px",
+                "width": "30px"
+               },
+               "blockId": "00001a2cdb",
+               "blockName": "Roster Avatar",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "TW",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "display": "flex",
+                "flexDirection": "column",
+                "flexShrink": 0,
+                "gap": "2px",
+                "marginRight": "auto"
+               },
+               "blockId": "00001a2cde",
+               "blockName": "Roster Text",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                  "fontFamily": "Geist",
+                  "fontSize": "14px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2cdc",
+                 "blockName": "Roster Name",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Tom Walsh",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                  "fontFamily": "Geist",
+                  "fontSize": "12px",
+                  "height": "fit-content",
+                  "lineHeight": "1.3",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2cdd",
+                 "blockName": "Roster Role",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Design",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+                "borderRadius": "999px",
+                "flexShrink": 0,
+                "height": "5px",
+                "overflow": "hidden",
+                "width": "56px"
+               },
+               "blockId": "00001a2cd9",
+               "blockName": "Mini Track",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                  "borderRadius": "999px",
+                  "height": "100%",
+                  "width": "31%"
+                 },
+                 "blockId": "00001a2cd8",
+                 "blockName": "Mini Fill",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist Mono",
+                "fontSize": "11px",
+                "height": "fit-content",
+                "lineHeight": "1.3",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cda",
+               "blockName": "Mini Pct",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "31%",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "pr-rise",
+            "pr-d2"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "pr-tabpanel"
+         ],
+         "customAttributes": {
+          "data-pane": "every-week-after"
+         },
+         "element": "div",
+         "mobileStyles": {
+          "flexDirection": "column",
+          "gap": "36px",
+          "paddingTop": "28px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [
+        "pr-tabwrap"
+       ],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "padding": "44px 0"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db005, #F3F5F9)",
+        "borderRadius": "28px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "overflow": "hidden",
+        "padding": "72px 32px",
+        "width": "100%"
+       },
+       "blockId": "00001a2cfc",
+       "blockName": "Cards Panel",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "40px",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1120px",
+          "width": "100%"
+         },
+         "blockId": "00001a2cfb",
+         "blockName": "Cards Content",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "14px"
+           },
+           "blockId": "00001a2ced",
+           "blockName": "Section Head",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+              "fontFamily": "Geist Mono",
+              "fontSize": "12.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.16em",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2ceb",
+             "blockName": "Head Eyebrow",
+             "children": [],
+             "classes": [
+              "pr-rise"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "TEMPLATES",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+              "fontFamily": "Geist",
+              "fontSize": "38px",
+              "fontWeight": "650",
+              "height": "fit-content",
+              "letterSpacing": "-0.025em",
+              "lineHeight": "1.12",
+              "maxWidth": "620px",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2cec",
+             "blockName": "Head Title",
+             "children": [],
+             "classes": [
+              "pr-rise",
+              "pr-d1"
+             ],
+             "customAttributes": {},
+             "element": "h2",
+             "innerHTML": "Start from a path that already works.",
+             "mobileStyles": {
+              "fontSize": "28px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "stretch",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "flexWrap": "wrap",
+            "gap": "18px",
+            "width": "100%"
+           },
+           "blockId": "00001a2cfa",
+           "blockName": "Cards Grid",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderRadius": "18px",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "10px",
+              "padding": "26px",
+              "width": "calc(33.333% - 12px)"
+             },
+             "blockId": "00001a2cf1",
+             "blockName": "Card For engineering",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "18px",
+                "fontWeight": "650",
+                "height": "fit-content",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "1.3",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cee",
+               "blockName": "Card Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "h3",
+               "innerHTML": "For engineering",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cef",
+               "blockName": "Card Body",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Repo access on day zero, a scoped first ticket, and a deploy before the week is out. Docs linked at the moment they matter.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {
+                "href": "#"
+               },
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "fontWeight": "600",
+                "lineHeight": "1.4",
+                "marginTop": "auto",
+                "paddingTop": "14px",
+                "textDecoration": "none"
+               },
+               "blockId": "00001a2cf0",
+               "blockName": "Card Link",
+               "children": [],
+               "classes": [
+                "pr-link"
+               ],
+               "customAttributes": {},
+               "element": "a",
+               "innerHTML": "See the template →",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "pr-card",
+              "pr-rise",
+              "pr-d1"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {
+              "width": "100%"
+             }
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderRadius": "18px",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "10px",
+              "padding": "26px",
+              "width": "calc(33.333% - 12px)"
+             },
+             "blockId": "00001a2cf5",
+             "blockName": "Card For sales",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "18px",
+                "fontWeight": "650",
+                "height": "fit-content",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "1.3",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cf2",
+               "blockName": "Card Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "h3",
+               "innerHTML": "For sales",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cf3",
+               "blockName": "Card Body",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Call recordings ordered by deal stage, a shadow schedule, and a first pitch with training wheels. Ramp measured in weeks, not quarters.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {
+                "href": "#"
+               },
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "fontWeight": "600",
+                "lineHeight": "1.4",
+                "marginTop": "auto",
+                "paddingTop": "14px",
+                "textDecoration": "none"
+               },
+               "blockId": "00001a2cf4",
+               "blockName": "Card Link",
+               "children": [],
+               "classes": [
+                "pr-link"
+               ],
+               "customAttributes": {},
+               "element": "a",
+               "innerHTML": "See the template →",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "pr-card",
+              "pr-rise",
+              "pr-d2"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {
+              "width": "100%"
+             }
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderRadius": "18px",
+              "borderStyle": "solid",
+              "borderWidth": "1px",
+              "display": "flex",
+              "flexDirection": "column",
+              "flexShrink": 0,
+              "gap": "10px",
+              "padding": "26px",
+              "width": "calc(33.333% - 12px)"
+             },
+             "blockId": "00001a2cf9",
+             "blockName": "Card For everyone else",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                "fontFamily": "Geist",
+                "fontSize": "18px",
+                "fontWeight": "650",
+                "height": "fit-content",
+                "letterSpacing": "-0.01em",
+                "lineHeight": "1.3",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cf6",
+               "blockName": "Card Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "h3",
+               "innerHTML": "For everyone else",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "height": "fit-content",
+                "lineHeight": "1.6",
+                "minWidth": "10px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2cf7",
+               "blockName": "Card Body",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Finance, design, support, ops. If the role has a first week, it gets a path. The everyone-else template covers the common 80%.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {
+                "href": "#"
+               },
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+                "fontFamily": "Geist",
+                "fontSize": "14.5px",
+                "fontWeight": "600",
+                "lineHeight": "1.4",
+                "marginTop": "auto",
+                "paddingTop": "14px",
+                "textDecoration": "none"
+               },
+               "blockId": "00001a2cf8",
+               "blockName": "Card Link",
+               "children": [],
+               "classes": [
+                "pr-link"
+               ],
+               "customAttributes": {},
+               "element": "a",
+               "innerHTML": "See the template →",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "pr-card",
+              "pr-rise",
+              "pr-d3"
+             ],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "width": "100%"
+             },
+             "rawStyles": {},
+             "tabletStyles": {
+              "width": "100%"
+             }
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "borderRadius": "18px",
+        "padding": "48px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "display": "flex",
+        "flexDirection": "row",
+        "flexShrink": 0,
+        "flexWrap": "wrap",
+        "gap": "40px",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "maxWidth": "1120px",
+        "padding": "72px 0",
+        "width": "100%"
+       },
+       "blockId": "00001a2d06",
+       "blockName": "Stats Row",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "8px",
+          "width": "calc(33.333% - 27px)"
+         },
+         "blockId": "00001a2cff",
+         "blockName": "Stat 0",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+            "fontFamily": "Geist",
+            "fontSize": "46px",
+            "fontWeight": "650",
+            "height": "fit-content",
+            "letterSpacing": "-0.03em",
+            "lineHeight": "1.05",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2cfd",
+           "blockName": "Stat Number",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "11 → 4",
+           "mobileStyles": {
+            "fontSize": "36px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+            "fontFamily": "Geist",
+            "fontSize": "14.5px",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2cfe",
+           "blockName": "Stat Label",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "days to first ship, median team",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "pr-rise",
+          "pr-d1"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "8px",
+          "width": "calc(33.333% - 27px)"
+         },
+         "blockId": "00001a2d02",
+         "blockName": "Stat 1",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+            "fontFamily": "Geist",
+            "fontSize": "46px",
+            "fontWeight": "650",
+            "height": "fit-content",
+            "letterSpacing": "-0.03em",
+            "lineHeight": "1.05",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2d00",
+           "blockName": "Stat Number",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "0",
+           "mobileStyles": {
+            "fontSize": "36px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+            "fontFamily": "Geist",
+            "fontSize": "14.5px",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2d01",
+           "blockName": "Stat Label",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "“who do I ask?” pings in week one",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "pr-rise",
+          "pr-d2"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "8px",
+          "width": "calc(33.333% - 27px)"
+         },
+         "blockId": "00001a2d05",
+         "blockName": "Stat 2",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+            "fontFamily": "Geist",
+            "fontSize": "46px",
+            "fontWeight": "650",
+            "height": "fit-content",
+            "letterSpacing": "-0.03em",
+            "lineHeight": "1.05",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2d03",
+           "blockName": "Stat Number",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "94%",
+           "mobileStyles": {
+            "fontSize": "36px"
+           },
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+            "fontFamily": "Geist",
+            "fontSize": "14.5px",
+            "height": "fit-content",
+            "lineHeight": "1.5",
+            "minWidth": "10px",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2d04",
+           "blockName": "Stat Label",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "p",
+           "innerHTML": "checklist completion, month one",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "pr-rise",
+          "pr-d3"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "width": "100%"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "flexDirection": "column",
+        "gap": "28px",
+        "padding": "48px 0"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db006, #E9F1FE)",
+        "borderRadius": "20px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "overflow": "hidden",
+        "padding": "34px 32px",
+        "width": "100%"
+       },
+       "blockId": "00001a2d0c",
+       "blockName": "Slim CTA",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "flexShrink": 0,
+          "gap": "24px",
+          "justifyContent": "space-between",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1120px",
+          "width": "100%"
+         },
+         "blockId": "00001a2d0b",
+         "blockName": "Slim CTA Content",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "6px"
+           },
+           "blockId": "00001a2d09",
+           "blockName": "Slim CTA Text",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+              "fontFamily": "Geist",
+              "fontSize": "21px",
+              "fontWeight": "650",
+              "height": "fit-content",
+              "letterSpacing": "-0.015em",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2d07",
+             "blockName": "Slim CTA Title",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Run a two-week pilot with your next hire.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+              "fontFamily": "Geist",
+              "fontSize": "14.5px",
+              "height": "fit-content",
+              "lineHeight": "1.5",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2d08",
+             "blockName": "Slim CTA Sub",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "If it doesn't stick, delete it. Your call.",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "#"
+           },
+           "baseStyles": {
+            "alignItems": "center",
+            "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+            "borderRadius": "10px",
+            "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db001, #FFFFFF)",
+            "display": "flex",
+            "flexDirection": "row",
+            "flexShrink": 0,
+            "fontFamily": "Geist",
+            "fontSize": "15px",
+            "fontWeight": "600",
+            "justifyContent": "center",
+            "lineHeight": "1",
+            "padding": "15px 26px",
+            "textDecoration": "none",
+            "width": "fit-content"
+           },
+           "blockId": "00001a2d0a",
+           "blockName": "Button Start free",
+           "children": [],
+           "classes": [
+            "pr-btn"
+           ],
+           "customAttributes": {},
+           "element": "a",
+           "innerHTML": "Start free",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "alignItems": "flex-start",
+          "flexDirection": "column",
+          "gap": "18px"
+         },
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "borderRadius": "16px",
+        "padding": "26px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db005, #F3F5F9)",
+        "borderRadius": "28px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexShrink": 0,
+        "overflow": "hidden",
+        "padding": "72px 32px",
+        "width": "100%"
+       },
+       "blockId": "00001a2d2b",
+       "blockName": "FAQ Panel",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "flex",
+          "flexDirection": "column",
+          "flexShrink": 0,
+          "gap": "36px",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "780px",
+          "width": "100%"
+         },
+         "blockId": "00001a2d2a",
+         "blockName": "FAQ Content",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "gap": "14px"
+           },
+           "blockId": "00001a2d0f",
+           "blockName": "Section Head",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db007, #2470E8)",
+              "fontFamily": "Geist Mono",
+              "fontSize": "12.5px",
+              "fontWeight": "500",
+              "height": "fit-content",
+              "letterSpacing": "0.16em",
+              "lineHeight": "1.3",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2d0d",
+             "blockName": "Head Eyebrow",
+             "children": [],
+             "classes": [
+              "pr-rise"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "FAIR QUESTIONS",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+              "fontFamily": "Geist",
+              "fontSize": "38px",
+              "fontWeight": "650",
+              "height": "fit-content",
+              "letterSpacing": "-0.025em",
+              "lineHeight": "1.12",
+              "maxWidth": "620px",
+              "minWidth": "10px",
+              "width": "fit-content"
+             },
+             "blockId": "00001a2d0e",
+             "blockName": "Head Title",
+             "children": [],
+             "classes": [
+              "pr-rise",
+              "pr-d1"
+             ],
+             "customAttributes": {},
+             "element": "h2",
+             "innerHTML": "Asked often, answered straight.",
+             "mobileStyles": {
+              "fontSize": "28px"
+             },
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+            "borderStyle": "solid",
+            "borderWidth": "1px 0 0 0",
+            "display": "flex",
+            "flexDirection": "column",
+            "flexShrink": 0,
+            "width": "100%"
+           },
+           "blockId": "00001a2d29",
+           "blockName": "FAQ List",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "block",
+              "width": "100%"
+             },
+             "blockId": "00001a2d14",
+             "blockName": "FAQ Item",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "16px",
+                "justifyContent": "space-between",
+                "padding": "20px 0",
+                "width": "100%"
+               },
+               "blockId": "00001a2d12",
+               "blockName": "FAQ Q",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                  "fontFamily": "Geist",
+                  "fontSize": "16.5px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.4",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2d10",
+                 "blockName": "FAQ Question",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Do people actually use it?",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                  "flexShrink": 0,
+                  "fontFamily": "Geist",
+                  "fontSize": "22px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2d11",
+                 "blockName": "FAQ Icon",
+                 "children": [],
+                 "classes": [
+                  "pr-acc-icon"
+                 ],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "+",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "summary",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.65",
+                "maxWidth": "640px",
+                "minWidth": "10px",
+                "paddingBottom": "20px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2d13",
+               "blockName": "FAQ Answer",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Yes, because it's the path of least resistance: one link on day one with everything in order. Usage is visible, so you'll know either way.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "pr-acc"
+             ],
+             "customAttributes": {},
+             "element": "details",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "block",
+              "width": "100%"
+             },
+             "blockId": "00001a2d19",
+             "blockName": "FAQ Item",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "16px",
+                "justifyContent": "space-between",
+                "padding": "20px 0",
+                "width": "100%"
+               },
+               "blockId": "00001a2d17",
+               "blockName": "FAQ Q",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                  "fontFamily": "Geist",
+                  "fontSize": "16.5px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.4",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2d15",
+                 "blockName": "FAQ Question",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "How long does setup take?",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                  "flexShrink": 0,
+                  "fontFamily": "Geist",
+                  "fontSize": "22px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2d16",
+                 "blockName": "FAQ Icon",
+                 "children": [],
+                 "classes": [
+                  "pr-acc-icon"
+                 ],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "+",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "summary",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.65",
+                "maxWidth": "640px",
+                "minWidth": "10px",
+                "paddingBottom": "20px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2d18",
+               "blockName": "FAQ Answer",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "An afternoon for your first team. Start from a template, edit it in place, invite your next hire. The second team takes twenty minutes.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "pr-acc"
+             ],
+             "customAttributes": {},
+             "element": "details",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "block",
+              "width": "100%"
+             },
+             "blockId": "00001a2d1e",
+             "blockName": "FAQ Item",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "16px",
+                "justifyContent": "space-between",
+                "padding": "20px 0",
+                "width": "100%"
+               },
+               "blockId": "00001a2d1c",
+               "blockName": "FAQ Q",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                  "fontFamily": "Geist",
+                  "fontSize": "16.5px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.4",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2d1a",
+                 "blockName": "FAQ Question",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Does it replace our wiki?",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                  "flexShrink": 0,
+                  "fontFamily": "Geist",
+                  "fontSize": "22px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2d1b",
+                 "blockName": "FAQ Icon",
+                 "children": [],
+                 "classes": [
+                  "pr-acc-icon"
+                 ],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "+",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "summary",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.65",
+                "maxWidth": "640px",
+                "minWidth": "10px",
+                "paddingBottom": "20px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2d1d",
+               "blockName": "FAQ Answer",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "No. It replaces the part where nobody reads it. Primer links your docs at the exact moment they're needed, which turns out to be the whole trick.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "pr-acc"
+             ],
+             "customAttributes": {},
+             "element": "details",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "block",
+              "width": "100%"
+             },
+             "blockId": "00001a2d23",
+             "blockName": "FAQ Item",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "16px",
+                "justifyContent": "space-between",
+                "padding": "20px 0",
+                "width": "100%"
+               },
+               "blockId": "00001a2d21",
+               "blockName": "FAQ Q",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                  "fontFamily": "Geist",
+                  "fontSize": "16.5px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.4",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2d1f",
+                 "blockName": "FAQ Question",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "What does it cost?",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                  "flexShrink": 0,
+                  "fontFamily": "Geist",
+                  "fontSize": "22px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2d20",
+                 "blockName": "FAQ Icon",
+                 "children": [],
+                 "classes": [
+                  "pr-acc-icon"
+                 ],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "+",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "summary",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.65",
+                "maxWidth": "640px",
+                "minWidth": "10px",
+                "paddingBottom": "20px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2d22",
+               "blockName": "FAQ Answer",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Free for teams of ten. Flat per-seat after that, published price, no “talk to sales” riddle.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "pr-acc"
+             ],
+             "customAttributes": {},
+             "element": "details",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderColor": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db004, #E7EAF0)",
+              "borderStyle": "solid",
+              "borderWidth": "0 0 1px 0",
+              "display": "block",
+              "width": "100%"
+             },
+             "blockId": "00001a2d28",
+             "blockName": "FAQ Item",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignItems": "center",
+                "display": "flex",
+                "flexDirection": "row",
+                "gap": "16px",
+                "justifyContent": "space-between",
+                "padding": "20px 0",
+                "width": "100%"
+               },
+               "blockId": "00001a2d26",
+               "blockName": "FAQ Q",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db002, #111826)",
+                  "fontFamily": "Geist",
+                  "fontSize": "16.5px",
+                  "fontWeight": "600",
+                  "height": "fit-content",
+                  "lineHeight": "1.4",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2d24",
+                 "blockName": "FAQ Question",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Can managers see everything?",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                  "flexShrink": 0,
+                  "fontFamily": "Geist",
+                  "fontSize": "22px",
+                  "fontWeight": "400",
+                  "height": "fit-content",
+                  "lineHeight": "1",
+                  "minWidth": "10px",
+                  "width": "fit-content"
+                 },
+                 "blockId": "00001a2d25",
+                 "blockName": "FAQ Icon",
+                 "children": [],
+                 "classes": [
+                  "pr-acc-icon"
+                 ],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "+",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "summary",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--b8d21f6e-4c93-4a07-8e15-2f7a9c3db003, #5F6B7E)",
+                "fontFamily": "Geist",
+                "fontSize": "15px",
+                "height": "fit-content",
+                "lineHeight": "1.65",
+                "maxWidth": "640px",
+                "minWidth": "10px",
+                "paddingBottom": "20px",
+                "width": "fit-content"
+               },
+               "blockId": "00001a2d27",
+               "blockName": "FAQ Answer",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "Managers see progress and blockers, not keystrokes. New hires see exactly what managers see. Trust goes both ways.",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [
+              "pr-acc"
+             ],
+             "customAttributes": {},
+             "element": "details",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "mobileStyles": {
+        "borderRadius": "18px",
+        "padding": "48px 20px"
+       },
+       "rawStyles": {},
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "00001a2d2c",
+       "blockName": "Primer Footer",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "00001a2d2d",
+         "blockName": "Foot Content",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00001a2d2e",
+           "blockName": "Foot Top",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d2f",
+             "blockName": "Foot Brand",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d30",
+               "blockName": "Foot Brand Row",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "00001a2d31",
+                 "blockName": "Foot Mark",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "00001a2d32",
+                   "blockName": "Foot Letter",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "primer_footer",
+                   "mobileStyles": {},
+                   "rawStyles": {},
+                   "referenceBlockId": "00001a2b48",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "primer_footer",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "referenceBlockId": "00001a2b49",
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "00001a2d33",
+                 "blockName": "Foot Word",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "primer_footer",
+                 "mobileStyles": {},
+                 "rawStyles": {},
+                 "referenceBlockId": "00001a2b4a",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b4b",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d34",
+               "blockName": "Foot Line",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b4c",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b4d",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d35",
+             "blockName": "Foot Col Product",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d36",
+               "blockName": "Foot Col Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b52",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d37",
+               "blockName": "Foot Overview",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b4e",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d38",
+               "blockName": "Foot What's inside",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b4f",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d39",
+               "blockName": "Foot Changelog",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b50",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d3a",
+               "blockName": "Foot Status",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b51",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b53",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d3b",
+             "blockName": "Foot Col Company",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d3c",
+               "blockName": "Foot Col Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b57",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d3d",
+               "blockName": "Foot About",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b54",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d3e",
+               "blockName": "Foot Careers",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b55",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d3f",
+               "blockName": "Foot Contact",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b56",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b58",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d40",
+             "blockName": "Foot Col Resources",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d41",
+               "blockName": "Foot Col Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b5c",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d42",
+               "blockName": "Foot Guides",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b59",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d43",
+               "blockName": "Foot Templates",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b5a",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d44",
+               "blockName": "Foot Help center",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b5b",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b5d",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d45",
+             "blockName": "Foot Col Legal",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d46",
+               "blockName": "Foot Col Title",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b61",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d47",
+               "blockName": "Foot Privacy",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b5e",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d48",
+               "blockName": "Foot Terms",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b5f",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d49",
+               "blockName": "Foot DPA",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b60",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b62",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "primer_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00001a2b63",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00001a2d4a",
+           "blockName": "Foot Rule",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "primer_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00001a2b64",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "00001a2d4b",
+           "blockName": "Foot Bottom",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d4c",
+             "blockName": "Foot Copyright",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b65",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "00001a2d4d",
+             "blockName": "Foot Social",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d4e",
+               "blockName": "Foot GitHub",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b66",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d4f",
+               "blockName": "Foot X",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b67",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "00001a2d50",
+               "blockName": "Foot LinkedIn",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "primer_footer",
+               "mobileStyles": {},
+               "rawStyles": {},
+               "referenceBlockId": "00001a2b68",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "primer_footer",
+             "mobileStyles": {},
+             "rawStyles": {},
+             "referenceBlockId": "00001a2b69",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "primer_footer",
+           "mobileStyles": {},
+           "rawStyles": {},
+           "referenceBlockId": "00001a2b6a",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "primer_footer",
+         "mobileStyles": {},
+         "rawStyles": {},
+         "referenceBlockId": "00001a2b6b",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "div",
+       "extendedFromComponent": "primer_footer",
+       "mobileStyles": {},
+       "rawStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "div",
+     "mobileStyles": {
+      "gap": "10px",
+      "padding": "8px"
+     },
+     "rawStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "rawStyles": {},
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "primer_styles"
+  },
+  {
+   "builder_script": "primer_motion"
+  }
+ ],
+ "creation": "2026-08-12 22:44:08.620003",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Before day one, week one and every week after: paths, templates, manager view and honest answers to fair questions.",
+ "modified": "2026-08-12 22:44:08.620003",
+ "modified_by": "Administrator",
+ "name": "primer_product",
+ "owner": "Administrator",
+ "page_name": "primer_product",
+ "page_title": "What's inside · Primer",
+ "preview": "/builder_assets/primer/primer_product/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/primer/product",
+ "template_group": "primer"
+}

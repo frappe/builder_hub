@@ -1,0 +1,12 @@
+{
+ "creation": "2026-07-20 18:13:00.607975",
+ "docstatus": 0,
+ "doctype": "Builder Client Script",
+ "idx": 0,
+ "modified": "2026-07-20 18:13:00.607975",
+ "modified_by": "Administrator",
+ "name": "optic_styles",
+ "owner": "Administrator",
+ "script": "\nhtml { scroll-behavior: smooth; }\n::selection { background: #0B0B0B; color: #FFFFFF; }\n\n/* reveals sharpen into focus, like an eye exam settling on the right lens */\nhtml.op-js .op-focus { opacity: 0.25; filter: blur(9px); }\nhtml.op-js .op-focus.op-in {\n  opacity: 1; filter: none;\n  transition: opacity 0.9s cubic-bezier(0.22, 1, 0.36, 1),\n    filter 0.9s cubic-bezier(0.22, 1, 0.36, 1);\n}\nhtml.op-js .op-d2.op-in { transition-delay: 0.07s; }\nhtml.op-js .op-d3.op-in { transition-delay: 0.14s; }\nhtml.op-js .op-d4.op-in { transition-delay: 0.21s; }\nhtml.op-js .op-d5.op-in { transition-delay: 0.28s; }\nhtml.op-js .op-d6.op-in { transition-delay: 0.35s; }\n\n.op-ul {\n  background-image: linear-gradient(currentColor, currentColor);\n  background-position: left bottom; background-repeat: no-repeat;\n  background-size: 0% 1.5px;\n  transition: background-size 0.4s cubic-bezier(0.22, 1, 0.36, 1);\n}\n.op-ul:hover { background-size: 100% 1.5px; }\n.op-btn { transition: opacity 0.2s ease; }\n.op-btn:hover { opacity: 0.82; }\n.op-card { transition: box-shadow 0.35s ease, transform 0.35s ease; }\n.op-card:hover { box-shadow: 6px 6px 0 #F4F4F4; transform: translate(-2px, -2px); }\n\n@media (prefers-reduced-motion: reduce) {\n  html { scroll-behavior: auto; }\n}\n",
+ "script_type": "CSS"
+}
