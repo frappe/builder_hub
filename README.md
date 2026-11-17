@@ -11,10 +11,10 @@ sharing a set of Builder Components and Variables. Groups are bundled as fixture
 
 ## Templates
 
-Twenty-eight multi-page template groups. Each group owns a distinct structural
+Twenty-three multi-page template groups. Each group owns a distinct structural
 archetype and shares a navbar/footer, palette (as Builder Variables) and client
 scripts across its pages. Themed groups ship a light/dark toggle; single-theme
-groups (dark posters, paper zines) are one look by design.
+groups (dark posters, one-colour statements) are one look by design.
 
 Each group carries one or more picker categories in its `template.json` manifest
 (the gallery lists a group under every category it has; below, each appears once
@@ -30,8 +30,6 @@ per-template briefs.
 | **Verge**<br>A dark music artist site with poster covers and a tour list.<br><sub>Pages: Home · Shows · About · Also in: Portfolio</sub> | <img src="builder_hub/www/builder_assets/verge/verge_home/preview.webp" width="360"> |
 | **Bureau**<br>A bold agency site: mega type, typographic case covers, an acid accent.<br><sub>Pages: Home · Work · Contact · Also in: Portfolio</sub> | <img src="builder_hub/www/builder_assets/bureau/bureau_home/preview.webp" width="360"> |
 | **Candor**<br>A statement-first advisory site: one color, giant serif, a fee table, no photos.<br><sub>Pages: Home · Work · Start</sub> | <img src="builder_hub/www/builder_assets/candor/candor_home/preview.webp" width="360"> |
-| **Recipe**<br>An agency as recipe cards: ruled index cards, chef's notes, a tear-off coupon.<br><sub>Pages: Home · Menu · Kitchen</sub> | <img src="builder_hub/www/builder_assets/recipe/recipe_home/preview.webp" width="360"> |
-| **Fetch**<br>A playful one-product site: rounded color blocks, big dog photos, forever guarantee.<br><sub>Pages: Home · Collar · Help</sub> | <img src="builder_hub/www/builder_assets/fetch/fetch_home/preview.webp" width="360"> |
 | **Stock**<br>A catalogue in the frappe-ui style: sidebar shell, Espresso grays, grayscale photos, a playground product page and a list-view price list.<br><sub>Pages: Catalogue · Product · Price list</sub> | <img src="builder_hub/www/builder_assets/stock/stock_home/preview.webp" width="360"> |
 
 ### Portfolio
@@ -42,13 +40,9 @@ per-template briefs.
 | **Verso**<br>An ultra minimal personal site with a fixed sidebar.<br><sub>Pages: Home · Work · Writing · About</sub> | <img src="builder_hub/www/builder_assets/verso/verso_home/preview.webp" width="360"> |
 | **Husk**<br>A warm, centered single column personal site.<br><sub>Pages: Home · Work · About</sub> | <img src="builder_hub/www/builder_assets/husk/husk_home/preview.webp" width="360"> |
 | **Ridge**<br>A dark photography portfolio built as a gapless photo mosaic wall.<br><sub>Pages: Home · Series · Info</sub> | <img src="builder_hub/www/builder_assets/ridge/ridge_home/preview.webp" width="360"> |
-| **Canvas**<br>A designer portfolio presented as a live design file, comments left in.<br><sub>Pages: Home · Work · About</sub> | <img src="builder_hub/www/builder_assets/canvas/canvas_home/preview.webp" width="360"> |
 | **Vitae**<br>A consultant's CV presented as a crisp paper sheet on a desk.<br><sub>Pages: Home · Engagements · Contact</sub> | <img src="builder_hub/www/builder_assets/vitae/vitae_home/preview.webp" width="360"> |
-| **Reel**<br>A filmmaker portfolio of letterboxed stills with timecode captions.<br><sub>Pages: Films · Film · About</sub> | <img src="builder_hub/www/builder_assets/reel/reel_films/preview.webp" width="360"> |
 | **Margin**<br>A writer's site with a reading column and numbered margin notes.<br><sub>Pages: Home · Essays · About · Also in: Editorial</sub> | <img src="builder_hub/www/builder_assets/margin/margin_home/preview.webp" width="360"> |
 | **Plinth**<br>A minimal architect portfolio: a type-only index with hover thumbnails.<br><sub>Pages: Home · Project · Profile</sub> | <img src="builder_hub/www/builder_assets/plinth/plinth_home/preview.webp" width="360"> |
-| **Scrap**<br>A cut-and-paste zine portfolio: torn panels, tape, xerox photos, marker notes.<br><sub>Pages: Home · Werk · About</sub> | <img src="builder_hub/www/builder_assets/scrap/scrap_home/preview.webp" width="360"> |
-| **Affiche**<br>A Swiss poster portfolio: every section is a full-screen typographic poster.<br><sub>Pages: Home · Arbeit · Kontakt · Also in: Marketing</sub> | <img src="builder_hub/www/builder_assets/affiche/affiche_home/preview.webp" width="360"> |
 | **Annum**<br>A one-project-a-year portfolio: full-bleed hero, photo timeline, honest ledger.<br><sub>Pages: Home · Ledger · About</sub> | <img src="builder_hub/www/builder_assets/annum/annum_home/preview.webp" width="360"> |
 
 ### Editorial

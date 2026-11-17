@@ -6,6 +6,7 @@ import frappe
 from frappe.tests import IntegrationTestCase
 
 from builder_hub import api
+from builder_hub.patches import remove_low_use_templates
 
 
 def make_template_page(group: str, blocks: list) -> str:
@@ -62,3 +63,31 @@ class TemplateBundleTests(IntegrationTestCase):
 		shipped = {c["component_id"]: c for c in bundle["components"]}
 		self.assertEqual(shipped[component]["component_data_script"], script)
 
+
+class RemoveLowUseTemplatesTests(IntegrationTestCase):
+	def setUp(self):
+		frappe.set_user("Administrator")
+
+	def test_removes_retired_groups_and_keeps_everything_else(self):
+		component = make_component("scrap_zztest_nav")
+		retired_page = make_template_page("scrap", [{"blockId": "root", "element": "div", "children": []}])
+		token = frappe.get_doc(
+			{
+				"doctype": "Builder Token",
+				"token_name": "zztest ink",
+				"type": "Color",
+				"value": "#111111",
+				"group": "scrap",
+			}
+		).insert(ignore_permissions=True)
+		kept_page = make_template_page("zzkept", [{"blockId": "root", "element": "div", "children": []}])
+		# the patch commits after each delete, so the kept page outlives the test's rollback
+		self.addCleanup(frappe.db.commit)
+		self.addCleanup(frappe.delete_doc, "Builder Page", kept_page, force=True, ignore_permissions=True)
+
+		remove_low_use_templates.execute()
+
+		self.assertFalse(frappe.db.exists("Builder Page", retired_page))
+		self.assertFalse(frappe.db.exists("Builder Component", component))
+		self.assertFalse(frappe.db.exists("Builder Token", token.name))
+		self.assertTrue(frappe.db.exists("Builder Page", kept_page))
