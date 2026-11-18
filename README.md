@@ -11,10 +11,17 @@ sharing a set of Builder Components and Variables. Groups are bundled as fixture
 
 ## Templates
 
-Twenty-three multi-page template groups. Each group owns a distinct structural
-archetype and shares a navbar/footer, palette (as Builder Variables) and client
+Twenty-eight multi-page template groups. Each group owns a distinct structural
+archetype and shares a navbar/footer, palette (as Builder Tokens) and client
 scripts across its pages. Themed groups ship a light/dark toggle; single-theme
-groups (dark posters, one-colour statements) are one look by design.
+groups (dark posters, one-colour statements, printed bills) are one look by design.
+
+The newest groups (Twofold, Yardstick, Loupe, Quarter, Maquette) were designed with the
+[Hallmark](https://github.com/Nutlope/hallmark) design skill, each in its own dealt theme,
+and keep motion calm: state changes on interaction, nothing that moves on scroll. They
+put their fonts in Font tokens and ship their lists as components: fees, prices,
+sessions, plans and projects are rows in a component prop, so a site adds a fifth row
+from the properties panel instead of editing the component.
 
 Each group carries one or more picker categories in its `template.json` manifest
 (the gallery lists a group under every category it has; below, each appears once
@@ -31,6 +38,15 @@ per-template briefs.
 | **Bureau**<br>A bold agency site: mega type, typographic case covers, an acid accent.<br><sub>Pages: Home · Work · Contact · Also in: Portfolio</sub> | <img src="builder_hub/www/builder_assets/bureau/bureau_home/preview.webp" width="360"> |
 | **Candor**<br>A statement-first advisory site: one color, giant serif, a fee table, no photos.<br><sub>Pages: Home · Work · Start</sub> | <img src="builder_hub/www/builder_assets/candor/candor_home/preview.webp" width="360"> |
 | **Stock**<br>A catalogue in the frappe-ui style: sidebar shell, Espresso grays, grayscale photos, a playground product page and a list-view price list.<br><sub>Pages: Catalogue · Product · Price list</sub> | <img src="builder_hub/www/builder_assets/stock/stock_home/preview.webp" width="360"> |
+| **Loupe**<br>A software site set as paperwork on a green desk, with a jeweller's loupe you move across the product.<br><sub>Pages: Home · Tour · Pricing</sub> | <img src="builder_hub/www/builder_assets/loupe/loupe_home/preview.webp" width="360"> |
+| **Quarter**<br>An event site set like a printed bill, its two-day programme drawn to scale, with a pass picker.<br><sub>Pages: Home · Programme · Tickets · Also in: Local business</sub> | <img src="builder_hub/www/builder_assets/quarter/quarter_home/preview.webp" width="360"> |
+
+### Services
+
+| Template | Preview |
+|---|---|
+| **Twofold**<br>A firm site for two audiences, where one switch swaps the photograph and re-sorts fees, work and checklists.<br><sub>Pages: Home · Services · Consultation · Also in: Local business</sub> | <img src="builder_hub/www/builder_assets/twofold/twofold_home/preview.webp" width="360"> |
+| **Yardstick**<br>A trades site that hangs each job's price range on a tape measure, with a quote estimator.<br><sub>Pages: Home · Prices · Quote · Also in: Local business</sub> | <img src="builder_hub/www/builder_assets/yardstick/yardstick_home/preview.webp" width="360"> |
 
 ### Portfolio
 
@@ -44,6 +60,7 @@ per-template briefs.
 | **Margin**<br>A writer's site with a reading column and numbered margin notes.<br><sub>Pages: Home · Essays · About · Also in: Editorial</sub> | <img src="builder_hub/www/builder_assets/margin/margin_home/preview.webp" width="360"> |
 | **Plinth**<br>A minimal architect portfolio: a type-only index with hover thumbnails.<br><sub>Pages: Home · Project · Profile</sub> | <img src="builder_hub/www/builder_assets/plinth/plinth_home/preview.webp" width="360"> |
 | **Annum**<br>A one-project-a-year portfolio: full-bleed hero, photo timeline, honest ledger.<br><sub>Pages: Home · Ledger · About</sub> | <img src="builder_hub/www/builder_assets/annum/annum_home/preview.webp" width="360"> |
+| **Maquette**<br>A product designer's portfolio that hangs each project's sketch, prototype and shipped piece as prints.<br><sub>Pages: Home · Project · About</sub> | <img src="builder_hub/www/builder_assets/maquette/maquette_home/preview.webp" width="360"> |
 
 ### Editorial
 

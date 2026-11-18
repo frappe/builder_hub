@@ -11,13 +11,25 @@ Rules that apply to every template:
 - Each template must own a distinct **structural archetype**: nav shape, hero shape, section
   shapes and footer must differ from every other shipped group. Distinct fonts and palettes are
   not enough. See the archetype registry below.
-- Palette is 5-7 named `Builder Variable` colors with light + dark hex values. Dark-first
+- Palette is 5-9 named `Builder Token` colours with light + dark hex values. Dark-first
   templates set `dark_value: None` and `color-scheme: dark` in group CSS (the `verge` pattern).
+  Since Nov 2026 every font family is a `Font` token too (`fontFamily: var(--<token>)`), so a
+  user rethemes type from the token panel as well as colour.
+- Since Nov 2026, every repeating list (fees, prices, sessions, plans, projects, FAQ) is a
+  component whose rows are an array prop (`"Title | Detail | Price"` rows split by the
+  component's data script), so a site adds a row from the properties panel. Real
+  interactions (switchers, estimators, pickers) live in the component's client script and
+  must work in the editor canvas as well as live. Nav links between a group's pages are
+  relative (`href="pricing"`) so importing the group into a folder keeps them working.
+- Motion is calm (user direction, Nov 2026): hover, focus and press states, the signature's own
+  state change once per user action, at most one quiet hero fade, view transitions between pages.
+  Nothing moves on scroll or by itself; everything is off under prefers-reduced-motion.
 - Fonts come from Google Fonts. Italics need a CSS `@import ...:ital@0;1` client script,
   the built-in font loader only carries `wght`.
 - Imagery hotlinks `images.unsplash.com` (established pattern across groups).
 - Codenames are unique single words. Taken: field, fronds, husk, keys, lull, mono, nook,
-  quill, verge, verso, plus every built group below (through tally and intake).
+  quill, verge, verso, plus every built group below (through tally and intake), and the
+  Nov 2026 batch: twofold, yardstick, loupe, quarter, maquette.
   Retired, do not reuse: forge, grain, copper, ware, beacon, signal, quip, hex, prism,
   tally, intake, prospect (the Jul 2026 SaaS/app-UI batch and its prospectus follow-up were
   all retired; the user's direction is Framer-grade polish or a conceit that lands),
@@ -59,6 +71,11 @@ Rules that apply to every template:
 | annum  | year timeline: split ledger hero, spine timeline with year dots and big photos, ledger |
 | candor | statement screens: full-viewport one-color statement hero, cropped mega wordmark, serif fee table, no photos |
 | stock  | frappe-ui app shell: gray-50 sidebar with grouped nav and counts, breadcrumb top bar, segmented tabs + subtle icon buttons, outlined 12px product cards, a docs-playground product page (dotted canvas + lowercase controls + buy strip, "On this page" rail), list-view price list |
+| twofold | dusk poster: full-bleed dusk photograph, giant Gloock head, a smoked-glass audience switch that swaps the photograph and re-sorts every list, bone wells for forms |
+| yardstick | carnival tape: peach paper, Big Shoulders poster caps, a full-bleed tape-yellow measure with an oxblood price tag that slides to the picked job |
+| loupe  | paperwork desk: green baize ground, cotton invoices and letters built from live type, a jeweller's loupe resting on four stops |
+| quarter | printed bill: buff stock, Six Caps heads filling the measure, Bevan names, an ink band and a vermilion band, the programme to scale |
+| maquette | picture ledge: umber room over stone limewash, sketch/prototype/shipped as matted cotton prints, strips that bring a print forward |
 
 New briefs must claim an archetype not on this list, and the list grows as templates ship.
 
@@ -95,6 +112,23 @@ crossovers), encore, aurora (Technology + Marketing).
 | tulle    | pastel | bridal boutique, blush and ivory (built: 3 pages) |
 | denim    | bright | streetwear drop site, saturated color, big product tiles (built: 4 pages) |
 | pleat    | editorial | seasonal lookbook, magazine spreads (built: 3 pages) |
+
+### Nov 2026 refresh: Services, Marketing, Portfolio (orders 56-60), BUILT
+Replaced the six least-used groups (scrap, recipe, canvas, affiche, reel, fetch). The bar for
+this batch: an idea in structure, type and craft that a whole category adopts by editing content
+only, checked against Hallmark (Nutlope) and Impeccable (impeccable.style) with both detectors
+run on every page. The first build of this batch (light neutral grounds, sans type, rulers and
+tables) was rejected as dated and corporate; the shipped designs ran Hallmark's full flow (a dealt
+theme per group, a drawn shape, the signature on the first screen). A motion-heavy pass was then
+rejected as too much animation, so motion is calm: interaction states and the signature's own
+state change, nothing moves on load beyond one quiet fade at most, nothing moves on scroll.
+| Codename | Category | Theme | Concept |
+|----------|----------|-------|---------|
+| twofold  | Services (+ Local business) | dark (Hallmark Dusk) | firm for two audiences, one switch swaps the photograph and re-sorts the site (built: 3 pages, order 56) |
+| yardstick | Services (+ Local business) | light (Hallmark Carnival) | trades, every job's price range on a tape measure, quote estimator (built: 3 pages, order 57) |
+| loupe    | Marketing | light (Hallmark Coral) | software as paperwork on a green desk, a loupe over the product, plans (built: 3 pages, order 58) |
+| quarter  | Marketing (+ Local business) | light (Hallmark Broadside) | event set like a printed bill, programme to scale, pass picker (built: 3 pages, order 59) |
+| maquette | Portfolio | light (Hallmark Atelier) | product designer, sketch/prototype/shipped as prints on a ledge (built: 3 pages, order 60) |
 
 ### Food & Beverage (warm ambers, creams, deep reds)
 | Codename | Theme | Concept |
@@ -711,6 +745,54 @@ pages:
   - {name: stock_list, route: /list, sections: [page head, list controls, list view with checkboxes and badges, summary actions]}
 components: [stock_sidebar, stock_footer]
 ```
+
+## Brief: twofold (Services, dark, Hallmark Dusk), BUILT Nov 2026
+
+A firm site for two audiences (fictional Manchester accountancy Hollis Tran; adoptable by law
+firms, advisers, brokers, immigration and HR practices). Dark slate page, full-bleed dusk
+photographs, Gloock display over Wix Madefor Text, smoked-glass panels, bone wells for the request
+form and checklists, periwinkle for actions and apricot for deadlines. Signature: a glass "Who is
+this for?" switch in the home hero and the services banner (and compact in the nav past the photo)
+that crossfades the photograph from a terrace street to the docks and re-sorts fees, cases,
+estimate options, questions and people across all pages; the choice carries into the consultation
+form. 3 pages (home / services / consultation), order 56.
+
+## Brief: yardstick (Services, light, Hallmark Carnival), BUILT Nov 2026
+
+A trades site (fictional electrician Ferris Electric, Columbus; adoptable by plumbers, cleaners,
+removals, roofers, gardeners). Peach paper, oxblood and tape yellow, Big Shoulders Display poster
+capitals over Golos Text. Signature: a full-bleed tape measure with prices; on home an oxblood tag
+hangs from it and slides to the job you pick, on prices every job's range hangs under one tape with
+filter chips, and on quote an estimator moves its range mark as job, count, extras and timing
+change, then fills a quote request. 3 pages (home / prices / quote), order 57.
+
+## Brief: loupe (Marketing, light, Hallmark Coral), BUILT Nov 2026
+
+A software site (fictional invoicing app Paidwell) set as paperwork on a green baize desk: cotton
+invoices, a reminder letter and payout slips built from live type, a tall condensed Bricolage
+Grotesque head, Geist Mono figures. Signature: a jeweller's loupe resting on the invoice with a
+four-stop rail (Items, Reminder, Payment, Payout); a click or key moves the lens to that stop. Tour
+follows one invoice from first line to paid; pricing is a period toggle over three plans on cards.
+3 pages (home / tour / pricing), order 58.
+
+## Brief: quarter (Marketing, light, Hallmark Broadside), BUILT Nov 2026
+
+An event site set like a printed bill (fictional two-day conference Small Rooms, Rotterdam;
+adoptable by festivals, fairs, meetups and training days): buff stock, Six Caps heads filling the
+measure, Bevan for names and labels, Archivo Narrow for reading, an ink band and a vermilion band.
+Signature: the programme drawn to scale, Thursday morning printed in the home hero and both days in
+the programme with a day switch and a still now-line; tickets is a pass picker with quantity and
+total. 3 pages (home / programme / tickets), order 59.
+
+## Brief: maquette (Portfolio, light, Hallmark Atelier), BUILT Nov 2026
+
+A product designer's portfolio (fictional Ilse Marten, Ghent; adoptable by UX, brand, industrial
+and furniture designers, architects, developers) in an umber room over stone limewash, Newsreader
+over Hanken Grotesk. Signature: the hero ledge, where the lead project's sketch, prototype and
+shipped piece stand as matted cotton prints and pulling a strip brings that print forward; the case
+page sets a design decision as cotton strips on a rail with the kept option marked. 3 pages
+(home / project / about), order 60. Picked over the judge's eyeline (illustrator gallery wall) for
+adaptability.
 
 ## Follow-ups
 
