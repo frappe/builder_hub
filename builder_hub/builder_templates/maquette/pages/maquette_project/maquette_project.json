@@ -1,0 +1,2457 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "stretch",
+    "backgroundColor": "var(--920484c4-1f75-4ade-98f7-ab856bb4d11c)",
+    "color": "var(--3777025d-c4f6-4fb0-b2fb-3190383c9775)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "flexWrap": "nowrap",
+    "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+    "fontSize": "16px",
+    "lineHeight": "1.55",
+    "minHeight": "100dvh"
+   },
+   "blockId": "root",
+   "blockName": "Body",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "5c8632dc",
+     "blockName": "Nav",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "706ded41",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "maquette_nav",
+       "mobileStyles": {},
+       "referenceBlockId": "118b9a3f",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "e9151c3c",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "5f2fa5db",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_nav",
+         "mobileStyles": {},
+         "referenceBlockId": "2653fa55",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "a17f604b",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a6e09ed6",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "maquette_nav",
+           "mobileStyles": {},
+           "referenceBlockId": "e003a89f",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_nav",
+         "isRepeaterBlock": true,
+         "mobileStyles": {},
+         "referenceBlockId": "58c8d2c4",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "e1a3c0cb",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_nav",
+         "mobileStyles": {},
+         "referenceBlockId": "33748d1d",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "maquette_nav",
+       "mobileStyles": {},
+       "referenceBlockId": "53adf4d0",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "header",
+     "extendedFromComponent": "maquette_nav",
+     "mobileStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "minWidth": "0px",
+      "width": "100%"
+     },
+     "blockId": "ce61f7b2",
+     "blockName": "Main",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignContent": "center",
+        "boxSizing": "border-box",
+        "display": "grid",
+        "minHeight": "calc(100dvh - 72px)",
+        "paddingBottom": "40px",
+        "paddingTop": "40px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "bcc4a540",
+       "blockName": "Case hero",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "boxSizing": "border-box",
+          "columnGap": "32px",
+          "display": "grid",
+          "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "width": "100%"
+         },
+         "blockId": "b600671e",
+         "blockName": "Case grid",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignContent": "space-between",
+            "display": "grid",
+            "gridColumn": "1 / 6",
+            "minWidth": "0px",
+            "paddingTop": "8px",
+            "rowGap": "40px"
+           },
+           "blockId": "409edb50",
+           "blockName": "Words",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "grid",
+              "justifyItems": "start",
+              "rowGap": "24px"
+             },
+             "blockId": "a3ea3a62",
+             "blockName": "Top",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+                "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+                "fontSize": "clamp(64px, 6vw + 16px, 120px)",
+                "fontWeight": "300",
+                "letterSpacing": "-0.03em",
+                "lineHeight": "0.92",
+                "margin": "0px"
+               },
+               "blockId": "93691c75",
+               "blockName": "Headline",
+               "children": [],
+               "classes": [],
+               "customAttributes": {
+                "id": "case-head"
+               },
+               "element": "h1",
+               "innerHTML": "Arc lamp",
+               "mobileStyles": {
+                "fontSize": "56px"
+               },
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--3777025d-c4f6-4fb0-b2fb-3190383c9775)",
+                "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+                "fontSize": "clamp(18px, 0.35vw + 16px, 22px)",
+                "fontWeight": "400",
+                "lineHeight": "1.45",
+                "margin": "0px",
+                "maxWidth": "26ch"
+               },
+               "blockId": "a9d8060a",
+               "blockName": "Lead",
+               "children": [],
+               "classes": [
+                "mq-copy"
+               ],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "A desk lamp that puts light on the page, not the screen.",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {
+                "href": "#heads"
+               },
+               "baseStyles": {
+                "alignItems": "center",
+                "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+                "display": "inline-flex",
+                "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "lineHeight": "1.55",
+                "marginBottom": "-12px",
+                "marginTop": "-12px",
+                "maxWidth": "100%",
+                "minHeight": "48px",
+                "textDecorationColor": "var(--2333a099-c4ee-4345-995b-45bad0acb477)",
+                "textDecorationLine": "underline",
+                "textDecorationThickness": "1px",
+                "textUnderlineOffset": "0.24em",
+                "width": "fit-content"
+               },
+               "blockId": "e4b166f0",
+               "blockName": "Heads link",
+               "children": [],
+               "classes": [
+                "mq-link"
+               ],
+               "customAttributes": {
+                "data-scroll-behavior": "instant"
+               },
+               "element": "a",
+               "innerHTML": "See the three heads",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "tabletStyles": {
+              "gridColumn": "1 / -1",
+              "gridRow": "1"
+             }
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "minWidth": "0px"
+             },
+             "blockId": "57a79ad9",
+             "blockName": "Facts",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "242c2aef",
+               "blockName": "Case facts",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "91014163",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "221faae9",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "65d65d6e",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "b8cc95dc",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_facts",
+                       "mobileStyles": {},
+                       "referenceBlockId": "13894ff3",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_facts",
+                     "mobileStyles": {},
+                     "referenceBlockId": "2c805189",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "ee83737e",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "10ae1b87",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_facts",
+                       "mobileStyles": {},
+                       "referenceBlockId": "b380d913",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_facts",
+                     "mobileStyles": {},
+                     "referenceBlockId": "31170fc8",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_facts",
+                   "mobileStyles": {},
+                   "referenceBlockId": "008e9e29",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_facts",
+                 "isRepeaterBlock": true,
+                 "mobileStyles": {},
+                 "referenceBlockId": "73ef01bb",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "extendedFromComponent": "maquette_facts",
+               "mobileStyles": {},
+               "props": {
+                "facts": {
+                 "comesFrom": null,
+                 "isDynamic": false,
+                 "isPassedDown": true,
+                 "isStandard": true,
+                 "label": "Facts (Label | Value)",
+                 "propOptions": {
+                  "dependencies": {},
+                  "isRequired": false,
+                  "options": {
+                   "defaultValue": [
+                    "Client | Kwastlicht",
+                    "Role | The lamp and its app",
+                    "Team | Ilse, one engineer, one model-maker",
+                    "Shipped | October 2025"
+                   ]
+                  },
+                  "type": "array"
+                 },
+                 "value": "[\"Client | Kwastlicht\", \"Role | The lamp and its app\", \"Team | Ilse, one engineer, one model-maker\", \"Shipped | October 2025\"]"
+                },
+                "layout": {
+                 "comesFrom": null,
+                 "isDynamic": false,
+                 "isPassedDown": true,
+                 "isStandard": true,
+                 "label": "Layout",
+                 "propOptions": {
+                  "dependencies": {},
+                  "isRequired": false,
+                  "options": {
+                   "defaultValue": "rows",
+                   "options": [
+                    "rows",
+                    "ledger",
+                    "stack",
+                    "ink",
+                    "cells"
+                   ]
+                  },
+                  "type": "select"
+                 },
+                 "value": "rows"
+                }
+               },
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "tabletStyles": {
+              "gridColumn": "1 / -1",
+              "gridRow": "3"
+             }
+            }
+           ],
+           "classes": [
+            "mq-case-words"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "display": "contents"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignSelf": "center",
+            "backgroundColor": "var(--9aa35d20-c9dd-4fe9-9147-244b92906f49)",
+            "backgroundImage": "url(\"/builder_assets/maquette/fibre.png\"), linear-gradient(160deg, var(--db57bb4f-0756-44ab-b6ce-9977adc4b7b3), var(--9aa35d20-c9dd-4fe9-9147-244b92906f49) 55%, var(--8e4fdec6-d4e9-4069-8a43-a0caf2a98c78))",
+            "backgroundSize": "220px 220px, 100% 100%",
+            "borderRadius": "2px",
+            "boxShadow": "0 0 0 1px color-mix(in oklab, var(--989b286a-2cd7-417d-acfc-96dfc6f29537) 5%, transparent), 0.5px 1px 1px color-mix(in oklab, var(--989b286a-2cd7-417d-acfc-96dfc6f29537) 8%, transparent), 3px 8px 14px -6px color-mix(in oklab, var(--989b286a-2cd7-417d-acfc-96dfc6f29537) 14%, transparent), 14px 36px 64px -28px color-mix(in oklab, var(--989b286a-2cd7-417d-acfc-96dfc6f29537) 30%, transparent), inset 1px 1px 0 color-mix(in oklab, var(--3fb4df6c-ef8d-4113-a620-a8f96f1e2030) 90%, transparent)",
+            "boxSizing": "border-box",
+            "gridColumn": "7 / -1",
+            "justifySelf": "end",
+            "margin": "0px",
+            "minWidth": "0px",
+            "paddingBottom": "0px",
+            "paddingLeft": "24px",
+            "paddingRight": "24px",
+            "paddingTop": "24px",
+            "position": "relative",
+            "textShadow": "0 1px 0 color-mix(in oklab, var(--3fb4df6c-ef8d-4113-a620-a8f96f1e2030) 90%, transparent)",
+            "width": "min(100%, calc(100dvh - 72px - 136px))"
+           },
+           "blockId": "5357ec2c",
+           "blockName": "Shipped print",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderBottomColor": "var(--0c156811-e0a3-4cef-8a91-c22033b77970)",
+              "borderBottomStyle": "solid",
+              "borderBottomWidth": "1px",
+              "borderLeftColor": "var(--0c156811-e0a3-4cef-8a91-c22033b77970)",
+              "borderLeftStyle": "solid",
+              "borderLeftWidth": "1px",
+              "borderRightColor": "var(--0c156811-e0a3-4cef-8a91-c22033b77970)",
+              "borderRightStyle": "solid",
+              "borderRightWidth": "1px",
+              "borderTopColor": "var(--0c156811-e0a3-4cef-8a91-c22033b77970)",
+              "borderTopStyle": "solid",
+              "borderTopWidth": "1px",
+              "bottom": "12px",
+              "left": "12px",
+              "pointerEvents": "none",
+              "position": "absolute",
+              "right": "12px",
+              "top": "12px"
+             },
+             "blockId": "9c793270",
+             "blockName": "Inner frame",
+             "children": [],
+             "classes": [],
+             "customAttributes": {
+              "aria-hidden": "true"
+             },
+             "element": "div",
+             "mobileStyles": {
+              "bottom": "8px",
+              "left": "8px",
+              "right": "8px",
+              "top": "8px"
+             },
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "aspectRatio": "1/1",
+              "backgroundColor": "var(--83142a6b-ca3d-4540-b8f6-71f2c66ad1ef)",
+              "backgroundImage": "linear-gradient(160deg, var(--920484c4-1f75-4ade-98f7-ab856bb4d11c), var(--83142a6b-ca3d-4540-b8f6-71f2c66ad1ef))",
+              "margin": "0px",
+              "minWidth": "0px",
+              "overflow": "hidden",
+              "position": "relative"
+             },
+             "blockId": "50d60ecf",
+             "blockName": "Image",
+             "children": [
+              {
+               "attributes": {
+                "alt": "The orange Arc lamp, its ring-lit head raised on a jointed arm, on a black plinth against grey",
+                "decoding": "async",
+                "src": "https://images.unsplash.com/photo-1731762524352-b5663f83a830?auto=format&fit=crop&w=1200&h=1200&q=80"
+               },
+               "baseStyles": {
+                "bottom": "0px",
+                "display": "block",
+                "filter": "sepia(0.28) saturate(0.89) contrast(0.94)",
+                "height": "100%",
+                "left": "0px",
+                "objectFit": "cover",
+                "objectPosition": "50% 50%",
+                "outlineColor": "color-mix(in oklab, var(--a26a5991-5a44-439c-8a25-1356a27b9467) 8%, transparent)",
+                "outlineOffset": "-1px",
+                "outlineStyle": "solid",
+                "outlineWidth": "1px",
+                "position": "absolute",
+                "right": "0px",
+                "top": "0px",
+                "width": "100%"
+               },
+               "blockId": "21e69602",
+               "blockName": "Photo",
+               "children": [],
+               "classes": [
+                "mq-photo"
+               ],
+               "customAttributes": {
+                "fetchpriority": "high",
+                "height": "1200",
+                "width": "1200"
+               },
+               "element": "img",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "color": "var(--ee6b175f-5089-43ff-8621-2a156edb0a54)",
+              "columnGap": "16px",
+              "display": "flex",
+              "justifyContent": "space-between",
+              "minHeight": "64px",
+              "position": "relative"
+             },
+             "blockId": "c5e92991",
+             "blockName": "Caption",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+                "fontSize": "13px",
+                "fontWeight": "400",
+                "lineHeight": "1.3"
+               },
+               "blockId": "eb590c37",
+               "blockName": "Note",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "span",
+               "innerHTML": "First batch, October 2025",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+                "fontSize": "13px",
+                "fontWeight": "400",
+                "lineHeight": "1.3"
+               },
+               "blockId": "2841faa0",
+               "blockName": "Edition",
+               "children": [],
+               "classes": [
+                "mq-num"
+               ],
+               "customAttributes": {},
+               "element": "span",
+               "innerHTML": "1/800",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "figcaption",
+             "mobileStyles": {
+              "minHeight": "40px"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "figure",
+           "mobileStyles": {
+            "paddingLeft": "16px",
+            "paddingRight": "16px",
+            "paddingTop": "16px"
+           },
+           "tabletStyles": {
+            "gridColumn": "1 / -1",
+            "gridRow": "2",
+            "justifySelf": "start",
+            "width": "min(100%, 544px)"
+           }
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "columnGap": "16px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "rowGap": "40px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {
+        "aria-labelledby": "case-head"
+       },
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "64px",
+        "paddingTop": "40px"
+       },
+       "tabletStyles": {
+        "minHeight": "0px",
+        "paddingBottom": "64px",
+        "paddingTop": "40px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "boxSizing": "border-box",
+        "color": "var(--263b2467-4171-4ee6-9158-d9a0601e7f68)",
+        "isolation": "isolate",
+        "overflow": "clip",
+        "paddingBottom": "120px",
+        "paddingTop": "120px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "2d54dd6a",
+       "blockName": "The brief",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--69e3ef10-97f2-414e-a7f6-f55bdaa707b5)",
+          "bottom": "0px",
+          "left": "0px",
+          "pointerEvents": "none",
+          "position": "absolute",
+          "right": "0px",
+          "top": "0px",
+          "zIndex": "-1"
+         },
+         "blockId": "f44d3481",
+         "blockName": "Room light",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundImage": "linear-gradient(118deg, color-mix(in oklab, var(--938d18c8-2902-46db-80b0-59cbba9b9bdf) 9%, transparent) 9%, transparent 61%), url(\"/builder_assets/maquette/air.webp\")",
+            "backgroundSize": "100% 100%, cover",
+            "bottom": "-10%",
+            "left": "-20%",
+            "maskImage": "linear-gradient(118deg, var(--a26a5991-5a44-439c-8a25-1356a27b9467) 14%, transparent 77%)",
+            "opacity": "0.55",
+            "pointerEvents": "none",
+            "position": "absolute",
+            "right": "0%",
+            "top": "-10%"
+           },
+           "blockId": "ad5245e0",
+           "blockName": "Warm light",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundImage": "url(\"/builder_assets/maquette/room-grain.png\")",
+            "backgroundSize": "180px 180px",
+            "bottom": "0px",
+            "left": "0px",
+            "pointerEvents": "none",
+            "position": "absolute",
+            "right": "0px",
+            "top": "0px"
+           },
+           "blockId": "64e1a76f",
+           "blockName": "Grain",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {
+          "aria-hidden": "true"
+         },
+         "element": "div",
+         "mobileStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "end",
+          "boxSizing": "border-box",
+          "columnGap": "32px",
+          "display": "grid",
+          "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "rowGap": "64px",
+          "width": "100%"
+         },
+         "blockId": "73d8f2d5",
+         "blockName": "Brief container",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "clipPath": "inset(50%)",
+            "height": "1px",
+            "margin": "0px",
+            "padding": "0px",
+            "position": "absolute",
+            "whiteSpace": "nowrap",
+            "width": "1px"
+           },
+           "blockId": "ebece14f",
+           "blockName": "Section name",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h2",
+           "innerHTML": "The brief",
+           "mobileStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "gridColumn": "1 / 11",
+            "minWidth": "0px"
+           },
+           "blockId": "0ff925a0",
+           "blockName": "Quote",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "margin": "0px",
+              "minWidth": "0px"
+             },
+             "blockId": "4dfaaf4c",
+             "blockName": "Brief",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "margin": "0px"
+               },
+               "blockId": "c66269ea",
+               "blockName": "Quote block",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--938d18c8-2902-46db-80b0-59cbba9b9bdf)",
+                  "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+                  "fontSize": "clamp(44px, 5vw + 16px, 84px)",
+                  "fontWeight": "300",
+                  "letterSpacing": "-0.022em",
+                  "lineHeight": "1.04",
+                  "margin": "0px",
+                  "maxWidth": "28ch",
+                  "minWidth": "0px",
+                  "overflowWrap": "break-word",
+                  "textIndent": "-0.42em",
+                  "textWrap": "balance"
+                 },
+                 "blockId": "4f9ffbbc",
+                 "blockName": "Quote",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "“Make a lamp for people who read paper at a screen desk.”",
+                 "mobileStyles": {},
+                 "tabletStyles": {
+                  "textIndent": "0px"
+                 }
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "blockquote",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "marginTop": "24px"
+               },
+               "blockId": "e1359da0",
+               "blockName": "Attribution line",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "backgroundColor": "var(--7895d677-2728-4fee-8ec1-ea477432c193)",
+                  "display": "inline-block",
+                  "height": "1px",
+                  "marginRight": "8px",
+                  "verticalAlign": "0.3em",
+                  "width": "56px"
+                 },
+                 "blockId": "239e124d",
+                 "blockName": "Pencil",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {
+                  "aria-hidden": "true"
+                 },
+                 "element": "span",
+                 "mobileStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--7895d677-2728-4fee-8ec1-ea477432c193)",
+                  "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+                  "fontSize": "14px",
+                  "fontWeight": "400",
+                  "lineHeight": "1.5"
+                 },
+                 "blockId": "d21a2687",
+                 "blockName": "Attribution",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "span",
+                 "innerHTML": "Kwastlicht’s brief, spring 2024",
+                 "mobileStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "figcaption",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "figure",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "gridColumn": "7 / 12",
+            "minWidth": "0px"
+           },
+           "blockId": "78bb5b16",
+           "blockName": "Wall",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--263b2467-4171-4ee6-9158-d9a0601e7f68)",
+              "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+              "fontSize": "20px",
+              "fontWeight": "400",
+              "lineHeight": "1.55",
+              "margin": "0px",
+              "maxWidth": "40ch"
+             },
+             "blockId": "0b406c54",
+             "blockName": "Wall text",
+             "children": [],
+             "classes": [
+              "mq-wall",
+              "mq-copy"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Their buyers check printed proofs beside a monitor. Every lamp on their desks lit the screen as brightly as the page.",
+             "mobileStyles": {
+              "fontSize": "20px",
+              "lineHeight": "1.55"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "columnGap": "16px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [
+        "mq-on-ink"
+       ],
+       "customAttributes": {},
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "56px",
+        "paddingTop": "56px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "80px",
+        "paddingTop": "80px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "boxSizing": "border-box",
+        "paddingBottom": "0px",
+        "paddingTop": "144px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "23b34c68",
+       "blockName": "Three heads",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "boxSizing": "border-box",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "width": "100%"
+         },
+         "blockId": "9400d2f1",
+         "blockName": "Heads container",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "887d994a",
+           "blockName": "Three heads",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "1c3ceba2",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "668cbcbc",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_options",
+               "mobileStyles": {},
+               "referenceBlockId": "b1b29504",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "3e18f1cd",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "0ef0c74a",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "7856a399",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_options",
+                   "mobileStyles": {},
+                   "referenceBlockId": "fe43b296",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "fd64e4a8",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_options",
+                   "mobileStyles": {},
+                   "referenceBlockId": "d83b917a",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "b48116ca",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_options",
+                   "mobileStyles": {},
+                   "referenceBlockId": "7969de29",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_options",
+                 "mobileStyles": {},
+                 "referenceBlockId": "f2449448",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_options",
+               "isRepeaterBlock": true,
+               "mobileStyles": {},
+               "referenceBlockId": "2ea31545",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "4d49f49a",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "286bc078",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "fac0e5c5",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_options",
+                   "mobileStyles": {},
+                   "referenceBlockId": "def0fba6",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "6d813cb6",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_options",
+                   "mobileStyles": {},
+                   "referenceBlockId": "5fe8abf1",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_options",
+                 "mobileStyles": {},
+                 "referenceBlockId": "db254952",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_options",
+               "isRepeaterBlock": true,
+               "mobileStyles": {},
+               "referenceBlockId": "cdac3999",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "maquette_options",
+             "mobileStyles": {},
+             "referenceBlockId": "b11fa280",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "e52d0233",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "523de48b",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_options",
+               "mobileStyles": {},
+               "referenceBlockId": "1d0ffe2c",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "a2bba400",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "932e5759",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "f4284ec7",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_options",
+                   "mobileStyles": {},
+                   "referenceBlockId": "06ca3cc1",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_options",
+                 "mobileStyles": {},
+                 "referenceBlockId": "738f48ab",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_options",
+               "isRepeaterBlock": true,
+               "mobileStyles": {},
+               "referenceBlockId": "d39e45ea",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "maquette_options",
+             "mobileStyles": {},
+             "referenceBlockId": "388d3882",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "extendedFromComponent": "maquette_options",
+           "mobileStyles": {},
+           "props": {
+            "aside_label": {
+             "comesFrom": null,
+             "isDynamic": false,
+             "isPassedDown": true,
+             "isStandard": true,
+             "label": "Tag on the others",
+             "propOptions": {
+              "dependencies": {},
+              "isRequired": false,
+              "options": {
+               "defaultValue": "Set aside"
+              },
+              "type": "string"
+             },
+             "value": "Set aside"
+            },
+            "kept_label": {
+             "comesFrom": null,
+             "isDynamic": false,
+             "isPassedDown": true,
+             "isStandard": true,
+             "label": "Tag on the kept option",
+             "propOptions": {
+              "dependencies": {},
+              "isRequired": false,
+              "options": {
+               "defaultValue": "Shipped"
+              },
+              "type": "string"
+             },
+             "value": "Shipped"
+            },
+            "options": {
+             "comesFrom": null,
+             "isDynamic": false,
+             "isPassedDown": true,
+             "isStandard": true,
+             "label": "Options (Label | Image URL | Alt | Why | Kept: yes or no | Focus)",
+             "propOptions": {
+              "dependencies": {},
+              "isRequired": false,
+              "options": {
+               "defaultValue": [
+                "Cone | https://images.unsplash.com/photo-1621447980929-6638614633c8?auto=format&fit=crop&w=960&h=1200&q=80 | A pink cone-shaded desk lamp on a grey ground | Bright, but the shade threw glare across the monitor. | no | 50% 50%",
+                "Arm | https://images.unsplash.com/photo-1543512214-4f76e81f8bfc?auto=format&fit=crop&w=960&h=1200&q=80 | A black-shaded lamp on a pale timber arm beside a potted plant | Good reach, but too much lamp for a small desk. | no | 50% 45%",
+                "Ring | https://images.unsplash.com/photo-1710828530560-2920125ad032?auto=format&fit=crop&w=960&h=1200&q=80 | Orange printed parts for the ring head on the bed of a 3D printer | Light lands on the page and nothing reflects in the screen. Printed and tested in week 9. | yes | 38% 50%"
+               ]
+              },
+              "type": "array"
+             },
+             "value": "[\"Cone | https://images.unsplash.com/photo-1621447980929-6638614633c8?auto=format&fit=crop&w=960&h=1200&q=80 | A pink cone-shaded desk lamp on a grey ground | Bright, but the shade threw glare across the monitor. | no | 50% 50%\", \"Arm | https://images.unsplash.com/photo-1543512214-4f76e81f8bfc?auto=format&fit=crop&w=960&h=1200&q=80 | A black-shaded lamp on a pale timber arm beside a potted plant | Good reach, but too much lamp for a small desk. | no | 50% 45%\", \"Ring | https://images.unsplash.com/photo-1710828530560-2920125ad032?auto=format&fit=crop&w=960&h=1200&q=80 | Orange printed parts for the ring head on the bed of a 3D printer | Light lands on the page and nothing reflects in the screen. Printed and tested in week 9. | yes | 38% 50%\"]"
+            }
+           },
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {
+        "id": "heads"
+       },
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "0px",
+        "paddingTop": "72px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "0px",
+        "paddingTop": "96px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "boxSizing": "border-box",
+        "paddingBottom": "0px",
+        "paddingTop": "144px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "93fc5ca7",
+       "blockName": "As shipped",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "start",
+          "boxSizing": "border-box",
+          "columnGap": "32px",
+          "display": "grid",
+          "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "rowGap": "40px",
+          "width": "100%"
+         },
+         "blockId": "5d7d6be6",
+         "blockName": "Shipped container",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "gridColumn": "1 / 5",
+            "minWidth": "0px",
+            "paddingTop": "24px"
+           },
+           "blockId": "96307f3d",
+           "blockName": "Head",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+              "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+              "fontSize": "clamp(32px, 2.5vw + 16px, 56px)",
+              "fontWeight": "300",
+              "letterSpacing": "-0.018em",
+              "lineHeight": "1.05",
+              "margin": "0px",
+              "maxWidth": "8ch",
+              "textWrap": "balance"
+             },
+             "blockId": "7ebf331d",
+             "blockName": "Heading",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h2",
+             "innerHTML": "The lamp, as shipped",
+             "mobileStyles": {},
+             "tabletStyles": {
+              "maxWidth": "none"
+             }
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1",
+            "paddingTop": "0px"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "gridColumn": "5 / -1",
+            "minWidth": "0px"
+           },
+           "blockId": "b73066ae",
+           "blockName": "Ledger",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "9738d0a7",
+             "blockName": "Shipped ledger",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "d510ee74",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "6df499e8",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "45fc7357",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "799836aa",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_facts",
+                     "mobileStyles": {},
+                     "referenceBlockId": "13894ff3",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_facts",
+                   "mobileStyles": {},
+                   "referenceBlockId": "2c805189",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "bee63b84",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "2cc24d95",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_facts",
+                     "mobileStyles": {},
+                     "referenceBlockId": "b380d913",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_facts",
+                   "mobileStyles": {},
+                   "referenceBlockId": "31170fc8",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_facts",
+                 "mobileStyles": {},
+                 "referenceBlockId": "008e9e29",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_facts",
+               "isRepeaterBlock": true,
+               "mobileStyles": {},
+               "referenceBlockId": "73ef01bb",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "extendedFromComponent": "maquette_facts",
+             "mobileStyles": {},
+             "props": {
+              "facts": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Facts (Label | Value)",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": [
+                  "Client | Kwastlicht",
+                  "Role | The lamp and its app",
+                  "Team | Ilse, one engineer, one model-maker",
+                  "Shipped | October 2025"
+                 ]
+                },
+                "type": "array"
+               },
+               "value": "[\"Made in | A lighting factory near Eindhoven\", \"Materials | Powder-coated steel, printed nylon joints\", \"First batch | 800 lamps\", \"Price | \\u20ac240\"]"
+              },
+              "layout": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Layout",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": "rows",
+                 "options": [
+                  "rows",
+                  "ledger",
+                  "stack",
+                  "ink",
+                  "cells"
+                 ]
+                },
+                "type": "select"
+               },
+               "value": "ledger"
+              }
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "columnGap": "16px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "0px",
+        "paddingTop": "72px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "0px",
+        "paddingTop": "96px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "boxSizing": "border-box",
+        "paddingBottom": "144px",
+        "paddingTop": "176px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "b370e21e",
+       "blockName": "Where the app starts",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "boxSizing": "border-box",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "width": "100%"
+         },
+         "blockId": "f88a62a1",
+         "blockName": "Pair container",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "grid",
+            "marginBottom": "64px",
+            "rowGap": "16px"
+           },
+           "blockId": "acdcb99f",
+           "blockName": "Head",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+              "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+              "fontSize": "clamp(32px, 2.5vw + 16px, 56px)",
+              "fontWeight": "300",
+              "letterSpacing": "-0.018em",
+              "lineHeight": "1.05",
+              "margin": "0px",
+              "maxWidth": "30ch",
+              "textWrap": "balance"
+             },
+             "blockId": "48841894",
+             "blockName": "Heading",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h2",
+             "innerHTML": "Where the app starts",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--3777025d-c4f6-4fb0-b2fb-3190383c9775)",
+              "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+              "fontSize": "clamp(18px, 0.35vw + 16px, 22px)",
+              "fontWeight": "400",
+              "lineHeight": "1.45",
+              "margin": "0px",
+              "maxWidth": "52ch"
+             },
+             "blockId": "d93a646b",
+             "blockName": "Lead",
+             "children": [],
+             "classes": [
+              "mq-copy"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Two ways in, both tried on paper before any code.",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "columnGap": "32px",
+            "display": "grid",
+            "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+            "gridTemplateRows": "auto auto"
+           },
+           "blockId": "7a18acc0",
+           "blockName": "Pair",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "grid",
+              "gridColumn": "1 / 8",
+              "gridRow": "span 2",
+              "gridTemplateRows": "subgrid",
+              "margin": "0px",
+              "minWidth": "0px"
+             },
+             "blockId": "6b368fbd",
+             "blockName": "Kept flow",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignSelf": "end",
+                "aspectRatio": "4/3",
+                "backgroundColor": "var(--83142a6b-ca3d-4540-b8f6-71f2c66ad1ef)",
+                "backgroundImage": "linear-gradient(160deg, var(--920484c4-1f75-4ade-98f7-ab856bb4d11c), var(--83142a6b-ca3d-4540-b8f6-71f2c66ad1ef))",
+                "margin": "0px",
+                "minWidth": "0px",
+                "overflow": "hidden",
+                "position": "relative"
+               },
+               "blockId": "6a57604c",
+               "blockName": "Paper",
+               "children": [
+                {
+                 "attributes": {
+                  "alt": "A sheet of hand-drawn app screen sketches in black pen",
+                  "decoding": "async",
+                  "loading": "lazy",
+                  "src": "https://images.unsplash.com/photo-1629752187687-3d3c7ea3a21b?auto=format&fit=crop&w=1200&h=900&q=80"
+                 },
+                 "baseStyles": {
+                  "bottom": "0px",
+                  "display": "block",
+                  "filter": "sepia(0.28) saturate(0.89) contrast(0.94)",
+                  "height": "100%",
+                  "left": "0px",
+                  "objectFit": "cover",
+                  "objectPosition": "50% 50%",
+                  "outlineColor": "color-mix(in oklab, var(--a26a5991-5a44-439c-8a25-1356a27b9467) 8%, transparent)",
+                  "outlineOffset": "-1px",
+                  "outlineStyle": "solid",
+                  "outlineWidth": "1px",
+                  "position": "absolute",
+                  "right": "0px",
+                  "top": "0px",
+                  "width": "100%"
+                 },
+                 "blockId": "30463f4b",
+                 "blockName": "Photo",
+                 "children": [],
+                 "classes": [
+                  "mq-photo"
+                 ],
+                 "customAttributes": {
+                  "height": "900",
+                  "width": "1200"
+                 },
+                 "element": "img",
+                 "mobileStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignContent": "start",
+                "borderTopColor": "var(--3777025d-c4f6-4fb0-b2fb-3190383c9775)",
+                "borderTopStyle": "solid",
+                "borderTopWidth": "1px",
+                "display": "grid",
+                "marginTop": "16px",
+                "paddingTop": "16px",
+                "rowGap": "8px"
+               },
+               "blockId": "097563a1",
+               "blockName": "Caption",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+                  "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+                  "fontSize": "clamp(20px, 0.75vw + 14px, 26px)",
+                  "fontWeight": "400",
+                  "letterSpacing": "-0.01em",
+                  "lineHeight": "1.2",
+                  "margin": "0px"
+                 },
+                 "blockId": "6515887e",
+                 "blockName": "Name",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "24d97d6d",
+                   "blockName": "Flow name",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "span",
+                   "innerHTML": "Light first",
+                   "mobileStyles": {},
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {
+                    "color": "var(--2333a099-c4ee-4345-995b-45bad0acb477)",
+                    "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+                    "fontSize": "14px",
+                    "fontWeight": "400",
+                    "letterSpacing": "0em",
+                    "lineHeight": "1",
+                    "marginLeft": "8px"
+                   },
+                   "blockId": "42a03c23",
+                   "blockName": "Fate",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "span",
+                   "innerHTML": "Shipped",
+                   "mobileStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "mobileStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--3777025d-c4f6-4fb0-b2fb-3190383c9775)",
+                  "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "1.55",
+                  "margin": "0px",
+                  "maxWidth": "44ch"
+                 },
+                 "blockId": "d746b5c5",
+                 "blockName": "Why",
+                 "children": [],
+                 "classes": [
+                  "mq-copy"
+                 ],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Open the app and the lamp is already on; schedules sit one tap down. It runs on iOS and Android and pairs over Bluetooth.",
+                 "mobileStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "figcaption",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "figure",
+             "mobileStyles": {
+              "gridColumn": "1 / -1",
+              "gridRow": "auto",
+              "gridTemplateRows": "none"
+             },
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "grid",
+              "gridColumn": "8 / -1",
+              "gridRow": "span 2",
+              "gridTemplateRows": "subgrid",
+              "margin": "0px",
+              "minWidth": "0px"
+             },
+             "blockId": "b8b23128",
+             "blockName": "Other flow",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignSelf": "end",
+                "aspectRatio": "4/3",
+                "backgroundColor": "var(--83142a6b-ca3d-4540-b8f6-71f2c66ad1ef)",
+                "backgroundImage": "linear-gradient(160deg, var(--920484c4-1f75-4ade-98f7-ab856bb4d11c), var(--83142a6b-ca3d-4540-b8f6-71f2c66ad1ef))",
+                "margin": "0px",
+                "minWidth": "0px",
+                "overflow": "hidden",
+                "position": "relative"
+               },
+               "blockId": "cd52653a",
+               "blockName": "Paper",
+               "children": [
+                {
+                 "attributes": {
+                  "alt": "A hand sketching an app flow on paper with an orange pen",
+                  "decoding": "async",
+                  "loading": "lazy",
+                  "src": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?auto=format&fit=crop&w=960&h=720&q=80"
+                 },
+                 "baseStyles": {
+                  "bottom": "0px",
+                  "display": "block",
+                  "filter": "sepia(0.28) saturate(0.89) contrast(0.94)",
+                  "height": "100%",
+                  "left": "0px",
+                  "objectFit": "cover",
+                  "objectPosition": "50% 50%",
+                  "outlineColor": "color-mix(in oklab, var(--a26a5991-5a44-439c-8a25-1356a27b9467) 8%, transparent)",
+                  "outlineOffset": "-1px",
+                  "outlineStyle": "solid",
+                  "outlineWidth": "1px",
+                  "position": "absolute",
+                  "right": "0px",
+                  "top": "0px",
+                  "width": "100%"
+                 },
+                 "blockId": "087b33ab",
+                 "blockName": "Photo",
+                 "children": [],
+                 "classes": [
+                  "mq-photo"
+                 ],
+                 "customAttributes": {
+                  "height": "720",
+                  "width": "960"
+                 },
+                 "element": "img",
+                 "mobileStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignContent": "start",
+                "borderTopColor": "var(--3777025d-c4f6-4fb0-b2fb-3190383c9775)",
+                "borderTopStyle": "solid",
+                "borderTopWidth": "1px",
+                "display": "grid",
+                "marginTop": "16px",
+                "paddingTop": "16px",
+                "rowGap": "8px"
+               },
+               "blockId": "07d05f00",
+               "blockName": "Caption",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+                  "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+                  "fontSize": "clamp(20px, 0.75vw + 14px, 26px)",
+                  "fontWeight": "400",
+                  "letterSpacing": "-0.01em",
+                  "lineHeight": "1.2",
+                  "margin": "0px"
+                 },
+                 "blockId": "62e30495",
+                 "blockName": "Name",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "c0a00258",
+                   "blockName": "Flow name",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "element": "span",
+                   "innerHTML": "Schedule first",
+                   "mobileStyles": {},
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "p",
+                 "mobileStyles": {},
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {
+                  "color": "var(--3777025d-c4f6-4fb0-b2fb-3190383c9775)",
+                  "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "lineHeight": "1.55",
+                  "margin": "0px",
+                  "maxWidth": "44ch"
+                 },
+                 "blockId": "ece001ef",
+                 "blockName": "Why",
+                 "children": [],
+                 "classes": [
+                  "mq-copy"
+                 ],
+                 "customAttributes": {},
+                 "element": "p",
+                 "innerHTML": "Tested well on paper, annoyed everyone at seven in the morning.",
+                 "mobileStyles": {},
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "figcaption",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "figure",
+             "mobileStyles": {
+              "gridColumn": "1 / -1",
+              "gridRow": "auto",
+              "gridTemplateRows": "none"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "columnGap": "16px",
+            "gridTemplateRows": "none",
+            "rowGap": "40px"
+           },
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "72px",
+        "paddingTop": "96px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "96px",
+        "paddingTop": "120px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--83142a6b-ca3d-4540-b8f6-71f2c66ad1ef)",
+        "boxSizing": "border-box",
+        "isolation": "isolate",
+        "paddingBottom": "120px",
+        "paddingTop": "120px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "e458ec3e",
+       "blockName": "Next project",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundImage": "url(\"/builder_assets/maquette/well-grain.png\")",
+          "backgroundSize": "180px 180px",
+          "bottom": "0px",
+          "left": "0px",
+          "pointerEvents": "none",
+          "position": "absolute",
+          "right": "0px",
+          "top": "0px",
+          "zIndex": "-1"
+         },
+         "blockId": "0ab0f1c1",
+         "blockName": "Grain",
+         "children": [],
+         "classes": [],
+         "customAttributes": {
+          "aria-hidden": "true"
+         },
+         "element": "div",
+         "mobileStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "end",
+          "boxSizing": "border-box",
+          "columnGap": "32px",
+          "display": "grid",
+          "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "rowGap": "40px",
+          "width": "100%"
+         },
+         "blockId": "b4d47c36",
+         "blockName": "Next container",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+            "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+            "fontSize": "clamp(36px, 4vw + 8px, 60px)",
+            "fontWeight": "300",
+            "gridColumn": "1 / 8",
+            "letterSpacing": "-0.022em",
+            "lineHeight": "1.04",
+            "margin": "0px",
+            "maxWidth": "12ch",
+            "textWrap": "balance"
+           },
+           "blockId": "1cb40c60",
+           "blockName": "Heading",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h2",
+           "innerHTML": "Next, the Tube bottle",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "grid",
+            "gridColumn": "9 / -1",
+            "justifyItems": "start",
+            "minWidth": "0px",
+            "rowGap": "16px"
+           },
+           "blockId": "643fec20",
+           "blockName": "Aside",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--3777025d-c4f6-4fb0-b2fb-3190383c9775)",
+              "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "1.55",
+              "margin": "0px",
+              "maxWidth": "34ch"
+             },
+             "blockId": "90cc9625",
+             "blockName": "Line",
+             "children": [],
+             "classes": [
+              "mq-copy"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "For Sloepwater, 2024. A steel bottle that stands on a desk and never looks like gym kit.",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {
+              "href": "home#work"
+             },
+             "baseStyles": {
+              "alignItems": "center",
+              "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+              "display": "inline-flex",
+              "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "1.55",
+              "marginBottom": "-12px",
+              "marginTop": "-12px",
+              "maxWidth": "100%",
+              "minHeight": "48px",
+              "textDecorationColor": "var(--2333a099-c4ee-4345-995b-45bad0acb477)",
+              "textDecorationLine": "underline",
+              "textDecorationThickness": "1px",
+              "textUnderlineOffset": "0.24em",
+              "width": "fit-content"
+             },
+             "blockId": "1f223b86",
+             "blockName": "Work link",
+             "children": [],
+             "classes": [
+              "mq-link"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "See its three stages",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "columnGap": "16px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "56px",
+        "paddingTop": "56px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "80px",
+        "paddingTop": "80px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {
+      "id": "main"
+     },
+     "element": "main",
+     "mobileStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "b5ca58ce",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "bc7ccb79",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "e2ede740",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "81b8464e",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "edad5485",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "9e2b2c10",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "1cdd026b",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "be298dc3",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "maquette_footer",
+           "mobileStyles": {},
+           "referenceBlockId": "5c3e00ab",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "f0bea6f2",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "85a76911",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "maquette_footer",
+             "mobileStyles": {},
+             "referenceBlockId": "04a8b72c",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "maquette_footer",
+           "mobileStyles": {},
+           "referenceBlockId": "69b09d4d",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "c06691d5",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "7ca69d49",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "2090d141",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "maquette_footer",
+           "mobileStyles": {},
+           "referenceBlockId": "6fba365f",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_footer",
+         "isRepeaterBlock": true,
+         "mobileStyles": {},
+         "referenceBlockId": "efdc2833",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "9a99f586",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "innerHTML": "Sample photographs from <a href=\"https://unsplash.com\">Unsplash</a>, to be replaced with your own. © 2026 Ilse Marten",
+         "isChildOfComponent": "maquette_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "173e4c30",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "maquette_footer",
+       "mobileStyles": {},
+       "referenceBlockId": "ae86a792",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "footer",
+     "extendedFromComponent": "maquette_footer",
+     "mobileStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "maquette_styles"
+  }
+ ],
+ "creation": "2026-11-18 02:58:31.101128",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "head_html": "",
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "How the Arc lamp went from forty pencil curves to printed parts to a shipped desk lamp, with the options Ilse turned down and why.",
+ "modified": "2026-11-18 12:24:19.944871",
+ "modified_by": "Administrator",
+ "name": "maquette_project",
+ "owner": "Administrator",
+ "page_data_script": "",
+ "page_name": "maquette_project",
+ "page_title": "Arc lamp | Ilse Marten",
+ "preview": "/builder_assets/maquette/maquette_project/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/maquette/project",
+ "staging": 0,
+ "template_group": "maquette"
+}

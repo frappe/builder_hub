@@ -11,20 +11,35 @@ Rules that apply to every template:
 - Each template must own a distinct **structural archetype**: nav shape, hero shape, section
   shapes and footer must differ from every other shipped group. Distinct fonts and palettes are
   not enough. See the archetype registry below.
-- Palette is 5-7 named `Builder Variable` colors with light + dark hex values. Dark-first
+- Palette is 5-9 named `Builder Token` colours with light + dark hex values. Dark-first
   templates set `dark_value: None` and `color-scheme: dark` in group CSS (the `verge` pattern).
+  Since Nov 2026 every font family is a `Font` token too (`fontFamily: var(--<token>)`), so a
+  user rethemes type from the token panel as well as colour.
+- Since Nov 2026, every repeating list (fees, prices, sessions, plans, projects, FAQ) is a
+  component whose rows are an array prop (`"Title | Detail | Price"` rows split by the
+  component's data script), so a site adds a row from the properties panel. Real
+  interactions (switchers, estimators, pickers) live in the component's client script and
+  must work in the editor canvas as well as live. Nav links between a group's pages are
+  relative (`href="pricing"`) so importing the group into a folder keeps them working.
+- Motion is calm (user direction, Nov 2026): hover, focus and press states, the signature's own
+  state change once per user action, at most one quiet hero fade, view transitions between pages.
+  Nothing moves on scroll or by itself; everything is off under prefers-reduced-motion.
 - Fonts come from Google Fonts. Italics need a CSS `@import ...:ital@0;1` client script,
   the built-in font loader only carries `wght`.
 - Imagery hotlinks `images.unsplash.com` (established pattern across groups).
 - Codenames are unique single words. Taken: field, fronds, husk, keys, lull, mono, nook,
-  quill, verge, verso, plus every built group below (through tally and intake).
+  quill, verge, verso, plus every built group below (through tally and intake), and the
+  Nov 2026 batch: twofold, yardstick, loupe, quarter, maquette.
   Retired, do not reuse: forge, grain, copper, ware, beacon, signal, quip, hex, prism,
   tally, intake, prospect (the Jul 2026 SaaS/app-UI batch and its prospectus follow-up were
   all retired; the user's direction is Framer-grade polish or a conceit that lands),
   commit (original conference starter, retired Jul 17 2026), arcade (CRT cabinet, strong
   execution but retired on user preference), cobalt and hustle
   (Jul 2026 marketing batch, retired same week: competent genre executions without a strong
-  conceit; the bar is what a top design agency would ship).
+  conceit; the bar is what a top design agency would ship), aurora and encore (Sep 2026),
+  scrap, recipe, canvas, affiche, reel and fetch (Nov 2026, the least used groups: each concept
+  was welded to one niche business, so real users could not adapt it; the bar since is an idea
+  in structure, type and craft that a whole category adopts by editing content only).
 - Templates need not be themed (light/dark toggle optional): app-UI and product templates may
   ship a single neutral look, but every color still goes through Builder Variables so the whole
   template rethemes by editing the palette.
@@ -49,21 +64,18 @@ Rules that apply to every template:
 | denim  | bordered cells, marquee tickers, rotated stickers, checkerboard grid |
 | pleat  | magazine spreads with folio bars, paired portrait+detail images, colophon |
 | ridge  | gapless photo mosaic wall, hover captions, overlay nav |
-| canvas | site as a live design file: dotted canvas, selection boxes, cursors, comments |
 | vitae  | document: paper sheet on a desk, letterhead, date-left CV entries |
-| reel   | screening room: letterboxed 21:9 stills, timecodes, slate cards, credits crawl |
 | margin | book page: reading column + numbered margin notes, dotted-leader TOC |
 | plinth | drawing set: type-only index with hover thumbnails, sheet furniture, titleblock |
-| encore | keynote: spotlight hero, act rules, footlit demo frame, stage notes, applause, one more thing |
-| aurora | glow SaaS landing: gradient hero + text, glass bento grid, glowing product frame, quote wall |
 | bureau | agency mega-type: acid highlight marks, typographic case covers, numbered service mega-list |
-| scrap  | zine paste-up: torn rotated panels, masking tape, xerox photos, ransom headlines, staples |
-| affiche | poster wall: full-viewport swiss posters, diagonal bands, vertical rails, catalog table |
 | annum  | year timeline: split ledger hero, spine timeline with year dots and big photos, ledger |
-| recipe | recipe cards: ruled index cards with red margin rules, dog-ears, chef's margin notes, stamps, tear-off coupon |
 | candor | statement screens: full-viewport one-color statement hero, cropped mega wordmark, serif fee table, no photos |
-| fetch  | product bento: super-rounded pastel tiles, blob photo frames, star reviews, size table, guarantee card |
 | stock  | frappe-ui app shell: gray-50 sidebar with grouped nav and counts, breadcrumb top bar, segmented tabs + subtle icon buttons, outlined 12px product cards, a docs-playground product page (dotted canvas + lowercase controls + buy strip, "On this page" rail), list-view price list |
+| twofold | dusk poster: full-bleed dusk photograph, giant Gloock head, a smoked-glass audience switch that swaps the photograph and re-sorts every list, bone wells for forms |
+| yardstick | carnival tape: peach paper, Big Shoulders poster caps, a full-bleed tape-yellow measure with an oxblood price tag that slides to the picked job |
+| loupe  | paperwork desk: green baize ground, cotton invoices and letters built from live type, a jeweller's loupe resting on four stops |
+| quarter | printed bill: buff stock, Six Caps heads filling the measure, Bevan names, an ink band and a vermilion band, the programme to scale |
+| maquette | picture ledge: umber room over stone limewash, sketch/prototype/shipped as matted cotton prints, strips that bring a print forward |
 
 New briefs must claim an archetype not on this list, and the list grows as templates ship.
 
@@ -101,6 +113,23 @@ crossovers), encore, aurora (Technology + Marketing).
 | denim    | bright | streetwear drop site, saturated color, big product tiles (built: 4 pages) |
 | pleat    | editorial | seasonal lookbook, magazine spreads (built: 3 pages) |
 
+### Nov 2026 refresh: Services, Marketing, Portfolio (orders 56-60), BUILT
+Replaced the six least-used groups (scrap, recipe, canvas, affiche, reel, fetch). The bar for
+this batch: an idea in structure, type and craft that a whole category adopts by editing content
+only, checked against Hallmark (Nutlope) and Impeccable (impeccable.style) with both detectors
+run on every page. The first build of this batch (light neutral grounds, sans type, rulers and
+tables) was rejected as dated and corporate; the shipped designs ran Hallmark's full flow (a dealt
+theme per group, a drawn shape, the signature on the first screen). A motion-heavy pass was then
+rejected as too much animation, so motion is calm: interaction states and the signature's own
+state change, nothing moves on load beyond one quiet fade at most, nothing moves on scroll.
+| Codename | Category | Theme | Concept |
+|----------|----------|-------|---------|
+| twofold  | Services (+ Local business) | dark (Hallmark Dusk) | firm for two audiences, one switch swaps the photograph and re-sorts the site (built: 3 pages, order 56) |
+| yardstick | Services (+ Local business) | light (Hallmark Carnival) | trades, every job's price range on a tape measure, quote estimator (built: 3 pages, order 57) |
+| loupe    | Marketing | light (Hallmark Coral) | software as paperwork on a green desk, a loupe over the product, plans (built: 3 pages, order 58) |
+| quarter  | Marketing (+ Local business) | light (Hallmark Broadside) | event set like a printed bill, programme to scale, pass picker (built: 3 pages, order 59) |
+| maquette | Portfolio | light (Hallmark Atelier) | product designer, sketch/prototype/shipped as prints on a ledge (built: 3 pages, order 60) |
+
 ### Food & Beverage (warm ambers, creams, deep reds)
 | Codename | Theme | Concept |
 |----------|-------|---------|
@@ -114,13 +143,9 @@ crossovers), encore, aurora (Technology + Marketing).
 | Codename | Theme | Concept |
 |----------|-------|---------|
 | ridge    | dark | photographer, gapless photo mosaic wall, index overlay (built: 3 pages) |
-| canvas   | bright | designer, site as a live design file with comments left in (built: 3 pages) |
 | vitae    | minimal | consultant CV as a paper sheet on a desk, letterhead and entries (built: 3 pages) |
-| reel     | dark | filmmaker, letterboxed 21:9 stills with timecode captions (built: 3 pages) |
 | margin   | warm light | writer/academic, body column with numbered margin notes (built: 3 pages) |
 | plinth   | minimal | architects, type-only project index with drawing-sheet furniture (built: 3 pages) |
-| scrap    | paper | graphic designer, cut-and-paste zine: torn panels, tape, xerox, ransom type (built: 3 pages, order 27) |
-| affiche  | bright | design studio, site as a series of swiss posters, type only (built: 3 pages, order 28) |
 | annum    | moss light + dark | maker's one-project-a-year photo timeline, user-spec (built: 3 pages, order 29) |
 
 ### Manufacturing & Industrial (steel blue, gray, safety-orange accents)
@@ -159,11 +184,9 @@ crossovers), encore, aurora (Technology + Marketing).
 | plaza    | bright | city hotel, jewel tones, amenity grid |
 | tide     | minimal | coastal B&B, sea glass, quiet type |
 
-### Technology / SaaS (electric accents on dark or clean white), encore + aurora BUILT Jul 2026
+### Technology / SaaS (electric accents on dark or clean white), encore + aurora retired Sep 2026
 | Codename | Theme | Concept |
 |----------|-------|---------|
-| encore   | dark | SaaS site staged as a product keynote, user-picked conceit (built: 3 pages, order 24) |
-| aurora   | dark | Framer-grade glow landing: glass bento, gradient text (built: 3 pages, order 25) |
 | orbit    | bright | product landing, gradient accents, feature orbits |
 | stack    | minimal | B2B platform, gray scale, integration logos |
 | neon     | bold | startup launch, electric violet on off-black |
@@ -505,40 +528,6 @@ pages:
 components: [ridge_nav, ridge_enquire]
 ```
 
-## Brief: canvas (Portfolio, bright), replaced quip (retired: bento boards read generic)
-
-```yaml
-codename: canvas
-category: Portfolio
-title: Canvas
-description: A designer portfolio presented as a live design file, comments left in.
-theme: bright
-concept: >
-  Nadia is a product designer. Her site IS a design file: dotted canvas background,
-  sections inside blue selection boxes with corner handles and layer-name tabs
-  (hero / v3, final FINAL), collaborator cursors drifting over the page, pink comment
-  pins with real comment cards, sticky notes in a handwriting font. Toolbar nav with a
-  Share button; status-bar footer (autosaved just now · 100%). Conversion: "invite me
-  to your file" email.
-palette:
-  - {name: paperc, value: "#FCFCFB", dark_value: "#15171C"}
-  - {name: inkc,   value: "#1B1F27", dark_value: "#EDEFF4"}
-  - {name: blue,   value: "#2F7BFF", dark_value: "#6FA5FF"}   # selection chrome
-  - {name: pink,   value: "#FF4F9A", dark_value: "#FF7DB4"}   # comment pins
-  - {name: lemon,  value: "#FFD84D", dark_value: "#D9B33A"}   # sticky notes
-  - {name: mutedc, value: "#8A93A6", dark_value: "#8A93A6"}
-fonts: {display: Sora, body: Inter, hand: Caveat}
-archetype: >
-  Design-file chrome as page furniture: dotted grid canvas, selection boxes with
-  handles + label tabs, cursor pills, comment pins and cards, stickies, toolbar and
-  status bar. No other group imitates software chrome.
-pages:
-  - {name: canvas_home, route: /, sections: [toolbar, hero selection box with cursors + pin + sticky, recruiter comment card, three project frames (staggered), status bar]}
-  - {name: canvas_work, route: /work, sections: [header, three case frames each with cover + facts + client comment card + pin, status bar]}
-  - {name: canvas_about, route: /about, sections: [photo instance frame + bio frame + tools sticky, version-history changelog frame (v1 agency / v2 bank / v3 independent), CTA frame with cursor, status bar]}
-components: [canvas_nav, canvas_footer]
-```
-
 ## Brief: vitae (Portfolio, minimal)
 
 ```yaml
@@ -572,43 +561,6 @@ pages:
   - {name: vitae_engagements, route: /engagements, sections: [sheet header, case entries with outcome numbers (dates left), approach list, signature footer]}
   - {name: vitae_contact, route: /contact, sections: [sheet with portrait + availability line, engagement terms rows, intro-call mailto block, signature footer]}
 components: [vitae_letterhead, vitae_signature]
-```
-
-## Brief: reel (Portfolio, dark)
-
-```yaml
-codename: reel
-category: Portfolio
-title: Reel
-description: A filmmaker portfolio of letterboxed stills with timecode captions.
-theme: dark
-concept: >
-  Reel is a director / DP. The site is a screening room: near-black, every still presented
-  letterboxed at 21:9 with a mono timecode caption (00:04:12), titles in condensed caps like
-  film slates. One amber accent like a tungsten lamp. Conversion is a rep/production enquiry.
-palette:            # dark-first, dark_value: null, color-scheme: dark
-  - {name: screen, value: "#0A0A0C", dark_value: null}
-  - {name: slate2, value: "#141418", dark_value: null}
-  - {name: ivory2, value: "#F4F2EC", dark_value: null}
-  - {name: dim,    value: "#8F8D86", dark_value: null}
-  - {name: liner,  value: "#26262B", dark_value: null}
-  - {name: amber,  value: "#E8B14E", dark_value: null}
-fonts: {display: Oswald, body: Archivo, mono: IBM Plex Mono}
-archetype: >
-  Screening room. Nav is a slate bar: name, roles, enquire, all condensed caps. Films are
-  stacked letterboxed frames: full-width 21:9 stills with black bars implied by the page,
-  each with a mono timecode + title + client row beneath, separated by generous black.
-  A film page shows the frame, then a slate card (director / client / runtime rows in mono)
-  and paired production stills. About page is a credits crawl: centered rows like end
-  credits. No other group letterboxes imagery or uses timecodes/credit-crawl furniture.
-imagery: >
-  Cinematic frames: stage light, streets at night, sets, silhouettes. Everything crops to
-  21:9 without losing the subject.
-pages:
-  - {name: reel_films, route: /, sections: [slate nav, name + roles opener, four letterboxed stills with timecode/title/client rows, enquire slate footer]}
-  - {name: reel_film, route: /film, sections: [hero letterbox frame, slate card (mono production rows), two production stills pair, next-film link row, enquire slate]}
-  - {name: reel_about, route: /about, sections: [portrait letterboxed, credits crawl (role rows centered), awards mono list, enquire slate]}
-components: [reel_nav, reel_enquire]
 ```
 
 ## Brief: margin (Portfolio, warm light)
@@ -726,24 +678,6 @@ Pages: home (the document), rates (schedule + readable fine print + month-end gu
 appendix (A: firm, B: anticipated questions, C: correspondence). Distinct from vitae (a CV
 sheet on a desk) and margin (book page): prospect owns securities-filing furniture.
 
-## Brief: encore (Technology, dark), BUILT
-
-The keynote conceit, picked by the user from an options round: the site is a product launch
-keynote. Radial spotlight hero (ACT I), demo in a stage frame with gold footlights (ACT II),
-three reveal cards with ( applause ) captions (ACT III), "And it's available today." (ACT IV),
-a One More Thing encore section, gold stage-note asides in mono, and a house-lights-up footer.
-Pricing page is "the pricing slide, uncut" plus questions from the audience; about page is
-Backstage with a setlist changelog and cast credits. Gabarito + Inter + IBM Plex Mono,
-house/stage/lumen/gold palette, dark-only, no photos.
-
-## Brief: aurora (Technology, dark), BUILT
-
-The Framer-grade one: violet radial glow hero, gradient-clipped headline text, glass cards
-(blur + 4% white), a glowing mock product frame built from blocks, text logo row, bento grid
-(sparkline card, working toggle rows, avatar stack, mono API snippet, security card), gradient
-stat trio, offset testimonial wall, glow CTA band. Inter everywhere, tight tracking. Pricing
-with a featured glowing tier; contact with real inputs. Dark-only, no photos.
-
 ## Brief: bureau (Marketing / Agency, bright), BUILT
 
 The Framer-grade agency site: Hanken Grotesk mega type with acid marker highlights, case
@@ -752,26 +686,6 @@ styling, no photos), numbered services mega-list with acid hover, black manifest
 brands finish last."), client name wall, and a full-acid footer with a giant "Let's talk".
 Work page adds client-reported result chips; contact page has budget chips and a
 what-happens-next row. Light, no toggle.
-
-## Brief: scrap (Portfolio, paper), BUILT
-
-The cut-and-paste zine: a graphic designer's portfolio assembled like a photocopied fanzine.
-Torn-edge photo panels (clip-path polygons) at slight rotations that straighten on hover,
-masking-tape strips, xerox photo treatment (grayscale + contrast), ransom-note headlines
-mixing Anton, Courier Prime and Permanent Marker, marker scribbles for asides and client
-quotes, staple-run dividers, a black house-rules band, and a colophon page that lists the
-paper stock. Aged-paper single theme, red and highlighter-yellow accents. 3 pages
-(home / werk / colophon), order 27.
-
-## Brief: affiche (Portfolio, bright), BUILT
-
-The Swiss poster wall: Studio Oksen's site as a stack of full-viewport International-Style
-posters. Inter Tight 900 mega type ("Grafik ist Arbeit."), red/black/white only, rotated
-vertical type rails on the poster edges, diagonal red bands, a red-circle manifesto poster
-("Form folgt Haltung."), block-built mini poster reproductions on the work page, and a dense
-Werkverzeichnis catalog table with red numbers (deliberately smaller and denser than plinth's
-giant index rows). German-flavored copy. Light, no toggle, no photos. 3 pages
-(home / arbeit / kontakt), order 28.
 
 ## Brief: annum (Portfolio, warm light + dark), BUILT
 
@@ -787,29 +701,6 @@ ceramics), a stats band (6 years / 6 things / 0 abandoned), an amber "2027 is un
 card, a year-by-year ledger page with a type-only "prehistory" section, and an about page
 with portrait and numbered house rules. Bricolage Grotesque + Inter, cool paper palette with
 moss green accent (user-picked over amber, indigo, oxblood, brass), light/dark toggle. 3 pages (home / ledger / about), order 29.
-
-## Brief: fetch (Marketing, playful), BUILT
-
-The single-product DTC site (Squarespace Wesley Pets inspired): one dog collar for one
-audience. Cream ground, Baloo 2 rounded display type, super-rounded (24 to 32px) pastel color
-tiles in butter/sky/tangerine, a beagle hero in a butter frame with a deadpan caption, a
-full-width lake field-test photo band with a claim chip, star-rating review cards from
-verified goodest dogs, a size table with honest fit notes, material spec tiles, and a
-break-it-we-replace-it-forever guarantee card. Single bright theme. 3 pages
-(home / collar / help), order 33.
-
-## Brief: recipe (Marketing, warm craft), BUILT
-
-The agency-as-recipe-cards site, same agency-grade bar: ruled index cards (multi-layer CSS
-background: blue rules + double red margin line) with all content set right of the margin,
-dog-ear corner folds (CSS border triangles with a drop shadow), a rotated TESTED TWICE rubber
-stamp with a mask-image fade, a subtle grease-stain radial blob, Kalam handwritten chef's
-notes in a method margin column, timing chips (prep 2 weeks / cook 90 days / difficulty:
-honest), checkbox ingredient lists (you bring / we bring), star-rated "clean plates"
-testimonial cards, a tasting menu of services as priced recipe cards (soufflé / flash-fried /
-slow simmer), a brigade page, house rules taped above the stove, a scissors tear-off coupon
-CTA and a gingham footer band. Young Serif + Albert Sans + Kalam on linen. Single warm theme.
-3 pages (home / menu / kitchen), order 32.
 
 ## Brief: candor (Marketing, statement), BUILT
 
@@ -854,6 +745,54 @@ pages:
   - {name: stock_list, route: /list, sections: [page head, list controls, list view with checkboxes and badges, summary actions]}
 components: [stock_sidebar, stock_footer]
 ```
+
+## Brief: twofold (Services, dark, Hallmark Dusk), BUILT Nov 2026
+
+A firm site for two audiences (fictional Manchester accountancy Hollis Tran; adoptable by law
+firms, advisers, brokers, immigration and HR practices). Dark slate page, full-bleed dusk
+photographs, Gloock display over Wix Madefor Text, smoked-glass panels, bone wells for the request
+form and checklists, periwinkle for actions and apricot for deadlines. Signature: a glass "Who is
+this for?" switch in the home hero and the services banner (and compact in the nav past the photo)
+that crossfades the photograph from a terrace street to the docks and re-sorts fees, cases,
+estimate options, questions and people across all pages; the choice carries into the consultation
+form. 3 pages (home / services / consultation), order 56.
+
+## Brief: yardstick (Services, light, Hallmark Carnival), BUILT Nov 2026
+
+A trades site (fictional electrician Ferris Electric, Columbus; adoptable by plumbers, cleaners,
+removals, roofers, gardeners). Peach paper, oxblood and tape yellow, Big Shoulders Display poster
+capitals over Golos Text. Signature: a full-bleed tape measure with prices; on home an oxblood tag
+hangs from it and slides to the job you pick, on prices every job's range hangs under one tape with
+filter chips, and on quote an estimator moves its range mark as job, count, extras and timing
+change, then fills a quote request. 3 pages (home / prices / quote), order 57.
+
+## Brief: loupe (Marketing, light, Hallmark Coral), BUILT Nov 2026
+
+A software site (fictional invoicing app Paidwell) set as paperwork on a green baize desk: cotton
+invoices, a reminder letter and payout slips built from live type, a tall condensed Bricolage
+Grotesque head, Geist Mono figures. Signature: a jeweller's loupe resting on the invoice with a
+four-stop rail (Items, Reminder, Payment, Payout); a click or key moves the lens to that stop. Tour
+follows one invoice from first line to paid; pricing is a period toggle over three plans on cards.
+3 pages (home / tour / pricing), order 58.
+
+## Brief: quarter (Marketing, light, Hallmark Broadside), BUILT Nov 2026
+
+An event site set like a printed bill (fictional two-day conference Small Rooms, Rotterdam;
+adoptable by festivals, fairs, meetups and training days): buff stock, Six Caps heads filling the
+measure, Bevan for names and labels, Archivo Narrow for reading, an ink band and a vermilion band.
+Signature: the programme drawn to scale, Thursday morning printed in the home hero and both days in
+the programme with a day switch and a still now-line; tickets is a pass picker with quantity and
+total. 3 pages (home / programme / tickets), order 59.
+
+## Brief: maquette (Portfolio, light, Hallmark Atelier), BUILT Nov 2026
+
+A product designer's portfolio (fictional Ilse Marten, Ghent; adoptable by UX, brand, industrial
+and furniture designers, architects, developers) in an umber room over stone limewash, Newsreader
+over Hanken Grotesk. Signature: the hero ledge, where the lead project's sketch, prototype and
+shipped piece stand as matted cotton prints and pulling a strip brings that print forward; the case
+page sets a design decision as cotton strips on a rail with the kept option marked. 3 pages
+(home / project / about), order 60. Picked over the judge's eyeline (illustrator gallery wall) for
+adaptability.
 
 ## Follow-ups
 

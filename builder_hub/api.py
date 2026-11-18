@@ -109,6 +109,9 @@ def _get_template_bundle(page: str, base_url: str) -> dict:
 				"component_id": comp.component_id,
 				"component_name": comp.component_name,
 				"block": frappe.as_json(comp_block, indent=0),
+				# a component's repeaters can read records its data script builds from
+				# props, so the script has to travel with the block
+				"component_data_script": comp.get("component_data_script"),
 			}
 		)
 
