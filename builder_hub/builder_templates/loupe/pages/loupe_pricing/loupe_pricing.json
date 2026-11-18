@@ -1,0 +1,3910 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "stretch",
+    "backgroundColor": "var(--ff0db18e-2370-4417-bc78-5bbcdd232b6b)",
+    "color": "var(--4868bcaa-9a0d-4224-95ec-31860559a344)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "flexWrap": "wrap",
+    "fontFamily": "var(--247eeec3-b414-49dd-b438-469dec91918a)",
+    "fontSize": "17px",
+    "lineHeight": "1.55",
+    "minHeight": "100dvh",
+    "position": "relative"
+   },
+   "blockId": "root",
+   "blockName": "Body",
+   "children": [
+    {
+     "attributes": {
+      "href": "#main"
+     },
+     "baseStyles": {
+      "backgroundColor": "var(--4868bcaa-9a0d-4224-95ec-31860559a344)",
+      "borderRadius": "6px",
+      "color": "var(--ca938139-6135-4c55-8ac3-26ae05886f06)",
+      "fontFamily": "var(--247eeec3-b414-49dd-b438-469dec91918a)",
+      "fontSize": "15px",
+      "fontWeight": "500",
+      "left": "16px",
+      "lineHeight": "1.55",
+      "margin": "0",
+      "paddingBottom": "8px",
+      "paddingLeft": "16px",
+      "paddingRight": "16px",
+      "paddingTop": "8px",
+      "position": "absolute",
+      "textDecoration": "none",
+      "top": "-96px",
+      "zIndex": "500"
+     },
+     "blockId": "428f98ea",
+     "blockName": "Skip link",
+     "children": [],
+     "classes": [
+      "lp-skip",
+      "skip-link"
+     ],
+     "customAttributes": {
+      "data-scroll-behavior": "instant"
+     },
+     "element": "a",
+     "innerHTML": "Skip to content",
+     "mobileStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "left": "0",
+      "pointerEvents": "none",
+      "position": "fixed",
+      "right": "0",
+      "top": "16px",
+      "zIndex": "300"
+     },
+     "blockId": "9f88a22b",
+     "blockName": "Header",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "430701f4",
+       "blockName": "Loupe Nav",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "73682243",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "1f5a9cbe",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "loupe_nav",
+           "mobileStyles": {},
+           "referenceBlockId": "136ce67c",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "ac9f721b",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "15a07acf",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "f34ed644",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_nav",
+               "mobileStyles": {},
+               "referenceBlockId": "df9cd9a2",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "loupe_nav",
+             "mobileStyles": {},
+             "referenceBlockId": "f8431a25",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "0ec2cb3f",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "09fa1882",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_nav",
+               "mobileStyles": {},
+               "referenceBlockId": "f44251c8",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "loupe_nav",
+             "mobileStyles": {},
+             "referenceBlockId": "784e8b41",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "loupe_nav",
+           "mobileStyles": {},
+           "referenceBlockId": "b8bcc804",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {
+            "href": "#plans"
+           },
+           "baseStyles": {},
+           "blockId": "68506c31",
+           "children": [],
+           "classes": [],
+           "customAttributes": {
+            "data-scroll-behavior": "instant"
+           },
+           "isChildOfComponent": "loupe_nav",
+           "mobileStyles": {},
+           "referenceBlockId": "lnv-start",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "loupe_nav",
+         "mobileStyles": {},
+         "referenceBlockId": "d3f624e5",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "0568867d",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "loupe_nav",
+         "mobileStyles": {},
+         "referenceBlockId": "624872b7",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "nav",
+       "extendedFromComponent": "loupe_nav",
+       "mobileStyles": {},
+       "props": {
+        "current": {
+         "comesFrom": null,
+         "isDynamic": false,
+         "isPassedDown": true,
+         "isStandard": true,
+         "label": "Current page",
+         "propOptions": {
+          "dependencies": {},
+          "isRequired": false,
+          "options": {
+           "defaultValue": "home",
+           "options": [
+            "home",
+            "tour",
+            "pricing"
+           ]
+          },
+          "type": "select"
+         },
+         "value": "pricing"
+        }
+       },
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [
+      "lp-navwrap"
+     ],
+     "customAttributes": {},
+     "element": "header",
+     "mobileStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "width": "100%"
+     },
+     "blockId": "6eb570c8",
+     "blockName": "Main",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--ac3c074d-a4d3-4314-86fb-1ab559f81bbc)",
+        "backgroundImage": "radial-gradient(110% 90% at 0% 0%, color-mix(in oklab, var(--4c58375b-2c27-4b0a-b4e9-ea206a5a7d2d) 55%, transparent), transparent 62%), linear-gradient(90deg, transparent 45%, color-mix(in oklab, var(--4190f633-0121-4548-9414-2561bf6dc273) 34%, transparent)), url(\"/builder_assets/loupe/baize.webp\")",
+        "boxSizing": "border-box",
+        "color": "var(--ca938139-6135-4c55-8ac3-26ae05886f06)",
+        "paddingBottom": "64px",
+        "paddingTop": "116px",
+        "width": "100%"
+       },
+       "blockId": "c6cc9368",
+       "blockName": "Banner",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "boxSizing": "border-box",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "width": "100%"
+         },
+         "blockId": "85dbf3cf",
+         "blockName": "Banner wrap",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "922f9d9f",
+           "blockName": "Rate card",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "e0d3b05f",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "81c18ecf",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_ratecard",
+               "mobileStyles": {},
+               "referenceBlockId": "b45f88e3",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "8dd68347",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "06cc8223",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_ratecard",
+                 "mobileStyles": {},
+                 "referenceBlockId": "09bcda5d",
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "67882189",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "bff09b66",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_ratecard",
+                   "mobileStyles": {},
+                   "referenceBlockId": "7ea182f9",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "804471ee",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_ratecard",
+                   "mobileStyles": {},
+                   "referenceBlockId": "ec3335b0",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_ratecard",
+                 "mobileStyles": {},
+                 "referenceBlockId": "2d449c52",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_ratecard",
+               "mobileStyles": {},
+               "referenceBlockId": "8f27dc3f",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "loupe_ratecard",
+             "mobileStyles": {},
+             "referenceBlockId": "3cddb96a",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "c067218c",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "c2cbf873",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_ratecard",
+               "mobileStyles": {},
+               "referenceBlockId": "6fc81493",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "a591ca42",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "ad60765e",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "1f696500",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "72f970cd",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_ratecard",
+                     "mobileStyles": {},
+                     "referenceBlockId": "c55bdb16",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "95cf9fbb",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_ratecard",
+                     "mobileStyles": {},
+                     "referenceBlockId": "ff607439",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_ratecard",
+                   "mobileStyles": {},
+                   "referenceBlockId": "b59a36db",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "34e9556f",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "b998b729",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "bcb61ab7",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_ratecard",
+                       "mobileStyles": {},
+                       "referenceBlockId": "929d66e3",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "dee69d0b",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_ratecard",
+                       "mobileStyles": {},
+                       "referenceBlockId": "066db392",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_ratecard",
+                     "mobileStyles": {},
+                     "referenceBlockId": "d0a0bfe3",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "fe5ef38f",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_ratecard",
+                     "mobileStyles": {},
+                     "referenceBlockId": "bd56ccad",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_ratecard",
+                   "mobileStyles": {},
+                   "referenceBlockId": "f2918ca5",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "934c7949",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_ratecard",
+                   "mobileStyles": {},
+                   "referenceBlockId": "77c7f4c7",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "c37becd0",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "a3961a33",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "f112772e",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_ratecard",
+                       "mobileStyles": {},
+                       "referenceBlockId": "8179247f",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "f6333db8",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_ratecard",
+                       "mobileStyles": {},
+                       "referenceBlockId": "f8d6cc57",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_ratecard",
+                     "mobileStyles": {},
+                     "referenceBlockId": "777b1fb4",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_ratecard",
+                   "isRepeaterBlock": true,
+                   "mobileStyles": {},
+                   "referenceBlockId": "08d6e493",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_ratecard",
+                 "mobileStyles": {},
+                 "referenceBlockId": "c3c94d21",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_ratecard",
+               "isRepeaterBlock": true,
+               "mobileStyles": {},
+               "referenceBlockId": "7708fc76",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "bc403a48",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "232c24d7",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_ratecard",
+                 "mobileStyles": {},
+                 "referenceBlockId": "bec1ee32",
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "d4091042",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_ratecard",
+                 "mobileStyles": {},
+                 "referenceBlockId": "e532d0ae",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_ratecard",
+               "mobileStyles": {},
+               "referenceBlockId": "4fde0640",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "loupe_ratecard",
+             "mobileStyles": {},
+             "referenceBlockId": "bc4771f8",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "extendedFromComponent": "loupe_ratecard",
+           "mobileStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [
+        "lp-desk"
+       ],
+       "customAttributes": {
+        "aria-labelledby": "hero-h"
+       },
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "56px",
+        "paddingTop": "104px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "64px",
+        "paddingTop": "112px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "boxSizing": "border-box",
+        "paddingBottom": "120px",
+        "paddingTop": "144px",
+        "width": "100%"
+       },
+       "blockId": "f2d45c5b",
+       "blockName": "Compare every plan",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "boxSizing": "border-box",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "width": "100%"
+         },
+         "blockId": "cbae65d1",
+         "blockName": "Compare wrap",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "end",
+            "columnGap": "32px",
+            "display": "grid",
+            "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+            "marginBottom": "64px",
+            "rowGap": "24px"
+           },
+           "blockId": "94f537ee",
+           "blockName": "Head",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--4868bcaa-9a0d-4224-95ec-31860559a344)",
+              "fontFamily": "var(--212cdced-9c91-4ed8-a6b8-53fc46c49e17)",
+              "fontSize": "clamp(2.5rem, 3.6vw + 1rem, 5rem)",
+              "fontStretch": "75%",
+              "fontWeight": "700",
+              "gridColumn": "1 / 7",
+              "letterSpacing": "-0.012em",
+              "lineHeight": "0.95",
+              "margin": "0",
+              "maxWidth": "10ch",
+              "minWidth": "0",
+              "overflowWrap": "break-word",
+              "textWrap": "balance"
+             },
+             "blockId": "788f8165",
+             "blockName": "Heading",
+             "children": [],
+             "classes": [],
+             "customAttributes": {
+              "id": "compare-h"
+             },
+             "element": "h2",
+             "innerHTML": "Compare every plan",
+             "mobileStyles": {},
+             "tabletStyles": {
+              "gridColumn": "1 / -1"
+             }
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--32b40215-62c2-47b5-8707-7031bec28792)",
+              "fontFamily": "var(--247eeec3-b414-49dd-b438-469dec91918a)",
+              "fontSize": "clamp(1.125rem, 0.35vw + 1rem, 1.375rem)",
+              "fontWeight": "400",
+              "gridColumn": "8 / 13",
+              "lineHeight": "1.45",
+              "margin": "0",
+              "maxWidth": "52ch",
+              "textWrap": "pretty"
+             },
+             "blockId": "e4b3702d",
+             "blockName": "Lead",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Bank transfers are free on all three.",
+             "mobileStyles": {},
+             "tabletStyles": {
+              "gridColumn": "1 / -1"
+             }
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "columnGap": "16px"
+           },
+           "tabletStyles": {
+            "gridTemplateColumns": "minmax(0, 1fr)",
+            "marginBottom": "48px"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "12f5a472",
+           "blockName": "Comparison",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "2c495ca3",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "64a4a79c",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "f1d3f4e2",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_table",
+                 "mobileStyles": {},
+                 "referenceBlockId": "6044c261",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_table",
+               "isRepeaterBlock": true,
+               "mobileStyles": {},
+               "referenceBlockId": "62dcc4c0",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "loupe_table",
+             "mobileStyles": {},
+             "referenceBlockId": "758d958f",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "e9b50154",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "e793b1d0",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "95479f1b",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "505a3f3e",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_table",
+                   "mobileStyles": {},
+                   "referenceBlockId": "b35de61c",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "684920f1",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_table",
+                   "mobileStyles": {},
+                   "referenceBlockId": "7e6d2d36",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_table",
+                 "mobileStyles": {},
+                 "referenceBlockId": "ba394903",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_table",
+               "isRepeaterBlock": true,
+               "mobileStyles": {},
+               "referenceBlockId": "876f4599",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "loupe_table",
+             "isRepeaterBlock": true,
+             "mobileStyles": {},
+             "referenceBlockId": "730472e7",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "a5c7524d",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "loupe_table",
+             "mobileStyles": {},
+             "referenceBlockId": "709ecbc1",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "extendedFromComponent": "loupe_table",
+           "mobileStyles": {},
+           "props": {
+            "caption": {
+             "comesFrom": null,
+             "isDynamic": false,
+             "isPassedDown": true,
+             "isStandard": true,
+             "label": "Caption under the table",
+             "propOptions": {
+              "dependencies": {},
+              "isRequired": false,
+              "options": {
+               "defaultValue": ""
+              },
+              "type": "string"
+             },
+             "value": ""
+            },
+            "head": {
+             "comesFrom": null,
+             "isDynamic": false,
+             "isPassedDown": true,
+             "isStandard": true,
+             "label": "Head (cells separated by |)",
+             "propOptions": {
+              "dependencies": {},
+              "isRequired": false,
+              "options": {
+               "defaultValue": "When | What goes out | Sample line"
+              },
+              "type": "string"
+             },
+             "value": "Feature | Solo | Studio | Team"
+            },
+            "rows": {
+             "comesFrom": null,
+             "isDynamic": false,
+             "isPassedDown": true,
+             "isStandard": true,
+             "label": "Rows (cells separated by |)",
+             "propOptions": {
+              "dependencies": {},
+              "isRequired": false,
+              "options": {
+               "defaultValue": [
+                "On sending | The invoice | “Here is invoice 0142 for the tumblers.”",
+                "Day 7 | A polite nudge | “A reminder that 0142 was due last Friday.”",
+                "Day 14 | A firmer note | “Invoice 0142 is now two weeks late.”",
+                "Day 21 | A copy to you | “Time to call Harbour Café?”"
+               ]
+              },
+              "type": "array"
+             },
+             "value": "[\"Clients | 3 | 25 | Unlimited\", \"Seats | 1 | 2 | 10\", \"Send from your own domain | No | Yes | Yes\", \"Approval before sending | No | No | Yes\", \"Card fee | 2.9% + 30\\u00a2 | 2.5% + 30\\u00a2 | 2.2% + 30\\u00a2\"]"
+            },
+            "variant": {
+             "comesFrom": null,
+             "isDynamic": false,
+             "isPassedDown": true,
+             "isStandard": true,
+             "label": "Style (days: a schedule; plans: a comparison)",
+             "propOptions": {
+              "dependencies": {},
+              "isRequired": false,
+              "options": {
+               "defaultValue": "days",
+               "options": [
+                "days",
+                "plans"
+               ]
+              },
+              "type": "select"
+             },
+             "value": "plans"
+            }
+           },
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {
+        "aria-labelledby": "compare-h",
+        "id": "compare"
+       },
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "56px",
+        "paddingTop": "72px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "80px",
+        "paddingTop": "96px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--f2e74aec-c541-4aa0-99ad-c5b059a19467)",
+        "boxSizing": "border-box",
+        "paddingBottom": "120px",
+        "paddingTop": "120px",
+        "width": "100%"
+       },
+       "blockId": "ef375ce2",
+       "blockName": "Where the card fees go",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "boxSizing": "border-box",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "width": "100%"
+         },
+         "blockId": "bf2382de",
+         "blockName": "Fees wrap",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "center",
+            "columnGap": "32px",
+            "display": "grid",
+            "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+            "rowGap": "40px"
+           },
+           "blockId": "ec845997",
+           "blockName": "Grid",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "display": "grid",
+              "gap": "24px",
+              "gridColumn": "1 / 6",
+              "minWidth": "0"
+             },
+             "blockId": "55bb9aaf",
+             "blockName": "Text",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--4868bcaa-9a0d-4224-95ec-31860559a344)",
+                "fontFamily": "var(--212cdced-9c91-4ed8-a6b8-53fc46c49e17)",
+                "fontSize": "clamp(2.5rem, 3.6vw + 1rem, 5rem)",
+                "fontStretch": "75%",
+                "fontWeight": "700",
+                "letterSpacing": "-0.012em",
+                "lineHeight": "0.95",
+                "margin": "0",
+                "maxWidth": "9ch",
+                "minWidth": "0",
+                "overflowWrap": "break-word",
+                "textWrap": "balance"
+               },
+               "blockId": "4b51a694",
+               "blockName": "Heading",
+               "children": [],
+               "classes": [],
+               "customAttributes": {
+                "id": "fees-h"
+               },
+               "element": "h2",
+               "innerHTML": "Where the card fees go",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--32b40215-62c2-47b5-8707-7031bec28792)",
+                "fontFamily": "var(--247eeec3-b414-49dd-b438-469dec91918a)",
+                "fontSize": "clamp(1.125rem, 0.35vw + 1rem, 1.375rem)",
+                "fontWeight": "400",
+                "lineHeight": "1.45",
+                "margin": "0",
+                "maxWidth": "52ch",
+                "textWrap": "pretty"
+               },
+               "blockId": "bd46211f",
+               "blockName": "Lead",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "They come off each payout, and every payout shows them.",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "borderTopColor": "var(--8061d500-2ac3-437b-b5d2-926e5369e2ea)",
+                "borderTopStyle": "solid",
+                "borderTopWidth": "1px",
+                "color": "var(--32b40215-62c2-47b5-8707-7031bec28792)",
+                "fontFamily": "var(--247eeec3-b414-49dd-b438-469dec91918a)",
+                "fontSize": "17px",
+                "fontWeight": "400",
+                "lineHeight": "1.55",
+                "margin": "0",
+                "maxWidth": "38ch",
+                "paddingTop": "16px",
+                "textWrap": "pretty"
+               },
+               "blockId": "5a003fe0",
+               "blockName": "Sum",
+               "children": [],
+               "classes": [
+                "lp-fig"
+               ],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "On Solo, a $1,485.00 card payment costs $43.37: 2.9% plus 30¢.",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "tabletStyles": {
+              "gridColumn": "1 / -1"
+             }
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "gridColumn": "7 / 13"
+             },
+             "blockId": "a607c037",
+             "blockName": "Payout plate",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "16e55118",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "1e3f8cf4",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "8bd11488",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "7858e124",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "c92a2c44",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "6c60ee6b",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "bf543a21",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "69f9b9a5",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "12490156",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "783b63a7",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "7d1ab9b9",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "23423093",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "8a8b3050",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "f92ee17d",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "cbaf74e9",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "77bc5c57",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "7aedc6da",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "88dba09f",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "1d19dee6",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "94640e7a",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "429b5d3e",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "16e5648d",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "ebd63dcd",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "3fd8eb36",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "0ba2982a",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "659c8f4a",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "a2a418b8",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "3a8fd318",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "a911bdd0",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "b68a2e08",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "b33e1e36",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "eff3db42",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "d6ecc4fa",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "c1b1faf6",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "4f7d3cbe",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "f7fa8968",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "2a6bd8bb",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "a7820733",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "c3a01c3d",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "1121603d",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "acaab5fe",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "7673a2cf",
+                           "tabletStyles": {}
+                          },
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "38c6b6bf",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "2d9954a2",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "1e573b94",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "dceca794",
+                           "tabletStyles": {}
+                          },
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "c4c55ad0",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "b32f6fa8",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "7c515c86",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "9b5d0fd5",
+                           "tabletStyles": {}
+                          },
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "2a296605",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "3cd9cb46",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "66b6f15f",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "48943ecd",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "6d4020cc",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "520a4c2a",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "12917b4c",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "6b728f7a",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "e6d7d803",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "fa0698c1",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "c8067ac1",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "b431f112",
+                           "tabletStyles": {}
+                          },
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "c09cae76",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "91c7ecac",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "5ac2ac5e",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "c044991a",
+                           "tabletStyles": {}
+                          },
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "1b5e78e2",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "ff46eb9e",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "5a5674a7",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "eda70c56",
+                           "tabletStyles": {}
+                          },
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "bd912b5a",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "63ed28dc",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "16a705e7",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "8e86eecd",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "151acd32",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "82c8cdf8",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "124e6de1",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "0255dafa",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "ccdb706e",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "65ed487b",
+                           "tabletStyles": {}
+                          },
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "7453c6d5",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "ab17960a",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "c5c4b355",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "b3c2f2c6",
+                           "tabletStyles": {}
+                          },
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "e4623abc",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "90e92d2d",
+                             "children": [
+                              {
+                               "attributes": {},
+                               "baseStyles": {},
+                               "blockId": "cbe67e60",
+                               "children": [],
+                               "classes": [],
+                               "customAttributes": {},
+                               "isChildOfComponent": "loupe_plate",
+                               "mobileStyles": {},
+                               "referenceBlockId": "d3adc101",
+                               "tabletStyles": {}
+                              },
+                              {
+                               "attributes": {},
+                               "baseStyles": {},
+                               "blockId": "befdb4ea",
+                               "children": [],
+                               "classes": [],
+                               "customAttributes": {},
+                               "isChildOfComponent": "loupe_plate",
+                               "mobileStyles": {},
+                               "referenceBlockId": "7a6b90c8",
+                               "tabletStyles": {}
+                              }
+                             ],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "ba839451",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "70f737a9",
+                           "tabletStyles": {}
+                          },
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "988bcac7",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "e45b8e7e",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "632cb14d",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "2d35587f",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "e840076e",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "d7c6900a",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "98417514",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "c58ba292",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "f624b3a8",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "3bd344f5",
+                           "tabletStyles": {}
+                          },
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "ab11f557",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "1bf3ffb7",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "33c231c0",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "559a6d0d",
+                           "tabletStyles": {}
+                          },
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "5d747002",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "da7114fa",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "407dc734",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "1a333531",
+                           "tabletStyles": {}
+                          },
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "4c59dd85",
+                           "children": [
+                            {
+                             "attributes": {},
+                             "baseStyles": {},
+                             "blockId": "386d8dd2",
+                             "children": [],
+                             "classes": [],
+                             "customAttributes": {},
+                             "isChildOfComponent": "loupe_plate",
+                             "mobileStyles": {},
+                             "referenceBlockId": "a5365bc6",
+                             "tabletStyles": {}
+                            }
+                           ],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "732cea2b",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "866066cc",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "37b69bd2",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "81aa02d0",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "15204f08",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "9726dbf3",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "4dfd88fa",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "12cb7722",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "37087ad4",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "3784dc70",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "cf296bc1",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "c7b6bd0a",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "f394af82",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "a5abf0a1",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "e153aeba",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "a568307b",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "a25ddcfa",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "9e7df870",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "2a6af8e2",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "dd291087",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_plate",
+                   "mobileStyles": {},
+                   "referenceBlockId": "1920cec8",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "014e5e24",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "a64a09ae",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "fe09aad9",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "a08109d7",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "869a2204",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "c2064407",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "ac13f853",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "faa7b9c1",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "af4084db",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "f40d3ef4",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "bede48f1",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "f5507293",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "472a7f75",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "62d161ed",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "13d466bb",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "dc684f15",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "33ba86ba",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "e0e96963",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "b4fd2309",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "22505c05",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "86a0d8bc",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "f188a6df",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "2eaff71f",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "375b434b",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "b1af246d",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "0df90ca1",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "d135c2e4",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "4be564a6",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "807ae925",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "62d2d798",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "03ba4eeb",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "7e12d2fe",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "91d9e5b1",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "4e95bb60",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "6b2660bc",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "a4bbacb8",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "6125fd97",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "08c8fb67",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "9afd2962",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "f52075f3",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "7e3ffb1b",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_plate",
+                   "mobileStyles": {},
+                   "referenceBlockId": "0c980e5a",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "dfc663b8",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "fd7ad49c",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "176fd5c5",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "88e8fd2e",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "7bcbecb4",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "5a5e6033",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "617acc42",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "c3e26f43",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "5f45ac3c",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "51bf187a",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "2d72b72f",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "e77fb0a3",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "4663adeb",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "6752f6d0",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "d9c51907",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "f00b20a8",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "1d6fdee8",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "ab2a1e1e",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "194547c1",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "cc5f793f",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "d4e7dfc8",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "2fc87e71",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "1b670508",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "14cb5900",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "e7386f57",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "8126adb1",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "de21f4ed",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "04ac6e9a",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "e3f33e8a",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "05314a5d",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "03064aa9",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "033c99dd",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "fdd17b55",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "40700d51",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "1843dc77",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "00aae1b8",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "467e86b8",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "ba078b71",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "437dad4c",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "73e99a6a",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "2721ac02",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "e4bd7d76",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "0ff24fb8",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "4317d0e9",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "6eb5a9d0",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "ac572569",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "f38e63e8",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "ee87dc6e",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "f722b820",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "521bf947",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "8dbb5504",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "7984779d",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "68dcad70",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "97fe1427",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "1122db4a",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_plate",
+                   "mobileStyles": {},
+                   "referenceBlockId": "3aa86987",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "e2c550bb",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "04bb1683",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "0aaccaa0",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "53d5d723",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "a0455cb5",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "53110b61",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "0898e6fb",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "f11bb4dd",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "cee184fe",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "16aca781",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "260f7496",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "55d44fde",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "eeff2b1e",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "c141ec8c",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "adbaeaa0",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "38075509",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "65d43b8d",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "3ae01d36",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "99bc0d09",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "54885f9c",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "ff623a8a",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "5b6173d9",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "c2c3a42c",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "737c9635",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "20ef7ed6",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "0c40e977",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "f80fda52",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "0a566dc2",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "542f5efd",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "0963f9f1",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "d0d8cc98",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "97acf2f4",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "8cfd6441",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "80b1d71d",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "de15710c",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "loupe_plate",
+                           "mobileStyles": {},
+                           "referenceBlockId": "d04cd57e",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "loupe_plate",
+                         "mobileStyles": {},
+                         "referenceBlockId": "fe2c2a04",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_plate",
+                       "mobileStyles": {},
+                       "referenceBlockId": "00655961",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "0ab9aac5",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "7b8a53dd",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_plate",
+                     "mobileStyles": {},
+                     "referenceBlockId": "6269bf4e",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_plate",
+                   "mobileStyles": {},
+                   "referenceBlockId": "f10f4768",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_plate",
+                 "mobileStyles": {},
+                 "referenceBlockId": "dab2c251",
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "16ea567c",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_plate",
+                 "mobileStyles": {},
+                 "referenceBlockId": "d4f4cd45",
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "9a280924",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_plate",
+                 "mobileStyles": {},
+                 "referenceBlockId": "5c95fe50",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_plate",
+               "mobileStyles": {},
+               "referenceBlockId": "dc18b6c3",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "6ead4df2",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "ef268eb9",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_plate",
+                 "mobileStyles": {},
+                 "referenceBlockId": "bac7dd6d",
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "32882820",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_plate",
+                 "mobileStyles": {},
+                 "referenceBlockId": "8b436dd8",
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "93762c83",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_plate",
+                 "mobileStyles": {},
+                 "referenceBlockId": "ba74ec89",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_plate",
+               "mobileStyles": {},
+               "referenceBlockId": "41529b55",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "figure",
+             "extendedFromComponent": "loupe_plate",
+             "mobileStyles": {},
+             "props": {
+              "caption": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Caption (the zoom follows it)",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": "The invoice editor, shown at"
+                },
+                "type": "string"
+               },
+               "value": "A payout, shown at"
+              },
+              "caption_end": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Caption after the zoom",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": "."
+                },
+                "type": "string"
+               },
+               "value": ". Sample figures."
+              },
+              "doc": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Document",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": "editor",
+                 "options": [
+                  "editor",
+                  "clients",
+                  "email",
+                  "payout"
+                 ]
+                },
+                "type": "select"
+               },
+               "value": "payout"
+              },
+              "focus": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Point at the frame's centre (x% y%)",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": "50% 50%"
+                },
+                "type": "string"
+               },
+               "value": "50% 50%"
+              },
+              "ratio": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Frame ratio",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": "16/10",
+                 "options": [
+                  "16/10",
+                  "4/3",
+                  "21/9",
+                  "16/9",
+                  "1/1"
+                 ]
+                },
+                "type": "select"
+               },
+               "value": "16/10"
+              },
+              "rotation": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Paper rotation (degrees)",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": -1,
+                 "maxValue": 8,
+                 "minValue": -8
+                },
+                "type": "number"
+               },
+               "value": -1.5
+              },
+              "width": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Document width (em)",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": 40,
+                 "maxValue": 60,
+                 "minValue": 20
+                },
+                "type": "number"
+               },
+               "value": 28
+              },
+              "zoom": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Magnification",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": 2,
+                 "maxValue": 4,
+                 "minValue": 1
+                },
+                "type": "number"
+               },
+               "value": 2.6
+              }
+             },
+             "tabletStyles": {
+              "gridColumn": "1 / -1"
+             }
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "columnGap": "16px"
+           },
+           "tabletStyles": {
+            "gridTemplateColumns": "minmax(0, 1fr)"
+           }
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {
+        "aria-labelledby": "fees-h"
+       },
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "56px",
+        "paddingTop": "56px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "80px",
+        "paddingTop": "80px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "boxSizing": "border-box",
+        "paddingBottom": "144px",
+        "paddingTop": "176px",
+        "width": "100%"
+       },
+       "blockId": "9c43d557",
+       "blockName": "Billing questions",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "boxSizing": "border-box",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "width": "100%"
+         },
+         "blockId": "23828823",
+         "blockName": "Questions wrap",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "start",
+            "columnGap": "32px",
+            "display": "grid",
+            "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+            "rowGap": "64px"
+           },
+           "blockId": "0122866e",
+           "blockName": "Grid",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--4868bcaa-9a0d-4224-95ec-31860559a344)",
+              "fontFamily": "var(--212cdced-9c91-4ed8-a6b8-53fc46c49e17)",
+              "fontSize": "clamp(2.5rem, 3.6vw + 1rem, 5rem)",
+              "fontStretch": "75%",
+              "fontWeight": "700",
+              "gridColumn": "1 / 5",
+              "letterSpacing": "-0.012em",
+              "lineHeight": "0.95",
+              "margin": "0",
+              "maxWidth": "8ch",
+              "minWidth": "0",
+              "overflowWrap": "break-word",
+              "textWrap": "balance"
+             },
+             "blockId": "36997a00",
+             "blockName": "Heading",
+             "children": [],
+             "classes": [],
+             "customAttributes": {
+              "id": "qa-h"
+             },
+             "element": "h2",
+             "innerHTML": "Billing questions",
+             "mobileStyles": {},
+             "tabletStyles": {
+              "gridColumn": "1 / -1"
+             }
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "gridColumn": "5 / 13"
+             },
+             "blockId": "292ad078",
+             "blockName": "Billing questions",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "9e6b97d8",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "920d32ae",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "6aa34e0a",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "fccbaedc",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "3aa877e3",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_faq",
+                       "mobileStyles": {},
+                       "referenceBlockId": "f62293e5",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "20359cfb",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_faq",
+                       "mobileStyles": {},
+                       "referenceBlockId": "439fb1f8",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_faq",
+                     "mobileStyles": {},
+                     "referenceBlockId": "cf8616f4",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "52f0f321",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_faq",
+                     "mobileStyles": {},
+                     "referenceBlockId": "cf10aadf",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_faq",
+                   "mobileStyles": {},
+                   "referenceBlockId": "ff7631bd",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "da87d0f8",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "2263d3ff",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "d9061f85",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_faq",
+                       "mobileStyles": {},
+                       "referenceBlockId": "a0ddf74b",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "a5419883",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "loupe_faq",
+                       "mobileStyles": {},
+                       "referenceBlockId": "ba5e47e0",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_faq",
+                     "mobileStyles": {},
+                     "referenceBlockId": "1b2ee6d8",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "af009041",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_faq",
+                     "mobileStyles": {},
+                     "referenceBlockId": "18dd37d0",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_faq",
+                   "mobileStyles": {},
+                   "referenceBlockId": "1eed0657",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_faq",
+                 "mobileStyles": {},
+                 "referenceBlockId": "bf90179f",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_faq",
+               "isRepeaterBlock": true,
+               "mobileStyles": {},
+               "referenceBlockId": "8253d0d2",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "extendedFromComponent": "loupe_faq",
+             "mobileStyles": {},
+             "tabletStyles": {
+              "gridColumn": "1 / -1"
+             }
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "columnGap": "16px"
+           },
+           "tabletStyles": {
+            "gridTemplateColumns": "minmax(0, 1fr)"
+           }
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {
+        "aria-labelledby": "qa-h",
+        "id": "questions"
+       },
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "72px",
+        "paddingTop": "96px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "96px",
+        "paddingTop": "120px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "c6e6cbca",
+       "blockName": "Close",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "d7f2e716",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "a5e11536",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "125b5f35",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "19766e5d",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_close",
+               "mobileStyles": {},
+               "referenceBlockId": "c2dbe320",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "07d6c76d",
+               "children": [
+                {
+                 "attributes": {
+                  "href": "#plans"
+                 },
+                 "baseStyles": {},
+                 "blockId": "937d258e",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {
+                  "data-scroll-behavior": "instant"
+                 },
+                 "isChildOfComponent": "loupe_close",
+                 "mobileStyles": {},
+                 "referenceBlockId": "lcl-start",
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "ec808727",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_close",
+                 "mobileStyles": {},
+                 "referenceBlockId": "15ed6eaf",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_close",
+               "mobileStyles": {},
+               "referenceBlockId": "9642d043",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "loupe_close",
+             "mobileStyles": {},
+             "referenceBlockId": "251b85df",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "35096fb3",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "4f225013",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "d84f7a62",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "56315196",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_close",
+                   "mobileStyles": {},
+                   "referenceBlockId": "cc7029da",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "65b69094",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_close",
+                   "mobileStyles": {},
+                   "referenceBlockId": "b43fcc18",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_close",
+                 "mobileStyles": {},
+                 "referenceBlockId": "7af90929",
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "6695cc96",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "2d1ada98",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "ff9cceaa",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_close",
+                     "mobileStyles": {},
+                     "referenceBlockId": "bbbe9e3e",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "c8d1f433",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "loupe_close",
+                     "mobileStyles": {},
+                     "referenceBlockId": "61c8321d",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "loupe_close",
+                   "mobileStyles": {},
+                   "referenceBlockId": "7679c855",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "loupe_close",
+                 "mobileStyles": {},
+                 "referenceBlockId": "0113ea5a",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_close",
+               "mobileStyles": {},
+               "referenceBlockId": "820eb407",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "loupe_close",
+             "mobileStyles": {},
+             "referenceBlockId": "81249404",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "loupe_close",
+           "mobileStyles": {},
+           "referenceBlockId": "f266502c",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "loupe_close",
+         "mobileStyles": {},
+         "referenceBlockId": "680f2789",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "section",
+       "extendedFromComponent": "loupe_close",
+       "mobileStyles": {},
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {
+      "id": "main"
+     },
+     "element": "main",
+     "mobileStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "1f9d7a2c",
+     "blockName": "Loupe Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "77d27fd4",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "92a29b6b",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "loupe_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "e3b81d14",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "d1089184",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "89f48f86",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "325ec2b8",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "12c37d8a",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_footer",
+               "mobileStyles": {},
+               "referenceBlockId": "3c2d2043",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "loupe_footer",
+             "mobileStyles": {},
+             "referenceBlockId": "2cee3137",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "3e328b6c",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "8d30b618",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_footer",
+               "mobileStyles": {},
+               "referenceBlockId": "699c6046",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "loupe_footer",
+             "mobileStyles": {},
+             "referenceBlockId": "1c19650b",
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "ddd27e7a",
+             "children": [
+              {
+               "attributes": {
+                "href": "home#faq"
+               },
+               "baseStyles": {},
+               "blockId": "a5e064ac",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "loupe_footer",
+               "mobileStyles": {},
+               "referenceBlockId": "lfo-questions",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "loupe_footer",
+             "mobileStyles": {},
+             "referenceBlockId": "b70dee0b",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "loupe_footer",
+           "mobileStyles": {},
+           "referenceBlockId": "72d19ba2",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "5066d718",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "loupe_footer",
+           "mobileStyles": {},
+           "referenceBlockId": "58749712",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "loupe_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "47241ad3",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "display": "none"
+         },
+         "blockId": "ff7f648a",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "f46411ce",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "loupe_footer",
+           "mobileStyles": {},
+           "referenceBlockId": "a1aecf49",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "466c15db",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "loupe_footer",
+           "mobileStyles": {},
+           "referenceBlockId": "b5071755",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "2a5a2fb5",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "loupe_footer",
+           "mobileStyles": {},
+           "referenceBlockId": "lfo-credit-end",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "loupe_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "lfo-credits",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "loupe_footer",
+       "mobileStyles": {},
+       "referenceBlockId": "ec060506",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "footer",
+     "extendedFromComponent": "loupe_footer",
+     "mobileStyles": {},
+     "props": {
+      "current": {
+       "comesFrom": null,
+       "isDynamic": false,
+       "isPassedDown": true,
+       "isStandard": true,
+       "label": "Current page",
+       "propOptions": {
+        "dependencies": {},
+        "isRequired": false,
+        "options": {
+         "defaultValue": "home",
+         "options": [
+          "home",
+          "tour",
+          "pricing"
+         ]
+        },
+        "type": "select"
+       },
+       "value": "pricing"
+      }
+     },
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "loupe_styles"
+  }
+ ],
+ "creation": "2026-11-18 00:57:18.286219",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "head_html": "",
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Paidwell plans from free to $29 a month, priced by clients rather than invoices, with the card fee shown on every payout.",
+ "modified": "2026-11-18 12:52:05.680952",
+ "modified_by": "Administrator",
+ "name": "loupe_pricing",
+ "owner": "Administrator",
+ "page_data_script": "",
+ "page_name": "loupe_pricing",
+ "page_title": "Pricing | Paidwell",
+ "preview": "/builder_assets/loupe/loupe_pricing/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/loupe/pricing",
+ "staging": 0,
+ "template_group": "loupe"
+}
