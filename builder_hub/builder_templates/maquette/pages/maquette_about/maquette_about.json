@@ -1,0 +1,2076 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "stretch",
+    "backgroundColor": "var(--920484c4-1f75-4ade-98f7-ab856bb4d11c)",
+    "color": "var(--3777025d-c4f6-4fb0-b2fb-3190383c9775)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "flexWrap": "nowrap",
+    "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+    "fontSize": "16px",
+    "lineHeight": "1.55",
+    "minHeight": "100dvh"
+   },
+   "blockId": "root",
+   "blockName": "Body",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "d2fb3a12",
+     "blockName": "Nav",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "4a54a152",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "maquette_nav",
+       "mobileStyles": {},
+       "referenceBlockId": "118b9a3f",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "e68534d7",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "4927d465",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_nav",
+         "mobileStyles": {},
+         "referenceBlockId": "2653fa55",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "03058aa5",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "97f87c64",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "maquette_nav",
+           "mobileStyles": {},
+           "referenceBlockId": "e003a89f",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_nav",
+         "isRepeaterBlock": true,
+         "mobileStyles": {},
+         "referenceBlockId": "58c8d2c4",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "2d12daaf",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_nav",
+         "mobileStyles": {},
+         "referenceBlockId": "33748d1d",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "maquette_nav",
+       "mobileStyles": {},
+       "referenceBlockId": "53adf4d0",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "header",
+     "extendedFromComponent": "maquette_nav",
+     "mobileStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "minWidth": "0px",
+      "width": "100%"
+     },
+     "blockId": "a43b4dc8",
+     "blockName": "Main",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "alignContent": "center",
+        "boxSizing": "border-box",
+        "color": "var(--263b2467-4171-4ee6-9158-d9a0601e7f68)",
+        "display": "grid",
+        "isolation": "isolate",
+        "minHeight": "calc(100dvh - 72px)",
+        "overflow": "clip",
+        "paddingBottom": "96px",
+        "paddingTop": "96px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "660acbf5",
+       "blockName": "About hero",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--69e3ef10-97f2-414e-a7f6-f55bdaa707b5)",
+          "bottom": "0px",
+          "left": "0px",
+          "pointerEvents": "none",
+          "position": "absolute",
+          "right": "0px",
+          "top": "0px",
+          "zIndex": "-1"
+         },
+         "blockId": "a8cdd017",
+         "blockName": "Room light",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundImage": "linear-gradient(118deg, color-mix(in oklab, var(--938d18c8-2902-46db-80b0-59cbba9b9bdf) 9%, transparent) 9%, transparent 61%), url(\"/builder_assets/maquette/air.webp\")",
+            "backgroundSize": "100% 100%, cover",
+            "bottom": "-10%",
+            "left": "-20%",
+            "maskImage": "linear-gradient(118deg, var(--a26a5991-5a44-439c-8a25-1356a27b9467) 14%, transparent 77%)",
+            "opacity": "0.55",
+            "pointerEvents": "none",
+            "position": "absolute",
+            "right": "0%",
+            "top": "-10%"
+           },
+           "blockId": "c0002f34",
+           "blockName": "Warm light",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundImage": "url(\"/builder_assets/maquette/room-grain.png\")",
+            "backgroundSize": "180px 180px",
+            "bottom": "0px",
+            "left": "0px",
+            "pointerEvents": "none",
+            "position": "absolute",
+            "right": "0px",
+            "top": "0px"
+           },
+           "blockId": "6a768f93",
+           "blockName": "Grain",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {
+          "aria-hidden": "true"
+         },
+         "element": "div",
+         "mobileStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--ad044a22-d20c-42c6-90b7-1ae39d4c2f5d)",
+          "bottom": "0px",
+          "left": "calc(50% + 16px)",
+          "margin": "0px",
+          "overflow": "hidden",
+          "position": "absolute",
+          "right": "0px",
+          "top": "0px",
+          "zIndex": "0"
+         },
+         "blockId": "526c6ca1",
+         "blockName": "Workshop building",
+         "children": [
+          {
+           "attributes": {
+            "alt": "A brick factory hall with a sawtooth roof and tall steel windows on a paved square at Dok Noord, Ghent",
+            "decoding": "async",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dok_noord_Gent.jpg/1280px-Dok_noord_Gent.jpg"
+           },
+           "baseStyles": {
+            "bottom": "0px",
+            "display": "block",
+            "filter": "sepia(0.28) saturate(0.89) contrast(0.94)",
+            "height": "100%",
+            "left": "0px",
+            "objectFit": "cover",
+            "objectPosition": "28% 50%",
+            "outlineColor": "color-mix(in oklab, var(--a26a5991-5a44-439c-8a25-1356a27b9467) 8%, transparent)",
+            "outlineOffset": "-1px",
+            "outlineStyle": "solid",
+            "outlineWidth": "1px",
+            "position": "absolute",
+            "right": "0px",
+            "top": "0px",
+            "width": "100%"
+           },
+           "blockId": "722001ab",
+           "blockName": "Photo",
+           "children": [],
+           "classes": [
+            "mq-photo"
+           ],
+           "customAttributes": {
+            "fetchpriority": "high",
+            "height": "960",
+            "width": "1280"
+           },
+           "element": "img",
+           "mobileStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "figure",
+         "mobileStyles": {
+          "marginLeft": "16px",
+          "marginRight": "16px"
+         },
+         "tabletStyles": {
+          "aspectRatio": "4/3",
+          "bottom": "auto",
+          "left": "auto",
+          "marginLeft": "24px",
+          "marginRight": "24px",
+          "order": "2",
+          "position": "relative",
+          "right": "auto",
+          "top": "auto"
+         }
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "boxSizing": "border-box",
+          "columnGap": "32px",
+          "display": "grid",
+          "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "position": "relative",
+          "width": "100%",
+          "zIndex": "1"
+         },
+         "blockId": "f0602b3f",
+         "blockName": "Hero grid",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "grid",
+            "gridColumn": "1 / 7",
+            "justifyItems": "start",
+            "minWidth": "0px",
+            "rowGap": "24px"
+           },
+           "blockId": "aed3089a",
+           "blockName": "Words",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--938d18c8-2902-46db-80b0-59cbba9b9bdf)",
+              "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+              "fontSize": "clamp(44px, 4vw + 16px, 76px)",
+              "fontWeight": "300",
+              "letterSpacing": "-0.024em",
+              "lineHeight": "1.02",
+              "margin": "0px",
+              "maxWidth": "none"
+             },
+             "blockId": "82a27602",
+             "blockName": "Headline",
+             "children": [],
+             "classes": [],
+             "customAttributes": {
+              "id": "about-head"
+             },
+             "element": "h1",
+             "innerHTML": "One designer,<br> <span style=\"white-space: nowrap\">one model-maker</span> on&nbsp;call.",
+             "mobileStyles": {
+              "fontSize": "clamp(36px, 9vw + 8px, 42px)"
+             },
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--263b2467-4171-4ee6-9158-d9a0601e7f68)",
+              "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+              "fontSize": "clamp(18px, 0.35vw + 16px, 22px)",
+              "fontWeight": "400",
+              "lineHeight": "1.45",
+              "margin": "0px",
+              "maxWidth": "28ch"
+             },
+             "blockId": "36c89b6b",
+             "blockName": "Lead",
+             "children": [],
+             "classes": [
+              "mq-copy"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "I work from a shared workshop by the docks in Ghent.",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "marginTop": "8px"
+             },
+             "blockId": "b75cf791",
+             "blockName": "Actions",
+             "children": [
+              {
+               "attributes": {
+                "href": "#rates"
+               },
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "transparent",
+                "borderColor": "var(--938d18c8-2902-46db-80b0-59cbba9b9bdf)",
+                "borderRadius": "3px",
+                "borderStyle": "solid",
+                "borderWidth": "1px",
+                "boxSizing": "border-box",
+                "color": "var(--938d18c8-2902-46db-80b0-59cbba9b9bdf)",
+                "display": "inline-flex",
+                "flexShrink": "0",
+                "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "justifyContent": "center",
+                "lineHeight": "1",
+                "minHeight": "48px",
+                "paddingLeft": "24px",
+                "paddingRight": "24px",
+                "textDecorationLine": "none",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "28fa2e06",
+               "blockName": "Rates button",
+               "children": [],
+               "classes": [
+                "mq-btn",
+                "mq-btn-lit"
+               ],
+               "customAttributes": {
+                "data-scroll-behavior": "instant"
+               },
+               "element": "a",
+               "innerHTML": "See the rates",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "columnGap": "16px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "order": "1",
+          "paddingBottom": "40px",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingTop": "40px"
+         }
+        }
+       ],
+       "classes": [
+        "mq-on-ink"
+       ],
+       "customAttributes": {
+        "aria-labelledby": "about-head"
+       },
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "64px"
+       },
+       "tabletStyles": {
+        "display": "flex",
+        "flexDirection": "column",
+        "minHeight": "0px",
+        "paddingBottom": "64px",
+        "paddingTop": "0px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "boxSizing": "border-box",
+        "paddingBottom": "0px",
+        "paddingTop": "144px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "99403207",
+       "blockName": "Story",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "boxSizing": "border-box",
+          "columnGap": "32px",
+          "display": "grid",
+          "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "width": "100%"
+         },
+         "blockId": "3127df6d",
+         "blockName": "Story container",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "clipPath": "inset(50%)",
+            "height": "1px",
+            "margin": "0px",
+            "padding": "0px",
+            "position": "absolute",
+            "whiteSpace": "nowrap",
+            "width": "1px"
+           },
+           "blockId": "e3918201",
+           "blockName": "Section name",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h2",
+           "innerHTML": "Before the workshop",
+           "mobileStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "gridColumn": "1 / 11",
+            "minWidth": "0px"
+           },
+           "blockId": "fa7e9132",
+           "blockName": "Line",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+              "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+              "fontSize": "clamp(44px, 5vw + 16px, 84px)",
+              "fontWeight": "300",
+              "letterSpacing": "-0.022em",
+              "lineHeight": "1.04",
+              "margin": "0px",
+              "maxWidth": "28ch",
+              "minWidth": "0px",
+              "overflowWrap": "break-word",
+              "textWrap": "balance"
+             },
+             "blockId": "4df58f8c",
+             "blockName": "Statement",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "I keep every sketch, and at the end of a job you get the whole box.",
+             "mobileStyles": {
+              "fontSize": "36px"
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "gridColumn": "1 / 7",
+            "marginTop": "40px",
+            "minWidth": "0px"
+           },
+           "blockId": "056fb102",
+           "blockName": "Background",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--3777025d-c4f6-4fb0-b2fb-3190383c9775)",
+              "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+              "fontSize": "clamp(18px, 0.35vw + 16px, 22px)",
+              "fontWeight": "400",
+              "lineHeight": "1.5",
+              "margin": "0px",
+              "maxWidth": "36ch"
+             },
+             "blockId": "5b1cc1f8",
+             "blockName": "Lead",
+             "children": [],
+             "classes": [
+              "mq-copy"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Before going independent I spent eight years drawing lamps for a lighting company.",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "gridColumn": "1 / -1",
+            "marginTop": "64px",
+            "minWidth": "0px"
+           },
+           "blockId": "8fa0d3d2",
+           "blockName": "Studio",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "ea06bcc1",
+             "blockName": "Studio facts",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "39eac5c0",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "2bf1ea31",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "162eb047",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "508dd699",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_facts",
+                     "mobileStyles": {},
+                     "referenceBlockId": "13894ff3",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_facts",
+                   "mobileStyles": {},
+                   "referenceBlockId": "2c805189",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "974eb601",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "0aaa6de7",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_facts",
+                     "mobileStyles": {},
+                     "referenceBlockId": "b380d913",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_facts",
+                   "mobileStyles": {},
+                   "referenceBlockId": "31170fc8",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_facts",
+                 "mobileStyles": {},
+                 "referenceBlockId": "008e9e29",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_facts",
+               "isRepeaterBlock": true,
+               "mobileStyles": {},
+               "referenceBlockId": "73ef01bb",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "extendedFromComponent": "maquette_facts",
+             "mobileStyles": {},
+             "props": {
+              "facts": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Facts (Label | Value)",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": [
+                  "Client | Kwastlicht",
+                  "Role | The lamp and its app",
+                  "Team | Ilse, one engineer, one model-maker",
+                  "Shipped | October 2025"
+                 ]
+                },
+                "type": "array"
+               },
+               "value": "[\"Studio | Dok Noord, Ghent\", \"Since | 2014\", \"Languages | Dutch, English, French\", \"Works with | A model-maker and your engineers\"]"
+              },
+              "layout": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Layout",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": "rows",
+                 "options": [
+                  "rows",
+                  "ledger",
+                  "stack",
+                  "ink",
+                  "cells"
+                 ]
+                },
+                "type": "select"
+               },
+               "value": "cells"
+              }
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "columnGap": "16px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "0px",
+        "paddingTop": "72px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "0px",
+        "paddingTop": "96px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "boxSizing": "border-box",
+        "paddingBottom": "144px",
+        "paddingTop": "176px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "5dbcf6fb",
+       "blockName": "How a project runs",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "start",
+          "boxSizing": "border-box",
+          "columnGap": "32px",
+          "display": "grid",
+          "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "rowGap": "40px",
+          "width": "100%"
+         },
+         "blockId": "3c4e461f",
+         "blockName": "Process container",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "grid",
+            "gridColumn": "1 / 5",
+            "minWidth": "0px",
+            "paddingTop": "24px",
+            "rowGap": "16px"
+           },
+           "blockId": "335b5eb1",
+           "blockName": "Head",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+              "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+              "fontSize": "clamp(32px, 2.5vw + 16px, 56px)",
+              "fontWeight": "300",
+              "letterSpacing": "-0.018em",
+              "lineHeight": "1.05",
+              "margin": "0px",
+              "maxWidth": "9ch",
+              "textWrap": "balance"
+             },
+             "blockId": "3af4ba42",
+             "blockName": "Heading",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h2",
+             "innerHTML": "How a project runs",
+             "mobileStyles": {},
+             "tabletStyles": {
+              "maxWidth": "none"
+             }
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--3777025d-c4f6-4fb0-b2fb-3190383c9775)",
+              "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+              "fontSize": "clamp(18px, 0.35vw + 16px, 22px)",
+              "fontWeight": "400",
+              "lineHeight": "1.45",
+              "margin": "0px",
+              "maxWidth": "20ch"
+             },
+             "blockId": "314fbafd",
+             "blockName": "Lead",
+             "children": [],
+             "classes": [
+              "mq-copy"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Every stage on paper, then in your hands.",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1",
+            "paddingTop": "0px"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "gridColumn": "5 / -1",
+            "minWidth": "0px"
+           },
+           "blockId": "bf2989f1",
+           "blockName": "Steps",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "e9daab30",
+             "blockName": "Steps",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "dd571534",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "ced961c8",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "26709196",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_process",
+                   "mobileStyles": {},
+                   "referenceBlockId": "d162d03d",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "b98350f6",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_process",
+                   "mobileStyles": {},
+                   "referenceBlockId": "1d9b42d9",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "5e4f4331",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_process",
+                   "mobileStyles": {},
+                   "referenceBlockId": "66ef7530",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_process",
+                 "mobileStyles": {},
+                 "referenceBlockId": "8912d3b7",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_process",
+               "isRepeaterBlock": true,
+               "mobileStyles": {},
+               "referenceBlockId": "f34ef707",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "extendedFromComponent": "maquette_process",
+             "mobileStyles": {},
+             "props": {
+              "steps": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Steps (Title | Detail | Length)",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": [
+                  "A first call | Thirty minutes on the problem, and whether I can help. | Free",
+                  "Sketch weeks | Forty ideas on paper, three taken further, one chosen with you. | 2 to 3 weeks",
+                  "Prototypes | Working models you can hold, drop and argue with. | 6 to 10 weeks",
+                  "Factory files and handover | Drawings, tolerances and the app build for your engineers. | 4 to 8 weeks"
+                 ]
+                },
+                "type": "array"
+               },
+               "value": "[\"A first call | Thirty minutes on the problem, and whether I can help. | Free\", \"Sketch weeks | Forty ideas on paper, three taken further, one chosen with you. | 2 to 3 weeks\", \"Prototypes | Working models you can hold, drop and argue with. | 6 to 10 weeks\", \"Factory files and handover | Drawings, tolerances and the app build for your engineers. | 4 to 8 weeks\"]"
+              }
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "columnGap": "16px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {
+        "id": "process"
+       },
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "72px",
+        "paddingTop": "96px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "96px",
+        "paddingTop": "120px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--83142a6b-ca3d-4540-b8f6-71f2c66ad1ef)",
+        "boxSizing": "border-box",
+        "isolation": "isolate",
+        "paddingBottom": "120px",
+        "paddingTop": "120px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "81689616",
+       "blockName": "Rates",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundImage": "url(\"/builder_assets/maquette/well-grain.png\")",
+          "backgroundSize": "180px 180px",
+          "bottom": "0px",
+          "left": "0px",
+          "pointerEvents": "none",
+          "position": "absolute",
+          "right": "0px",
+          "top": "0px",
+          "zIndex": "-1"
+         },
+         "blockId": "672d3a58",
+         "blockName": "Grain",
+         "children": [],
+         "classes": [],
+         "customAttributes": {
+          "aria-hidden": "true"
+         },
+         "element": "div",
+         "mobileStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "boxSizing": "border-box",
+          "columnGap": "32px",
+          "display": "grid",
+          "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "rowGap": "40px",
+          "width": "100%"
+         },
+         "blockId": "3f2b5838",
+         "blockName": "Rates container",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "grid",
+            "gridColumn": "1 / 5",
+            "minWidth": "0px",
+            "rowGap": "16px"
+           },
+           "blockId": "0f288e18",
+           "blockName": "Head",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+              "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+              "fontSize": "clamp(32px, 2.5vw + 16px, 56px)",
+              "fontWeight": "300",
+              "letterSpacing": "-0.018em",
+              "lineHeight": "1.05",
+              "margin": "0px",
+              "maxWidth": "30ch",
+              "textWrap": "balance"
+             },
+             "blockId": "27aaa6e3",
+             "blockName": "Heading",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h2",
+             "innerHTML": "Rates",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--3777025d-c4f6-4fb0-b2fb-3190383c9775)",
+              "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+              "fontSize": "clamp(18px, 0.35vw + 16px, 22px)",
+              "fontWeight": "400",
+              "lineHeight": "1.45",
+              "margin": "0px",
+              "maxWidth": "18ch"
+             },
+             "blockId": "583c7df7",
+             "blockName": "Lead",
+             "children": [],
+             "classes": [
+              "mq-copy"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Fixed quotes after the first call.",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundColor": "var(--9aa35d20-c9dd-4fe9-9147-244b92906f49)",
+            "backgroundImage": "url(\"/builder_assets/maquette/fibre.png\"), linear-gradient(160deg, var(--db57bb4f-0756-44ab-b6ce-9977adc4b7b3), var(--9aa35d20-c9dd-4fe9-9147-244b92906f49) 55%, var(--8e4fdec6-d4e9-4069-8a43-a0caf2a98c78))",
+            "backgroundSize": "220px 220px, 100% 100%",
+            "borderRadius": "2px",
+            "boxShadow": "0 0 0 1px color-mix(in oklab, var(--989b286a-2cd7-417d-acfc-96dfc6f29537) 5%, transparent), 0.5px 1px 1px color-mix(in oklab, var(--989b286a-2cd7-417d-acfc-96dfc6f29537) 10%, transparent), 2px 8px 14px -8px color-mix(in oklab, var(--989b286a-2cd7-417d-acfc-96dfc6f29537) 22%, transparent), inset 1px 1px 0 color-mix(in oklab, var(--3fb4df6c-ef8d-4113-a620-a8f96f1e2030) 90%, transparent)",
+            "boxSizing": "border-box",
+            "gridColumn": "5 / -1",
+            "minWidth": "0px",
+            "paddingBottom": "64px",
+            "paddingLeft": "64px",
+            "paddingRight": "64px",
+            "paddingTop": "64px",
+            "position": "relative",
+            "textShadow": "0 1px 0 color-mix(in oklab, var(--3fb4df6c-ef8d-4113-a620-a8f96f1e2030) 90%, transparent)"
+           },
+           "blockId": "5e83733d",
+           "blockName": "Rate card",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "borderBottomColor": "var(--0c156811-e0a3-4cef-8a91-c22033b77970)",
+              "borderBottomStyle": "solid",
+              "borderBottomWidth": "1px",
+              "borderLeftColor": "var(--0c156811-e0a3-4cef-8a91-c22033b77970)",
+              "borderLeftStyle": "solid",
+              "borderLeftWidth": "1px",
+              "borderRightColor": "var(--0c156811-e0a3-4cef-8a91-c22033b77970)",
+              "borderRightStyle": "solid",
+              "borderRightWidth": "1px",
+              "borderTopColor": "var(--0c156811-e0a3-4cef-8a91-c22033b77970)",
+              "borderTopStyle": "solid",
+              "borderTopWidth": "1px",
+              "bottom": "16px",
+              "left": "16px",
+              "pointerEvents": "none",
+              "position": "absolute",
+              "right": "16px",
+              "top": "16px"
+             },
+             "blockId": "e90d79b4",
+             "blockName": "Inner frame",
+             "children": [],
+             "classes": [],
+             "customAttributes": {
+              "aria-hidden": "true"
+             },
+             "element": "div",
+             "mobileStyles": {
+              "bottom": "10px",
+              "left": "10px",
+              "right": "10px",
+              "top": "10px"
+             },
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "5d0ca339",
+             "blockName": "Rate table",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "2d6c0657",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "3d94a7c9",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "1d25c427",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "8cad1315",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "03bc5085",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_rates",
+                       "mobileStyles": {},
+                       "referenceBlockId": "47cb9992",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_rates",
+                     "mobileStyles": {},
+                     "referenceBlockId": "8f0704e6",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "22857f1d",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "8df9f99f",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_rates",
+                       "mobileStyles": {},
+                       "referenceBlockId": "07050c5f",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_rates",
+                     "mobileStyles": {},
+                     "referenceBlockId": "a862b4b2",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "b122fbac",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "2eb364bc",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_rates",
+                       "mobileStyles": {},
+                       "referenceBlockId": "bed93c9f",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_rates",
+                     "mobileStyles": {},
+                     "referenceBlockId": "e10419f7",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_rates",
+                   "mobileStyles": {},
+                   "referenceBlockId": "52b888a6",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_rates",
+                 "mobileStyles": {},
+                 "referenceBlockId": "3053222c",
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "1cff3337",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "23fe0c9e",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "03de8b09",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "326751ec",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_rates",
+                       "mobileStyles": {},
+                       "referenceBlockId": "a490731f",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_rates",
+                     "mobileStyles": {},
+                     "referenceBlockId": "3ab26554",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "2baafda1",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "0d15e390",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_rates",
+                       "mobileStyles": {},
+                       "referenceBlockId": "83ae602f",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_rates",
+                     "mobileStyles": {},
+                     "referenceBlockId": "a0573131",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "b9dfde33",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "84a48fa8",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_rates",
+                       "mobileStyles": {},
+                       "referenceBlockId": "aa579288",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_rates",
+                     "mobileStyles": {},
+                     "referenceBlockId": "0461fdb8",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_rates",
+                   "mobileStyles": {},
+                   "referenceBlockId": "6a574e0f",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_rates",
+                 "isRepeaterBlock": true,
+                 "mobileStyles": {},
+                 "referenceBlockId": "58ab7ed4",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_rates",
+               "mobileStyles": {},
+               "referenceBlockId": "e1d202fd",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "extendedFromComponent": "maquette_rates",
+             "mobileStyles": {},
+             "props": {
+              "rates": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Rates (Item | Scope | Price)",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": [
+                  "Prototype sprint | Two weeks, one working model | from €6,500",
+                  "Object, sketch to factory | 4 to 9 months | from €38,000",
+                  "Day rate | Reviews, workshops, factory visits | €720"
+                 ]
+                },
+                "type": "array"
+               },
+               "value": "[\"Prototype sprint | Two weeks, one working model | from \\u20ac6,500\", \"Object, sketch to factory | 4 to 9 months | from \\u20ac38,000\", \"Day rate | Reviews, workshops, factory visits | \\u20ac720\"]"
+              }
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1",
+            "paddingBottom": "40px",
+            "paddingLeft": "24px",
+            "paddingRight": "24px",
+            "paddingTop": "40px"
+           }
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "columnGap": "16px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {
+        "id": "rates"
+       },
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "56px",
+        "paddingTop": "56px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "80px",
+        "paddingTop": "80px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "boxSizing": "border-box",
+        "paddingBottom": "176px",
+        "paddingTop": "144px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "566c6338",
+       "blockName": "Visit",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "center",
+          "boxSizing": "border-box",
+          "columnGap": "32px",
+          "display": "grid",
+          "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "rowGap": "40px",
+          "width": "100%"
+         },
+         "blockId": "36429318",
+         "blockName": "Visit container",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "gridColumn": "1 / 8",
+            "minWidth": "0px"
+           },
+           "blockId": "3a4a449e",
+           "blockName": "Photo",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "aspectRatio": "16/9",
+              "backgroundColor": "var(--83142a6b-ca3d-4540-b8f6-71f2c66ad1ef)",
+              "backgroundImage": "linear-gradient(160deg, var(--920484c4-1f75-4ade-98f7-ab856bb4d11c), var(--83142a6b-ca3d-4540-b8f6-71f2c66ad1ef))",
+              "margin": "0px",
+              "minWidth": "0px",
+              "overflow": "hidden",
+              "position": "relative"
+             },
+             "blockId": "fd11a608",
+             "blockName": "Docks",
+             "children": [
+              {
+               "attributes": {
+                "alt": "Renovated brick warehouses across the water at Dok Noord, a blue harbour crane at the end of the quay",
+                "decoding": "async",
+                "loading": "lazy",
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dok_noord.jpg/1280px-Dok_noord.jpg"
+               },
+               "baseStyles": {
+                "bottom": "0px",
+                "display": "block",
+                "filter": "sepia(0.28) saturate(0.89) contrast(0.94)",
+                "height": "100%",
+                "left": "0px",
+                "objectFit": "cover",
+                "objectPosition": "50% 66%",
+                "outlineColor": "color-mix(in oklab, var(--a26a5991-5a44-439c-8a25-1356a27b9467) 8%, transparent)",
+                "outlineOffset": "-1px",
+                "outlineStyle": "solid",
+                "outlineWidth": "1px",
+                "position": "absolute",
+                "right": "0px",
+                "top": "0px",
+                "width": "100%"
+               },
+               "blockId": "a346ac5d",
+               "blockName": "Photo",
+               "children": [],
+               "classes": [
+                "mq-photo"
+               ],
+               "customAttributes": {
+                "height": "960",
+                "width": "1280"
+               },
+               "element": "img",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "figure",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "display": "grid",
+            "gridColumn": "9 / -1",
+            "justifyItems": "start",
+            "minWidth": "0px",
+            "rowGap": "40px"
+           },
+           "blockId": "4c1b1285",
+           "blockName": "Words",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+              "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+              "fontSize": "clamp(32px, 2.5vw + 16px, 56px)",
+              "fontWeight": "300",
+              "letterSpacing": "-0.018em",
+              "lineHeight": "1.05",
+              "margin": "0px",
+              "maxWidth": "8ch",
+              "textWrap": "balance"
+             },
+             "blockId": "e0fb1628",
+             "blockName": "Heading",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h2",
+             "innerHTML": "Visit the workshop",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "width": "100%"
+             },
+             "blockId": "aaa0875f",
+             "blockName": "Facts",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "07baa106",
+               "blockName": "Visit facts",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "ed94532a",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "90410ef3",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "567e4bb8",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "2f114fda",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_facts",
+                       "mobileStyles": {},
+                       "referenceBlockId": "13894ff3",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_facts",
+                     "mobileStyles": {},
+                     "referenceBlockId": "2c805189",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "a978a027",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "afcd1f9c",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_facts",
+                       "mobileStyles": {},
+                       "referenceBlockId": "b380d913",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_facts",
+                     "mobileStyles": {},
+                     "referenceBlockId": "31170fc8",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_facts",
+                   "mobileStyles": {},
+                   "referenceBlockId": "008e9e29",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_facts",
+                 "isRepeaterBlock": true,
+                 "mobileStyles": {},
+                 "referenceBlockId": "73ef01bb",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "extendedFromComponent": "maquette_facts",
+               "mobileStyles": {},
+               "props": {
+                "facts": {
+                 "comesFrom": null,
+                 "isDynamic": false,
+                 "isPassedDown": true,
+                 "isStandard": true,
+                 "label": "Facts (Label | Value)",
+                 "propOptions": {
+                  "dependencies": {},
+                  "isRequired": false,
+                  "options": {
+                   "defaultValue": [
+                    "Client | Kwastlicht",
+                    "Role | The lamp and its app",
+                    "Team | Ilse, one engineer, one model-maker",
+                    "Shipped | October 2025"
+                   ]
+                  },
+                  "type": "array"
+                 },
+                 "value": "[\"Address | Unit 3, Tekenkaai 12, Ghent\", \"Visits | By appointment, Tuesday to Thursday\", \"Calls | By arrangement, after a first email\", \"Further away | Remote, with two visits to your\\u00a0factory\"]"
+                },
+                "layout": {
+                 "comesFrom": null,
+                 "isDynamic": false,
+                 "isPassedDown": true,
+                 "isStandard": true,
+                 "label": "Layout",
+                 "propOptions": {
+                  "dependencies": {},
+                  "isRequired": false,
+                  "options": {
+                   "defaultValue": "rows",
+                   "options": [
+                    "rows",
+                    "ledger",
+                    "stack",
+                    "ink",
+                    "cells"
+                   ]
+                  },
+                  "type": "select"
+                 },
+                 "value": "stack"
+                }
+               },
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {
+              "href": "mailto:studio@example.com?subject=A%20visit%20to%20the%20workshop"
+             },
+             "baseStyles": {
+              "alignItems": "center",
+              "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+              "display": "inline-flex",
+              "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "1.55",
+              "marginBottom": "-12px",
+              "marginTop": "-12px",
+              "maxWidth": "100%",
+              "minHeight": "48px",
+              "textDecorationColor": "var(--2333a099-c4ee-4345-995b-45bad0acb477)",
+              "textDecorationLine": "underline",
+              "textDecorationThickness": "1px",
+              "textUnderlineOffset": "0.24em",
+              "width": "fit-content"
+             },
+             "blockId": "5bb91085",
+             "blockName": "Visit link",
+             "children": [],
+             "classes": [
+              "mq-link"
+             ],
+             "customAttributes": {},
+             "element": "a",
+             "innerHTML": "Email to arrange a visit",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "columnGap": "16px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "96px",
+        "paddingTop": "72px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "120px",
+        "paddingTop": "96px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {
+      "id": "main"
+     },
+     "element": "main",
+     "mobileStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "f48abcaa",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "e13e3ce6",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "fc4b06d8",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "81b8464e",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "95b51f25",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "9e2b2c10",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "7b13e4dc",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "6ed6ce9b",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "maquette_footer",
+           "mobileStyles": {},
+           "referenceBlockId": "5c3e00ab",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "3acaa5fa",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "c9628449",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "maquette_footer",
+             "mobileStyles": {},
+             "referenceBlockId": "04a8b72c",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "maquette_footer",
+           "mobileStyles": {},
+           "referenceBlockId": "69b09d4d",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "c06691d5",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "0e37a6da",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "ea2bc923",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "maquette_footer",
+           "mobileStyles": {},
+           "referenceBlockId": "6fba365f",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_footer",
+         "isRepeaterBlock": true,
+         "mobileStyles": {},
+         "referenceBlockId": "efdc2833",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "b79cecee",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "innerHTML": "Photographs of Dok Noord, Ghent, by <a href=\"https://commons.wikimedia.org/wiki/File:Dok_noord_Gent.jpg\">Pat lagaisse</a> (CC BY 4.0) and <a href=\"https://commons.wikimedia.org/wiki/File:Dok_noord.jpg\">Nellymorael</a> (CC BY-SA 4.0), Wikimedia Commons, to be replaced with your own. © 2026 Ilse Marten",
+         "isChildOfComponent": "maquette_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "173e4c30",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "maquette_footer",
+       "mobileStyles": {},
+       "referenceBlockId": "ae86a792",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "footer",
+     "extendedFromComponent": "maquette_footer",
+     "mobileStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "maquette_styles"
+  }
+ ],
+ "creation": "2026-11-18 01:11:13.472011",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "head_html": "",
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Ilse Marten works from a shared workshop in Ghent with a model-maker on call. How a project runs, what it costs, and how to visit.",
+ "modified": "2026-11-18 12:24:19.990237",
+ "modified_by": "Administrator",
+ "name": "maquette_about",
+ "owner": "Administrator",
+ "page_data_script": "",
+ "page_name": "maquette_about",
+ "page_title": "About and contact | Ilse Marten",
+ "preview": "/builder_assets/maquette/maquette_about/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/maquette/about",
+ "staging": 0,
+ "template_group": "maquette"
+}

@@ -1,0 +1,2625 @@
+{
+ "authenticated_access": 0,
+ "blocks": [
+  {
+   "attributes": {},
+   "baseStyles": {
+    "alignItems": "stretch",
+    "backgroundColor": "var(--920484c4-1f75-4ade-98f7-ab856bb4d11c)",
+    "color": "var(--3777025d-c4f6-4fb0-b2fb-3190383c9775)",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "flexWrap": "nowrap",
+    "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+    "fontSize": "16px",
+    "lineHeight": "1.55",
+    "minHeight": "100dvh"
+   },
+   "blockId": "root",
+   "blockName": "Body",
+   "children": [
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "c1215fb1",
+     "blockName": "Nav",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "23fbc20d",
+       "children": [],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "maquette_nav",
+       "mobileStyles": {},
+       "referenceBlockId": "118b9a3f",
+       "tabletStyles": {}
+      },
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "6a6f387b",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "594e5798",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_nav",
+         "mobileStyles": {},
+         "referenceBlockId": "2653fa55",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "7e71c9ca",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "3c2144ea",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "maquette_nav",
+           "mobileStyles": {},
+           "referenceBlockId": "e003a89f",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_nav",
+         "isRepeaterBlock": true,
+         "mobileStyles": {},
+         "referenceBlockId": "58c8d2c4",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "b2321e87",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_nav",
+         "mobileStyles": {},
+         "referenceBlockId": "33748d1d",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "maquette_nav",
+       "mobileStyles": {},
+       "referenceBlockId": "53adf4d0",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "header",
+     "extendedFromComponent": "maquette_nav",
+     "mobileStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "minWidth": "0px",
+      "width": "100%"
+     },
+     "blockId": "41f9ebc7",
+     "blockName": "Main",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {
+        "color": "var(--263b2467-4171-4ee6-9158-d9a0601e7f68)",
+        "height": "calc(100dvh - 72px)",
+        "isolation": "isolate",
+        "minHeight": "600px",
+        "overflow": "clip",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "f5deb625",
+       "blockName": "Hero",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--69e3ef10-97f2-414e-a7f6-f55bdaa707b5)",
+          "bottom": "0px",
+          "left": "0px",
+          "pointerEvents": "none",
+          "position": "absolute",
+          "right": "0px",
+          "top": "0px",
+          "zIndex": "-1"
+         },
+         "blockId": "4746c6b2",
+         "blockName": "Room light",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundImage": "linear-gradient(118deg, color-mix(in oklab, var(--938d18c8-2902-46db-80b0-59cbba9b9bdf) 9%, transparent) 9%, transparent 61%), url(\"/builder_assets/maquette/air.webp\")",
+            "backgroundSize": "100% 100%, cover",
+            "bottom": "-10%",
+            "left": "-20%",
+            "maskImage": "linear-gradient(118deg, var(--a26a5991-5a44-439c-8a25-1356a27b9467) 14%, transparent 77%)",
+            "opacity": "0.55",
+            "pointerEvents": "none",
+            "position": "absolute",
+            "right": "0%",
+            "top": "-10%"
+           },
+           "blockId": "b43ee981",
+           "blockName": "Warm light",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "backgroundImage": "url(\"/builder_assets/maquette/room-grain.png\")",
+            "backgroundSize": "180px 180px",
+            "bottom": "0px",
+            "left": "0px",
+            "pointerEvents": "none",
+            "position": "absolute",
+            "right": "0px",
+            "top": "0px"
+           },
+           "blockId": "5ac9d5e3",
+           "blockName": "Grain",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {
+          "aria-hidden": "true"
+         },
+         "element": "div",
+         "mobileStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "boxSizing": "border-box",
+          "columnGap": "32px",
+          "display": "grid",
+          "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+          "gridTemplateRows": "minmax(0, 1fr) auto",
+          "height": "100%",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingBottom": "40px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "paddingTop": "24px",
+          "width": "100%"
+         },
+         "blockId": "b4633cce",
+         "blockName": "Hero grid",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "gridColumn": "1 / -1",
+            "gridRow": "1",
+            "minHeight": "0px",
+            "minWidth": "0px"
+           },
+           "blockId": "a11f90c6",
+           "blockName": "Stage",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "e567f880",
+             "blockName": "Stages",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "092ed913",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "08a5068a",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "63f3f912",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_stages",
+                   "mobileStyles": {},
+                   "referenceBlockId": "1fda3886",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "73a83e9d",
+                   "children": [],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_stages",
+                   "mobileStyles": {},
+                   "referenceBlockId": "525df388",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_stages",
+                 "mobileStyles": {},
+                 "referenceBlockId": "bffe8370",
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "98b630d6",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "bafedac3",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "20c932e2",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_stages",
+                     "mobileStyles": {},
+                     "referenceBlockId": "f57331f6",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "21818eab",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_stages",
+                     "mobileStyles": {},
+                     "referenceBlockId": "cd98eba4",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "d3efe8ae",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_stages",
+                     "mobileStyles": {},
+                     "referenceBlockId": "ed191245",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_stages",
+                   "mobileStyles": {},
+                   "referenceBlockId": "d8340b81",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_stages",
+                 "isRepeaterBlock": true,
+                 "mobileStyles": {},
+                 "referenceBlockId": "e1af9e3d",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_stages",
+               "mobileStyles": {},
+               "referenceBlockId": "ed0876e9",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "6668d9f4",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "8009bbda",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "dc006083",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "492b38e6",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "ee730e7d",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_stages",
+                       "mobileStyles": {},
+                       "referenceBlockId": "8e3d784e",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_stages",
+                     "mobileStyles": {},
+                     "referenceBlockId": "a156aa81",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "55afa9cc",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "cd3a6cce",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_stages",
+                       "mobileStyles": {},
+                       "referenceBlockId": "31c5031d",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "a5775b50",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_stages",
+                       "mobileStyles": {},
+                       "referenceBlockId": "96403caa",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_stages",
+                     "mobileStyles": {},
+                     "referenceBlockId": "81924938",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_stages",
+                   "mobileStyles": {},
+                   "referenceBlockId": "e56681f7",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_stages",
+                 "mobileStyles": {},
+                 "referenceBlockId": "8de9ff87",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_stages",
+               "isRepeaterBlock": true,
+               "mobileStyles": {},
+               "referenceBlockId": "139f2a59",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "b92ccf32",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "928ec0ca",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_stages",
+                 "mobileStyles": {},
+                 "referenceBlockId": "b303f151",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_stages",
+               "mobileStyles": {},
+               "referenceBlockId": "88904e5d",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "extendedFromComponent": "maquette_stages",
+             "mobileStyles": {},
+             "props": {
+              "stages": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Stages (Name | When | Image URL | Alt | Note | Edition | Focus), three at most",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": [
+                  "Sketch | week 2 | https://images.unsplash.com/photo-1600428610161-e98636332e98?auto=format&fit=crop&w=900&h=720&q=80 | A hand drawing the lamp's arm in a sketchbook, a clear French curve held against the page | Forty curves drawn for one arm. |  | 40% 50%",
+                  "Prototype | week 9 | https://images.unsplash.com/photo-1710828530560-2920125ad032?auto=format&fit=crop&w=720&h=900&q=80 | Orange printed joints for the lamp on the bed of a 3D printer | Printed joints, tested on the bench. |  | 42% 55%",
+                  "Shipped | October 2025 | https://images.unsplash.com/photo-1731762524352-b5663f83a830?auto=format&fit=crop&w=800&h=1000&q=80 | The orange Arc lamp, its ring-lit head raised on a jointed arm, on a black plinth against grey | First batch, October 2025 | 1/800 | 50% 42%"
+                 ]
+                },
+                "type": "array"
+               },
+               "value": "[\"Sketch | week 2 | https://images.unsplash.com/photo-1600428610161-e98636332e98?auto=format&fit=crop&w=900&h=720&q=80 | A hand drawing the lamp's arm in a sketchbook, a clear French curve held against the page | Forty curves drawn for one arm. |  | 40% 50%\", \"Prototype | week 9 | https://images.unsplash.com/photo-1710828530560-2920125ad032?auto=format&fit=crop&w=720&h=900&q=80 | Orange printed joints for the lamp on the bed of a 3D printer | Printed joints, tested on the bench. |  | 42% 55%\", \"Shipped | October 2025 | https://images.unsplash.com/photo-1731762524352-b5663f83a830?auto=format&fit=crop&w=800&h=1000&q=80 | The orange Arc lamp, its ring-lit head raised on a jointed arm, on a black plinth against grey | First batch, October 2025 | 1/800 | 50% 42%\"]"
+              },
+              "start": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Print in front on load",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": "first",
+                 "options": [
+                  "first",
+                  "last"
+                 ]
+                },
+                "type": "select"
+               },
+               "value": "first"
+              }
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridRow": "1"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignSelf": "end",
+            "color": "var(--938d18c8-2902-46db-80b0-59cbba9b9bdf)",
+            "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+            "fontSize": "clamp(48px, 5vw + 8px, 88px)",
+            "fontWeight": "300",
+            "gridColumn": "1 / 9",
+            "gridRow": "2",
+            "letterSpacing": "-0.024em",
+            "lineHeight": "0.98",
+            "margin": "0px",
+            "marginTop": "24px",
+            "maxWidth": "none"
+           },
+           "blockId": "eeb56235",
+           "blockName": "Headline",
+           "children": [],
+           "classes": [
+            "mq-hero-head"
+           ],
+           "customAttributes": {
+            "id": "hero-head"
+           },
+           "element": "h1",
+           "innerHTML": "Objects and their apps,<br> drawn in Ghent.",
+           "mobileStyles": {
+            "fontSize": "42px",
+            "lineHeight": "1",
+            "marginTop": "12px"
+           },
+           "tabletStyles": {
+            "fontSize": "clamp(44px, 4.4vw + 8px, 72px)",
+            "gridColumn": "1 / -1",
+            "gridRow": "2",
+            "marginTop": "16px"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignSelf": "end",
+            "display": "grid",
+            "gridColumn": "9 / -1",
+            "gridRow": "2",
+            "marginTop": "24px",
+            "minWidth": "0px",
+            "paddingBottom": "4px",
+            "rowGap": "24px"
+           },
+           "blockId": "415476a2",
+           "blockName": "Aside",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--263b2467-4171-4ee6-9158-d9a0601e7f68)",
+              "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+              "fontSize": "clamp(18px, 0.35vw + 16px, 22px)",
+              "fontWeight": "400",
+              "lineHeight": "1.45",
+              "margin": "0px",
+              "maxWidth": "30ch"
+             },
+             "blockId": "dce9bf17",
+             "blockName": "Lead",
+             "children": [],
+             "classes": [
+              "mq-copy"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Ilse Marten designs for small brands, from first sketch to&nbsp;factory.",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "alignItems": "center",
+              "columnGap": "24px",
+              "display": "flex",
+              "flexWrap": "wrap",
+              "rowGap": "16px"
+             },
+             "blockId": "e54fee9c",
+             "blockName": "Actions",
+             "children": [
+              {
+               "attributes": {
+                "href": "#work"
+               },
+               "baseStyles": {
+                "alignItems": "center",
+                "backgroundColor": "transparent",
+                "borderColor": "var(--938d18c8-2902-46db-80b0-59cbba9b9bdf)",
+                "borderRadius": "3px",
+                "borderStyle": "solid",
+                "borderWidth": "1px",
+                "boxSizing": "border-box",
+                "color": "var(--938d18c8-2902-46db-80b0-59cbba9b9bdf)",
+                "display": "inline-flex",
+                "flexShrink": "0",
+                "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "justifyContent": "center",
+                "lineHeight": "1",
+                "minHeight": "48px",
+                "paddingLeft": "24px",
+                "paddingRight": "24px",
+                "textDecorationLine": "none",
+                "whiteSpace": "nowrap",
+                "width": "fit-content"
+               },
+               "blockId": "709b6449",
+               "blockName": "Work button",
+               "children": [],
+               "classes": [
+                "mq-btn",
+                "mq-btn-lit"
+               ],
+               "customAttributes": {
+                "data-scroll-behavior": "instant"
+               },
+               "element": "a",
+               "innerHTML": "See the work",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {
+                "href": "project"
+               },
+               "baseStyles": {
+                "alignItems": "center",
+                "color": "var(--938d18c8-2902-46db-80b0-59cbba9b9bdf)",
+                "display": "inline-flex",
+                "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+                "fontSize": "16px",
+                "fontWeight": "400",
+                "lineHeight": "1.55",
+                "marginBottom": "-12px",
+                "marginTop": "-12px",
+                "maxWidth": "100%",
+                "minHeight": "48px",
+                "textDecorationColor": "var(--2688658d-1c68-4abb-9ba8-8491aca228f6)",
+                "textDecorationLine": "underline",
+                "textDecorationThickness": "1px",
+                "textUnderlineOffset": "0.24em",
+                "width": "fit-content"
+               },
+               "blockId": "24b4b85e",
+               "blockName": "Case link",
+               "children": [],
+               "classes": [
+                "mq-link"
+               ],
+               "customAttributes": {},
+               "element": "a",
+               "innerHTML": "Read the Arc lamp case",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [
+            "mq-hero-aside"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "rowGap": "16px"
+           },
+           "tabletStyles": {
+            "gridColumn": "1 / -1",
+            "gridRow": "3",
+            "marginTop": "0px",
+            "paddingBottom": "24px"
+           }
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "columnGap": "16px",
+          "paddingBottom": "40px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px",
+          "paddingTop": "16px",
+          "rowGap": "16px"
+         },
+         "tabletStyles": {
+          "gridTemplateRows": "none",
+          "height": "auto",
+          "paddingLeft": "24px",
+          "paddingRight": "24px",
+          "paddingTop": "40px",
+          "rowGap": "24px"
+         }
+        }
+       ],
+       "classes": [
+        "mq-on-ink"
+       ],
+       "customAttributes": {
+        "aria-labelledby": "hero-head"
+       },
+       "element": "section",
+       "mobileStyles": {},
+       "tabletStyles": {
+        "height": "auto",
+        "minHeight": "0px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "boxSizing": "border-box",
+        "paddingBottom": "0px",
+        "paddingTop": "176px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "171331cd",
+       "blockName": "The brief",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "boxSizing": "border-box",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "width": "100%"
+         },
+         "blockId": "ea021731",
+         "blockName": "Brief container",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "clipPath": "inset(50%)",
+            "height": "1px",
+            "margin": "0px",
+            "padding": "0px",
+            "position": "absolute",
+            "whiteSpace": "nowrap",
+            "width": "1px"
+           },
+           "blockId": "5ca94290",
+           "blockName": "Section name",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "element": "h2",
+           "innerHTML": "The Arc lamp brief",
+           "mobileStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "margin": "0px",
+            "minWidth": "0px"
+           },
+           "blockId": "acdfdc7f",
+           "blockName": "Brief",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "margin": "0px"
+             },
+             "blockId": "bdeabf49",
+             "blockName": "Quote block",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+                "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+                "fontSize": "clamp(44px, 5vw + 16px, 84px)",
+                "fontWeight": "300",
+                "letterSpacing": "-0.022em",
+                "lineHeight": "1.04",
+                "margin": "0px",
+                "maxWidth": "28ch",
+                "minWidth": "0px",
+                "overflowWrap": "break-word",
+                "textIndent": "-0.42em",
+                "textWrap": "balance"
+               },
+               "blockId": "0438a678",
+               "blockName": "Quote",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "p",
+               "innerHTML": "“Make a lamp for people who read paper at a screen desk.”",
+               "mobileStyles": {},
+               "tabletStyles": {
+                "textIndent": "0px"
+               }
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "blockquote",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "marginTop": "24px"
+             },
+             "blockId": "a69758d9",
+             "blockName": "Attribution line",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "backgroundColor": "var(--ee6b175f-5089-43ff-8621-2a156edb0a54)",
+                "display": "inline-block",
+                "height": "1px",
+                "marginRight": "8px",
+                "verticalAlign": "0.3em",
+                "width": "56px"
+               },
+               "blockId": "8e288799",
+               "blockName": "Pencil",
+               "children": [],
+               "classes": [],
+               "customAttributes": {
+                "aria-hidden": "true"
+               },
+               "element": "span",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--d253d0b9-f0e0-4322-aa19-e8e8fa6c9499)",
+                "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "lineHeight": "1.5"
+               },
+               "blockId": "b0ff0722",
+               "blockName": "Attribution",
+               "children": [],
+               "classes": [],
+               "customAttributes": {},
+               "element": "span",
+               "innerHTML": "Kwastlicht’s brief, spring 2024",
+               "mobileStyles": {},
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "figcaption",
+             "mobileStyles": {},
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "figure",
+           "mobileStyles": {},
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "alignItems": "start",
+            "columnGap": "32px",
+            "display": "grid",
+            "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+            "marginTop": "64px",
+            "rowGap": "40px"
+           },
+           "blockId": "6d5a28fb",
+           "blockName": "Brief body",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+              "fontFamily": "var(--d5ad2a0d-1d30-472f-bcfa-ae52794c4558)",
+              "fontSize": "25px",
+              "fontWeight": "400",
+              "gridColumn": "1 / 7",
+              "lineHeight": "1.4",
+              "margin": "0px",
+              "maxWidth": "30ch"
+             },
+             "blockId": "ae268e3f",
+             "blockName": "Outcome",
+             "children": [],
+             "classes": [
+              "mq-copy"
+             ],
+             "customAttributes": {},
+             "element": "p",
+             "innerHTML": "Three heads went to the bench. The ring shipped: light on the page, not the screen.",
+             "mobileStyles": {
+              "fontSize": "25px",
+              "lineHeight": "1.4"
+             },
+             "tabletStyles": {
+              "gridColumn": "1 / -1"
+             }
+            },
+            {
+             "attributes": {},
+             "baseStyles": {
+              "gridColumn": "8 / -1",
+              "gridRow": "1",
+              "minWidth": "0px"
+             },
+             "blockId": "8176f21c",
+             "blockName": "Facts",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "bc8fc6b3",
+               "blockName": "Brief facts",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "e1e9cfab",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "5a0dd865",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "89666b57",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "4b54c1c4",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_facts",
+                       "mobileStyles": {},
+                       "referenceBlockId": "13894ff3",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_facts",
+                     "mobileStyles": {},
+                     "referenceBlockId": "2c805189",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "eca9893c",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "b861c2b8",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_facts",
+                       "mobileStyles": {},
+                       "referenceBlockId": "b380d913",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_facts",
+                     "mobileStyles": {},
+                     "referenceBlockId": "31170fc8",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_facts",
+                   "mobileStyles": {},
+                   "referenceBlockId": "008e9e29",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_facts",
+                 "isRepeaterBlock": true,
+                 "mobileStyles": {},
+                 "referenceBlockId": "73ef01bb",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "element": "div",
+               "extendedFromComponent": "maquette_facts",
+               "mobileStyles": {},
+               "props": {
+                "facts": {
+                 "comesFrom": null,
+                 "isDynamic": false,
+                 "isPassedDown": true,
+                 "isStandard": true,
+                 "label": "Facts (Label | Value)",
+                 "propOptions": {
+                  "dependencies": {},
+                  "isRequired": false,
+                  "options": {
+                   "defaultValue": [
+                    "Client | Kwastlicht",
+                    "Role | The lamp and its app",
+                    "Team | Ilse, one engineer, one model-maker",
+                    "Shipped | October 2025"
+                   ]
+                  },
+                  "type": "array"
+                 },
+                 "value": "[\"Role | Object and app\", \"App | iOS and Android\", \"Price | \\u20ac240\"]"
+                },
+                "layout": {
+                 "comesFrom": null,
+                 "isDynamic": false,
+                 "isPassedDown": true,
+                 "isStandard": true,
+                 "label": "Layout",
+                 "propOptions": {
+                  "dependencies": {},
+                  "isRequired": false,
+                  "options": {
+                   "defaultValue": "rows",
+                   "options": [
+                    "rows",
+                    "ledger",
+                    "stack",
+                    "ink",
+                    "cells"
+                   ]
+                  },
+                  "type": "select"
+                 },
+                 "value": "rows"
+                }
+               },
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {},
+             "tabletStyles": {
+              "gridColumn": "1 / -1",
+              "gridRow": "auto"
+             }
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "columnGap": "16px"
+           },
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "0px",
+        "paddingTop": "96px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "0px",
+        "paddingTop": "120px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "boxSizing": "border-box",
+        "paddingBottom": "144px",
+        "paddingTop": "144px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "82bdc72c",
+       "blockName": "Work",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "alignItems": "start",
+          "boxSizing": "border-box",
+          "columnGap": "32px",
+          "display": "grid",
+          "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "width": "100%"
+         },
+         "blockId": "62c54a21",
+         "blockName": "Work container",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "gridColumn": "1 / 4",
+            "minWidth": "0px"
+           },
+           "blockId": "816e5a93",
+           "blockName": "Head",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "color": "var(--a26a5991-5a44-439c-8a25-1356a27b9467)",
+              "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+              "fontSize": "clamp(32px, 2.5vw + 16px, 56px)",
+              "fontWeight": "300",
+              "letterSpacing": "-0.018em",
+              "lineHeight": "1.05",
+              "margin": "0px",
+              "maxWidth": "9ch",
+              "paddingTop": "24px",
+              "textWrap": "balance"
+             },
+             "blockId": "fe7ae900",
+             "blockName": "Heading",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "element": "h2",
+             "innerHTML": "More work, sketch to shipped",
+             "mobileStyles": {},
+             "tabletStyles": {
+              "maxWidth": "none",
+              "paddingTop": "0px"
+             }
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1",
+            "marginBottom": "40px"
+           }
+          },
+          {
+           "attributes": {},
+           "baseStyles": {
+            "gridColumn": "4 / -1",
+            "minWidth": "0px"
+           },
+           "blockId": "55a7b127",
+           "blockName": "Rows",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "3345c6fa",
+             "blockName": "Index",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "d70efb55",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "84df9b01",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "3c23ea57",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "c7e29221",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "737091e0",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_progress",
+                       "mobileStyles": {},
+                       "referenceBlockId": "bd14b4d6",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_progress",
+                     "mobileStyles": {},
+                     "referenceBlockId": "84dce46e",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "a67cdf11",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "befb42b6",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_progress",
+                       "mobileStyles": {},
+                       "referenceBlockId": "14e50aec",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_progress",
+                     "mobileStyles": {},
+                     "referenceBlockId": "f3461421",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "8e83c73d",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "16ddfa7c",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_progress",
+                       "mobileStyles": {},
+                       "referenceBlockId": "40290d82",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_progress",
+                     "mobileStyles": {},
+                     "referenceBlockId": "7bc6186a",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_progress",
+                   "mobileStyles": {},
+                   "referenceBlockId": "51cd9c4b",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "476c6f05",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "61af50c9",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_progress",
+                     "mobileStyles": {},
+                     "referenceBlockId": "784ca6c3",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "8d786cac",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_progress",
+                     "mobileStyles": {},
+                     "referenceBlockId": "88d1aa39",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "b7f5ff52",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "9f35bcbe",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "b48d2c43",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "8126976a",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "maquette_progress",
+                           "mobileStyles": {},
+                           "referenceBlockId": "312e85c6",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "maquette_progress",
+                         "mobileStyles": {},
+                         "referenceBlockId": "d8cd8e62",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "0e61056c",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "60e290eb",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "maquette_progress",
+                           "mobileStyles": {},
+                           "referenceBlockId": "636f9ee8",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "maquette_progress",
+                         "mobileStyles": {},
+                         "referenceBlockId": "d8eb609b",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_progress",
+                       "mobileStyles": {},
+                       "referenceBlockId": "dc756c2a",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "f7c45103",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "ab98b141",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "dd2852d4",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "maquette_progress",
+                           "mobileStyles": {},
+                           "referenceBlockId": "89917d85",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "maquette_progress",
+                         "mobileStyles": {},
+                         "referenceBlockId": "b0008a33",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "c03a6b20",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "441f41f8",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "maquette_progress",
+                           "mobileStyles": {},
+                           "referenceBlockId": "6e60f4d9",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "maquette_progress",
+                         "mobileStyles": {},
+                         "referenceBlockId": "01a43d31",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_progress",
+                       "mobileStyles": {},
+                       "referenceBlockId": "7ab614f8",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "3fb8bc75",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "edd2f13f",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "24bc809f",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "maquette_progress",
+                           "mobileStyles": {},
+                           "referenceBlockId": "74988dd4",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "maquette_progress",
+                         "mobileStyles": {},
+                         "referenceBlockId": "aebd648d",
+                         "tabletStyles": {}
+                        },
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "5a089abe",
+                         "children": [
+                          {
+                           "attributes": {},
+                           "baseStyles": {},
+                           "blockId": "1d55d7ac",
+                           "children": [],
+                           "classes": [],
+                           "customAttributes": {},
+                           "isChildOfComponent": "maquette_progress",
+                           "mobileStyles": {},
+                           "referenceBlockId": "2243056b",
+                           "tabletStyles": {}
+                          }
+                         ],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "maquette_progress",
+                         "mobileStyles": {},
+                         "referenceBlockId": "d65753f6",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_progress",
+                       "mobileStyles": {},
+                       "referenceBlockId": "2beb55fb",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_progress",
+                     "mobileStyles": {},
+                     "referenceBlockId": "854b0160",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "2703e6ce",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_progress",
+                     "mobileStyles": {},
+                     "referenceBlockId": "f98e6a02",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "79e40c33",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_progress",
+                     "mobileStyles": {},
+                     "referenceBlockId": "2e193aed",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_progress",
+                   "mobileStyles": {},
+                   "referenceBlockId": "c147d2c0",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_progress",
+                 "mobileStyles": {},
+                 "referenceBlockId": "ef1fdee8",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_progress",
+               "isRepeaterBlock": true,
+               "mobileStyles": {},
+               "referenceBlockId": "d6e4eaf3",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "extendedFromComponent": "maquette_progress",
+             "mobileStyles": {},
+             "props": {
+              "projects": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Projects (Name | Line | Client | Year | Made | Sketch image | Prototype image | Shipped image | Link | Focus points)",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": [
+                  "Tube bottle | A steel bottle that stands on a desk and never looks like gym kit. | Sloepwater | 2024 | Bottle | https://images.unsplash.com/photo-1683818051102-dd1199d163b9?auto=format&fit=crop&w=480&h=600&q=75 | https://images.unsplash.com/photo-1559762817-50dc9717b802?auto=format&fit=crop&w=480&h=600&q=75 | https://images.unsplash.com/photo-1683383277379-644816d886e2?auto=format&fit=crop&w=640&h=800&q=75 |  | 57% 50%, 40% 50%, 50% 62%",
+                  "Dome lamp | A bedside lamp that dims when you turn the shade. | Halmhuis | 2023 | Lamp | https://images.unsplash.com/photo-1608804375369-498a4b601e42?auto=format&fit=crop&w=480&h=600&q=75 | https://images.unsplash.com/photo-1786840320375-d7e316278cc8?auto=format&fit=crop&w=480&h=600&q=75 | https://images.unsplash.com/photo-1756474215958-f0c2a31eddc1?auto=format&fit=crop&w=640&h=800&q=75 |  | 48% 50%, 32% 50%, 50% 50%",
+                  "Stone vase | A vase heavy enough that the cats stopped winning. | Grijskade Ceramics | 2022 | Vase | https://images.unsplash.com/photo-1714251638661-e67ef25e7103?auto=format&fit=crop&w=480&h=600&q=75 | https://images.unsplash.com/photo-1605908763931-77e35b70fc23?auto=format&fit=crop&w=480&h=600&q=75 | https://images.unsplash.com/photo-1787715746360-fec6df99f29c?auto=format&fit=crop&w=640&h=800&q=75 |  | 50% 42%, 55% 50%, 50% 60%"
+                 ]
+                },
+                "type": "array"
+               },
+               "value": "[\"Tube bottle | A steel bottle that stands on a desk and never looks like gym kit. | Sloepwater | 2024 | Bottle | https://images.unsplash.com/photo-1683818051102-dd1199d163b9?auto=format&fit=crop&w=480&h=600&q=75 | https://images.unsplash.com/photo-1559762817-50dc9717b802?auto=format&fit=crop&w=480&h=600&q=75 | https://images.unsplash.com/photo-1683383277379-644816d886e2?auto=format&fit=crop&w=640&h=800&q=75 |  | 57% 50%, 40% 50%, 50% 62%\", \"Dome lamp | A bedside lamp that dims when you turn the shade. | Halmhuis | 2023 | Lamp | https://images.unsplash.com/photo-1608804375369-498a4b601e42?auto=format&fit=crop&w=480&h=600&q=75 | https://images.unsplash.com/photo-1786840320375-d7e316278cc8?auto=format&fit=crop&w=480&h=600&q=75 | https://images.unsplash.com/photo-1756474215958-f0c2a31eddc1?auto=format&fit=crop&w=640&h=800&q=75 |  | 48% 50%, 32% 50%, 50% 50%\", \"Stone vase | A vase heavy enough that the cats stopped winning. | Grijskade Ceramics | 2022 | Vase | https://images.unsplash.com/photo-1714251638661-e67ef25e7103?auto=format&fit=crop&w=480&h=600&q=75 | https://images.unsplash.com/photo-1605908763931-77e35b70fc23?auto=format&fit=crop&w=480&h=600&q=75 | https://images.unsplash.com/photo-1787715746360-fec6df99f29c?auto=format&fit=crop&w=640&h=800&q=75 |  | 50% 42%, 55% 50%, 50% 60%\"]"
+              }
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "columnGap": "16px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {
+        "id": "work"
+       },
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "72px",
+        "paddingTop": "72px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "96px",
+        "paddingTop": "96px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "backgroundColor": "var(--83142a6b-ca3d-4540-b8f6-71f2c66ad1ef)",
+        "boxSizing": "border-box",
+        "isolation": "isolate",
+        "paddingBottom": "120px",
+        "paddingTop": "120px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "b20c8352",
+       "blockName": "Enquiry",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundImage": "url(\"/builder_assets/maquette/well-grain.png\")",
+          "backgroundSize": "180px 180px",
+          "bottom": "0px",
+          "left": "0px",
+          "pointerEvents": "none",
+          "position": "absolute",
+          "right": "0px",
+          "top": "0px",
+          "zIndex": "-1"
+         },
+         "blockId": "8bf80387",
+         "blockName": "Grain",
+         "children": [],
+         "classes": [],
+         "customAttributes": {
+          "aria-hidden": "true"
+         },
+         "element": "div",
+         "mobileStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "boxSizing": "border-box",
+          "columnGap": "32px",
+          "display": "grid",
+          "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "maxWidth": "1440px",
+          "minWidth": "0px",
+          "paddingLeft": "64px",
+          "paddingRight": "64px",
+          "width": "100%"
+         },
+         "blockId": "1099c7cd",
+         "blockName": "Enquiry container",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "gridColumn": "1 / 11",
+            "minWidth": "0px"
+           },
+           "blockId": "8028e788",
+           "blockName": "Card",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "3912ef7f",
+             "blockName": "Enquiry",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "38d4803d",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "59f56310",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_services",
+                 "mobileStyles": {},
+                 "referenceBlockId": "603a6008",
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "6e1f7852",
+                 "children": [],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_services",
+                 "mobileStyles": {},
+                 "referenceBlockId": "82b7e84a",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_services",
+               "mobileStyles": {},
+               "referenceBlockId": "aa5e6a2b",
+               "tabletStyles": {}
+              },
+              {
+               "attributes": {},
+               "baseStyles": {},
+               "blockId": "e9ff2a02",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "8506737b",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "6c184060",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "a4bf5a5c",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_services",
+                     "mobileStyles": {},
+                     "referenceBlockId": "3a54d790",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_services",
+                   "mobileStyles": {},
+                   "referenceBlockId": "b3add79a",
+                   "tabletStyles": {}
+                  },
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "d70f4e1c",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "ae62deea",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "b89abfe1",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_services",
+                       "mobileStyles": {},
+                       "referenceBlockId": "a2c919e2",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "0c0030fc",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_services",
+                       "mobileStyles": {},
+                       "referenceBlockId": "0e161389",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "b34b7928",
+                       "children": [],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_services",
+                       "mobileStyles": {},
+                       "referenceBlockId": "73fa7aee",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_services",
+                     "mobileStyles": {},
+                     "referenceBlockId": "a4d14910",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_services",
+                   "isRepeaterBlock": true,
+                   "mobileStyles": {},
+                   "referenceBlockId": "d2472fae",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_services",
+                 "mobileStyles": {},
+                 "referenceBlockId": "76bdea31",
+                 "tabletStyles": {}
+                },
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "42237d03",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "2acfb9f6",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "c4143089",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_services",
+                     "mobileStyles": {},
+                     "referenceBlockId": "df124233",
+                     "tabletStyles": {}
+                    },
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "de547df4",
+                     "children": [],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_services",
+                     "mobileStyles": {},
+                     "referenceBlockId": "00abb865",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_services",
+                   "mobileStyles": {},
+                   "referenceBlockId": "4cc6295d",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "isChildOfComponent": "maquette_services",
+                 "mobileStyles": {},
+                 "referenceBlockId": "d81248fb",
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [],
+               "customAttributes": {},
+               "isChildOfComponent": "maquette_services",
+               "mobileStyles": {},
+               "referenceBlockId": "182ea498",
+               "tabletStyles": {}
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "extendedFromComponent": "maquette_services",
+             "mobileStyles": {},
+             "props": {
+              "email": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Email address",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": "studio@example.com"
+                },
+                "type": "string"
+               },
+               "value": "studio@example.com"
+              },
+              "kinds": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Kinds of work (Name | Length | Phrase for the email)",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": [
+                  "An object | 4 to 9 months | an object",
+                  "Its companion app | 3 to 5 months | a companion app",
+                  "A prototype sprint | 2 weeks | a prototype sprint"
+                 ]
+                },
+                "type": "array"
+               },
+               "value": "[\"An object | 4 to 9 months | an object\", \"Its companion app | 3 to 5 months | a companion app\", \"A prototype sprint | 2 weeks | a prototype sprint\"]"
+              },
+              "subject": {
+               "comesFrom": null,
+               "isDynamic": false,
+               "isPassedDown": true,
+               "isStandard": true,
+               "label": "Email subject before the kind",
+               "propOptions": {
+                "dependencies": {},
+                "isRequired": false,
+                "options": {
+                 "defaultValue": "Enquiry"
+                },
+                "type": "string"
+               },
+               "value": "Enquiry"
+              }
+             },
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {},
+           "tabletStyles": {
+            "gridColumn": "1 / -1"
+           }
+          }
+         ],
+         "classes": [
+          "mq-wrap"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {
+          "columnGap": "16px",
+          "paddingLeft": "16px",
+          "paddingRight": "16px"
+         },
+         "tabletStyles": {
+          "paddingLeft": "24px",
+          "paddingRight": "24px"
+         }
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "element": "section",
+       "mobileStyles": {
+        "paddingBottom": "56px",
+        "paddingTop": "56px"
+       },
+       "tabletStyles": {
+        "paddingBottom": "80px",
+        "paddingTop": "80px"
+       }
+      },
+      {
+       "attributes": {},
+       "baseStyles": {
+        "marginTop": "144px",
+        "position": "relative",
+        "width": "100%"
+       },
+       "blockId": "805de92e",
+       "blockName": "Place",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--83142a6b-ca3d-4540-b8f6-71f2c66ad1ef)",
+          "backgroundImage": "linear-gradient(160deg, var(--920484c4-1f75-4ade-98f7-ab856bb4d11c), var(--83142a6b-ca3d-4540-b8f6-71f2c66ad1ef))",
+          "height": "clamp(320px, 80dvh, 62vw)",
+          "margin": "0px",
+          "minWidth": "0px",
+          "overflow": "hidden",
+          "position": "relative"
+         },
+         "blockId": "8c90d35c",
+         "blockName": "Workshop",
+         "children": [
+          {
+           "attributes": {
+            "alt": "A workshop wall with sketches on tracing paper and a plaster ring form under a shelf light",
+            "decoding": "async",
+            "loading": "lazy",
+            "src": "https://images.unsplash.com/photo-1783711788412-84fff16a7bcb?auto=format&fit=crop&w=2400&q=80"
+           },
+           "baseStyles": {
+            "bottom": "0px",
+            "display": "block",
+            "filter": "sepia(0.28) saturate(0.89) contrast(0.94)",
+            "height": "100%",
+            "left": "0px",
+            "objectFit": "cover",
+            "objectPosition": "60% 46%",
+            "outlineColor": "color-mix(in oklab, var(--a26a5991-5a44-439c-8a25-1356a27b9467) 8%, transparent)",
+            "outlineOffset": "-1px",
+            "outlineStyle": "solid",
+            "outlineWidth": "1px",
+            "position": "absolute",
+            "right": "0px",
+            "top": "0px",
+            "width": "100%"
+           },
+           "blockId": "696c2731",
+           "blockName": "Photo",
+           "children": [],
+           "classes": [
+            "mq-photo"
+           ],
+           "customAttributes": {
+            "height": "1600",
+            "width": "2400"
+           },
+           "element": "img",
+           "mobileStyles": {},
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "element": "figure",
+         "mobileStyles": {},
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {
+          "backgroundColor": "var(--69e3ef10-97f2-414e-a7f6-f55bdaa707b5)",
+          "color": "var(--263b2467-4171-4ee6-9158-d9a0601e7f68)",
+          "paddingBottom": "96px",
+          "position": "relative"
+         },
+         "blockId": "4037751a",
+         "blockName": "Below",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {
+            "boxSizing": "border-box",
+            "columnGap": "32px",
+            "display": "grid",
+            "gridTemplateColumns": "repeat(12, minmax(0, 1fr))",
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "maxWidth": "1440px",
+            "minWidth": "0px",
+            "paddingLeft": "64px",
+            "paddingRight": "64px",
+            "width": "100%"
+           },
+           "blockId": "418177bb",
+           "blockName": "Place container",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {
+              "backgroundColor": "var(--69e3ef10-97f2-414e-a7f6-f55bdaa707b5)",
+              "borderImage": "linear-gradient(var(--69e3ef10-97f2-414e-a7f6-f55bdaa707b5), var(--69e3ef10-97f2-414e-a7f6-f55bdaa707b5)) 0 fill / 0 / 0 0 0 200rem",
+              "color": "var(--263b2467-4171-4ee6-9158-d9a0601e7f68)",
+              "columnGap": "32px",
+              "display": "grid",
+              "gridColumn": "1 / 10",
+              "gridTemplateColumns": "repeat(9, minmax(0, 1fr))",
+              "marginTop": "-144px",
+              "minWidth": "0px",
+              "paddingRight": "64px",
+              "paddingTop": "64px",
+              "position": "relative",
+              "rowGap": "40px",
+              "zIndex": "2"
+             },
+             "blockId": "103e741a",
+             "blockName": "Band",
+             "children": [
+              {
+               "attributes": {},
+               "baseStyles": {
+                "color": "var(--938d18c8-2902-46db-80b0-59cbba9b9bdf)",
+                "fontFamily": "var(--1cdc90e9-7301-4e69-9f71-c0b6975d11ee)",
+                "fontSize": "clamp(32px, 2.5vw + 16px, 56px)",
+                "fontWeight": "300",
+                "gridColumn": "1 / 4",
+                "letterSpacing": "-0.018em",
+                "lineHeight": "1.05",
+                "margin": "0px",
+                "maxWidth": "11ch",
+                "textWrap": "balance"
+               },
+               "blockId": "fbab9766",
+               "blockName": "Heading",
+               "children": [],
+               "classes": [
+                "mq-place-head"
+               ],
+               "customAttributes": {
+                "id": "place-head"
+               },
+               "element": "h2",
+               "innerHTML": "A workshop by the docks",
+               "mobileStyles": {},
+               "tabletStyles": {
+                "gridColumn": "1 / -1"
+               }
+              },
+              {
+               "attributes": {},
+               "baseStyles": {
+                "alignSelf": "end",
+                "gridColumn": "4 / -1",
+                "minWidth": "0px"
+               },
+               "blockId": "27250f50",
+               "blockName": "Facts",
+               "children": [
+                {
+                 "attributes": {},
+                 "baseStyles": {},
+                 "blockId": "8ea2c91d",
+                 "blockName": "Place facts",
+                 "children": [
+                  {
+                   "attributes": {},
+                   "baseStyles": {},
+                   "blockId": "a1fda23d",
+                   "children": [
+                    {
+                     "attributes": {},
+                     "baseStyles": {},
+                     "blockId": "257c4eae",
+                     "children": [
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "013a2b2d",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "d50f6e7e",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "maquette_facts",
+                         "mobileStyles": {},
+                         "referenceBlockId": "13894ff3",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_facts",
+                       "mobileStyles": {},
+                       "referenceBlockId": "2c805189",
+                       "tabletStyles": {}
+                      },
+                      {
+                       "attributes": {},
+                       "baseStyles": {},
+                       "blockId": "5b5cce12",
+                       "children": [
+                        {
+                         "attributes": {},
+                         "baseStyles": {},
+                         "blockId": "c039fc30",
+                         "children": [],
+                         "classes": [],
+                         "customAttributes": {},
+                         "isChildOfComponent": "maquette_facts",
+                         "mobileStyles": {},
+                         "referenceBlockId": "b380d913",
+                         "tabletStyles": {}
+                        }
+                       ],
+                       "classes": [],
+                       "customAttributes": {},
+                       "isChildOfComponent": "maquette_facts",
+                       "mobileStyles": {},
+                       "referenceBlockId": "31170fc8",
+                       "tabletStyles": {}
+                      }
+                     ],
+                     "classes": [],
+                     "customAttributes": {},
+                     "isChildOfComponent": "maquette_facts",
+                     "mobileStyles": {},
+                     "referenceBlockId": "008e9e29",
+                     "tabletStyles": {}
+                    }
+                   ],
+                   "classes": [],
+                   "customAttributes": {},
+                   "isChildOfComponent": "maquette_facts",
+                   "isRepeaterBlock": true,
+                   "mobileStyles": {},
+                   "referenceBlockId": "73ef01bb",
+                   "tabletStyles": {}
+                  }
+                 ],
+                 "classes": [],
+                 "customAttributes": {},
+                 "element": "div",
+                 "extendedFromComponent": "maquette_facts",
+                 "mobileStyles": {},
+                 "props": {
+                  "facts": {
+                   "comesFrom": null,
+                   "isDynamic": false,
+                   "isPassedDown": true,
+                   "isStandard": true,
+                   "label": "Facts (Label | Value)",
+                   "propOptions": {
+                    "dependencies": {},
+                    "isRequired": false,
+                    "options": {
+                     "defaultValue": [
+                      "Client | Kwastlicht",
+                      "Role | The lamp and its app",
+                      "Team | Ilse, one engineer, one model-maker",
+                      "Shipped | October 2025"
+                     ]
+                    },
+                    "type": "array"
+                   },
+                   "value": "[\"Address | Unit 3, Tekenkaai 12, Ghent\", \"Visits | By appointment, Tuesday to Thursday\", \"Calls | By arrangement, after a first email\", \"Further away | Remote, with two visits to your\\u00a0factory\"]"
+                  },
+                  "layout": {
+                   "comesFrom": null,
+                   "isDynamic": false,
+                   "isPassedDown": true,
+                   "isStandard": true,
+                   "label": "Layout",
+                   "propOptions": {
+                    "dependencies": {},
+                    "isRequired": false,
+                    "options": {
+                     "defaultValue": "rows",
+                     "options": [
+                      "rows",
+                      "ledger",
+                      "stack",
+                      "ink",
+                      "cells"
+                     ]
+                    },
+                    "type": "select"
+                   },
+                   "value": "ink"
+                  }
+                 },
+                 "tabletStyles": {}
+                }
+               ],
+               "classes": [
+                "mq-place-facts"
+               ],
+               "customAttributes": {},
+               "element": "div",
+               "mobileStyles": {},
+               "tabletStyles": {
+                "gridColumn": "1 / -1"
+               }
+              }
+             ],
+             "classes": [],
+             "customAttributes": {},
+             "element": "div",
+             "mobileStyles": {
+              "paddingRight": "0px"
+             },
+             "tabletStyles": {
+              "gridColumn": "1 / -1",
+              "gridTemplateColumns": "minmax(0, 1fr)",
+              "marginTop": "-64px",
+              "paddingRight": "24px",
+              "paddingTop": "40px"
+             }
+            }
+           ],
+           "classes": [
+            "mq-wrap"
+           ],
+           "customAttributes": {},
+           "element": "div",
+           "mobileStyles": {
+            "columnGap": "16px",
+            "paddingLeft": "16px",
+            "paddingRight": "16px"
+           },
+           "tabletStyles": {
+            "paddingLeft": "24px",
+            "paddingRight": "24px"
+           }
+          }
+         ],
+         "classes": [
+          "mq-on-ink"
+         ],
+         "customAttributes": {},
+         "element": "div",
+         "mobileStyles": {},
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {
+        "aria-labelledby": "place-head"
+       },
+       "element": "section",
+       "mobileStyles": {
+        "marginTop": "72px"
+       },
+       "tabletStyles": {
+        "marginTop": "96px"
+       }
+      }
+     ],
+     "classes": [],
+     "customAttributes": {
+      "id": "main"
+     },
+     "element": "main",
+     "mobileStyles": {},
+     "tabletStyles": {}
+    },
+    {
+     "attributes": {},
+     "baseStyles": {},
+     "blockId": "5c44593c",
+     "blockName": "Footer",
+     "children": [
+      {
+       "attributes": {},
+       "baseStyles": {},
+       "blockId": "9969788a",
+       "children": [
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "11b9063c",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "81b8464e",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "8c0cfef2",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "9e2b2c10",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "c3a5cdca",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "677b5dda",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "maquette_footer",
+           "mobileStyles": {},
+           "referenceBlockId": "5c3e00ab",
+           "tabletStyles": {}
+          },
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "d011a100",
+           "children": [
+            {
+             "attributes": {},
+             "baseStyles": {},
+             "blockId": "cb1612db",
+             "children": [],
+             "classes": [],
+             "customAttributes": {},
+             "isChildOfComponent": "maquette_footer",
+             "mobileStyles": {},
+             "referenceBlockId": "04a8b72c",
+             "tabletStyles": {}
+            }
+           ],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "maquette_footer",
+           "mobileStyles": {},
+           "referenceBlockId": "69b09d4d",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "c06691d5",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "1150cba6",
+         "children": [
+          {
+           "attributes": {},
+           "baseStyles": {},
+           "blockId": "73fa1111",
+           "children": [],
+           "classes": [],
+           "customAttributes": {},
+           "isChildOfComponent": "maquette_footer",
+           "mobileStyles": {},
+           "referenceBlockId": "6fba365f",
+           "tabletStyles": {}
+          }
+         ],
+         "classes": [],
+         "customAttributes": {},
+         "isChildOfComponent": "maquette_footer",
+         "isRepeaterBlock": true,
+         "mobileStyles": {},
+         "referenceBlockId": "efdc2833",
+         "tabletStyles": {}
+        },
+        {
+         "attributes": {},
+         "baseStyles": {},
+         "blockId": "c87ace64",
+         "children": [],
+         "classes": [],
+         "customAttributes": {},
+         "innerHTML": "Sample photographs from <a href=\"https://unsplash.com\">Unsplash</a>, to be replaced with your own. © 2026 Ilse Marten",
+         "isChildOfComponent": "maquette_footer",
+         "mobileStyles": {},
+         "referenceBlockId": "173e4c30",
+         "tabletStyles": {}
+        }
+       ],
+       "classes": [],
+       "customAttributes": {},
+       "isChildOfComponent": "maquette_footer",
+       "mobileStyles": {},
+       "referenceBlockId": "ae86a792",
+       "tabletStyles": {}
+      }
+     ],
+     "classes": [],
+     "customAttributes": {},
+     "element": "footer",
+     "extendedFromComponent": "maquette_footer",
+     "mobileStyles": {},
+     "tabletStyles": {}
+    }
+   ],
+   "classes": [],
+   "customAttributes": {},
+   "element": "div",
+   "mobileStyles": {},
+   "originalElement": "body",
+   "tabletStyles": {}
+  }
+ ],
+ "client_scripts": [
+  {
+   "builder_script": "maquette_styles"
+  }
+ ],
+ "creation": "2026-11-18 01:11:13.379107",
+ "disable_indexing": 0,
+ "docstatus": 0,
+ "doctype": "Builder Page",
+ "draft_blocks": null,
+ "dynamic_route": 0,
+ "head_html": "",
+ "idx": 0,
+ "is_standard": 0,
+ "is_template": 1,
+ "meta_description": "Ilse Marten designs lamps, bottles and small household objects for small brands, and the apps that run them, from a workshop in Ghent.",
+ "modified": "2026-11-18 12:24:19.892085",
+ "modified_by": "Administrator",
+ "name": "maquette_home",
+ "owner": "Administrator",
+ "page_data_script": "",
+ "page_name": "maquette_home",
+ "page_title": "Ilse Marten | Product designer in Ghent",
+ "preview": "/builder_assets/maquette/maquette_home/preview.webp",
+ "project_folder": null,
+ "published": 0,
+ "published_at": null,
+ "route": "templates/maquette/home",
+ "staging": 0,
+ "template_group": "maquette"
+}
